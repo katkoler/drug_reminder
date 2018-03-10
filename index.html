@@ -11,9 +11,11 @@
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
     <script src"ourscript.js"></script>
                     <script src="static/js/bootstrap.min.js"></script>  
-		<!--Title on tab bar-->
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Drug Reminder</title>
+    <!-- JS autocomplete file -->
+<script src="static/EasyAutocomplete-1.3.5/jquery.easy-autocomplete.min.js"></script> 
+    <!-- CSS autocomplete file -->
+<link rel="stylesheet" href="static/EasyAutocomplete-1.3.5/easy-autocomplete.min.css"> 
+	
 </head>
 
 <body>
@@ -32,7 +34,6 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
-            <li><a href="aboutus.html">About Us</a></li>
             <li><a href="#page1">Page 1</a></li>
 			<li><a href="#page2">Page 2</a></li>
           </ul>
@@ -54,7 +55,16 @@
       <br>
       <br>
       <center>
-        
+        <input id="basics"/>
+        <script type="text/javascript">
+          var options = {
+              data: ["blue", "green", "pink", "red", "yellow"]
+          };
+
+          $("#basics").easyAutocomplete(options);
+        </script>
+    
+          <!-- <script src="scripts/main.js"></script> -->
             
             
         </center>
