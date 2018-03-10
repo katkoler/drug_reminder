@@ -4,9 +4,9 @@
 
 <head>
 		<!--link to bootstrap-->
-		<link href="{{ url_for('static', filename='css/bootstrap.css') }}" rel='stylesheet'>
+		<link href="static/css/bootstrap.css" rel='stylesheet'>
 		<!--link to stylesheet-->
-		<link rel='stylesheet' type='text/css' href="{{ url_for('static',filename='css/stylesheet.css') }}">
+		<link rel='stylesheet' type='text/css' href="static/css/stylesheet.css">
     <!--link to jquery-->
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
     <script src"ourscript.js"></script>
@@ -51,10 +51,14 @@
 
 <!--Content-->
   
-    <h2 class="text-center"> Sign in </h2>
+    <h2 class="text-center"> Home </h2>
       <br>
       <br>
       <center>
+        <br>
+        <h3>Details</h3>
+ <!--Autocomplete form for drugs-->
+        <h4>Drug type</h4>
         <input id="basics"/>
         <script type="text/javascript">
           var options = {
@@ -62,13 +66,46 @@
           };
 
           $("#basics").easyAutocomplete(options);
+
         </script>
-    
-          <!-- <script src="scripts/main.js"></script> -->
-            
-            
+        <br>
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="dosage">Dosage</label>
+    <input type="text" id="dosage" name="dosage" placeholder="Dosage">
+
+    <label for="ration">Ration</label>
+    <input type="text" id="ration" name="ration" placeholder="Ration">
+
+    <label for="hour">Hours</label>
+    <select id="hour" name="hour">
+      <option value="one">1</option>
+      <option value="two">2</option>
+      <option value="three">3</option>
+      <option value="four">4</option>
+      <option value="five">5</option>
+      <option value="six">6</option>
+      <option value="seven">7</option>
+      <option value="eight">8</option>
+      <option value="nine">9</option>
+      <option value="ten">10</option>
+    </select>
+
+
+    <input type="submit" value="Submit">
+  </form>
+  </div>
+   
+                   
         </center>
-      <br><br>
+          <br>
+          <br>
 
 
   <!-- Lower Section -->
@@ -85,45 +122,11 @@
             </div>
           </section>
 
-            <!-- Section -->
-          <section class="container">
-            <div class="inner2">
-              
-                  <h3> </h3>
-                  <p>
-                  
-                  </p>
-
-                  <p>
-                    
-                  </p>
-                  
-                </div>
-                
-              </div>
-            </div>
-          </section>
-
-  
-  
-
-    <!--Social media buttons-->
-    <!-- icon library -->
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-          <!-- Buttons -->
-            <a href="#" class="fa fa-facebook"></a>
-            <a href="#" class="fa fa-twitter"></a>
+           
 
 
 
-
-
-
-
-
-   
+           
 
 
 </body>
