@@ -32,7 +32,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///C:\\Users\\me1kv\\Desktop\\dr
 db = SQLAlchemy(app)
 
 class Drug(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
+    id = db.Column(db.String(50), primary_key=True)
     name = db.Column(db.String(150), nullable=False)
     toxicity = db.Column(db.Text)
     group = db.Column(db.String(100))
@@ -54,3 +54,7 @@ drug_interaction = db.Table("drug_interaction",
     db.Column("drug_partner_id", db.Integer, db.ForeignKey("drug.id"), primary_key=True),
     db.Column("description", db.Text)
 )
+
+
+if __name__ == '__main__':
+    db.create_all()
