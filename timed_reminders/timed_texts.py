@@ -1,6 +1,5 @@
 
 import os
-
 import nexmo
 import config #need your config file 
 
