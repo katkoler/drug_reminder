@@ -1,46 +1,50 @@
 <!DOCTYPE html>
 
 <html>
-
 <head>
-		<!--link to bootstrap-->
-			<!-- '../'' is to direct it to look back to main-->
+	<!--link to bootstrap-->
+		<!-- '../'' is to direct it to look back to main-->
 		<link href="../static/css/bootstrap.css" rel='stylesheet'>
-		<!--link to stylesheet-->
+	<!--link to stylesheet-->
 		<link rel='stylesheet' type='text/css' href="../static/css/stylesheet.css">
-    <!--link to jquery-->
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-    <script src"ourscript.js"></script>
-                    <script src="static/js/bootstrap.min.js"></script>  
+	<!--link to jquery-->
+    	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+   		<script src"ourscript.js"></script>
+    	<script src="static/js/bootstrap.min.js"></script>  
+    <!--Title on tab bar-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- JS autocomplete file -->
-<script src="../static/EasyAutocomplete-1.3.5/jquery.easy-autocomplete.min.js"></script> 
+		<script src="../static/EasyAutocomplete-1.3.5/jquery.easy-autocomplete.min.js"></script> 
     <!-- CSS autocomplete file -->
-<link rel="stylesheet" href="../static/EasyAutocomplete-1.3.5/easy-autocomplete.min.css"> 
+		<link rel="stylesheet" href="../static/EasyAutocomplete-1.3.5/easy-autocomplete.min.css"> 
+	<!--Glyphicon-->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+   		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+   	 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	
 </head>
 
 <body>
-
-<nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-         
-        </div>
-        <div id="navbar" class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#page1">Page 1</a></li>
-			<li><a href="#page2">Page 2</a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
-    </nav>
+	
+<!--Navbar-->
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">DRS</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Page 1</a></li>
+      <li><a href="#">Page 2</a>
+      </li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> User Login</a></li>
+    </ul>
+  </div>
+</nav>
 
 
 <!--header-->
@@ -53,10 +57,8 @@
 <!--Content-->
   
     <h2 class="text-center"> Details </h2>
-      <br>
+    	<br>
       <center>
-        <br>
-
  <!--Autocomplete form for drugs-->
         <h4>Drug type</h4>
         <input id="basics"/>
@@ -72,16 +74,19 @@
 <div class="container">
   <form action="/action_page.php">
     <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+    <input type="text" id="fname" name="firstname" placeholder="Name..">
 
     <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+    <input type="text" id="lname" name="lastname" placeholder="Last name..">
+
+    <label for="phone">Contact Number</label>
+    <input type="text" id="phone" name="phone" placeholder="Contact number...">
 
     <label for="dosage">Dosage</label>
-    <input type="text" id="dosage" name="dosage" placeholder="Dosage">
+    <input type="text" id="dosage" name="dosage" placeholder="Dosage...">
 
     <label for="ration">Ration</label>
-    <input type="text" id="ration" name="ration" placeholder="Ration">
+    <input type="text" id="ration" name="ration" placeholder="Ration...">
 
     <label for="hour">Hours</label>
     <select id="hour" name="hour">
@@ -113,7 +118,7 @@
             <div class="inner">
               <!-- 2 Columns -->
                   <div class="col col2">
-                    <h2 class="text-center"> About the site </h2> 
+                    <h3 class="text-center"> About the site </h3> 
                     <p> </p>
                     <p> </p>
                     <a href="#" class="button">Learn More</a>
