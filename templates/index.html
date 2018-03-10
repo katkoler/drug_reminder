@@ -4,17 +4,18 @@
 
 <head>
 		<!--link to bootstrap-->
-		<link href="static/css/bootstrap.css" rel='stylesheet'>
+			<!-- '../'' is to direct it to look back to main-->
+		<link href="../static/css/bootstrap.css" rel='stylesheet'>
 		<!--link to stylesheet-->
-		<link rel='stylesheet' type='text/css' href="static/css/stylesheet.css">
+		<link rel='stylesheet' type='text/css' href="../static/css/stylesheet.css">
     <!--link to jquery-->
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
     <script src"ourscript.js"></script>
                     <script src="static/js/bootstrap.min.js"></script>  
     <!-- JS autocomplete file -->
-<script src="static/EasyAutocomplete-1.3.5/jquery.easy-autocomplete.min.js"></script> 
+<script src="../static/EasyAutocomplete-1.3.5/jquery.easy-autocomplete.min.js"></script> 
     <!-- CSS autocomplete file -->
-<link rel="stylesheet" href="static/EasyAutocomplete-1.3.5/easy-autocomplete.min.css"> 
+<link rel="stylesheet" href="../static/EasyAutocomplete-1.3.5/easy-autocomplete.min.css"> 
 	
 </head>
 
@@ -51,12 +52,11 @@
 
 <!--Content-->
   
-    <h2 class="text-center"> Home </h2>
-      <br>
+    <h2 class="text-center"> Details </h2>
       <br>
       <center>
         <br>
-        <h3>Details</h3>
+
  <!--Autocomplete form for drugs-->
         <h4>Drug type</h4>
         <input id="basics"/>
@@ -68,7 +68,7 @@
           $("#basics").easyAutocomplete(options);
 
         </script>
-        <br>
+        <br> <br>
 <div class="container">
   <form action="/action_page.php">
     <label for="fname">First Name</label>
