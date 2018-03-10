@@ -1,0 +1,843 @@
+<drug type="small molecule" created="2016-10-20" updated="2017-03-08">
+  <drugbank-id primary="true">DB11921</drugbank-id>
+  <name>Deflazacort</name>
+  <description>Deflazacort is a glucocorticoid used as an anti-inflammatory and immunosuppressant. It was approved in February, 2017 by the FDA for use in treatment of Duchenne muscular dystrophy (trade name Emflaza).</description>
+  <cas-number>14484-47-0</cas-number>
+  <unii>KR5YZ6AE4B</unii>
+  <average-mass>441.524</average-mass>
+  <monoisotopic-mass>441.215137722</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>7494809</pubmed-id>
+        <citation>Mollmann H, Hochhaus G, Rohatagi S, Barth J, Derendorf H: Pharmacokinetic/pharmacodynamic evaluation of deflazacort in comparison to methylprednisolone and prednisolone. Pharm Res. 1995 Jul;12(7):1096-100.</citation>
+      </article>
+      <article>
+        <pubmed-id>19882026</pubmed-id>
+        <citation>Nayak S, Acharjya B: Deflazacort versus other glucocorticoids: a comparison. Indian J Dermatol. 2008;53(4):167-70. doi: 10.4103/0019-5154.44786.</citation>
+      </article>
+      <article>
+        <pubmed-id>25212041</pubmed-id>
+        <citation>Ding W, Ding L, Li WB, Pan H, Lin HD: [Pharmacokinetics of deflazacort tablets in healthy Chinese volunteers]. Yao Xue Xue Bao. 2014 Jun;49(6):921-6.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>FDA label</title>
+        <url>http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208684s000,208685s000lbl.pdf</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication> is a corticosteroid indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients 5 years of age and older</indication>
+  <pharmacodynamics> Clinical studies have indicated that the average potency ratio of deflazacort to prednisolone is 0.69–0.89 and 6 mg of deflazacort is equivalent to 5 mg of prednisolone. However, the therapeutic dosage ratio has been reported to range from 1:1.2 to 1:1.5&#13;
+Due to the short pharmacokinetic half-life of its active metabolite, pharmacodynamic effects of deflazacort are of shorter duration than those of methylprednisolone and prednisolone.</pharmacodynamics>
+  <mechanism-of-action>Deflazacort is a corticosteroid prodrug, whose active metabolite, 21-desDFZ, acts through the glucocorticoid receptor to exert anti-inflammatory and immunosuppressive effects. The precise mechanism by which deflazacort exerts its therapeutic effects in patients with DMD is unknown. </mechanism-of-action>
+  <toxicity>The LD50 for the oral dose is greater than 4000 mg/kg in laboratory animals.</toxicity>
+  <metabolism>Deflazacort is rapidly converted to the active metabolite 21-desDFZ by esterases after oral administration. 21-desDFZ is further metabolized by CYP3A4 to several other inactive metabolites. </metabolism>
+  <absorption>After oral administration in the fasted state, the median Tmax with deflazacort tablets or suspension is about 1 hour (range 0.25 to 2 hours).&#13;
+Food Effect: Co-administration of deflazacort tablets with a high-fat meal reduced Cmax by about 30% and delayed Tmax by one hour, relative to administration under fasting conditions, but there was no effect on the overall systemic absorption as measured by AUC. The administration of deflazacort with food or crushed in applesauce did not affect the absorption and bioavailability of deflazacort. &#13;
+Research findings: The pharmacokinetic parameters of 21-OH DFZ after the single oral administration of 6 mg, 12 mg and 24 mg DFZ tablets were as follows: (37.7 +/- 11.6), (61.5 +/- 17.7) and (123 +/- 23) ng x mL(-1) for C(max); (1.90 +/- 0.32), (1.96 +/- 0.27) and (2.13 +/- 0.34) h for t1/2; (96.6 +/- 25.9), (190 +/- 44) and (422 +/- 107) ng x h x mL(-1) for AUC(0-14 h), respectively. After the multiple dose administration, the mean plasma concentration at steady-state C(av) was (7.00 +/- 1.66) ng x mL(-1) and the degree of plasma concentration fluctuation DF was 7.7 +/- 1.2. </absorption>
+  <half-life>half-life is 1.1 to 1.9 h</half-life>
+  <protein-binding>The protein binding of the active metabolite of deflazacort is about 40%. </protein-binding>
+  <route-of-elimination>Urinary excretion is the predominant route of deflazacort elimination (about 68% of the dose), and the elimination is almost completed by 24 hours post dose. 21-desDFZ accounts for 18% of the eliminated drug in the urine. </route-of-elimination>
+  <volume-of-distribution>Not available</volume-of-distribution>
+  <clearance>Not available</clearance>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as gluco/mineralocorticoids, progestogins and derivatives. These are steroids with a structure based on a hydroxylated prostane moiety.</description>
+    <direct-parent>Gluco/mineralocorticoids, progestogins and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Lipids and lipid-like molecules</superclass>
+    <class>Steroids and steroid derivatives</class>
+    <subclass>Pregnane steroids</subclass>
+    <alternative-parent>11-beta-hydroxysteroids</alternative-parent>
+    <alternative-parent>20-oxosteroids</alternative-parent>
+    <alternative-parent>3-oxo delta-1,4-steroids</alternative-parent>
+    <alternative-parent>Acetate salts</alternative-parent>
+    <alternative-parent>Alpha-acyloxy ketones</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Carboxylic acid esters</alternative-parent>
+    <alternative-parent>Cyclic alcohols and derivatives</alternative-parent>
+    <alternative-parent>Cyclic ketones</alternative-parent>
+    <alternative-parent>Delta-1,4-steroids</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Imidoesters</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organonitrogen compounds</alternative-parent>
+    <alternative-parent>Oxacyclic compounds</alternative-parent>
+    <alternative-parent>Oxazolines</alternative-parent>
+    <alternative-parent>Propargyl-type 1,3-dipolar organic compounds</alternative-parent>
+    <alternative-parent>Secondary alcohols</alternative-parent>
+    <substituent>11-beta-hydroxysteroid</substituent>
+    <substituent>11-hydroxysteroid</substituent>
+    <substituent>20-oxosteroid</substituent>
+    <substituent>3-oxo-delta-1,4-steroid</substituent>
+    <substituent>3-oxosteroid</substituent>
+    <substituent>Acetate salt</substituent>
+    <substituent>Alcohol</substituent>
+    <substituent>Aliphatic heteropolycyclic compound</substituent>
+    <substituent>Alpha-acyloxy ketone</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Carboxylic acid ester</substituent>
+    <substituent>Cyclic alcohol</substituent>
+    <substituent>Cyclic ketone</substituent>
+    <substituent>Delta-1,4-steroid</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Hydroxysteroid</substituent>
+    <substituent>Imido ester</substituent>
+    <substituent>Ketone</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>Organic 1,3-dipolar compound</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organoheterocyclic compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Oxacycle</substituent>
+    <substituent>Oxazoline</substituent>
+    <substituent>Oxosteroid</substituent>
+    <substituent>Progestogin-skeleton</substituent>
+    <substituent>Propargyl-type 1,3-dipolar organic compound</substituent>
+    <substituent>Secondary alcohol</substituent>
+  </classification>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Emflaza</name>
+      <labeller>Marathon Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>42998-501</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2017-02-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength>6 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA208684</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Emflaza</name>
+      <labeller>Marathon Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>42998-502</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2017-02-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength>18 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA208684</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Emflaza</name>
+      <labeller>Marathon Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>42998-503</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2017-02-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength>30 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA208684</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Emflaza</name>
+      <labeller>Marathon Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>42998-504</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2017-02-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength>36 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA208684</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Emflaza</name>
+      <labeller>Marathon Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>42998-505</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2017-02-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength>22.75 mg/mL</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA208685</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Calcort</name>
+      <company>Shire</company>
+    </international-brand>
+    <international-brand>
+      <name>Cortax</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Decortil</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Deflanil</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>MOAID</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Xalcort</name>
+      <company>Beacon Pharmaceuticals Limited</company>
+    </international-brand>
+    <international-brand>
+      <name>Zamen</name>
+      <company/>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Emflaza</name>
+      <ingredients>Deflazacort</ingredients>
+    </mixture>
+    <mixture>
+      <name>Emflaza</name>
+      <ingredients>Deflazacort</ingredients>
+    </mixture>
+    <mixture>
+      <name>Emflaza</name>
+      <ingredients>Deflazacort</ingredients>
+    </mixture>
+    <mixture>
+      <name>Emflaza</name>
+      <ingredients>Deflazacort</ingredients>
+    </mixture>
+    <mixture>
+      <name>Emflaza</name>
+      <ingredients>Deflazacort</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Anti-Inflammatory Agents</category>
+      <mesh-id>D000893</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Corticosteroids for Systemic Use</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Corticosteroids for Systemic Use, Plain</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP3A4 Substrates</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Glucocorticoids</category>
+      <mesh-id>D005938</mesh-id>
+    </category>
+    <category>
+      <category>Immunologic Factors</category>
+      <mesh-id>D007155</mesh-id>
+    </category>
+    <category>
+      <category>Immunosuppressive Agents</category>
+      <mesh-id>D007166</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Compounds</category>
+      <mesh-id>D011083</mesh-id>
+    </category>
+    <category>
+      <category>Pregnanes</category>
+      <mesh-id>D011278</mesh-id>
+    </category>
+    <category>
+      <category>Pregnenes</category>
+      <mesh-id>D011283</mesh-id>
+    </category>
+    <category>
+      <category>Steroids</category>
+      <mesh-id>D013256</mesh-id>
+    </category>
+    <category>
+      <category>Systemic Hormonal Preparations, Excl. Sex Hormones and Insulins</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Suspension</form>
+      <route>Oral</route>
+      <strength>22.75 mg/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>18 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>30 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>36 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>6 mg/1</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="H02AB13">
+      <level code="H02AB">Glucocorticoids</level>
+      <level code="H02A">CORTICOSTEROIDS FOR SYSTEMIC USE, PLAIN</level>
+      <level code="H02">CORTICOSTEROIDS FOR SYSTEMIC USE</level>
+      <level code="H">SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>2.56</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-4.4</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.75e-02 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>1.8</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>2-[(1S,2S,4R,8S,9S,11S,12S,13R)-11-hydroxy-6,9,13-trimethyl-16-oxo-5-oxa-7-azapentacyclo[10.8.0.0²,⁹.0⁴,⁸.0¹³,¹⁸]icosa-6,14,17-trien-8-yl]-2-oxoethyl acetate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>deflazacort</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>441.524</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>441.215137722</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[H][C@@]12C[C@@]3([H])[C@]4([H])CCC5=CC(=O)C=C[C@]5(C)[C@@]4([H])[C@@]([H])(O)C[C@]3(C)[C@@]1(N=C(C)O2)C(=O)COC(C)=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C25H31NO6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C25H31NO6/c1-13-26-25(20(30)12-31-14(2)27)21(32-13)10-18-17-6-5-15-9-16(28)7-8-23(15,3)22(17)19(29)11-24(18,25)4/h7-9,17-19,21-22,29H,5-6,10-12H2,1-4H3/t17-,18-,19-,21+,22+,23-,24-,25+/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>FBHSPRKOSMHSIF-GRMWVWQJSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>102.26</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>117.12</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>46.79</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>14.74</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>0.48</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D03671</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Deflazacort</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201891</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0002638</id>
+      <name>Cytochrome P450 3A4</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P08684" source="Swiss-Prot">
+    <name>Cytochrome P450 3A4</name>
+    <general-function>Vitamin d3 25-hydroxylase activity</general-function>
+    <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It performs a variety of oxidation reactions (e.g. caffeine 8-oxidation, omeprazole sulphoxidation, midazolam 1'-hydroxylation and midazolam 4-hydroxylation) of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. Acts as a 1,8-cineole 2-exo-monooxygenase. The enzyme also hydroxylates etoposide (PubMed:11159812). Catalyzes 4-beta-hydroxylation of cholesterol. May catalyze 25-hydroxylation of cholesterol in vitro (PubMed:21576599).</specific-function>
+    <gene-name>CYP3A4</gene-name>
+    <locus>7q21.1</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions>2-22</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>8.25</theoretical-pi>
+    <molecular-weight>57342.67</molecular-weight>
+    <chromosome-location>7</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2637</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP3A4</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M18907</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1337</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P08684</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP3A4_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1,8-cineole 2-exo-monooxygenase</synonym>
+      <synonym>1.14.13.-</synonym>
+      <synonym>Albendazole monooxygenase</synonym>
+      <synonym>Albendazole sulfoxidase</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYP3A3</synonym>
+      <synonym>CYPIIIA3</synonym>
+      <synonym>CYPIIIA4</synonym>
+      <synonym>Cytochrome P450 3A3</synonym>
+      <synonym>Cytochrome P450 HLp</synonym>
+      <synonym>Cytochrome P450 NF-25</synonym>
+      <synonym>Cytochrome P450-PCN1</synonym>
+      <synonym>Nifedipine oxidase</synonym>
+      <synonym>Quinine 3-monooxygenase</synonym>
+      <synonym>Taurochenodeoxycholate 6-alpha-hydroxylase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0021936|Cytochrome P450 3A4
+MALIPDLAMETWLLLAVSLVLLYLYGTHSHGLFKKLGIPGPTPLPFLGNILSYHKGFCMF
+DMECHKKYGKVWGFYDGQQPVLAITDPDMIKTVLVKECYSVFTNRRPFGPVGFMKSAISI
+AEDEEWKRLRSLLSPTFTSGKLKEMVPIIAQYGDVLVRNLRREAETGKPVTLKDVFGAYS
+MDVITSTSFGVNIDSLNNPQDPFVENTKKLLRFDFLDPFFLSITVFPFLIPILEVLNICV
+FPREVTNFLRKSVKRMKESRLEDTQKHRVDFLQLMIDSQNSKETESHKALSDLELVAQSI
+IFIFAGYETTSSVLSFIMYELATHPDVQQKLQEEIDAVLPNKAPPTYDTVLQMEYLDMVV
+NETLRLFPIAMRLERVCKKDVEINGMFIPKGVVVMIPSYALHRDPKYWTEPEKFLPERFS
+KKNKDNIDPYIYTPFGSGPRNCIGMRFALMNMKLALIRVLQNFSFKPCKETQIPLKLSLG
+GLLQPEKPVVLKVESRDGTVSGA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0021937|Cytochrome P450 3A4 (CYP3A4)
+ATGGCTCTCATCCCAGACTTGGCCATGGAAACCTGGCTTCTCCTGGCTGTCAGCCTGGTG
+CTCCTCTATCTATATGGAACCCATTCACATGGACTTTTTAAGAAGCTTGGAATTCCAGGG
+CCCACACCTCTGCCTTTTTTGGGAAATATTTTGTCCTACCATAAGGGCTTTTGTATGTTT
+GACATGGAATGTCATAAAAAGTATGGAAAAGTGTGGGGCTTTTATGATGGTCAACAGCCT
+GTGCTGGCTATCACAGATCCTGACATGATCAAAACAGTGCTAGTGAAAGAATGTTATTCT
+GTCTTCACAAACCGGAGGCCTTTTGGTCCAGTGGGATTTATGAAAAGTGCCATCTCTATA
+GCTGAGGATGAAGAATGGAAGAGATTACGATCATTGCTGTCTCCAACCTTCACCAGTGGA
+AAACTCAAGGAGATGGTCCCTATCATTGCCCAGTATGGAGATGTGTTGGTGAGAAATCTG
+AGGCGGGAAGCAGAGACAGGCAAGCCTGTCACCTTGAAAGACGTCTTTGGGGCCTACAGC
+ATGGATGTGATCACTAGCACATCATTTGGAGTGAACATCGACTCTCTCAACAATCCACAA
+GACCCCTTTGTGGAAAACACCAAGAAGCTTTTAAGATTTGATTTTTTGGATCCATTCTTT
+CTCTCAATAATCTTTCCATTCCTCATCCCAATTCTTGAAGTATTAAATATCTGTGTGTTT
+CCAAGAGAAGTTACAAATTTTTTAAGAAAATCTGTAAAAAGGATGAAAGAAAGTCGCCTC
+GAAGATACACAAAAGCACCGAGTGGATTTCCTTCAGCTGATGATTGACTCTCAGAATTCA
+AAAGAAACTGAGTCCCACAAAGCTCTGTCCGATCTGGAGCTCGTGGCCCAATCAATTATC
+TTTATTTTTGCTGGCTATGAAACCACGAGCAGTGTTCTCTCCTTCATTATGTATGAACTG
+GCCACTCACCCTGATGTCCAGCAGAAACTGCAGGAGGAAATTGATGCAGTTTTACCCAAT
+AAGGCACCACCCACCTATGATACTGTGCTACAGATGGAGTATCTTGACATGGTGGTGAAT
+GAAACGCTCAGATTATTCCCAATTGCTATGAGACTTGAGAGGGTCTGCAAAAAAGATGTT
+GAGATCAATGGGATGTTCATTCCCAAAGGGGTGGTGGTGATGATTCCAAGCTATGCTCTT
+CACCGTGACCCAAAGTACTGGACAGAGCCTGAGAAGTTCCTCCCTGAAAGATTCAGCAAG
+AAGAACAAGGACAACATAGATCCTTACATATACACACCCTTTGGAAGTGGACCCAGAAAC
+TGCATTGGCATGAGGTTTGCTCTCATGAACATGAAACTTGCTCTAATCAGAGTCCTTCAG
+AACTTCTCCTTCAAACCTTGTAAAGAAACACAGATCCCCCTGAAATTAAGCTTAGGAGGA
+CTTCTTCAACCAGAAAAACCCGTTGTTCTAAAGGTTGAGTCAAGGGATGGCACCGTAAGT
+GGAGCCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>vitamin D 24-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enzyme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>testosterone 6-beta-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>vitamin D3 25-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>albendazole monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>caffeine oxidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>quinine 3-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>taurochenodeoxycholate 6alpha-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>androgen metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>calcitriol biosynthetic process from calciol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>vitamin D metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>lipid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heterocycle metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+    <enzyme position="2">
+      <id>BE0004740</id>
+      <name>Carboxylesterase</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q6LAP9" source="TrEMBL">
+    <name>Carboxylesterase</name>
+    <general-function>Carboxylic ester hydrolase activity</general-function>
+    <specific-function/>
+    <gene-name>CES1A1a</gene-name>
+    <locus/>
+    <cellular-location/>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>1908.25</molecular-weight>
+    <chromosome-location/>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q6LAP9</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>Q6LAP9_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Carboxylesterase 1A1</synonym>
+      <synonym>CES1A1</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0019626|Carboxylesterase
+MWLRAFILATLSASAAW</amino-acid-sequence>
+    <gene-sequence format="FASTA"/>
+    <pfams>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>function</category>
+        <description>carboxylic ester hydrolase activity</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

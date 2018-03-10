@@ -1,0 +1,123 @@
+<drug type="biotech" created="2016-11-02" updated="2017-03-24">
+  <drugbank-id primary="true">DB13140</drugbank-id>
+  <name>Bezlotoxumab</name>
+  <description>Bezlotoxumab is a human monoclonal antibody that binds to Clostridium difficile toxin B and neutralizes its effects.  Used to reduce the recurrence of Clostridium difficle infection in adults receiving antibiotic therapy to treat C. difficile infection and high risk of recurrence.</description>
+  <cas-number>1246264-45-8</cas-number>
+  <unii>4H5YMK1H2E</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>24821719</pubmed-id>
+        <citation>Orth P, Xiao L, Hernandez LD, Reichert P, Sheth PR, Beaumont M, Yang X, Murgolo N, Ermakov G, DiNunzio E, Racine F, Karczewski J, Secore S, Ingram RN, Mayhood T, Strickland C, Therien AG: Mechanism of action and epitopes of Clostridium difficile toxin B-neutralizing antibody bezlotoxumab revealed by X-ray crystallography. J Biol Chem. 2014 Jun 27;289(26):18008-21. doi: 10.1074/jbc.M114.560748. Epub 2014 May 12.</citation>
+      </article>
+      <article>
+        <pubmed-id>25385797</pubmed-id>
+        <citation>Zhang Z, Chen X, Hernandez LD, Lipari P, Flattery A, Chen SC, Kramer S, Polishook JD, Racine F, Cape H, Kelly CP, Therien AG: Toxin-mediated paracellular transport of antitoxin antibodies facilitates protection against Clostridium difficile infection. Infect Immun. 2015 Jan;83(1):405-16. doi: 10.1128/IAI.02550-14. Epub 2014 Nov 10.</citation>
+      </article>
+      <article>
+        <pubmed-id>11999172</pubmed-id>
+        <citation>Ghetie V, Ward ES: Transcytosis and catabolism of antibody. Immunol Res. 2002;25(2):97-113.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>FDA Monograph for Zinplava</title>
+        <url>http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/761046s000lbl.pdf</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Prevents recurrence of Clostridium difficile infection in people 18 years or older who are either currently receiving treatment for C. difficile infection or have a high risk of recurrence. </indication>
+  <pharmacodynamics>Bezlotoxumab binds to C.difficile toxin B, a virulence factor common to practically all C.difficile,  which prevents the bacteria from infecting host cells.  Bezlotoxumab binds two epitopes of toxin B, via two Fab regions, which partially blocks the carbohydrate binding pockets of the toxin resulting in the prevention of toxin B from binding to host cells.</pharmacodynamics>
+  <mechanism-of-action>A single molecule of bezlotoxumab neutralizes Toxin B by binding its two Fab regions to two epitopes within the N-terminal half of the Toxin B CROP domain, partially blocking the carbohydrate binding pockets of the toxin and preventing toxin binding to host cells.&#13;
+</mechanism-of-action>
+  <toxicity>No data available on overdosage. </toxicity>
+  <metabolism>Catabolism </metabolism>
+  <absorption>Not absorbed since give IV</absorption>
+  <half-life>19 Days </half-life>
+  <protein-binding>Binds to C.difficile virulence factor toxin B which prevents its action on host cells.&#13;
+</protein-binding>
+  <route-of-elimination>Catabolism</route-of-elimination>
+  <volume-of-distribution>7.33L</volume-of-distribution>
+  <clearance>0.317 L/day </clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Zinplava</name>
+      <labeller>Merck Sharp &amp; Dohme Limited
+ </labeller>
+      <ndc-id/>
+      <ndc-product-code>0006-3025</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-10-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>25 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA761046</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Zinplava</name>
+      <ingredients>Bezlotoxumab</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms>
+    <affected-organism>Peptoclostridium difficile</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>25 mg/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Bezlotoxumab</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

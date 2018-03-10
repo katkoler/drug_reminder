@@ -1,0 +1,3159 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-10">
+  <drugbank-id primary="true">DB09502</drugbank-id>
+  <name>Fludeoxyglucose F-18</name>
+  <description>Fludeoxyglucose F 18 Injection is a positron emitting radiopharmaceutical containing no-carrier added radioactive 2-deoxy-2-[18F]fluoro-D-g1ucose, which is used for diagnostic purposes in conjunction with Positron Emission Tomography (PET). It is administered by intravenous injection.</description>
+  <cas-number/>
+  <unii/>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>26159590</pubmed-id>
+        <citation>Tragardh M, Moller N, Sorensen M: Methodologic Considerations for Quantitative 18F-FDG PET/CT Studies of Hepatic Glucose Metabolism in Healthy Subjects. J Nucl Med. 2015 Sep;56(9):1366-71. doi: 10.2967/jnumed.115.154211. Epub 2015 Jul 9.</citation>
+      </article>
+      <article>
+        <pubmed-id>15883258</pubmed-id>
+        <citation>Mega MS, Dinov ID, Porter V, Chow G, Reback E, Davoodi P, O'Connor SM, Carter MF, Amezcua H, Cummings JL: Metabolic patterns associated with the clinical response to galantamine therapy: a fludeoxyglucose f 18 positron emission tomographic study. Arch Neurol. 2005 May;62(5):721-8.</citation>
+      </article>
+      <article>
+        <pubmed-id>7848128</pubmed-id>
+        <citation>Perani D, Bressi S, Testa D, Grassi F, Cortelli P, Gentrini S, Savoiardo M, Caraceni T, Fazio F: Clinical/metabolic correlations in multiple system atrophy. A fludeoxyglucose F 18 positron emission tomographic study. Arch Neurol. 1995 Feb;52(2):179-85.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>FDA Label</title>
+        <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2005/021870lbl.pdf</url>
+      </link>
+      <link>
+        <title>Wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Fludeoxyglucose_(18F)</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>The uptake of 18F-FDG by tissues is a marker for the tissue uptake of glucose, which in turn is closely correlated with certain types of tissue metabolism.&#13;
+Fludeoxyglucose F 18 Injection is indicated in positron emission tomography (PET) imaging for assessment of abnormal glucose metabolism to assist in the evaluation of malignancy in patients with known or suspected abnormalities found by other testing modalities, or in patients with an existing diagnoses of cancer. </indication>
+  <pharmacodynamics>Fludeoxyglucose F 18 Injection is rapidly distributed to all organs of the body after intravenous administration. After background clearance of Fludeoxyglucose F 18 Injection, optimal PET imaging is generally achieved between 30 to 40 minutes after administration.&#13;
+In cancer, the cells are generally characterized by enhanced glucose metabolism partially due to (1) an increase in the activity of glucose transporters, (2) an increased rate of phosphorylation activity, (3) a reduction of phosphatase activity or, (4) a dynamic alteration in the balance among all these&#13;
+processes. However, glucose metabolism of cancer as reflected by Fludeoxyglucose F 18 accumulation shows considerable variability. Depending on tumor type, stage, and location, Fludeoxyglucose F 18 accumulation may be increased, normal, or decreased. Also, inflammatory cells can have the same variability of uptake of Fludeoxyglucose F 18.&#13;
+In the heart, under normal aerobic conditions, the myocardium meets the bulk of its energy requirements by oxidizing free fatty acids. Most of the exogenous glucose taken up by the myocyte is converted into glycogen. However, under ischemic conditions, the oxidation of free fatty acids decreases, exogenous glucose becomes the preferred myocardial substrate, glycolysis is stimulated, and glucose taken up by the myocyte is metabolized immediately instead of being converted into glycogen. Under these conditions, phosphorylated Fludeoxyglucose F 18 accumulates in the myocyte and can be detected with PET imaging.&#13;
+Normally, the brain relies on anaerobic metabolism. In epilepsy, the glucose metabolism varies. Generally, during a seizure glucose metabolism increases. Interictally, the seizure focus tends to be hypometabolic.</pharmacodynamics>
+  <mechanism-of-action>Fludeoxyglucose F 18 is a glucose analog that concentrates in cells that rely upon glucose as an energy source, or in cells whose dependence on glucose increases under pathophysiological conditions. Fludeoxyglucose F 18 is transported through the cell membrane by facilitative glucose transporter proteins and is phosphorylated within the cell to [18F] FDG-6- phosphate by the enzyme hexokinase. Once phosphorylated it cannot exit until it is dephosphorylated by glucose-6-phosphatase. Therefore, within a given tissue or pathophysiological process, the retention and clearance of Fludeoxyglucose F 18 reflect a balance involving glucose transporter, hexokinase and glucose-6- phosphatase activities. When allowance is made for the kinetic differences between glucose and Fludeoxyglucose F 18 transport and phosphorylation (expressed as the “lumped constant” ratio), Fludeoxyglucose F 18 is used to assess glucose metabolism.&#13;
+In comparison to background activity of the specific organ or tissue type, regions of decreased or absent uptake of Fludeoxyglucose F 18 reflect the decrease or absence of glucose metabolism. Regions of increased uptake of Fludeoxyglucose F 18 reflect greater than normal rates of glucose metabolism. </mechanism-of-action>
+  <toxicity>Overdoses of Fludeoxyglucose F 18 Injection have not been reported. </toxicity>
+  <metabolism>Fludeoxyglucose F 18 is transported into cells and phosphorylated to [18F]-FDG-6-phosphate at a rate proportional to the rate of glucose utilization within that tissue. [18F]-FDG-6-phosphate presumably is metabolized to 2-deoxy-2-[18F] fluoro-6-phospho-Dmannose ([18F]FDM-6-phosphate).&#13;
+Fludeoxyglucose F 18 Injection may contain several impurities (e.g., 2-deoxy-2-chloro-D-glucose (ClDG)). Biodistribution and metabolism of C1DG are presumed to be similar to Fludeoxyglucose F 18 and would be expected to result in intracellular formation of 2-deoxy-2-chloro-6-phospho-D-glucose (C1DG-6-phosphate) and 2-deoxy-2-chloro-6-phospho-D-mannose (ClDM-6-phosphate). The phosphorylated deoxyglucose compounds are dephosphorylated and the resulting compounds (FDG, FDM, C1DG, and ClDM) presumably leave cells by passive diffusion. </metabolism>
+  <absorption>Fludeoxyglucose F 18 Injection is rapidly distributed to all organs of the body after intravenous administration.</absorption>
+  <half-life>10-13 minutes</half-life>
+  <protein-binding>The extent of binding of Fludeoxyglucose F 18 to plasma proteins is not known. </protein-binding>
+  <route-of-elimination>Fludeoxyglucose F 18 is cleared from most tissues within 24 hours and can be eliminated from the body unchanged in the urine.</route-of-elimination>
+  <volume-of-distribution>Fludeoxyglucose F 18 Injection is rapidly distributed to all organs of the body after intravenous administration.</volume-of-distribution>
+  <clearance>Fludeoxyglucose F 18 and related compounds are cleared from non-cardiac tissues within 3 to 24 hours after administration. Clearance from the cardiac tissue may require more than 96 hours</clearance>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>The University Of Utah Dba Cyclotron Radiochemistry Lab Huntsman Cancer Institute</labeller>
+      <ndc-id/>
+      <ndc-product-code>67939-010</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-11-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204498</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Washington University School Of Medicine</labeller>
+      <ndc-id/>
+      <ndc-product-code>75913-647</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-01-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203935</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Triad Isotopes, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>60055-334</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-11-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203920</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Mayo Clinic</labeller>
+      <ndc-id/>
+      <ndc-product-code>52670-551</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-08-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>240 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203612</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Hamamatsu/Queen?S Pet Imaging Center, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>76376-618</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-11-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>100 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203771</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Petnet Solutions, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>40028-511</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-07-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>200 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA079086</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Uihc P E T Imaging Center</labeller>
+      <ndc-id/>
+      <ndc-product-code>24417-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-12-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203990</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>University Of California, Los Angeles</labeller>
+      <ndc-id/>
+      <ndc-product-code>76394-3811</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-06-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>40 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203811</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Hot Shots Nm, Llc Dba Midwest Positron Technology, Lc</labeller>
+      <ndc-id/>
+      <ndc-product-code>76419-111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-08-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>500 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203937</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Global Isotopes, Llc D/B/A Zevacor Molecular</labeller>
+      <ndc-id/>
+      <ndc-product-code>69126-003</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>20 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204463</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Ncm Usa Bronx Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>24445-334</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-01-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204512</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Massachusetts General Hospital</labeller>
+      <ndc-id/>
+      <ndc-product-code>76318-334</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-10-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204333</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Centre For Probe Development And Commercialization</labeller>
+      <ndc-id/>
+      <ndc-product-code>21731-647</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-12-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204525</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Zevacor Pharma, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49609-101</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-12-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203591</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Spectron Mrc, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>13108-111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-04-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>500 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203911</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F 18</name>
+      <labeller>Children's Hospital Of Michigan</labeller>
+      <ndc-id/>
+      <ndc-product-code>76167-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-11-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204385</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F-18</name>
+      <labeller>Shertech Laboratories, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>16129-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2006-03-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204264</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F-18</name>
+      <labeller>Brigham And Women`s Hospital, Inc., The</labeller>
+      <ndc-id/>
+      <ndc-product-code>24450-647</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-10-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203816</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F-18</name>
+      <labeller>University Of North Dakota</labeller>
+      <ndc-id/>
+      <ndc-product-code>24468-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-09-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>500 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203994</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F-18</name>
+      <labeller>Precision Nuclear Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>52768-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-10-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>500 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204546</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F-18</name>
+      <labeller>Trustees Of The University Of Pennsylvania</labeller>
+      <ndc-id/>
+      <ndc-product-code>40098-101</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-10-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>200 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203801</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F-18</name>
+      <labeller>Cardinal Health 414, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>65857-100</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-11-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203603</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F-18</name>
+      <labeller>Lantheus Medical Imaging</labeller>
+      <ndc-id/>
+      <ndc-product-code>11994-015</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-02-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>200 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203664</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F18</name>
+      <labeller>University Of Texas Md Anderson Cancer Center</labeller>
+      <ndc-id/>
+      <ndc-product-code>60215-411</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-12-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203246</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F18</name>
+      <labeller>Ucsf Radiopharmaceutical Facility</labeller>
+      <ndc-id/>
+      <ndc-product-code>24275-0185</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-12-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203902</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F18</name>
+      <labeller>Cyclotron Partners Lp Dba Cyclotope</labeller>
+      <ndc-id/>
+      <ndc-product-code>47584-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-12-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>500 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203665</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F18</name>
+      <labeller>Wisconsin Medical Cyclotron, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>44338-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-12-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>500 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203709</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F18</name>
+      <labeller>The Regents of the University of Michigan</labeller>
+      <ndc-id/>
+      <ndc-product-code>76326-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-06-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204531</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F18</name>
+      <labeller>Mips Cyclotron &amp; Radiochemistry Facility</labeller>
+      <ndc-id/>
+      <ndc-product-code>69587-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-02-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204472</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F18</name>
+      <labeller>Biomedical Research Foundation Of Northwest Louisiana</labeller>
+      <ndc-id/>
+      <ndc-product-code>24562-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-05-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203710</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F18</name>
+      <labeller>Biomedical Research Foundation Of Northwest Louisiana</labeller>
+      <ndc-id/>
+      <ndc-product-code>24562-003</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-05-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203837</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F18</name>
+      <labeller>Essential Isotopes</labeller>
+      <ndc-id/>
+      <ndc-product-code>51760-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2005-08-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203946</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F18</name>
+      <labeller>Memorial Sloan Kettering Cancer Center</labeller>
+      <ndc-id/>
+      <ndc-product-code>69815-754</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-04-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA208679</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F18</name>
+      <labeller>Feinstein Institute For Medical Research</labeller>
+      <ndc-id/>
+      <ndc-product-code>13267-123</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2005-08-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>300 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA021870</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F18</name>
+      <labeller>Feinstein Institute For Medical Research</labeller>
+      <ndc-id/>
+      <ndc-product-code>13267-234</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2005-08-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>400 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA021870</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fludeoxyglucose F18</name>
+      <labeller>The Methodist Hospital Research Institute</labeller>
+      <ndc-id/>
+      <ndc-product-code>69864-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-04-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>.3 Ci/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203904</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Fludeoxyglucose F-18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F-18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F-18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F-18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F-18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F-18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F 18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F-18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fludeoxyglucose F18</name>
+      <ingredients>Fludeoxyglucose F-18</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>20 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>240 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>40 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>500 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>100 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>200 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>200 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>300 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>400 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>.3 Ci/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>300 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>500 mCi/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0001108</id>
+      <name>Hexokinase-1</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P19367" source="Swiss-Prot">
+    <name>Hexokinase-1</name>
+    <general-function>Mannokinase activity</general-function>
+    <specific-function/>
+    <gene-name>HK1</gene-name>
+    <locus>10q22</locus>
+    <cellular-location>Mitochondrion outer membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>6.78</theoretical-pi>
+    <molecular-weight>102485.1</molecular-weight>
+    <chromosome-location>10</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:4922</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>HK1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M75126</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>184021</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P19367</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>HXK1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>2.7.1.1</synonym>
+      <synonym>Brain form hexokinase</synonym>
+      <synonym>Hexokinase type I</synonym>
+      <synonym>HK I</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0002205|Hexokinase-1
+MIAAQLLAYYFTELKDDQVKKIDKYLYAMRLSDETLIDIMTRFRKEMKNGLSRDFNPTAT
+VKMLPTFVRSIPDGSEKGDFIALDLGGSSFRILRVQVNHEKNQNVHMESEVYDTPENIVH
+GSGSQLFDHVAECLGDFMEKRKIKDKKLPVGFTFSFPCQQSKIDEAILITWTKRFKASGV
+EGADVVKLLNKAIKKRGDYDANIVAVVNDTVGTMMTCGYDDQHCEVGLIIGTGTNACYME
+ELRHIDLVEGDEGRMCINTEWGAFGDDGSLEDIRTEFDREIDRGSLNPGKQLFEKMVSGM
+YLGELVRLILVKMAKEGLLFEGRITPELLTRGKFNTSDVSAIEKNKEGLHNAKEILTRLG
+VEPSDDDCVSVQHVCTIVSFRSANLVAATLGAILNRLRDNKGTPRLRTTVGVDGSLYKTH
+PQYSRRFHKTLRRLVPDSDVRFLLSESGSGKGAAMVTAVAYRLAEQHRQIEETLAHFHLT
+KDMLLEVKKRMRAEMELGLRKQTHNNAVVKMLPSFVRRTPDGTENGDFLALDLGGTNFRV
+LLVKIRSGKKRTVEMHNKIYAIPIEIMQGTGEELFDHIVSCISDFLDYMGIKGPRMPLGF
+TFSFPCQQTSLDAGILITWTKGFKATDCVGHDVVTLLRDAIKRREEFDLDVVAVVNDTVG
+TMMTCAYEEPTCEVGLIVGTGSNACYMEEMKNVEMVEGDQGQMCINMEWGAFGDNGCLDD
+IRTHYDRLVDEYSLNAGKQRYEKMISGMYLGEIVRNILIDFTKKGFLFRGQISETLKTRG
+IFETKFLSQIESDRLALLQVRAILQQLGLNSTCDDSILVKTVCGVVSRRAAQLCGAGMAA
+VVDKIRENRGLDRLNVTVGVDGTLYKLHPHFSRIMHQTVKELSPKCNVSFLLSEDGSGKG
+AALITAVGVRLRTEASS</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016317|Hexokinase-1 (HK1)
+ATGATCGCCGCGCAGCTCCTGGCCTATTACTTCACGGAGCTGAAGGATGACCAGGTCAAA
+AAGATTGACAAGTATCTCTATGCCATGCGGCTCTCCGATGAAACTCTCATAGATATCATG
+ACTCGCTTCAGGAAGGAGATGAAGAATGGCCTCTCCCGGGATTTTAATCCAACAGCCACA
+GTCAAGATGTTGCCAACATTCGTAAGGTCCATTCCTGATGGCTCTGAAAAGGGAGATTTC
+ATTGCCCTGGATCTTGGTGGGTCTTCCTTTCGAATTCTGCGGGTGCAAGTGAATCATGAG
+AAAAACCAGAATGTTCACATGGAGTCCGAGGTTTATGACACCCCAGAGAACATCGTGCAC
+GGCAGTGGAAGCCAGCTTTTTGATCATGTTGCTGAGTGCCTGGGAGATTTCATGGAGAAA
+AGGAAGATCAAGGACAAGAAGTTACCTGTGGGATTCACGTTTTCTTTTCCTTGCCAACAA
+TCCAAAATAGATGAGGCCATCCTGATCACCTGGACAAAGCGATTTAAAGCGAGCGGAGTG
+GAAGGAGCAGATGTGGTCAAACTGCTTAACAAAGCCATCAAAAAGCGAGGGGACTATGAT
+GCCAACATCGTAGCTGTGGTGAATGACACAGTGGGCACCATGATGACCTGTGGCTATGAC
+GACCAGCACTGTGAAGTCGGCCTGATCATCGGCACTGGCACCAATGCTTGCTACATGGAG
+GAACTGAGGCACATTGATCTGGTGGAAGGAGACGAGGGGAGGATGTGTATCAATACAGAA
+TGGGGAGCCTTTGGAGACGATGGATCATTAGAAGACATCCGGACAGAGTTTGACAGGGAG
+ATAGACCGGGGATCCCTCAACCCTGGAAAACAGCTGTTTGAGAAGATGGTCAGTGGCATG
+TACTTGGGAGAGCTGGTTCGACTGATCCTAGTCAAGATGGCCAAGGAGGGCCTCTTATTT
+GAAGGGCGGATCACCCCGGAGCTGCTCACCCGAGGGAAGTTTAACACCAGTGATGTGTCA
+GCCATCGAAAAGAATAAGGAAGGCCTCCACAATGCCAAAGAAATCCTGACCCGCCTGGGA
+GTGGAGCCGTCCGATGATGACTGTGTCTCAGTCCAGCACGTTTGCACCATTGTCTCATTT
+CGCTCAGCCAACTTGGTGGCTGCCACACTGGGCGCCATCTTGAACCGCCTGCGTGATAAC
+AAGGGCACACCCAGGCTGCGGACCACGGTTGGTGTCGACGGATCTCTTTACAAGACGCAC
+CCACAGTATTCCCGGCGTTTCCACAAGACTCTAAGGCGCTTGGTGCCAGACTCCGATGTG
+CGCTTCCTCCTCTCGGAGAGTGGCAGCGGCAAGGGGGCTGCCATGGTGACGGCGGTGGCC
+TACCGCTTGGCCGAGCAGCACCGGCAGATAGAGGAGACCCTGGCTCATTTCCACCTCACC
+AAGGACATGCTGCTGGAGGTGAAGAAGAGGATGCGGGCCGAGATGGAGCTGGGGCTGAGG
+AAGCAGACGCACAACAATGCCGTGGTTAAGATGCTGCCCTCCTTCGTCCGGAGAACTCCC
+GACGGGACCGAGAATGGTGACTTCTTGGCCCTGGATCTTGGAGGAACCAATTTCCGTGTG
+CTGCTGGTGAAAATCCGTAGTGGGAAAAAGAGAACGGTGGAAATGCACAACAAGATCTAC
+GCCATTCCTATTGAAATCATGCAGGGCACTGGGGAAGAGCTGTTTGATCACATTGTCTCC
+TGCATCTCTGACTTCTTGGACTACATGGGGATCAAAGGCCCCAGGATGCCTCTGGGCTTC
+ACGTTCTCATTTCCCTGCCAGCAGACGAGTCTGGACGCGGGAATCTTGATCACGTGGACA
+AAGGGTTTTAAGGCAACAGACTGCGTGGGCCACGATGTAGTCACCTTACTAAGGGATGCG
+ATAAAAAGGAGAGAGGAATTTGACCTGGACGTGGTGGCTGTGGTCAACGACACAGTGGGC
+ACCATGATGACCTGTGCTTATGAGGAGCCCACCTGTGAGGTTGGACTCATTGTTGGGACC
+GGCAGCAATGCCTGCTACATGGAGGAGATGAAGAACGTGGAGATGGTGGAGGGGGACCAG
+GGGCAGATGTGCATCAACATGGAGTGGGGGGCCTTTGGGGACAACGGGTGTCTGGATGAT
+ATCAGGACACACTACGACAGACTGGTGGACGAATATTCCCTAAATGCTGGGAAACAAAGG
+TATGAGAAGATGATCAGTGGTATGTACCTGGGTGAAATCGTCCGCAACATCTTAATCGAC
+TTCACCAAGAAGGGATTCCTCTTCCGAGGGCAGATCTCTGAGACGCTGAAGACCCGGGGC
+ATCTTTGAGACCAAGTTTCTCTCTCAGATCGAGAGTGACCGATTAGCACTGCTCCAGGTC
+CGGGCTATCCTCCAGCAGCTAGGTCTGAATAGCACCTGCGATGACAGTATCCTCGTCAAG
+ACAGTGTGCGGGGTGGTGTCCAGGAGGGCCGCACAGCTGTGTGGCGCAGGCATGGCTGCG
+GTTGTGGATAAGATCCGCGAGAACAGAGGACTGGACCGTCTGAATGTGACTGTGGGAGTG
+GACGGGACACTCTACAAGCTTCATCCACACTTCTCCAGAATCATGCACCAGACGGTGAAG
+GAACTGTCACCAAAATGTAACGTGTCCTTCCTCCTGTCTGAGGATGGCAGCGGCAAGGGG
+GCCGCCCTCATCACGGCCGTGGGCGTGCGGTTACGCACAGAGGCAAGCAGCTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00349</identifier>
+        <name>Hexokinase_1</name>
+      </pfam>
+      <pfam>
+        <identifier>PF03727</identifier>
+        <name>Hexokinase_2</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>mitochondrion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>mitochondrial outer membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucokinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>fructokinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucose binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>mannokinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATP binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>hexokinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hexose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose 6-phosphate metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>carbohydrate metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>establishment of protein localization to mitochondrion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>maintenance of protein location in mitochondrion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glycolytic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>canonical glycolysis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular glucose homeostasis</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters>
+    <transporter position="2">
+      <id>BE0000893</id>
+      <name>Solute carrier family 2, facilitated glucose transporter member 4</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P14672" source="Swiss-Prot">
+    <name>Solute carrier family 2, facilitated glucose transporter member 4</name>
+    <general-function>Glucose transmembrane transporter activity</general-function>
+    <specific-function>Insulin-regulated facilitative glucose transporter.</specific-function>
+    <gene-name>SLC2A4</gene-name>
+    <locus>17p13</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>25-45
+82-102
+112-132
+143-163
+172-192
+202-222
+288-308
+324-344
+354-374
+385-405
+418-438
+446-466</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>6.94</theoretical-pi>
+    <molecular-weight>54786.79</molecular-weight>
+    <chromosome-location>17</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:11009</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>SLC2A4</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M20747</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>307076</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P14672</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>GTR4_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Glucose transporter type 4, insulin-responsive</synonym>
+      <synonym>GLUT-4</synonym>
+      <synonym>GLUT4</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001780|Solute carrier family 2, facilitated glucose transporter member 4
+MPSGFQQIGSEDGEPPQQRVTGTLVLAVFSAVLGSLQFGYNIGVINAPQKVIEQSYNETW
+LGRQGPEGPSSIPPGTLTTLWALSVAIFSVGGMISSFLIGIISQWLGRKRAMLVNNVLAV
+LGGSLMGLANAAASYEMLILGRFLIGAYSGLTSGLVPMYVGEIAPTHLRGALGTLNQLAI
+VIGILIAQVLGLESLLGTASLWPLLLGLTVLPALLQLVLLPFCPESPRYLYIIQNLEGPA
+RKSLKRLTGWADVSGVLAELKDEKRKLERERPLSLLQLLGSRTHRQPLIIAVVLQLSQQL
+SGINAVFYYSTSIFETAGVGQPAYATIGAGVVNTVFTLVSVLLVERAGRRTLHLLGLAGM
+CGCAILMTVALLLLERVPAMSYVSIVAIFGFVAFFEIGPGPIPWFIVAELFSQGPRPAAM
+AVAGFSNWTSNFIIGMGFQYVAEAMGPYVFLLFAVLLLGFFIFTFLRVPETRGRTFDQIS
+AAFHRTPSLLEQEVKPSTELEYLGPDEND</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016243|Solute carrier family 2, facilitated glucose transporter member 4 (SLC2A4)
+ATGCCGTCGGGCTTCCAACAGATAGGCTCCGAAGATGGGGAACCCCCTCAGCAGCGAGTG
+ACTGGGACCCTGGTCCTTGCTGTGTTCTCTGCGGTGCTTGGCTCCCTGCAGTTTGGGTAC
+AACATTGGGGTCATCAATGCCCCTCAGAAGGTGATTGAACAGAGCTACAATGAGACGTGG
+CTGGGGAGGCAGGGGCCTGAGGGACCCAGCTCCATCCCTCCAGGCACCCTCACCACCCTC
+TGGGCCCTCTCCGTGGCCATCTTTTCCGTGGGCGGCATGATTTCCTCCTTCCTCATTGGT
+ATCATCTCTCAGTGGCTTGGAAGGAAAAGGGCCATGCTGGTCAACAATGTCCTGGCGGTG
+CTGGGGGGCAGCCTCATGGGCCTGGCCAATGCTGCTGCCTCCTATGAAATGCTCATCCTT
+GGACGATTCCTCATTGGCGCCTACTCAGGGCTGACATCAGGGCTGGTGCCCATGTACGTG
+GGGGAGATTGCTCCCACTCACCTGCGGGGCGCCCTGGGGACGCTCAACCAACTGGCCATT
+GTTATCGGCATTCTGATCGCCCAGGTGCTGGGCTTGGAGTCCCTCCTGGGCACTGCCAGC
+CTGTGGCCACTGCTCCTGGGCCTCACAGTGCTACCTGCCCTCCTGCAGCTGGTCCTGCTG
+CCCTTCTGTCCCGAGAGCCCCCGCTACCTCTACATCATCCAGAATCTCGAGGGGCCTGCC
+AGAAAGAGTCTGAAGCGCCTGACAGGCTGGGCCGATGTTTCTGGAGTGCTGGCTGAGCTG
+AAGGATGAGAAGCGGAAGCTGGAGCGTGAGCGGCCACTGTCCCTGCTCCAGCTCCTGGGC
+AGCCGTACCCACCGGCAGCCCCTGATCATTGCGGTCGTGCTGCAGCTGAGCCAGCAGCTC
+TCTGGCATCAATGCTGTTTTCTATTATTCGACCAGCATCTTCGAGACAGCAGGGGTAGGC
+CAGCCTGCCTATGCCACCATAGGAGCTGGTGTGGTCAACACAGTCTTCACCTTGGTCTCG
+GTGTTGTTGGTGGAGCGGGCGGGGCGCCGGACGCTCCATCTCCTGGGCCTGGCGGGCATG
+TGTGGCTGTGCCATCCTGATGACTGTGGCTCTGCTCCTGCTGGAGCGAGTTCCAGCCATG
+AGCTACGTCTCCATTGTGGCCATCTTTGGCTTCGTGGCATTTTTTGAGATTGGCCCTGGC
+CCCATTCCTTGGTTCATCGTGGCCGAGCTCTTCAGCCAGGGACCCCGCCCGGCAGCCATG
+GCTGTGGCTGGTTTCTCCAACTGGACGAGCAACTTCATCATTGGCATGGGTTTCCAGTAT
+GTTGCGGAGGCTATGGGGCCCTACGTCTTCCTTCTATTTGCGGTCCTCCTGCTGGGCTTC
+TTCATCTTCACCTTCTTAAGAGTACCTGAAACTCGAGGCCGGACGTTTGACCAGATCTCA
+GCTGCCTTCCACCGGACACCCTCTCTTTTAGAGCAGGAGGTGAAACCCAGCACAGAACTT
+GAGTATTTAGGGCCAGATGAGAACGACTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>trans-Golgi network transport vesicle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>T-tubule</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>vesicle membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>perinuclear region of cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>external side of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>multivesicular body</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>insulin-responsive compartment</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>coated pit</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>clathrin-coated vesicle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane raft</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endomembrane system</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucose transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>D-glucose transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hexose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to hypoxia</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>carbohydrate metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to ethanol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose homeostasis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>amylopectin biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>brown fat cell differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose import</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>membrane organization</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to osmotic stress</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to insulin stimulus</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="3">
+      <id>BE0001045</id>
+      <name>Solute carrier family 2, facilitated glucose transporter member 2</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P11168" source="Swiss-Prot">
+    <name>Solute carrier family 2, facilitated glucose transporter member 2</name>
+    <general-function>Hexose transmembrane transporter activity</general-function>
+    <specific-function>Facilitative glucose transporter. This isoform likely mediates the bidirectional transfer of glucose across the plasma membrane of hepatocytes and is responsible for uptake of glucose by the beta cells; may comprise part of the glucose-sensing mechanism of the beta cell. May also participate with the Na(+)/glucose cotransporter in the transcellular transport of glucose in the small intestine and kidney.</specific-function>
+    <gene-name>SLC2A2</gene-name>
+    <locus>3q26.1-q26.2</locus>
+    <cellular-location>Membrane</cellular-location>
+    <transmembrane-regions>11-31
+99-119
+128-148
+159-179
+188-208
+218-238
+304-324
+339-359
+369-389
+401-421
+434-454
+462-482</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>8.1</theoretical-pi>
+    <molecular-weight>57488.955</molecular-weight>
+    <chromosome-location>3</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:11006</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>SLC2A2</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>J03810</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>307125</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P11168</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>GTR2_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Glucose transporter type 2, liver</synonym>
+      <synonym>GLUT-2</synonym>
+      <synonym>GLUT2</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0002081|Solute carrier family 2, facilitated glucose transporter member 2
+MTEDKVTGTLVFTVITAVLGSFQFGYDIGVINAPQQVIISHYRHVLGVPLDDRKAINNYV
+INSTDELPTISYSMNPKPTPWAEEETVAAAQLITMLWSLSVSSFAVGGMTASFFGGWLGD
+TLGRIKAMLVANILSLVGALLMGFSKLGPSHILIIAGRSISGLYCGLISGLVPMYIGEIA
+PTALRGALGTFHQLAIVTGILISQIIGLEFILGNYDLWHILLGLSGVRAILQSLLLFFCP
+ESPRYLYIKLDEEVKAKQSLKRLRGYDDVTKDINEMRKEREEASSEQKVSIIQLFTNSSY
+RQPILVALMLHVAQQFSGINGIFYYSTSIFQTAGISKPVYATIGVGAVNMVFTAVSVFLV
+EKAGRRSLFLIGMSGMFVCAIFMSVGLVLLNKFSWMSYVSMIAIFLFVSFFEIGPGPIPW
+FMVAEFFSQGPRPAALAIAAFSNWTCNFIVALCFQYIADFCGPYVFFLFAGVLLAFTLFT
+FFKVPETKGKSFEEIAAEFQKKSGSAHRPKAAVEMKFLGATETV</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0020501|Solute carrier family 2, facilitated glucose transporter member 2 (SLC2A2)
+ATGACAGAAGATAAGGTCACTGGGACCCTGGTTTTCACTGTCATCACTGCTGTGCTGGGT
+TCCTTCCAGTTTGGATATGACATTGGTGTGATCAATGCACCTCAACAGGTAATAATATCT
+CACTATAGACATGTTTTGGGTGTTCCACTGGATGACCGAAAAGCTATCAACAACTATGTT
+ATCAACAGTACAGATGAACTGCCCACAATCTCATACTCAATGAACCCAAAACCAACCCCT
+TGGGCTGAGGAAGAGACTGTGGCAGCTGCTCAACTAATCACCATGCTCTGGTCCCTGTCT
+GTATCCAGCTTTGCAGTTGGTGGAATGACTGCATCATTCTTTGGTGGGTGGCTTGGGGAC
+ACACTTGGAAGAATCAAAGCCATGTTAGTAGCAAACATTCTGTCATTAGTTGGAGCTCTC
+TTGATGGGGTTTTCAAAATTGGGACCATCTCATATACTTATAATTGCTGGAAGAAGCATA
+TCAGGACTATATTGTGGGCTAATTTCAGGCCTGGTTCCTATGTATATCGGTGAAATTGCT
+CCAACCGCTCTCAGGGGAGCACTTGGCACTTTTCATCAGCTGGCCATCGTCACGGGCATT
+CTTATTAGTCAGATTATTGGTCTTGAATTTATCTTGGGCAATTATGATCTGTGGCACATC
+CTGCTTGGCCTGTCTGGTGTGCGAGCCATCCTTCAGTCTCTGCTACTCTTTTTCTGTCCA
+GAAAGCCCCAGATACCTTTACATCAAGTTAGATGAGGAAGTCAAAGCAAAACAAAGCTTG
+AAAAGACTCAGAGGATATGATGATGTCACCAAAGATATTAATGAAATGAGAAAAGAAAGA
+GAAGAAGCATCGAGTGAGCAGAAAGTCTCTATAATTCAGCTCTTCACCAATTCCAGCTAC
+CGACAGCCTATTCTAGTGGCACTGATGCTGCATGTGGCTCAGCAATTTTCCGGAATCAAT
+GGCATTTTTTACTACTCAACCAGCATTTTTCAGACGGCTGGTATCAGCAAACCTGTTTAT
+GCAACCATTGGAGTTGGCGCTGTAAACATGGTTTTCACTGCTGTCTCTGTATTCCTTGTG
+GAGAAGGCAGGGCGACGTTCTCTCTTTCTAATTGGAATGAGTGGGATGTTTGTTTGTGCC
+ATCTTCATGTCAGTGGGACTTGTGCTGCTGAATAAGTTCTCTTGGATGAGTTATGTGAGC
+ATGATAGCCATCTTCCTCTTTGTCAGCTTCTTTGAAATTGGGCCAGGCCCGATCCCCTGG
+TTCATGGTGGCTGAGTTTTTCAGTCAAGGACCACGTCCTGCTGCTTTAGCAATAGCTGCA
+TTCAGCAATTGGACCTGCAATTTCATTGTAGCTCTGTGTTTCCAGTACATTGCGGACTTC
+TGTGGACCTTATGTGTTTTTCCTCTTTGCTGGAGTGCTCCTGGCCTTTACCCTGTTCACA
+TTTTTTAAAGTTCCAGAAACCAAAGGAAAGTCTTTTGAGGAAATTGCTGCAGAATTCCAA
+AAGAAGAGTGGCTCAGCCCACAGGCCAAAAGCTGCTGTAGAAATGAAATTCCTAGGAGCT
+ACAGAGACTGTGTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>basolateral plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>brush border membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell-cell junction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucose transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>D-glucose transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>dehydroascorbic acid transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>hexose transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to glucose</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to peptide hormone</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>carbohydrate utilization</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>fructose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>energy reserve metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hexose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of insulin secretion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hexose transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>carbohydrate metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>endocrine pancreas development</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="4">
+      <id>BE0001057</id>
+      <name>Solute carrier family 2, facilitated glucose transporter member 1</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P11166" source="Swiss-Prot">
+    <name>Solute carrier family 2, facilitated glucose transporter member 1</name>
+    <general-function>Xenobiotic transporter activity</general-function>
+    <specific-function>Facilitative glucose transporter. This isoform may be responsible for constitutive or basal glucose uptake. Has a very broad substrate specificity; can transport a wide range of aldoses including both pentoses and hexoses.</specific-function>
+    <gene-name>SLC2A1</gene-name>
+    <locus>1p35-p31.3</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>12-33
+67-87
+91-112
+121-144
+156-176
+186-206
+272-293
+307-328
+335-355
+366-388
+402-422
+430-450</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>8.91</theoretical-pi>
+    <molecular-weight>54083.325</molecular-weight>
+    <chromosome-location>1</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:11005</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>SLC2A1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>K03195</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>183303</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P11166</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>GTR1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Glucose transporter type 1, erythrocyte/brain</synonym>
+      <synonym>GLUT-1</synonym>
+      <synonym>GLUT1</synonym>
+      <synonym>HepG2 glucose transporter</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016298|Solute carrier family 2, facilitated glucose transporter member 1
+MEPSSKKLTGRLMLAVGGAVLGSLQFGYNTGVINAPQKVIEEFYNQTWVHRYGESILPTT
+LTTLWSLSVAIFSVGGMIGSFSVGLFVNRFGRRNSMLMMNLLAFVSAVLMGFSKLGKSFE
+MLILGRFIIGVYCGLTTGFVPMYVGEVSPTALRGALGTLHQLGIVVGILIAQVFGLDSIM
+GNKDLWPLLLSIIFIPALLQCIVLPFCPESPRFLLINRNEENRAKSVLKKLRGTADVTHD
+LQEMKEESRQMMREKKVTILELFRSPAYRQPILIAVVLQLSQQLSGINAVFYYSTSIFEK
+AGVQQPVYATIGSGIVNTAFTVVSLFVVERAGRRTLHLIGLAGMAGCAILMTIALALLEQ
+LPWMSYLSIVAIFGFVAFFEVGPGPIPWFIVAELFSQGPRPAAIAVAGFSNWTSNFIVGM
+CFQYVEQLCGPYVFIIFTVLLVLFFIFTYFKVPETKGRTFDEIASGFRQGGASQSDKTPE
+ELFHPLGADSQV</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016299|Solute carrier family 2, facilitated glucose transporter member 1 (SLC2A1)
+ATGGAGCCCAGCAGCAAGAAGCTGACGGGTCGCCTCATGCTGGCCGTGGGAGGAGCAGTG
+CTTGGCTCCCTGCAGTTTGGCTACAACACTGGAGTCATCAATGCCCCCCAGAAGGTGATC
+GAGGAGTTCTACAACCAGACATGGGTCCACCGCTATGGGGAGAGCATCCTGCCCACCACG
+CTCACCACGCTCTGGTCCCTCTCAGTGGCCATCTTTTCTGTTGGGGGCATGATTGGCTCC
+TTCTCTGTGGGCCTTTTCGTTAACCGCTTTGGCCGGCGGAATTCAATGCTGATGATGAAC
+CTGCTGGCCTTCGTGTCCGCCGTGCTCATGGGCTTCTCGAAACTGGGCAAGTCCTTTGAG
+ATGCTGATCCTGGGCCGCTTCATCATCGGTGTGTACTGCGGCCTGACCACAGGCTTCGTG
+CCCATGTATGTGGGTGAAGTGTCACCCACAGCCCTTCGTGGGGCCCTGGGCACCCTGCAC
+CAGCTGGGCATCGTCGTCGGCATCCTCATCGCCCAGGTGTTCGGCCTGGACTCCATCATG
+GGCAACAAGGACCTGTGGCCCCTGCTGCTGAGCATCATCTTCATCCCGGCCCTGCTGCAG
+TGCATCGTGCTGCCCTTCTGCCCCGAGAGTCCCCGCTTCCTGCTCATCAACCGCAACGAG
+GAGAACCGGGCCAAGAGTGTGCTAAAGAAGCTGCGCGGGACAGCTGACGTGACCCATGAC
+CTGCAGGAGATGAAGGAAGAGAGTCGGCAGATGATGCGGGAGAAGAAGGTCACCATCCTG
+GAGCTGTTCCGCTCCCCCGCCTACCGCCAGCCCATCCTCATCGCTGTGGTGCTGCAGCTG
+TCCCAGCAGCTGTCTGGCATCAACGCTGTCTTCTATTACTCCACGAGCATCTTCGAGAAG
+GCGGGGGTGCAGCAGCCTGTGTATGCCACCATTGGCTCCGGTATCGTCAACACGGCCTTC
+ACTGTCGTGTCGCTGTTTGTGGTGGAGCGAGCAGGCCGGCGGACCCTGCACCTCATAGGC
+CTCGCTGGCATGGCGGGTTGTGCCATACTCATGACCATCGCGCTAGCACTGCTGGAGCAG
+CTACCCTGGATGTCCTATCTGAGCATCGTGGCCATCTTTGGCTTTGTGGCCTTCTTTGAA
+GTGGGTCCTGGCCCCATCCCATGGTTCATCGTGGCTGAACTCTTCAGCCAGGGTCCACGT
+CCAGCTGCCATTGCCGTTGCAGGCTTCTCCAACTGGACCTCAAATTTCATTGTGGGCATG
+TGCTTCCAGTATGTGGAGCAACTGTGTGGTCCCTACGTCTTCATCATCTTCACTGTGCTC
+CTGGTTCTGTTCTTCATCTTCACCTACTTCAAAGTTCCTGAGACTAAAGGCCGGACCTTC
+GATGAGATCGCTTCCGGCTTCCGGCAGGGGGGAGCCAGCCAAAGTGACAAGACACCCGAG
+GAGCTGTTCCATCCCCTGGGGGCTGATTCCCAAGTGTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>caveola</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>midbody</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cortical actin cytoskeleton</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>Golgi membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>female pronucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>basolateral plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>melanosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell-cell junction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>blood microparticle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>dehydroascorbic acid transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>identical protein binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucose transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>D-glucose transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>xenobiotic transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein self-association</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>lactose biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>water-soluble vitamin metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>carbohydrate metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hexose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>L-ascorbic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to glucose starvation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>energy reserve metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein complex assembly</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of insulin secretion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to osmotic stress</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>vitamin metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="5">
+      <id>BE0004707</id>
+      <name>Solute carrier family 2, facilitated glucose transporter member 3</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P11169" source="Swiss-Prot">
+    <name>Solute carrier family 2, facilitated glucose transporter member 3</name>
+    <general-function>Glucose transmembrane transporter activity</general-function>
+    <specific-function>Facilitative glucose transporter that can also mediate the uptake of various other monosaccharides across the cell membrane (PubMed:9477959, PubMed:26176916). Mediates the uptake of glucose, 2-deoxyglucose, galactose, mannose, xylose and fucose, and probably also dehydroascorbate (PubMed:9477959, PubMed:26176916). Does not mediate fructose transport (PubMed:9477959, PubMed:26176916).</specific-function>
+    <gene-name>SLC2A3</gene-name>
+    <locus/>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>11-32
+65-85
+91-111
+119-142
+154-174
+184-204
+270-290
+305-325
+332-352
+364-389
+400-420
+430-450</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>53923.785</molecular-weight>
+    <chromosome-location>12</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:11007</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P11169</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>GTR3_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Glucose transporter type 3, brain</synonym>
+      <synonym>GLUT-3</synonym>
+      <synonym>GLUT3</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0017515|Solute carrier family 2, facilitated glucose transporter member 3
+MGTQKVTPALIFAITVATIGSFQFGYNTGVINAPEKIIKEFINKTLTDKGNAPPSEVLLT
+SLWSLSVAIFSVGGMIGSFSVGLFVNRFGRRNSMLIVNLLAVTGGCFMGLCKVAKSVEML
+ILGRLVIGLFCGLCTGFVPMYIGEISPTALRGAFGTLNQLGIVVGILVAQIFGLEFILGS
+EELWPLLLGFTILPAILQSAALPFCPESPRFLLINRKEEENAKQILQRLWGTQDVSQDIQ
+EMKDESARMSQEKQVTVLELFRVSSYRQPIIISIVLQLSQQLSGINAVFYYSTGIFKDAG
+VQEPIYATIGAGVVNTIFTVVSLFLVERAGRRTLHMIGLGGMAFCSTLMTVSLLLKDNYN
+GMSFVCIGAILVFVAFFEIGPGPIPWFIVAELFSQGPRPAAMAVAGCSNWTSNFLVGLLF
+PSAAHYLGAYVFIIFTGFLITFLAFTFFKVPETRGRTFEDITRAFEGQAHGADRSGKDGV
+MEMNSIEPAKETTTNV</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0017516|Solute carrier family 2, facilitated glucose transporter member 3 (SLC2A3)
+ATGGGGACACAGAAGGTCACCCCAGCTCTGATATTTGCCATCACAGTTGCTACAATCGGC
+TCTTTCCAATTTGGCTACAACACTGGGGTCATCAATGCTCCTGAGAAGATCATAAAGGAA
+TTTATCAATAAAACTTTGACGGACAAGGGAAATGCCCCACCCTCTGAGGTGCTGCTCACG
+TCTCTCTGGTCCTTGTCTGTGGCCATATTTTCCGTCGGGGGTATGATCGGCTCCTTTTCC
+GTCGGACTCTTCGTCAACCGCTTTGGCAGGCGCAATTCAATGCTGATTGTCAACCTGTTG
+GCTGTCACTGGTGGCTGCTTTATGGGACTGTGTAAAGTAGCTAAGTCGGTTGAAATGCTG
+ATCCTGGGTCGCTTGGTTATTGGCCTCTTCTGCGGACTCTGCACAGGTTTTGTGCCCATG
+TACATTGGAGAGATCTCGCCTACTGCCCTGCGGGGTGCCTTTGGCACTCTCAACCAGCTG
+GGCATCGTTGTTGGAATTCTGGTGGCCCAGATCTTTGGTCTGGAATTCATCCTTGGGTCT
+GAAGAGCTATGGCCGCTGCTACTGGGTTTTACCATCCTTCCTGCTATCCTACAAAGTGCA
+GCCCTTCCATTTTGCCCTGAAAGTCCCAGATTTTTGCTCATTAACAGAAAAGAAGAGGAG
+AATGCTAAGCAGATCCTCCAGCGGTTGTGGGGCACCCAGGATGTATCCCAAGACATCCAG
+GAGATGAAAGATGAGAGTGCAAGGATGTCACAAGAAAAGCAAGTCACCGTGCTAGAGCTC
+TTTAGAGTGTCCAGCTACCGACAGCCCATCATCATTTCCATTGTGCTCCAGCTCTCTCAG
+CAGCTCTCTGGGATCAATGCTGTGTTCTATTACTCAACAGGAATCTTCAAGGATGCAGGT
+GTTCAAGAGCCCATCTATGCCACCATCGGCGCGGGTGTGGTTAATACTATCTTCACTGTA
+GTTTCTCTATTTCTGGTGGAAAGGGCAGGAAGAAGGACTCTGCATATGATAGGCCTTGGA
+GGGATGGCTTTTTGTTCCACGCTCATGACTGTTTCTTTGTTATTAAAGGATAACTATAAT
+GGGATGAGCTTTGTCTGTATTGGGGCTATCTTGGTCTTTGTAGCCTTCTTTGAAATTGGA
+CCAGGCCCCATTCCCTGGTTTATTGTGGCCGAACTCTTCAGCCAGGGCCCCCGCCCAGCT
+GCGATGGCAGTGGCCGGCTGCTCCAACTGGACCTCCAACTTCCTAGTCGGATTGCTCTTC
+CCCTCCGCTGCTCACTATTTAGGAGCCTACGTTTTTATTATCTTCACCGGCTTCCTCATT
+ACCTTCTTGGCTTTTACCTTCTTCAAAGTCCCTGAGACCCGTGGCAGGACTTTTGAGGAT
+ATCACACGGGCCTTTGAAGGGCAGGCACACGGTGCAGATAGATCTGGAAAGGACGGCGTC
+ATGGAGATGAACAGCATCGAGCCTGCTAAGGAGACCACCACCAATGTCTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucose transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucose binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>carbohydrate metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>vitamin metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>water-soluble vitamin metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>L-ascorbic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hexose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transmembrane transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="6">
+      <id>BE0004783</id>
+      <name>Solute carrier family 2, facilitated glucose transporter member 9</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q9NRM0" source="Swiss-Prot">
+    <name>Solute carrier family 2, facilitated glucose transporter member 9</name>
+    <general-function>Sugar:proton symporter activity</general-function>
+    <specific-function>Transport urate and fructose. May have a role in the urate reabsorption by proximal tubules. Also transports glucose at low rate.</specific-function>
+    <gene-name>SLC2A9</gene-name>
+    <locus/>
+    <cellular-location>Basolateral cell membrane</cellular-location>
+    <transmembrane-regions>52-72
+108-128
+141-161
+172-192
+201-221
+232-252
+317-337
+355-375
+382-402
+416-436
+452-472
+479-499</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>58701.205</molecular-weight>
+    <chromosome-location>4</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:13446</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9NRM0</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>GTR9_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Glucose transporter type 9</synonym>
+      <synonym>GLUT-9</synonym>
+      <synonym>GLUT9</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0008632|Solute carrier family 2, facilitated glucose transporter member 9
+MARKQNRNSKELGLVPLTDDTSHAGPPGPGRALLECDHLRSGVPGGRRRKDWSCSLLVAS
+LAGAFGSSFLYGYNLSVVNAPTPYIKAFYNESWERRHGRPIDPDTLTLLWSVTVSIFAIG
+GLVGTLIVKMIGKVLGRKHTLLANNGFAISAALLMACSLQAGAFEMLIVGRFIMGIDGGV
+ALSVLPMYLSEISPKEIRGSLGQVTAIFICIGVFTGQLLGLPELLGKESTWPYLFGVIVV
+PAVVQLLSLPFLPDSPRYLLLEKHNEARAVKAFQTFLGKADVSQEVEEVLAESRVQRSIR
+LVSVLELLRAPYVRWQVVTVIVTMACYQLCGLNAIWFYTNSIFGKAGIPPAKIPYVTLST
+GGIETLAAVFSGLVIEHLGRRPLLIGGFGLMGLFFGTLTITLTLQDHAPWVPYLSIVGIL
+AIIASFCSGPGGIPFILTGEFFQQSQRPAAFIIAGTVNWLSNFAVGLLFPFIQKSLDTYC
+FLVFATICITGAIYLYFVLPETKNRTYAEISQAFSKRNKAYPPEEKIDSAVTDGKINGRP
+</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0017534|Solute carrier family 2, facilitated glucose transporter member 9 (SLC2A9)
+ATGAAGCTCAGTAAAAAGGACCGAGGAGAAGATGAAGAAAGTGATTCAGCGAAAAAGAAA
+TTGGACTGGTCCTGCTCGCTCCTCGTGGCCTCCCTCGCGGGCGCCTTCGGCTCCTCCTTC
+CTCTACGGCTACAACCTGTCGGTGGTGAATGCCCCCACCCCGTACATCAAGGCCTTTTAC
+AATGAGTCATGGGAAAGAAGGCATGGACGTCCAATAGACCCAGACACTCTGACTTTGCTC
+TGGTCTGTGACTGTGTCCATATTCGCCATCGGTGGACTTGTGGGGACGTTAATTGTGAAG
+ATGATTGGAAAGGTTCTTGGGAGGAAGCACACTTTGCTGGCCAATAATGGGTTTGCAATT
+TCTGCTGCATTGCTGATGGCCTGCTCGCTCCAGGCAGGAGCCTTTGAAATGCTCATCGTG
+GGACGCTTCATCATGGGCATAGATGGAGGCGTCGCCCTCAGTGTGCTCCCCATGTACCTT
+AGTGAGATCTCACCCAAGGAGATCCGTGGCTCTCTGGGGCAGGTGACTGCCATCTTTATC
+TGCATTGGCGTGTTCACTGGGCAGCTTCTGGGCCTGCCCGAGCTGCTGGGAAAGGAGAGT
+ACCTGGCCATACCTGTTTGGAGTGATTGTGGTCCCTGCCGTTGTCCAGCTGCTGAGCCTT
+CCCTTTCTCCCGGACAGCCCACGCTACCTGCTCTTGGAGAAGCACAACGAGGCAAGAGCT
+GTGAAAGCCTTCCAAACGTTCTTGGGTAAAGCAGACGTTTCCCAAGAGGTAGAGGAGGTC
+CTGGCTGAGAGCCGCGTGCAGAGGAGCATCCGCCTGGTGTCCGTGCTGGAGCTGCTGAGA
+GCTCCCTACGTCCGCTGGCAGGTGGTCACCGTGATTGTCACCATGGCCTGCTACCAGCTC
+TGTGGCCTCAATGCAATTTGGTTCTATACCAACAGCATCTTTGGAAAAGCTGGGATCCCT
+CCGGCAAAGATCCCATACGTCACCTTGAGTACAGGGGGCATCGAGACTTTGGCTGCCGTC
+TTCTCTGGTTTGGTCATTGAGCACCTGGGACGGAGACCCCTCCTCATTGGTGGCTTTGGG
+CTCATGGGCCTCTTCTTTGGGACCCTCACCATCACGCTGACCCTGCAGGACCACGCCCCC
+TGGGTCCCCTACCTGAGTATCGTGGGCATTCTGGCCATCATCGCCTCTTTCTGCAGTGGG
+CCAGGTGGCATCCCGTTCATCTTGACTGGTGAGTTCTTCCAGCAATCTCAGCGGCCGGCT
+GCCTTCATCATTGCAGGCACCGTCAACTGGCTCTCCAACTTTGCTGTTGGGCTCCTCTTC
+CCATTCATTCAGAAAAGTCTGGACACCTACTGTTTCCTAGTCTTTGCTACAATTTGTATC
+ACAGGTGCTATCTACCTGTATTTTGTGCTGCCTGAGACCAAAAACAGAACCTATGCAGAA
+ATCAGCCAGGCATTTTCCAAAAGGAACAAAGCATACCCACCAGAAGAGAAAATCGACTCA
+GCTGTCACTGATGGTAAGATAAATGGAAGGCCTTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>basolateral plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>apical plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>sugar</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucose transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>urate metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>proton transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="7">
+      <id>BE0005216</id>
+      <name>Solute carrier family 2, facilitated glucose transporter member 5</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P22732" source="Swiss-Prot">
+    <name>Solute carrier family 2, facilitated glucose transporter member 5</name>
+    <general-function>Glucose transmembrane transporter activity</general-function>
+    <specific-function>Cytochalasin B-sensitive carrier. Seems to function primarily as a fructose transporter.</specific-function>
+    <gene-name>SLC2A5</gene-name>
+    <locus/>
+    <cellular-location>Apical cell membrane</cellular-location>
+    <transmembrane-regions>13-33
+69-89
+99-119
+121-141
+162-182
+193-213
+278-298
+319-339
+343-363
+369-389
+413-433
+440-460</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>54973.42</molecular-weight>
+    <chromosome-location>1</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:11010</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P22732</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>GTR5_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Fructose transporter</synonym>
+      <synonym>Glucose transporter type 5, small intestine</synonym>
+      <synonym>GLUT-5</synonym>
+      <synonym>GLUT5</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0008980|Solute carrier family 2, facilitated glucose transporter member 5
+MEQQDQSMKEGRLTLVLALATLIAAFGSSFQYGYNVAAVNSPALLMQQFYNETYYGRTGE
+FMEDFPLTLLWSVTVSMFPFGGFIGSLLVGPLVNKFGRKGALLFNNIFSIVPAILMGCSR
+VATSFELIIISRLLVGICAGVSSNVVPMYLGELAPKNLRGALGVVPQLFITVGILVAQIF
+GLRNLLANVDGWPILLGLTGVPAALQLLLLPFFPESPRYLLIQKKDEAAAKKALQTLRGW
+DSVDREVAEIRQEDEAEKAAGFISVLKLFRMRSLRWQLLSIIVLMGGQQLSGVNAIYYYA
+DQIYLSAGVPEEHVQYVTAGTGAVNVVMTFCAVFVVELLGRRLLLLLGFSICLIACCVLT
+AALALQDTVSWMPYISIVCVISYVIGHALGPSPIPALLITEIFLQSSRPSAFMVGGSVHW
+LSNFTVGLIFPFIQEGLGPYSFIVFAVICLLTTIYIFLIVPETKAKTFIEINQIFTKMNK
+VSEVYPEKEELKELPPVTSEQ</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0017662|Solute carrier family 2, facilitated glucose transporter member 5 (SLC2A5)
+ATGGAGCAACAGGATCAGAGCATGAAGGAAGGGAGGCTGACGCTTGTGCTTGCCCTGGCA
+ACCCTGATAGCTGCCTTTGGGTCATCCTTCCAGTATGGGTACAACGTGGCTGCTGTCAAC
+TCCCCAGCACTGCTCATGCAACAATTTTACAATGAGACTTACTATGGTAGGACCGGTGAA
+TTCATGGAAGACTTCCCCTTGACGTTGCTGTGGTCTGTAACCGTGTCCATGTTTCCATTT
+GGAGGGTTTATCGGATCCCTCCTGGTCGGCCCCTTGGTGAATAAATTTGGCAGAAAAGGG
+GCCTTGCTGTTCAACAACATATTTTCTATCGTGCCTGCGATCTTAATGGGATGCAGCAGA
+GTCGCCACATCATTTGAGCTTATCATTATTTCCAGACTTTTGGTGGGAATATGTGCAGGT
+GTATCTTCCAACGTGGTCCCCATGTACTTAGGGGAGCTGGCCCCTAAAAACCTGCGGGGG
+GCTCTCGGGGTGGTGCCCCAGCTCTTCATCACTGTTGGCATCCTTGTGGCCCAGATCTTT
+GGTCTTCGGAATCTCCTTGCAAACGTAGATGGTGAGTTCAGGACATCTCGGGAGCACCCC
+CACCCCTTCACCACTACCCTTGGCCCCCTCCTTGTGTTCCAAAGCCACCACCACAGGACA
+GGACTTTCTGCAGACTGGTCTCTTCTAACAGGCTGGATGTCCTTGGGGGGCCCATCCTGT
+CCCGAGCCAACATAG</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>apical plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucose transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>fructose transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>fructose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hexose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to fructose stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>carbohydrate metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="8">
+      <id>BE0005217</id>
+      <name>Solute carrier family 2, facilitated glucose transporter member 6</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q9UGQ3" source="Swiss-Prot">
+    <name>Solute carrier family 2, facilitated glucose transporter member 6</name>
+    <general-function>Glucose transmembrane transporter activity</general-function>
+    <specific-function>Facilitative glucose transporter; binds cytochalasin B with low affinity.</specific-function>
+    <gene-name>SLC2A6</gene-name>
+    <locus/>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>38-58
+82-102
+112-132
+141-161
+169-189
+195-215
+290-310
+315-335
+340-360
+396-416
+436-456
+463-483</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>54538.55</molecular-weight>
+    <chromosome-location>9</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:11011</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9UGQ3</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>GTR6_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Glucose transporter type 6</synonym>
+      <synonym>Glucose transporter type 9</synonym>
+      <synonym>GLUT-6</synonym>
+      <synonym>GLUT-9</synonym>
+      <synonym>GLUT9</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0008981|Solute carrier family 2, facilitated glucose transporter member 6
+MQEPLLGAEGPDYDTFPEKPPPSPGDRARVGTLQNKRVFLATFAAVLGNFSFGYALVYTS
+PVIPALERSLDPDLHLTKSQASWFGSVFTLGAAAGGLSAMILNDLLGRKLSIMFSAVPSA
+AGYALMAGAHGLWMLLLGRTLTGFAGGLTAACIPVYVSEIAPPGVRGALGATPQLMAVFG
+SLSLYALGLLLPWRWLAVAGEAPVLIMILLLSFMPNSPRFLLSRGRDEEALRALAWLRGT
+DVDVHWEFEQIQDNVRRQSSRVSWAEARAPHVCRPITVALLMRLLQQLTGITPILVYLQS
+IFDSTAVLLPPKDDAAIVGAVRLLSVLIAALTMDLAGRKVLLFVSAAIMFAANLTLGLYI
+HFGPRPLSPNSTAGLESESWGDLAQPLAAPAGYLTLVPLLATMLFIMGYAVGWGPITWLL
+MSEVLPLRARGVASGLCVLASWLTAFVLTKSFLPVVSTFGLQVPFFFFAAICLVSLVFTG
+CCVPETKGRSLEQIESFFRTGRRSFLR</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0013545|Solute carrier family 2, facilitated glucose transporter member 6 (SLC2A6)
+ATGCAGGAGCCGCTGCTGGGAGCCGAGGGCCCGGACTACGACACCTTCCCCGAGAAGCCG
+CCCCCGTCGCCAGGGGACAGGGCGCGGGTCGGGACCCTGCAGAACAAAAGGGTGTTCCTG
+GCCACCTTCGCCGCAGTGCTCGGCAATTTCAGCTTTGGGTATGCCCTGGTCTACACATCC
+CCTGTCATCCCAGCCCTGGAGCGCTCCTTGGATCCTGACCTGCATCTGACCAAATCCCAG
+GCATCCTGGTTTGGGTCCGTGTTCACCCTGGGAGCAGCGGCCGGAGGCCTGAGTGCCATG
+ATCCTCAACGACCTCCTGGGCCGGAAGCTGAGCATCATGTTCTCAGCTGTGCCGTCGGCG
+GCCGGCTATGCGCTCATGGCGGGTGCGCACGGCCTCTGGATGCTGCTGCTCGGAAGGACG
+CTGACGGGCTTCGCCGGGGGGCTCACAGCTGCCTGCATCCCGGTGTACGTGTCTGAGATT
+GCTCCCCCAGGCGTTCGTGGGGCTCTGGGGGCCACACCCCAGCTCATGGCAGTGTTCGGA
+TCCCTGTCCCTCTACGCCCTTGGCCTCCTGCTGCCGTGGCGCTGGCTGGCTGTGGCCGGG
+GAGGCGCCTGTGCTCATCATGATCCTGCTGCTCAGCTTCATGCCCAACTCGCCGCGCTTC
+CTGCTCTCTCGGGGCAGGGACGAAGAGGCCCTGCGGGCGCTGGCCTGGCTGCGTGGGACG
+GACGTCGATGTCCACTGGGAGTTCGAGCAGATCCAGGACAACGTCCGGAGACAGAGCAGC
+CGAGTATCGTGGGCTGAGGCACGGGCCCCACACGTGTGCCGGCCCATCACCGTGGCCTTG
+CTGATGCGCCTCCTGCAGCAGCTGACGGGCATCACGCCCATCCTGGTCTACCTGCAGTCC
+ATCTTCGACAGCACCGCTGTCCTGCTGCCCCCCAAGGACGACGCAGCCATCGTTGGGGCC
+GTGCGGCTCCTGTCCGTGCTGATCGCCGCCCTCACCATGGACCTCGCAGGCCGCAAGGTG
+CTGCTCTTCGTCTCAGGCTACGCCGTGGGCTGGGGTCCCATCACCTGGCTGCTCATGTCT
+GAGGTCCTGCCCCTGCGTGCCCGTGGCGTGGCCTCAGGGCTCTGCGTGCTGGCCAGCTGG
+CTCACCGCCTTCGTCCTCACCAAGTCCTTCCTGCCAGTGGTGAGCACCTTCGGCCTCCAG
+GTGCCTTTCTTCTTCTTCGCGGCCATCTGCTTGGTGAGCCTGGTGTTCACAGGCTGCTGT
+GTGCCCGAGACCAAGGGACGGTCCCTGGAGCAGATCGAGTCCTTCTTCCGCACGGGGAGA
+AGGTCCTTCTTGCGCTAG</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucose transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transmembrane transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="9">
+      <id>BE0005218</id>
+      <name>Solute carrier family 2, facilitated glucose transporter member 7</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q6PXP3" source="Swiss-Prot">
+    <name>Solute carrier family 2, facilitated glucose transporter member 7</name>
+    <general-function>Substrate-specific transmembrane transporter activity</general-function>
+    <specific-function>High-affinity transporter for glucose and fructose Does not transport galactose, 2-deoxy-d-glucose and xylose.</specific-function>
+    <gene-name>SLC2A7</gene-name>
+    <locus/>
+    <cellular-location>Membrane</cellular-location>
+    <transmembrane-regions>22-42
+79-99
+108-128
+139-159
+173-193
+199-219
+282-302
+322-342
+351-371
+380-400
+416-436
+446-466</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>55726.915</molecular-weight>
+    <chromosome-location>1</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:13445</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q6PXP3</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>GTR7_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Glucose transporter type 7</synonym>
+      <synonym>GLUT-7</synonym>
+      <synonym>GLUT7</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0019707|Solute carrier family 2, facilitated glucose transporter member 7
+MENKEAGTPPPIPSREGRLQPTLLLATLSAAFGSAFQYGYNLSVVNTPHKVFKSFYNETY
+FERHATFMDGKLMLLLWSCTVSMFPLGGLLGSLLVGLLVDSCGRKGTLLINNIFAIIPAI
+LMGVSKVAKAFELIVFSRVVLGVCAGISYSALPMYLGELAPKNLRGMVGTMTEVFVIVGV
+FLAQIFSLQAILGNPAGWPVLLALTGVPALLQLLTLPFFPESPRYSLIQKGDEATARQAL
+RRLRGHTDMEAELEDMRAEARAERAEGHLSVLHLCALRSLRWQLLSIIVLMAGQQLSGIN
+AINYYADTIYTSAGVEAAHSQYVTVGSGVVNIVMTITSAVLVERLGRRHLLLAGYGICGS
+ACLVLTVVLLFQNRVPELSYLGIICVFAYIAGHSIGPSPVPSVVRTEIFLQSSRRAAFMV
+DGAVHWLTNFIIGFLFPSIQEAIGAYSFIIFAGICLLTAIYIYVVIPETKGKTFVEINRI
+FAKRNRVKLPEEKEETIDAGPPTASPAKETSF</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0019708|Solute carrier family 2, facilitated glucose transporter member 7 (SLC2A7)
+ATGGAGAACAAAGAGGCGGGAACCCCTCCACCCATTCCATCCAGGGAGGGGCGGCTCCAG
+CCGACGCTGTTGCTGGCGACACTGAGCGCGGCCTTTGGCTCAGCCTTCCAGTACGGCTAC
+AACCTCTCTGTGGTCAACACGCCGCACAAGGTCTTCAAGTCATTTTACAACGAAACCTAC
+TTTGAGCGACACGCAACATTCATGGACGGGAAGCTCATGCTGCTTCTATGGTCTTGCACC
+GTCTCCATGTTTCCTCTGGGCGGCCTGTTGGGGTCATTGCTCGTGGGCCTGCTGGTTGAT
+AGCTGCGGCAGAAAGGGGACCCTGCTGATCAACAACATCTTTGCCATCATCCCCGCCATC
+CTGATGGGAGTCAGCAAAGTGGCCAAGGCTTTTGAGCTGATCGTCTTTTCCCGAGTGGTG
+CTGGGAGTCTGTGCAGGCATCTCCTACAGCGCCCTTCCCATGTACCTGGGAGAACTGGCC
+CCCAAGAACCTGAGAGGCATGGTGGGAACAATGACCGAGGTTTTCGTCATCGTTGGAGTC
+TTCCTAGCACAGATCTTCAGCCTCCAGGCCATCTTGGGCAACCCGGCAGGCTGGCCGGTG
+CTTCTGGCGCTCACAGGGGTGCCCGCCCTGCTGCAGCTGCTGACCCTGCCCTTCTTCCCC
+GAAAGCCCCCGCTACTCCCTGATTCAGAAAGGAGATGAAGCCACAGCGCGACAAGCTCTG
+AGGAGGCTGAGAGGCCACACGGACATGGAGGCCGAGCTGGAGGACATGCGTGCGGAGGCC
+CGGGCCGAGCGCGCCGAGGGCCACCTGTCTGTGCTGCACCTCTGTGCCCTGCGGTCCCTG
+CGCTGGCAGCTCCTCTCCATCATCGTGCTCATGGCCGGCCAGCAGCTGTCGGGCATCAAT
+GCGATCAACTACTATGCGGACACCATCTACACATCTGCGGGCGTGGAGGCCGCTCACTCC
+CAATATGTAACGGTGGGCTCTGGCGTCGTCAACATAGTGATGACCATCACCTCGGCTGTC
+CTTGTGGAGCGGCTGGGACGGCGGCACCTCCTGCTGGCCGGCTACGGCATCTGCGGCTCT
+GCCTGCCTGGTGCTGACGGTGGTGCTCCTATTCCAGAACAGGGTCCCCGAGCTGTCCTAC
+CTCGGCATCATCTGTGTCTTTGCCTACATCGCGGGACATTCCATTGGGCCCAGTCCTGTC
+CCCTCGGTGGTGAGGACCGAGATCTTCCTGCAGTCCTCCCGGCGGGCAGCTTTCATGGTG
+GACGGGGCAGTGCACTGGCTCACCAACTTCATCATAGGCTTCCTGTTCCCATCCATCCAG
+GAGGCCATCGGTGCCTACAGTTTCATCATCTTTGCCGGAATCTGCCTCCTCACTGCGATT
+TACATCTACGTGGTTATTCCGGAGACCAAGGGCAAAACATTTGTGGAGATAAACCGCATT
+TTTGCCAAGAGAAACAGGGTGAAGCTTCCAGAGGAGAAAGAAGAAACCATTGATGCTGGG
+CCTCCCACAGCCTCTCCTGCCAAGGAAACTTCCTTTTAG</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>substrate-specific transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>carbohydrate transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="10">
+      <id>BE0005219</id>
+      <name>Solute carrier family 2, facilitated glucose transporter member 8</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q9NY64" source="Swiss-Prot">
+    <name>Solute carrier family 2, facilitated glucose transporter member 8</name>
+    <general-function>Glucose transmembrane transporter activity</general-function>
+    <specific-function>Insulin-regulated facilitative glucose transporter. Binds cytochalasin B in a glucose-inhibitable manner. Seems to be a dual-specific sugar transporter as it is inhibitable by fructose (By similarity).</specific-function>
+    <gene-name>SLC2A8</gene-name>
+    <locus/>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>26-46
+71-91
+97-117
+128-148
+157-177
+183-203
+257-277
+293-313
+320-340
+368-388
+405-425
+439-459</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>50818.54</molecular-weight>
+    <chromosome-location>9</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:13812</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9NY64</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>GTR8_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Glucose transporter type 8</synonym>
+      <synonym>Glucose transporter type X1</synonym>
+      <synonym>GLUT-8</synonym>
+      <synonym>GLUT8</synonym>
+      <synonym>GLUTX1</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0013546|Solute carrier family 2, facilitated glucose transporter member 8
+MTPEDPEETQPLLGPPGGSAPRGRRVFLAAFAAALGPLSFGFALGYSSPAIPSLQRAAPP
+APRLDDAAASWFGAVVTLGAAAGGVLGGWLVDRAGRKLSLLLCSVPFVAGFAVITAAQDV
+WMLLGGRLLTGLACGVASLVAPVYISEIAYPAVRGLLGSCVQLMVVVGILLAYLAGWVLE
+WRWLAVLGCVPPSLMLLLMCFMPETPRFLLTQHRRQEAMAALRFLWGSEQGWEDPPIGAE
+QSFHLALLRQPGIYKPFIIGVSLMAFQQLSGVNAVMFYAETIFEEAKFKDSSLASVVVGV
+IQVLFTAVAALIMDRAGRRLLLVLSGVVMVFSTSAFGAYFKLTQGGPGNSSHVAISAPVS
+AQPVDASVGLAWLAVGSMCLFIAGFAVGWGPIPWLLMSEIFPLHVKGVATGICVLTNWLM
+AFLVTKEFSSLMEVLRPYGAFWLASAFCIFSVLFTLFCVPETKGKTLEQITAHFEGR</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0013547|Solute carrier family 2, facilitated glucose transporter member 8 (SLC2A8)
+ATGACGCCCGAGGACCCAGAGGAAACCCAGCCGCTTCTGGGGCCTCCTGGCGGCAGCGCG
+CCCCGCGGCCGCCGCGTCTTCCTCGCCGCCTTCGCCGCTGCCCTGGGCCCACTCAGCTTC
+GGCTTCGCGCTCGGCTACAGCTCCCCGGCCATCCCTAGCCTGCAGCGCGCCGCGCCCCCG
+GCCCCGCGCCTGGACGACGCCGCCGCCTCCTGGTTCGGGGCTGTCGTGACCCTGGGTGCC
+GCGGCGGGGGGAGTGCTGGGCGGCTGGCTGGTGGACCGCGCCGGGCGCAAGCTGAGCCTC
+TTGCTGTGCTCCGTGCCCTTCGTGGCCGGCTTTGCCGTCATCACCGCGGCCCAGGACGTG
+TGGATGCTGCTGGGGGGCCGCCTCCTCACCGGCCTGGCCTGCGGTGTTGCCTCCCTAGTG
+GCCCCGGTCTACATCTCCGAAATCGCCTACCCAGCAGTCCGGGGGTTGCTCGGCTCCTGT
+GTGCAGCTAATGGTCGTCGTCGGCATCCTCCTGGCCTACCTGGCAGGCTGGGTGCTGGAG
+TGGCGCTGGCTGGCTGTGCTGGGCTGCGTGCCCCCCTCCCTCATGCTGCTTCTCATGTGC
+TTCATGCCCGAGACCCCGCGCTTCCTGCTGACTCAGCACAGGCGCCAGGAGGCCATGGCC
+GCCCTGCGGTTCCTGTGGGGCTCCGAGCAGGGCTGGGAAGACCCCCCCATCGGGGCTGAG
+CAGAGCTTTCACCTGGCCCTGCTGCGGCAGCCCGGCATCTACAAGCCCTTCATCATCGGC
+GTCTCCCTGATGGCCTTCCAGCAGCTGTCGGGGGTCAACGCCGTCATGTTCTATGCAGAG
+ACCATCTTTGAAGAGGCCAAGTTCAAGGACAGCAGCCTGGCCTCGGTCGTCGTGGGTGTC
+ATCCAGGTGCTGTTCACAGCTGTGGCGGCTCTCATCATGGACAGAGCAGGGCGGAGGCTG
+CTCCTGGTCTTGTCAGGTGTGGTCATGGTGTTCAGCACGAGTGCCTTCGGCGCCTACTTC
+AAGCTGACCCAGGGTGGCCCTGGCAACTCCTCGCACGTGGCCATCTCGGCGCCTGTCTCT
+GCACAGCCTGTTGATGCCAGCGTGGGGCTGGCCTGGCTGGCCGTGGGCAGCATGTGCCTC
+TTCATCGCCGGAGGTCCTCAGGCCCTATGGAGCCTTCTGGCTTGCCTCCGCTTTCTGCAT
+CTTCAGTGTCCTTTTCACTTTGTTCTGTGTCCCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>lysosomal membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasmic vesicle membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>synaptic vesicle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucose binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucose transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>insulin receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to hypoxia</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>male meiosis I</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>carbohydrate metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="11">
+      <id>BE0005220</id>
+      <name>Solute carrier family 2, facilitated glucose transporter member 10</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="O95528" source="Swiss-Prot">
+    <name>Solute carrier family 2, facilitated glucose transporter member 10</name>
+    <general-function>Sugar:proton symporter activity</general-function>
+    <specific-function>Facilitative glucose transporter.</specific-function>
+    <gene-name>SLC2A10</gene-name>
+    <locus/>
+    <cellular-location>Endomembrane system</cellular-location>
+    <transmembrane-regions>16-36
+49-69
+78-98
+107-127
+135-155
+167-187
+234-254
+270-290
+299-319
+415-435
+446-466
+477-497</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>56910.77</molecular-weight>
+    <chromosome-location>20</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:13444</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>O95528</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>GTR10_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Glucose transporter type 10</synonym>
+      <synonym>GLUT-10</synonym>
+      <synonym>GLUT10</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0017660|Solute carrier family 2, facilitated glucose transporter member 10
+MGHSPPVLPLCASVSLLGGLTFGYELAVISGALLPLQLDFGLSCLEQEFLVGSLLLGALL
+ASLVGGFLIDCYGRKQAILGSNLVLLAGSLTLGLAGSLAWLVLGRAVVGFAISLSSMACC
+IYVSELVGPRQRGVLVSLYEAGITVGILLSYALNYALAGTPWGWRHMFGWATAPAVLQSL
+SLLFLPAGTDETATHKDLIPLQGGEAPKLGPGRPRYSFLDLFRARDNMRGRTTVGLGLVL
+FQQLTGQPNVLCYASTIFSSVGFHGGSSAVLASVGLGAVKVAATLTAMGLVDRAGRRALL
+LAGCALMALSVSGIGLVSFAVPMDSGPSCLAVPNATGQTGLPGDSGLLQDSSLPPIPRTN
+EDQREPILSTAKKTKPHPRSGDPSAPPRLALSSALPGPPLPARGHALLRWTALLCLMVFV
+SAFSFGFGPVTWLVLSEIYPVEIRGRAFAFCNSFNWAANLFISLSFLDLIGTIGLSWTFL
+LYGLTAVLGLGFIYLFVPETKGQSLAEIDQQFQKRRFTLSFGHRQNSTGIPYSRIEISAA
+S</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0017661|Solute carrier family 2, facilitated glucose transporter member 10 (SLC2A10)
+ATGGGCCACTCCCCACCTGTCCTGCCTTTGTGTGCCTCTGTGTCTTTGCTGGGTGGCCTG
+ACCTTTGGTTATGAACTGGCAGTCATATCAGGTGCCCTGCTGCCACTGCAGCTTGACTTT
+GGGCTAAGCTGCTTGGAGCAGGAGTTCCTGGTGGGCAGCCTGCTCCTGGGGGCTCTCCTC
+GCCTCCCTGGTTGGTGGCTTCCTCATTGACTGCTATGGCAGGAAGCAAGCCATCCTCGGG
+AGCAACTTGGTGCTGCTGGCAGGCAGCCTGACCCTGGGCCTGGCTGGTTCCCTGGCCTGG
+CTGGTCCTGGGCCGCGCTGTGGTTGGCTTCGCCATTTCCCTCTCCTCCATGGCTTGCTGT
+ATCTACGTGTCAGAGCTGGTGGGGCCACGGCAGCGGGGAGTGCTGGTGTCCCTCTATGAG
+GCAGGCATCACCGTGGGCATCCTGCTCTCCTATGCCCTCAACTATGCACTGGCTGGTACC
+CCCTGGGGATGGAGGCACATGTTCGGCTGGGCCACTGCACCTGCTGTCCTGCAATCCCTC
+AGCCTCCTCTTCCTCCCTGCTGGTACAGATGAGACTGCAACACACAAGGACCTCATCCCA
+CTCCAGGGAGGTGAGGCCCCCAAGCTGGGCCCGGGGAGGCCACGGTACTCCTTTCTGGAC
+CTCTTCAGGGCACGCGATAACATGCGAGGCCGGACCACAGTGGGCCTGGGGCTGGTGCTC
+TTCCAGCAACTAACAGGGCAGCCCAACGTGCTGTGCTATGCCTCCACCATCTTCAGCTCC
+GTTGGTTTCCATGGGGGATCCTCAGCCGTGCTGGCCTCTGTGGGGCTTGGCGCAGTGAAG
+GTGGCAGCTACCCTGACCGCCATGGGGCTGGTGGACCGTGCAGGCCGCAGGGCTCTGTTG
+CTAGCTGGCTGTGCCCTCATGGCCCTGTCCGTCAGTGGCATAGGCCTCGTCAGCTTTGCC
+GTGCCCATGGACTCAGGCCCAAGCTGTCTGGCTGTGCCCAATGCCACCGGGCAGACAGGC
+CTCCCTGGAGACTCTGGCCTGCTGCAGGACTCCTCTCTACCTCCCATTCCAAGGACCAAT
+GAGGACCAAAGGGAGCCAATCTTGTCCACTGCTAAGAAAACCAAGCCCCATCCCAGATCT
+GGAGACCCCTCAGCCCCTCCTCGGCTGGCCCTGAGCTCTGCCCTCCCTGGGCCCCCTCTG
+CCCGCTCGGGGGCATGCACTGCTGCGCTGGACCGCACTGCTGTGCCTGATGGTCTTTGTC
+AGTGCCTTCTCCTTTGGGTTTGGGCCAGTGACCTGGCTTGTCCTCAGCGAGATCTACCCT
+GTGGAGATACGAGGAAGAGCCTTCGCCTTCTGCAACAGCTTCAACTGGGCGGCCAACCTC
+TTCATCAGCCTCTCCTTCCTCGATCTCATTGGCACCATCGGCTTGTCCTGGACCTTCCTG
+CTCTACGGACTGACCGCTGTCCTCGGCCTGGGCTTCATCTATTTATTTGTTCCTGAAACA
+AAAGGCCAGTCGTTGGCAGAGATAGACCAGCAGTTCCAGAAGAGACGGTTCACCCTGAGC
+TTTGGCCACAGGCAGAACTCCACTGGCATCCCGTACAGCCGCATCGAGATCTCTGCGGCC
+TCCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endomembrane system</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>perinuclear region of cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>sugar</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>proton transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="12">
+      <id>BE0005221</id>
+      <name>Solute carrier family 2, facilitated glucose transporter member 11</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q9BYW1" source="Swiss-Prot">
+    <name>Solute carrier family 2, facilitated glucose transporter member 11</name>
+    <general-function>Substrate-specific transmembrane transporter activity</general-function>
+    <specific-function>Facilitative glucose transporter.</specific-function>
+    <gene-name>SLC2A11</gene-name>
+    <locus/>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>12-32
+62-82
+98-118
+129-149
+158-178
+188-208
+274-294
+312-332
+339-359
+365-385
+409-429
+436-456</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>53702.055</molecular-weight>
+    <chromosome-location>22</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:14239</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9BYW1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>GTR11_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Glucose transporter type 10</synonym>
+      <synonym>Glucose transporter type 11</synonym>
+      <synonym>GLUT-10</synonym>
+      <synonym>GLUT-11</synonym>
+      <synonym>GLUT10</synonym>
+      <synonym>GLUT11</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0008985|Solute carrier family 2, facilitated glucose transporter member 11
+MRALRRLIQGRILLLTICAAGIGGTFQFGYNLSIINAPTLHIQEFTNETWQARTGEPLPD
+HLVLLMWSLIVSLYPLGGLFGALLAGPLAITLGRKKSLLVNNIFVVSAAILFGFSRKAGS
+FEMIMLGRLLVGVNAGVSMNIQPMYLGESAPKELRGAVAMSSAIFTALGIVMGQVVGLRE
+LLGGPQAWPLLLASCLVPGALQLASLPLLPESPRYLLIDCGDTEACLAALRRLRGSGDLA
+GELEELEEERAACQGCRARRPWELFQHRALRRQVTSLVVLGSAMELCGNDSVYAYASSVF
+RKAGVPEAKIQYAIIGTGSCELLTAVVSCVVIERVGRRVLLIGGYSLMTCWGSIFTVALC
+LQSSFPWTLYLAMACIFAFILSFGIGPAGVTGILATELFDQMARPAACMVCGALMWIMLI
+LVGLGFPFIMEALSHFLYVPFLGVCVCGAIYTGLFLPETKGKTFQEISKELHRLNFPRRA
+QGPTWRSLEVIQSTEL</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0013548|Solute carrier family 2, facilitated glucose transporter member 11 (SLC2A11)
+ATGAGAGCGCTCCGAAGACTGATTCAGGGCAGGATCCTGCTCCTGACCATCTGCGCTGCC
+GGCATTGGTGGGACTTTTCAGTTTGGCTATAACCTCTCTATCATCAATGCCCCGACCTTG
+CACATTCAGGAATTCACCAATGAGACATGGCAGGCGCGTACTGGAGAGCCACTGCCCGAT
+CACCTAGTCCTGCTTATGTGGTCCCTCATCGTGTCTCTGTATCCCCTGGGAGGCCTCTTT
+GGAGCACTGCTTGCAGGTCCCTTGGCCATCACGCTGGGAAGGAAGAAGTCCCTCCTGGTG
+AATAACATCTTTGTGGTGTCAGCAGCAATCCTGTTTGGATTCAGCCGCAAAGCAGGCTCC
+TTTGAGATGATCATGCTGGGAAGACTGCTCGTGGGAGTCAATGCAGGTGTGAGCATGAAC
+ATCCAGCCCATGTACCTGGGGGAGAGCGCCCCTAAGGAGCTCCGAGGAGCTGTGGCCATG
+AGCTCAGCCATCTTTACGGCTCTGGGGATCGTGATGGGACAGGTGGTCGGACTCAGGGAG
+CTCCTAGGTGGCCCTCAGGCCTGGCCCCTGCTGCTGGCCAGCTGCCTGGTGCCCGGGGCG
+CTCCAGCTCGCCTCCCTGCCTCTGCTCCCTGAAAGCCCGCGCTACCTCCTCATTGACTGT
+GGAGACACCGAGGCCTGCCTGGCAGCACTACGGCGGCTCCGGGGCTCCGGGGACTTGGCA
+GGGGAGCTGGAGGAGCTGGAGGAGGAGCGCGCTGCCTGCCAGGGCTGCCGTGCCCGGCGC
+CCATGGGAGCTGTTCCAGCATCGGGCCCTGAGGAGACAGGTGACAAGCCTCGTGGTTCTG
+GGCAGTGCCATGGAGCTCTGCGGGAATGACTCGGTGTACGCCTACGCCTCCTCCGTGTTC
+CGGAAGGCAGGAGTGCCGGAAGCGAAGATCCAGTACGCGATCATCGGGACTGGGAGCTGC
+GAGCTGCTCACGGCGGTTGTTAGTTGTGTGGTAATCGAGAGGGTGGGTCGGCGCGTGCTG
+CTCATCGGTGGGTACAGCCTGATGACCTGCTGGGGGAGCATCTTCACTGTGGCCCTGTGC
+CTGCAGAGCTCCTTCCCCTGGACACTCTACCTGGCCATGGCCTGCATCTTTGCCTTCATC
+CTCAGCTTTGGCATTGGCCCTGCCGGAGTGACGGGGATCCTGGCCACAGAGCTGTTTGAC
+CAGATGGCCAGGCCTGCTGCCTGCATGGTCTGCGGGGCGCTCATGTGGATCATGCTCATC
+CTGGTCGGCCTGGGATTTCCCTTTATCATGGAGGCCTTGTCCCACTTCCTCTATGTCCCT
+TTCCTTGGTGTCTGTGTCTGTGGGGCCATCTACACTGGCCTGTTCCTTCCTGAGACCAAA
+GGCAAGACCTTCCAAGAGATCTCCAAGGAATTACACAGACTCAACTTCCCCAGGCGGGCC
+CAGGGCCCCACGTGGAGGAGCCTGGAGGTTATCCAGTCAACAGAACTCTAG</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell junction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>substrate-specific transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>carbohydrate transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="13">
+      <id>BE0005222</id>
+      <name>Solute carrier family 2, facilitated glucose transporter member 12</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q8TD20" source="Swiss-Prot">
+    <name>Solute carrier family 2, facilitated glucose transporter member 12</name>
+    <general-function>Substrate-specific transmembrane transporter activity</general-function>
+    <specific-function>Facilitative glucose transporter.</specific-function>
+    <gene-name>SLC2A12</gene-name>
+    <locus/>
+    <cellular-location>Endomembrane system</cellular-location>
+    <transmembrane-regions>45-65
+81-101
+116-136
+138-158
+173-193
+198-218
+279-299
+318-338
+346-366
+467-487
+499-519
+529-549</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>66965.7</molecular-weight>
+    <chromosome-location>6</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:18067</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q8TD20</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>GTR12_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Glucose transporter type 12</synonym>
+      <synonym>GLUT-12</synonym>
+      <synonym>GLUT12</synonym>
+      <synonym>GLUT8</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0008986|Solute carrier family 2, facilitated glucose transporter member 12
+MVPVENTEGPSLLNQKGTAVETEGSGSRHPPWARGCGMFTFLSSVTAAVSGLLVGYELGI
+ISGALLQIKTLLALSCHEQEMVVSSLVIGALLASLTGGVLIDRYGRRTAIILSSCLLGLG
+SLVLILSLSYTVLIVGRIAIGVSISLSSIATCVYIAEIAPQHRRGLLVSLNELMIVIGIL
+SAYISNYAFANVFHGWKYMFGLVIPLGVLQAIAMYFLPPSPRFLVMKGQEGAASKVLGRL
+RALSDTTEELTVIKSSLKDEYQYSFWDLFRSKDNMRTRIMIGLTLVFFVQITGQPNILFY
+ASTVLKSVGFQSNEAASLASTGVGVVKVISTIPATLLVDHVGSKTFLCIGSSVMAASLVT
+MGIVNLNIHMNFTHICRSHNSINQSLDESVIYGPGNLSTNNNTLRDHFKGISSHSRSSLM
+PLRNDVDKRGETTSASLLNAGLSHTEYQIVTDPGDVPAFLKWLSLASLLVYVAAFSIGLG
+PMPWLVLSEIFPGGIRGRAMALTSSMNWGINLLISLTFLTVTDLIGLPWVCFIYTIMSLA
+SLLFVVMFIPETKGCSLEQISMELAKVNYVKNNICFMSHHQEELVPKQPQKRKPQEQLLE
+CNKLCGRGQSRQLSPET</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0020846|Solute carrier family 2, facilitated glucose transporter member 12 (SLC2A12)
+ATGGTACCTGTTGAAAACACCGAGGGCCCCAGTCTGCTGAACCAGAAGGGGACAGCCGTG
+GAGACGGAGGGCAGCGGCAGCCGGCATCCTCCCTGGGCGAGAGGCTGCGGCATGTTTACC
+TTCCTGTCATCTGTCACTGCTGCTGTCAGTGGCCTCCTGGTGGGTTATGAACTTGGGATC
+ATCTCTGGGGCTCTTCTTCAGATCAAAACCTTATTAGCCCTGAGCTGCCATGAGCAGGAA
+ATGGTTGTGAGCTCCCTCGTCATTGGAGCCCTCCTTGCCTCACTCACCGGAGGGGTCCTG
+ATAGACAGATATGGAAGAAGGACAGCAATCATCTTGTCATCCTGCCTGCTTGGACTCGGA
+AGCTTAGTCTTGATCCTCAGTTTATCCTACACGGTTCTTATAGTGGGACGCATTGCCATA
+GGGGTCTCCATCTCCCTCTCTTCCATTGCCACTTGTGTTTACATCGCAGAGATTGCTCCT
+CAACACAGAAGAGGCCTTCTTGTGTCACTGAATGAGCTGATGATTGTCATCGGCATTCTT
+TCTGCCTATATTTCAAATTACGCATTTGCCAATGTTTTCCATGGCTGGAAGTACATGTTT
+GGTCTTGTGATTCCCTTGGGAGTTTTGCAAGCAATTGCAATGTATTTTCTTCCTCCAAGC
+CCTCGGTTTCTGGTGATGAAAGGACAAGAGGGAGCTGCTAGCAAGGTTCTTGGAAGGTTA
+AGAGCACTCTCAGATACAACTGAGGAACTCACTGTGATCAAATCCTCCCTGAAAGATGAA
+TATCAGTACAGTTTTTGGGATCTGTTTCGTTCAAAAGACAACATGCGGACCCGAATAATG
+ATAGGACTAACACTAGTATTTTTTGTACAAATCACTGGCCAACCAAACATATTGTTCTAT
+GCATCAACTGTTTTGAAGTCAGTTGGATTTCAAAGCAATGAGGCAGCTAGCCTCGCCTCC
+ACTGGGGTTGGAGTCGTCAAGGTCATTAGCACCATCCCTGCCACTCTTCTTGTAGACCAT
+GTCGGCAGCAAAACATTCCTCTGCATTGGCTCCTCTGTGATGGCAGCTTCGTTGGTGACC
+ATGGGCATCGTAAATCTCAACATCCACATGAACTTCACCCATATCTGCAGAAGCCACAAT
+TCTATCAACCAGTCCTTGGATGAGTCTGTGATTTATGGACCAGGAAACCTGTCAACCAAC
+AACAATACTCTCAGAGACCACTTCAAAGGGATTTCTTCCCATAGCAGAAGCTCACTCATG
+CCCCTGAGAAATGATGTGGATAAGAGAGGGGAGACGACCTCAGCATCCTTGCTAAATGCT
+GGATTAAGCCACACTGAATACCAGATAGTCACAGACCCTGGGGACGTCCCAGCTTTTTTG
+AAATGGCTGTCCTTAGCCAGCTTGCTTGTTTATGTTGCTGCTTTTTCAATTGGTCTAGGA
+CCAATGCCCTGGCTGGTGCTCAGCGAGATCTTTCCTGGTGGGATCAGAGGACGAGCCATG
+GCTTTAACTTCTAGCATGAACTGGGGCATCAATCTCCTCATCTCGCTGACATTTTTGACT
+GTAACTGATCTTATTGGCCTGCCATGGGTGTGCTTTATATATACAATCATGAGTCTAGCA
+TCCCTGCTTTTTGTTGTTATGTTTATACCTGAGACAAAGGGATGCTCTTTGGAACAAATA
+TCAATGGAGCTAGCAAAAGTGAACTATGTGAAAAACAACATTTGTTTTATGAGTCATCAC
+CAAGAAGAATTAGTGCCAAAACAGCCTCAAAAAAGAAAACCCCAGGAGCAGCTCTTGGAG
+TGTAACAAGCTGTGTGGTAGGGGCCAATCCAGGCAGCTTTCTCCAGAGACCTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endomembrane system</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>perinuclear region of cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>substrate-specific transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+  </transporters>
+</drug>

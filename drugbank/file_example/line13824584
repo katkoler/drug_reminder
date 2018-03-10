@@ -1,0 +1,908 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-13">
+  <drugbank-id primary="true">DB09413</drugbank-id>
+  <name>Monopotassium phosphate</name>
+  <description>Monopotassium phosphate, MKP, (also potassium dihydrogenphosphate, KDP, or monobasic potassium phosphate), KH2PO4, is a soluble salt of potassium and the dihydrogen phosphate ion.  It is a source of phosphorus and potassium. It is also a buffering agent. When used in fertilizer mixtures with urea and ammonium phosphates, it minimizes escape of ammonia by keeping the pH at a relatively low level.</description>
+  <cas-number>7778-77-0</cas-number>
+  <unii>4J9FJ0HL51</unii>
+  <average-mass>136.0855</average-mass>
+  <monoisotopic-mass>135.932776925</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+    <group>vet_approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Monopotassium_phosphate</url>
+      </link>
+      <link>
+        <title>Pubchem</title>
+        <url>https://pubchem.ncbi.nlm.nih.gov/compound/516951#section=Bionecessity</url>
+      </link>
+      <link>
+        <title>ChemIDplus</title>
+        <url>https://chem.nlm.nih.gov/chemidplus/rn/7778-77-0</url>
+      </link>
+      <link>
+        <title>DAILYMED</title>
+        <url>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b01eac95-dbe3-4b21-a922-187e0fc8ad23</url>
+      </link>
+      <link>
+        <title>Toxnet</title>
+        <url>https://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+5046</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Used in buffers (determination of pH, pharmaceutical production, urinary acidifier, paper processing, baking powder, and food), nutrient solutions, yeast foods, special liquid fertilizers, sonar systems and other electronic applications; &#13;
+Used as a nutritional supplement in foods, a nonlinear optical material for laser use, and in wastewater treatment; </indication>
+  <pharmacodynamics>Potassium is the major cation of intracellular fluid and is essential for maintenance of acid-base balance, isotonicity, and electrodynamic characteristics of the cell. Potassium is an important activator in many enzymatic reactions and is essential to a number of physiologic processes including transmission of nerve impulses; contraction of cardiac, smooth, and skeletal muscles; gastric secretion; renal function; tissue synthesis; and carbohydrate metabolism.&#13;
+Phosphate is a major intracellular anion that participates in providing energy for metabolism of substrates and contributes to important metabolic and enzymatic reactions in almost all organs and tissues. Phosphate exerts a modifying influence on calcium concentrations, a buffering effect on acid-base equilibrium, and has a major role in the renal excretion of hydrogen ions. </pharmacodynamics>
+  <mechanism-of-action>hosphorus has a number of important functions in the biochemistry of the body. The bulk of the body's phosphorus is located in the bones, where it plays a key role in osteoblastic and osteoclastic activities. Enzymatically catalyzed phosphate-transfer reactions are numerous and vital in the metabolism of carbohydrate, lipid and protein, and a proper concentration of the anion is of primary importance in assuring an orderly biochemical sequence. ln addition, phosphorus plays an important role in modifying steady-state tissue concentrations of calcium. Phosphate ions are important buffers of the intracellular fluid, and also play a primary role in the renal excretion of the hydrogen ion. Oral administration of inorganic phosphates increases serum phosphate levels. Phosphates lower urinary calcium levels in idiopathic hypercalciuria.</mechanism-of-action>
+  <toxicity>Rabbit : LD50 &gt;4640mg/kg (skin)&#13;
+Rat : LdLo : 4640mg/kg (Oral)</toxicity>
+  <metabolism/>
+  <absorption>Potassium salts are well absorbed from the GI tract. Ingested phosphates are absorbed from the gastrointestinal tract.  However, the presence of large amounts of calcium or aluminum may lead to formation of insoluble phosphate and reduce the net absorption. Vitamin D stimulates phosphate absorption.&#13;
+</absorption>
+  <half-life>In healthy children with phosphate overdose, half-life  was 4.8 to 10.6 hours, and was prolonged to 17 hours in  a child with renal insufficiency.</half-life>
+  <protein-binding>In healthy adults, plasma potassium concentrations generally range from 3.5-5 mEq/L. Plasma concentrations up to 7.7 mEq/L may be normal in neonates.</protein-binding>
+  <route-of-elimination>Renal (90%) and fecal (10%) Phosphates&#13;
+Potassium is excreted mainly by the kidneys. Small amounts of potassium may be excreted via the skin and intestinal tract, but most of the potassium excreted into the intestine is later reabsorbed. </route-of-elimination>
+  <volume-of-distribution> Potassium first enters the extracellular fluid and is then actively transported into the cells where its concentration is up to 40 times that outside the cell. Dextrose, insulin, and oxygen facilitate movement of potassium into cells. </volume-of-distribution>
+  <clearance>Phosphates are rapidly cleared by dialysis. Dialysis  can also be used to treat other electrolyte  abnormalities such as hypernatremia, hypocalcemia, and  hypomagnesemia.</clearance>
+  <classification>
+    <description>This compound belongs to the class of inorganic compounds known as alkali metal phosphates. These are inorganic compounds in which the largest oxoanion is phosphate, and in which the heaviest atom not in an oxoanion is an alkali metal.</description>
+    <direct-parent>Alkali metal phosphates</direct-parent>
+    <kingdom>Inorganic compounds</kingdom>
+    <superclass>Mixed metal/non-metal compounds</superclass>
+    <class>Alkali metal oxoanionic compounds</class>
+    <subclass>Alkali metal phosphates</subclass>
+    <alternative-parent>Inorganic oxides</alternative-parent>
+    <alternative-parent>Inorganic salts</alternative-parent>
+    <substituent>Acyclic compound</substituent>
+    <substituent>Alkali metal phosphate</substituent>
+    <substituent>Inorganic oxide</substituent>
+    <substituent>Inorganic salt</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Potassium phosphate, monobasic</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Avera Mc Kennan Hospital</labeller>
+      <ndc-id/>
+      <ndc-product-code>69189-0104</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-03-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Rising Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>64980-104</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-06-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>55154-7676</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-06-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Amerincan Health Packaging</labeller>
+      <ndc-id/>
+      <ndc-product-code>68084-764</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-06-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Kaiser Foundations Hospitals</labeller>
+      <ndc-id/>
+      <ndc-product-code>0179-0154</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-07-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Carilion Materials Management</labeller>
+      <ndc-id/>
+      <ndc-product-code>68151-2195</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-06-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Formula O-care Vitamin and Mineral Supplement</name>
+      <labeller>For Mor International Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02241714</dpd-id>
+      <started-marketing-on>2000-03-25</started-marketing-on>
+      <ended-marketing-on>2002-06-25</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Isolyte S Ph 7.4</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-7707</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1989-09-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA019696</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Isoplate</name>
+      <labeller>Terumo Bct</labeller>
+      <ndc-id/>
+      <ndc-product-code>14537-408</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-03-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN090067</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>K Phos Neutral</name>
+      <labeller>Beach Productsd, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0486-1125</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1977-04-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>K Phos Original</name>
+      <labeller>Carilion Materials Management</labeller>
+      <ndc-id/>
+      <ndc-product-code>68151-2193</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1977-03-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, soluble</dosage-form>
+      <strength>500 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>K Phos Original</name>
+      <labeller>Beach Productsd, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0486-1111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1977-03-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, soluble</dosage-form>
+      <strength>500 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>K-phos No. 2</name>
+      <labeller>Beach Productsd, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0486-1134</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1978-05-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Potassium Phosphates</name>
+      <labeller>Fresenius Kabi</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-086</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-08-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Potassium Phosphates</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-2305</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1989-11-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Potassium Phosphates</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-2315</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1989-11-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Potassium Phosphates</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-2350</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1989-11-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Potassium Phosphates</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-7295</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1984-09-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Powertech Vitamin and Mineral Supplement</name>
+      <labeller>Dymatize Enterprises Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02244153</dpd-id>
+      <started-marketing-on>2002-09-18</started-marketing-on>
+      <ended-marketing-on>2006-10-06</ended-marketing-on>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Tis-U-sol</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-0190</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1982-02-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Irrigant</dosage-form>
+      <strength/>
+      <route>Irrigation</route>
+      <fda-application-number>NDA018508</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Uralgic</name>
+      <labeller>Westminster</labeller>
+      <ndc-id/>
+      <ndc-product-code>69367-103</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-01-22</started-marketing-on>
+      <ended-marketing-on>2015-12-29</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>K Phos Original</name>
+      <ingredients>Monopotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Formula O-care Vitamin and Mineral Supplement</name>
+      <ingredients>Manganese + Pyridoxine + Riboflavin + Monopotassium phosphate + Zinc + Calcium + Cholecalciferol + Biotin + Folic Acid + Copper + Magnesium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Powertech Vitamin and Mineral Supplement</name>
+      <ingredients>Pyridoxine + Monopotassium phosphate + Zinc + Vitamin C + Magnesium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Uralgic</name>
+      <ingredients>Hexamethylenetetramine + Methylene blue + Hyoscyamine + Phenyl salicylate + Monopotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>K Phos Original</name>
+      <ingredients>Monopotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Potassium Phosphates</name>
+      <ingredients>Monopotassium phosphate + Dipotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Potassium Phosphates</name>
+      <ingredients>Monopotassium phosphate + Dipotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Potassium Phosphates</name>
+      <ingredients>Monopotassium phosphate + Dipotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Potassium Phosphates</name>
+      <ingredients>Monopotassium phosphate + Dipotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Potassium Phosphates</name>
+      <ingredients>Monopotassium phosphate + Dipotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>K Phos Neutral</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isoplate</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride + Sodium phosphates + Monopotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isolyte S Ph 7.4</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride + Sodium phosphates + Monopotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tis-U-sol</name>
+      <ingredients>Sodium Chloride + Potassium Chloride + Magnesium Sulfate + Sodium phosphates + Monopotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>K-phos No. 2</name>
+      <ingredients>Monopotassium phosphate + Sodium phosphate, monobasic, anhydrous</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acids</category>
+      <mesh-id>D000143</mesh-id>
+    </category>
+    <category>
+      <category>Acids, Noncarboxylic</category>
+      <mesh-id>D000148</mesh-id>
+    </category>
+    <category>
+      <category>Anions</category>
+      <mesh-id>D000838</mesh-id>
+    </category>
+    <category>
+      <category>Biomedical and Dental Materials</category>
+      <mesh-id>D001697</mesh-id>
+    </category>
+    <category>
+      <category>Buffers</category>
+      <mesh-id>D002021</mesh-id>
+    </category>
+    <category>
+      <category>Cariostatic Agents</category>
+      <mesh-id>D002327</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Dental Materials</category>
+      <mesh-id>D003764</mesh-id>
+    </category>
+    <category>
+      <category>Electrolytes</category>
+      <mesh-id>D004573</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Ions</category>
+      <mesh-id>D007477</mesh-id>
+    </category>
+    <category>
+      <category>Laboratory Chemicals</category>
+      <mesh-id>D019995</mesh-id>
+    </category>
+    <category>
+      <category>Manufactured Materials</category>
+      <mesh-id>D008420</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Phosphoric Acids</category>
+      <mesh-id>D010756</mesh-id>
+    </category>
+    <category>
+      <category>Phosphorus Acids</category>
+      <mesh-id>D017976</mesh-id>
+    </category>
+    <category>
+      <category>Phosphorus Compounds</category>
+      <mesh-id>D017553</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Protective Agents</category>
+      <mesh-id>D020011</mesh-id>
+    </category>
+    <category>
+      <category>Specialty Uses of Chemicals</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+    <category>
+      <category>Technology, Industry, and Agriculture</category>
+      <mesh-id>D013676</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, soluble</form>
+      <route>Oral</route>
+      <strength>500 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Irrigant</form>
+      <route>Irrigation</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>potassium dihydrogen phosphate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>potassium dihydrogen phosphate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>136.0855</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>135.932776925</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[K+].OP(O)([O-])=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>H2KO4P</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/K.H3O4P/c;1-5(2,3)4/h;(H3,1,2,3,4)/q+1;/p-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>GNSKLFRGEWLPPA-UHFFFAOYSA-M</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>80.59</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>13.53</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>5.53</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>1.8</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>293</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0008244</id>
+      <name>Intestinal-type alkaline phosphatase</name>
+      <organism>Bos taurus</organism>
+      <actions>
+        <action>cofactor</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>UniProt</title>
+            <url>http://www.uniprot.org/uniprot/P19111</url>
+          </link>
+          <link>
+            <title>CHEMbl</title>
+            <url>https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/ChEMBL1200925</url>
+          </link>
+        </links>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P19111" source="Swiss-Prot">
+    <name>Intestinal-type alkaline phosphatase</name>
+    <general-function>Zinc ion binding</general-function>
+    <specific-function/>
+    <gene-name>ALPI</gene-name>
+    <locus/>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions>1-19</signal-regions>
+    <theoretical-pi/>
+    <molecular-weight>57099.1</molecular-weight>
+    <chromosome-location/>
+    <organism ncbi-taxonomy-id="9913">Bovine</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P19111</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>PPBI_BOVIN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>3.1.3.1</synonym>
+      <synonym>IAP</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0015731|Intestinal-type alkaline phosphatase
+MQGACVLLLLGLHLQLSLGLVPVEEEDPAFWNRQAAQALDVAKKLQPIQTAAKNVILFLG
+DGMGVPTVTATRILKGQMNGKLGPETPLAMDQFPYVALSKTYNVDRQVPDSAGTATAYLC
+GVKGNYRTIGVSAAARYNQCKTTRGNEVTSVMNRAKKAGKSVGVVTTTRVQHASPAGAYA
+HTVNRNWYSDADLPADAQMNGCQDIAAQLVNNMDIDVILGGGRKYMFPVGTPDPEYPDDA
+SVNGVRKRKQNLVQAWQAKHQGAQYVWNRTALLQAADDSSVTHLMGLFEPADMKYNVQQD
+HTKDPTLQEMTEVALRVVSRNPRGFYLFVEGGRIDHGHHDDKAYMALTEAGMFDNAIAKA
+NELTSELDTLILVTADHSHVFSFGGYTLRGTSIFGLAPSKALDSKSYTSILYGNGPGYAL
+GGGSRPDVNDSTSEDPSYQQQAAVPQASETHGGEDVAVFARGPQAHLVHGVEEETFVAHI
+MAFAGCVEPYTDCNLPAPTTATSIPDAAHLAASPPPLALLAGAMLLLLAPTLY</amino-acid-sequence>
+    <gene-sequence format="FASTA"/>
+    <pfams>
+      <pfam>
+        <identifier>PF00245</identifier>
+        <name>Alk_phosphatase</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>anchored component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>alkaline phosphatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>zinc ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>magnesium ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>dephosphorylation</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

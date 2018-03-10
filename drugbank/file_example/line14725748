@@ -1,0 +1,179 @@
+<drug type="small molecule" created="2015-12-03" updated="2016-08-17">
+  <drugbank-id primary="true">DB11280</drugbank-id>
+  <name>Anhydrous dextrose</name>
+  <description/>
+  <cas-number/>
+  <unii/>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Haemonetics Additive Solution Formula 3 (as-3)</name>
+      <labeller>Haemonetics Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>57826-460</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-01-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Extracorporeal</route>
+      <fda-application-number>BN000127</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Haemonetics Additive Solution Formula 3 (as-3)</name>
+      <labeller>Haemonetics Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>57826-462</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-01-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Extracorporeal</route>
+      <fda-application-number>BN000127</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Haemonetics Anticoagulant Citrate Phosphate Double Dextrose Solution (cp2d)</name>
+      <labeller>Haemonetics Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>57826-455</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-01-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Extracorporeal</route>
+      <fda-application-number>BN000127</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Haemonetics Anticoagulant Citrate Phosphate Double Dextrose Solution (cp2d)</name>
+      <ingredients>Citric Acid + Trisodium citrate dihydrate + Sodium phosphate, monobasic, monohydrate + Anhydrous dextrose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Haemonetics Additive Solution Formula 3 (as-3)</name>
+      <ingredients>Citric Acid + Sodium phosphate, monobasic, monohydrate + Sodium Chloride + Adenine + Anhydrous dextrose + Trisodium citrate dihydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Haemonetics Additive Solution Formula 3 (as-3)</name>
+      <ingredients>Citric Acid + Sodium phosphate, monobasic, monohydrate + Sodium Chloride + Adenine + Anhydrous dextrose + Trisodium citrate dihydrate</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Diet, Food, and Nutrition</category>
+      <mesh-id>D000066888</mesh-id>
+    </category>
+    <category>
+      <category>Flavoring Agents</category>
+      <mesh-id>D005421</mesh-id>
+    </category>
+    <category>
+      <category>Food</category>
+      <mesh-id>D005502</mesh-id>
+    </category>
+    <category>
+      <category>Food Additives</category>
+      <mesh-id>D005503</mesh-id>
+    </category>
+    <category>
+      <category>Food and Beverages</category>
+      <mesh-id>D019602</mesh-id>
+    </category>
+    <category>
+      <category>Hexoses</category>
+      <mesh-id>D006601</mesh-id>
+    </category>
+    <category>
+      <category>Monosaccharides</category>
+      <mesh-id>D009005</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Phenomena</category>
+      <mesh-id>D010829</mesh-id>
+    </category>
+    <category>
+      <category>Specialty Uses of Chemicals</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+    <category>
+      <category>Sweetening Agents</category>
+      <mesh-id>D013549</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Solution</form>
+      <route>Extracorporeal</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

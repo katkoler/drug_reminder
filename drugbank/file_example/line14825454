@@ -1,0 +1,329 @@
+<drug type="small molecule" created="2017-02-15" updated="2017-02-24">
+  <drugbank-id primary="true">DB13169</drugbank-id>
+  <name>Nandrolone</name>
+  <description>Nandrolone, also known as 19-nortestosterone or 19-norandrostenolone, is a synthetic anabolic-androgenic steroid (AAS) derived from testosterone.</description>
+  <cas-number>434-22-0</cas-number>
+  <unii>6PG9VR430D</unii>
+  <average-mass>274.3978</average-mass>
+  <monoisotopic-mass>274.193280076</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>experimental</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT002266</drugbank-id>
+      <name>Nandrolone hydrogen sulfate</name>
+      <unii>2S202OX23O</unii>
+      <cas-number>98804-55-8</cas-number>
+      <inchikey>SKZMVWBZTQNCKW-IZPLOLCNSA-N</inchikey>
+      <average-mass>354.46</average-mass>
+      <monoisotopic-mass>354.150095111</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">17-hydroxyestr-4-en-3-one</synonym>
+    <synonym language="" coder="">19-nortestosterone</synonym>
+    <synonym language="" coder="">Nandrolone cIII</synonym>
+    <synonym language="" coder="">Norandrostenolone</synonym>
+  </synonyms>
+  <products/>
+  <international-brands>
+    <international-brand>
+      <name>Biobol</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Decadura</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Hybolin</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Menidrabol</name>
+      <company/>
+    </international-brand>
+  </international-brands>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Anabolic Agents</category>
+      <mesh-id>D045930</mesh-id>
+    </category>
+    <category>
+      <category>Anabolic Agents for Systemic Use</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Anabolic Steroids</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Androgens</category>
+      <mesh-id>D000728</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Estranes</category>
+      <mesh-id>D004962</mesh-id>
+    </category>
+    <category>
+      <category>Estren Derivatives</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Estrenes</category>
+      <mesh-id>D004963</mesh-id>
+    </category>
+    <category>
+      <category>Gonadal Hormones</category>
+      <mesh-id>D042341</mesh-id>
+    </category>
+    <category>
+      <category>Gonadal Steroid Hormones</category>
+      <mesh-id>D012739</mesh-id>
+    </category>
+    <category>
+      <category>Hormones</category>
+      <mesh-id>D006728</mesh-id>
+    </category>
+    <category>
+      <category>Hormones, Hormone Substitutes, and Hormone Antagonists</category>
+      <mesh-id>D006730</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Compounds</category>
+      <mesh-id>D011083</mesh-id>
+    </category>
+    <category>
+      <category>Steroids</category>
+      <mesh-id>D013256</mesh-id>
+    </category>
+    <category>
+      <category>Testosterone Congeners</category>
+      <mesh-id>D045165</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes>
+    <atc-code code="S01XA11">
+      <level code="S01XA">Other ophthalmologicals</level>
+      <level code="S01X">OTHER OPHTHALMOLOGICALS</level>
+      <level code="S01">OPHTHALMOLOGICALS</level>
+      <level code="S">SENSORY ORGANS</level>
+    </atc-code>
+    <atc-code code="A14AB01">
+      <level code="A14AB">Estren derivatives</level>
+      <level code="A14A">ANABOLIC STEROIDS</level>
+      <level code="A14">ANABOLIC AGENTS FOR SYSTEMIC USE</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>2.6</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-3.7</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>5.61e-02 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>3.07</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(1S,2R,10R,11S,14S,15S)-14-hydroxy-15-methyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadec-6-en-5-one</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>nandrolone</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>274.3978</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>274.193280076</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C18H26O2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C18H26O2/c1-18-9-8-14-13-5-3-12(19)10-11(13)2-4-15(14)16(18)6-7-17(18)20/h10,13-17,20H,2-9H2,1H3/t13-,14+,15+,16-,17-,18-/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>NPAGDVCDWIYMMC-IZPLOLCNSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>37.3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>79.95</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>32.19</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>19.28</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-0.88</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>7466</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C07254</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PDB</resource>
+      <identifier>6VW</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Nandrolone</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL757</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

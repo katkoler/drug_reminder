@@ -1,0 +1,398 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-20">
+  <drugbank-id primary="true">DB09485</drugbank-id>
+  <name>Cysteine hydrochloride</name>
+  <description>Cysteine is a sulfur-containing amino acid. In premixed solutions of crystalline amino acids, cysteine is relatively unstable over time, eventually converting to insoluble cystine. To avoid such precipitation, Cysteine Hydrochloride Injection, USP is provided as an additive for use with crystalline amino acid solutions immediately prior to administration to the patient.</description>
+  <cas-number/>
+  <unii>ZT934N0X4W</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>DRUGS.COM</title>
+        <url>https://www.drugs.com/pro/cysteine-hydrochloride.html</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Freamine Hbc</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-9350</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1971-09-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA016822</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Freamine III</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-9010</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1971-09-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA016822</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Hepatamine</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-9371</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1982-08-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA018676</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>L-cysteine Hydrochloride</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-2050</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-01-01</started-marketing-on>
+      <ended-marketing-on>2016-11-11</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>50 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>L-cysteine Hydrochloride</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-2064</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on>2016-11-11</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>50 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>L-cysteine Hydrochloride</name>
+      <labeller>Sandoz</labeller>
+      <ndc-id/>
+      <ndc-product-code>0781-8940</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-06-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>50 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>L-cysteine Hydrochloride</name>
+      <labeller>Sandoz</labeller>
+      <ndc-id/>
+      <ndc-product-code>66758-004</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-12-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>50 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>L-cysteine Hydrochloride</name>
+      <labeller>Sandoz</labeller>
+      <ndc-id/>
+      <ndc-product-code>66758-005</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-12-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>50 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nephramine</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-1909</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1978-02-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017766</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Premasol - Sulfite-free (amino Acid)</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1130</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2003-06-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA075880</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Premasol - Sulfite-free (amino Acid)</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1131</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2003-06-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA075880</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Trophamine</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-9341</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1984-07-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA019018</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Trophamine</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-9361</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1984-07-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA019018</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>L-cysteine Hydrochloride</name>
+      <ingredients>Cysteine hydrochloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>L-cysteine Hydrochloride</name>
+      <ingredients>Cysteine hydrochloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>L-cysteine Hydrochloride</name>
+      <ingredients>Cysteine hydrochloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>L-cysteine Hydrochloride</name>
+      <ingredients>Cysteine hydrochloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Freamine III</name>
+      <ingredients>L-Isoleucine + L-Leucine + L-Lysine + L-Methionine + L-Phenylalanine + L-Threonine + L-Tryptophan + L-Valine + L-Alanine + L-Arginine + L-Histidine + L-Proline + L-Serine + Glycine + Cysteine hydrochloride + Phosphoric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Freamine Hbc</name>
+      <ingredients>L-Isoleucine + L-Leucine + L-Lysine + L-Methionine + L-Phenylalanine + L-Threonine + L-Tryptophan + L-Valine + L-Alanine + L-Arginine + L-Histidine + L-Proline + L-Serine + Glycine + Cysteine hydrochloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nephramine</name>
+      <ingredients>L-Histidine + L-Isoleucine + L-Leucine + L-Lysine + L-Methionine + L-Phenylalanine + L-Threonine + L-Tryptophan + L-Valine + Cysteine hydrochloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Trophamine</name>
+      <ingredients>L-Isoleucine + L-Leucine + L-Lysine + L-Methionine + L-Phenylalanine + L-Threonine + L-Tryptophan + L-Valine + Cysteine hydrochloride + L-Histidine + L-Tyrosine + N-acetyltyrosine + L-Alanine + L-Arginine + L-Proline + L-Serine + Glycine + L-Aspartic Acid + L-Glutamic Acid + Taurine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Trophamine</name>
+      <ingredients>L-Isoleucine + L-Leucine + L-Lysine + L-Methionine + L-Phenylalanine + L-Threonine + L-Tryptophan + L-Valine + Cysteine hydrochloride + L-Histidine + L-Tyrosine + N-acetyltyrosine + L-Alanine + L-Arginine + L-Proline + L-Serine + Glycine + L-Aspartic Acid + L-Glutamic Acid + Taurine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Hepatamine</name>
+      <ingredients>L-Isoleucine + L-Leucine + L-Lysine + L-Methionine + L-Phenylalanine + L-Threonine + L-Tryptophan + L-Valine + L-Alanine + L-Arginine + L-Histidine + L-Proline + L-Serine + Glycine + Cysteine hydrochloride + Phosphoric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Premasol - Sulfite-free (amino Acid)</name>
+      <ingredients>L-Leucine + L-Lysine + L-Isoleucine + L-Valine + L-Histidine + L-Phenylalanine + L-Threonine + L-Methionine + L-Tryptophan + L-Tyrosine + L-Arginine + L-Proline + L-Alanine + L-Glutamic Acid + L-Serine + Glycine + L-Aspartic Acid + Taurine + Cysteine hydrochloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Premasol - Sulfite-free (amino Acid)</name>
+      <ingredients>L-Leucine + L-Lysine + L-Isoleucine + L-Valine + L-Histidine + L-Phenylalanine + L-Threonine + L-Methionine + L-Tryptophan + L-Tyrosine + L-Arginine + L-Proline + L-Alanine + L-Glutamic Acid + L-Serine + Glycine + L-Aspartic Acid + Taurine + Cysteine hydrochloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>L-cysteine Hydrochloride</name>
+      <ingredients>Cysteine hydrochloride</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids</category>
+      <mesh-id>D000596</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Neutral</category>
+      <mesh-id>D021542</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Sulfur</category>
+      <mesh-id>D000603</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Sulfhydryl Compounds</category>
+      <mesh-id>D013438</mesh-id>
+    </category>
+    <category>
+      <category>Sulfur Compounds</category>
+      <mesh-id>D013457</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>50 mg/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

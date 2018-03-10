@@ -1,0 +1,1763 @@
+<drug type="small molecule" created="2015-12-03" updated="2017-03-21">
+  <drugbank-id primary="true">DB11126</drugbank-id>
+  <name>Calcium gluconate</name>
+  <description>Calcium gluconate is a mineral supplement and medication. Supplementation is generally only required when there is not enough calcium in the diet.  Supplementation may be done to treat or prevent osteoporosis or rickets. It can also be taken by mouth but is not recommended by injection into a muscle.&#13;
+Calcium Gluconate Injection, USP is a sterile, nonpyrogenic supersaturated solution of calcium gluconate for intravenous use only. Each mL contains: Calcium gluconate 94 mg; calcium saccharate (tetrahydrate) 4.5 mg; water for injection q.s. Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (6.0 to 8.2). Calcium saccharate provides 6% of the total calcium and stabilizes the supersaturated solution of calcium gluconate.&#13;
+Each 10 mL of the injection provides 93 mg elemental calcium (Ca++) equivalent to 1 g of calcium gluconate.</description>
+  <cas-number>299-28-5</cas-number>
+  <unii>SQE6VB453K</unii>
+  <average-mass>430.372</average-mass>
+  <monoisotopic-mass>430.0635463</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+    <group>vet_approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>2360741</pubmed-id>
+        <citation>Martin TJ, Kang Y, Robertson KM, Virji MA, Marquez JM: Ionization and hemodynamic effects of calcium chloride and calcium gluconate in the absence of hepatic function. Anesthesiology. 1990 Jul;73(1):62-5.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Calcium_gluconate</url>
+      </link>
+      <link>
+        <title>DRUGS.COM</title>
+        <url>https://www.drugs.com/pro/calcium-gluconate-injection.html</url>
+      </link>
+      <link>
+        <title>Pubchem</title>
+        <url>https://pubchem.ncbi.nlm.nih.gov/compound/calcium_gluconate#section=Therapeutic-Uses</url>
+      </link>
+      <link>
+        <title>ChemIDplus</title>
+        <url>https://chem.nlm.nih.gov/chemidplus/rn/299-28-5</url>
+      </link>
+      <link>
+        <title>DRUGS.COM</title>
+        <url>https://www.drugs.com/mmx/calcium-gluceptate-and-calcium-gluconate.html</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Oral calcium salts are used as dietary supplemental therapy for person who may not get enough calcium in their regular diet. Calcium gluconate is used as a cardioprotective agent in high blood potassium. Calcium gluconate is the antidote for magnesium sulfate toxicity.</indication>
+  <pharmacodynamics>Calcium Gluconate is the gluconate salt of calcium. An element or mineral necessary for normal nerve, muscle, and cardiac function, calcium as the gluconate salt helps to maintain calcium balance and prevent bone loss when taken orally. This agent may also be chemopreventive for colon and other cancers.</pharmacodynamics>
+  <mechanism-of-action>Calcium is essential for the functional integrity of the nervous, muscular, and skeletal systems. It plays a role in normal cardiac function, renal function, respiration, blood coagulation, and cell membrane and capillary permeability. Also, calcium helps to regulate the release and storage of neurotransmitters and hormones, the uptake and binding of amino acids, absorption of vitamin B 12, and gastrin secretion. The major fraction (99%) of calcium is in the skeletal structure primarily as hydroxyapatite, Ca 10(PO 4) 6(OH) 2; small amounts of calcium carbonate and amorphous calcium phosphates are also present. The calcium of bone is in a constant exchange with the calcium of plasma. Since the metabolic functions of calcium are essential for life, when there is a disturbance in the calcium balance because of dietary deficiency or other causes, the stores of calcium in bone may be depleted to fill the body's more acute needs. Therefore, on a chronic basis, normal mineralization of bone depends on adequate amounts of total body calcium. </mechanism-of-action>
+  <toxicity>Infants : LDLo  (Intramuscular ) : 10gm/kg ; Effects - Brain and coverings : meningeal changes&#13;
+Infants : TDLo ( Intramuscular ) : 143 mg/kg ; Effects - Dermatits&#13;
+Mouse: LD50 ( intravenous ) : 950mg/kg&#13;
+Mouse : LDLo (Oral ) : 10gm/kg</toxicity>
+  <metabolism>Calcium gluconate does not require hepatic metabolism for the release of Ca++ and is as effective as calcium chloride in treating ionic hypocalcemia in the absence of hepatic function.</metabolism>
+  <absorption>Approximately one-fifth to one-third of orally administered calcium is absorbed in the small intestine, depending on presence of vitamin D metabolites, pH in lumen, and on dietary factors, such as calcium binding to fiber or phytates. Calcium absorption is increased when a calcium deficiency is present or when a patient is on a low-calcium diet. In patients with achlorhydria or hypochlorhydria, calcium absorption, especially with the carbonate salt, may be reduced. </absorption>
+  <half-life/>
+  <protein-binding>Moderate, approximately 45% in plasma.</protein-binding>
+  <route-of-elimination>Renal (20%) - The amount excreted in the urine varies with degree of calcium absorption and whether there is excessive bone loss or failure of renal conservation. Fecal (80%) - Consists mainly of nonabsorbed calcium, with only a small amount of endogenous fecal calcium excreted.</route-of-elimination>
+  <volume-of-distribution>Not available</volume-of-distribution>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as sugar acids and derivatives. These are compounds containing a saccharide unit which bears a carboxylic acid group.</description>
+    <direct-parent>Sugar acids and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic oxygen compounds</superclass>
+    <class>Organooxygen compounds</class>
+    <subclass>Carbohydrates and carbohydrate conjugates</subclass>
+    <alternative-parent>Beta hydroxy acids and derivatives</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carboxylic acid salts</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Hydroxy fatty acids</alternative-parent>
+    <alternative-parent>Medium-chain fatty acids</alternative-parent>
+    <alternative-parent>Medium-chain hydroxy acids and derivatives</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Monosaccharides</alternative-parent>
+    <alternative-parent>Organic calcium salts</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organic zwitterions</alternative-parent>
+    <alternative-parent>Polyols</alternative-parent>
+    <alternative-parent>Primary alcohols</alternative-parent>
+    <alternative-parent>Secondary alcohols</alternative-parent>
+    <substituent>Alcohol</substituent>
+    <substituent>Aliphatic acyclic compound</substituent>
+    <substituent>Beta-hydroxy acid</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Carboxylic acid salt</substituent>
+    <substituent>Fatty acid</substituent>
+    <substituent>Fatty acyl</substituent>
+    <substituent>Gluconic_acid</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Hydroxy acid</substituent>
+    <substituent>Hydroxy fatty acid</substituent>
+    <substituent>Medium-chain fatty acid</substituent>
+    <substituent>Medium-chain hydroxy acid</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>Monosaccharide</substituent>
+    <substituent>Organic calcium salt</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic salt</substituent>
+    <substituent>Organic zwitterion</substituent>
+    <substituent>Polyol</substituent>
+    <substituent>Primary alcohol</substituent>
+    <substituent>Secondary alcohol</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001520</drugbank-id>
+      <name>Calcium gluconate monohydrate</name>
+      <unii>CZN0MI5R31</unii>
+      <cas-number>66905-23-5</cas-number>
+      <inchikey>XLNFVCRGJZBQGX-XRDLMGPZSA-L</inchikey>
+      <average-mass>448.387</average-mass>
+      <monoisotopic-mass>448.074111</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">Calcarea gluconica</synonym>
+    <synonym language="Latin" coder="">Calcii gluconas</synonym>
+    <synonym language="" coder="">Calcium di-gluconate</synonym>
+    <synonym language="" coder="">Calcium gluconate anhydrous</synonym>
+    <synonym language="" coder="">Calcium gluconate, anhydrous</synonym>
+    <synonym language="" coder="">D-gluconic acid, calcium salt (2:1)</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Calcium Gluconate</name>
+      <labeller>General Injectables &amp; Vaccines</labeller>
+      <ndc-id/>
+      <ndc-product-code>52584-950</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-04-01</started-marketing-on>
+      <ended-marketing-on>2017-02-02</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>.465 meq/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate</name>
+      <labeller>Remedy Repack</labeller>
+      <ndc-id/>
+      <ndc-product-code>61786-357</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-06-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>94 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate</name>
+      <labeller>General Injectables &amp; Vaccines</labeller>
+      <ndc-id/>
+      <ndc-product-code>52584-311</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-08-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>94 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate</name>
+      <labeller>APP Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-311</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-07-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>94 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-3900</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1992-12-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>98 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-3950</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>98 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate</name>
+      <labeller>A S Medication Solutions</labeller>
+      <ndc-id/>
+      <ndc-product-code>50090-2362</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-08-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>94 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate</name>
+      <labeller>Remedy Repack</labeller>
+      <ndc-id/>
+      <ndc-product-code>61786-432</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-10-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>94 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>55154-9370</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-08-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>94 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate</name>
+      <labeller>Remedy Repack</labeller>
+      <ndc-id/>
+      <ndc-product-code>61786-225</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-03-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>94 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate 10% Inj 100mg/ml</name>
+      <labeller>Astra Zeneca</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00707813</dpd-id>
+      <started-marketing-on>1986-12-31</started-marketing-on>
+      <ended-marketing-on>2004-11-01</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>100 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate Inj 10%</name>
+      <labeller>Lyphomed, Division Of Fujisawa Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01944967</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-10</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>100 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate Inj 100mg/ml</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00497274</dpd-id>
+      <started-marketing-on>1981-12-31</started-marketing-on>
+      <ended-marketing-on>2010-11-05</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>100 mg</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate Inj USP 10%</name>
+      <labeller>International Medication Systems, Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00629774</dpd-id>
+      <started-marketing-on>1985-12-31</started-marketing-on>
+      <ended-marketing-on>1997-08-15</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>.465 meq</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate Injection USP</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00780618</dpd-id>
+      <started-marketing-on>1990-12-31</started-marketing-on>
+      <ended-marketing-on>2010-11-17</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>94 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate Tab 600mg</name>
+      <labeller>Swiss Herbal Remedies Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00592889</dpd-id>
+      <started-marketing-on>1983-12-31</started-marketing-on>
+      <ended-marketing-on>2003-09-10</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>600 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate Tab 648mg</name>
+      <labeller>Pharmetics (2011) Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00162574</dpd-id>
+      <started-marketing-on>1973-12-31</started-marketing-on>
+      <ended-marketing-on>2000-08-21</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>648 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate Tab 648mg</name>
+      <labeller>Hall Laboratories, Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00529842</dpd-id>
+      <started-marketing-on>1981-12-31</started-marketing-on>
+      <ended-marketing-on>2003-09-11</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>648 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate Tab 648mg USP</name>
+      <labeller>Lab Gernetic Int Ltee</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00654205</dpd-id>
+      <started-marketing-on>1985-12-31</started-marketing-on>
+      <ended-marketing-on>1997-02-21</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>648 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate Tab 650mg</name>
+      <labeller>D.C. Labs Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00094773</dpd-id>
+      <started-marketing-on>1969-12-31</started-marketing-on>
+      <ended-marketing-on>2005-07-19</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>650 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate Tab 650mg</name>
+      <labeller>Shoppers Drug Mart Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00415103</dpd-id>
+      <started-marketing-on>1978-12-31</started-marketing-on>
+      <ended-marketing-on>1997-08-15</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>650 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate Tab 650mg</name>
+      <labeller>Vita Health Products Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00179698</dpd-id>
+      <started-marketing-on>1972-12-31</started-marketing-on>
+      <ended-marketing-on>2002-07-31</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>650 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate Tab 650mg</name>
+      <labeller>Wampole Brands, A Division Of Pangeo Pharma (Canada) Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00241717</dpd-id>
+      <started-marketing-on>1979-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-09</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>650 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Gluconate Tablets 648mg USP</name>
+      <labeller>Vita Health Products Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00782130</dpd-id>
+      <started-marketing-on>1988-12-31</started-marketing-on>
+      <ended-marketing-on>2002-07-31</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>648 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Liquid</name>
+      <labeller>Shoppers Drug Mart Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00548154</dpd-id>
+      <started-marketing-on>1981-12-31</started-marketing-on>
+      <ended-marketing-on>1997-08-15</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Liquid</name>
+      <labeller>Vita Health Products Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00508640</dpd-id>
+      <started-marketing-on>1980-12-31</started-marketing-on>
+      <ended-marketing-on>2002-07-31</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Liquid</name>
+      <labeller>Ksl Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01904469</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-09</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Magnesium Plus Vitamin D Liquid</name>
+      <labeller>Jamp Pharma Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02198711</dpd-id>
+      <started-marketing-on>2002-04-22</started-marketing-on>
+      <ended-marketing-on>2003-02-05</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Exchange Transfusion Tray 10%</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01949144</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>1999-08-10</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>10 %</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Liquid Calcium</name>
+      <labeller>Wampole Brands, A Division Of Pangeo Pharma (Canada) Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230646</dpd-id>
+      <started-marketing-on>1998-08-12</started-marketing-on>
+      <ended-marketing-on>2000-07-06</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Multiple Electrolyte Additive Inj</name>
+      <labeller>International Medication Systems, Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00421952</dpd-id>
+      <started-marketing-on>1980-12-31</started-marketing-on>
+      <ended-marketing-on>1997-08-15</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Calcium Gluconate</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate Injection USP</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Exchange Transfusion Tray 10%</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate Tab 650mg</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate Inj 10%</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Liquid</name>
+      <ingredients>Calcium Gluceptate + Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate Tab 648mg</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate Tab 650mg</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate Tab 650mg</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Magnesium Plus Vitamin D Liquid</name>
+      <ingredients>Calcium gluconate + Ergocalciferol + Inositol + Magnesium citrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Multiple Electrolyte Additive Inj</name>
+      <ingredients>Calcium gluconate + Potassium Chloride + Sodium Chloride + Magnesium Sulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Liquid</name>
+      <ingredients>Calcium Gluceptate + Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate Inj 100mg/ml</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate Tab 648mg</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Liquid</name>
+      <ingredients>Calcium Gluceptate + Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Liquid Calcium</name>
+      <ingredients>Calcium Gluceptate + Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate Tab 600mg</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate Inj USP 10%</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate Tab 648mg USP</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate Tab 650mg</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate 10% Inj 100mg/ml</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate Tablets 648mg USP</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Gluconate</name>
+      <ingredients>Calcium gluconate</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acids, Acyclic</category>
+      <mesh-id>D000144</mesh-id>
+    </category>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Calcium Salts</category>
+      <mesh-id>D002118</mesh-id>
+    </category>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>Carboxylic Acids</category>
+      <mesh-id>D002264</mesh-id>
+    </category>
+    <category>
+      <category>Gluconates</category>
+      <mesh-id>D005942</mesh-id>
+    </category>
+    <category>
+      <category>Hydroxy Acids</category>
+      <mesh-id>D006880</mesh-id>
+    </category>
+    <category>
+      <category>Mineral Supplements</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Sugar Acids</category>
+      <mesh-id>D013400</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>.465 meq/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>94 mg/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>98 mg/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intravenous</route>
+      <strength>100 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>100 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>100 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>.465 meq</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>94 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>600 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>648 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>650 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intravenous</route>
+      <strength>10 %</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="D11AX03">
+      <level code="D11AX">Other dermatologicals</level>
+      <level code="D11A">OTHER DERMATOLOGICAL PREPARATIONS</level>
+      <level code="D11">OTHER DERMATOLOGICAL PREPARATIONS</level>
+      <level code="D">DERMATOLOGICALS</level>
+    </atc-code>
+    <atc-code code="A12AA03">
+      <level code="A12AA">Calcium</level>
+      <level code="A12A">CALCIUM</level>
+      <level code="A12">MINERAL SUPPLEMENTS</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00511</drugbank-id>
+      <name>Acetyldigitoxin</name>
+      <description>Calcium gluconate may increase the arrhythmogenic activities of Acetyldigitoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00630</drugbank-id>
+      <name>Alendronic acid</name>
+      <description>The serum concentration of Alendronic acid can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01436</drugbank-id>
+      <name>Alfacalcidol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium gluconate is combined with Alfacalcidol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00381</drugbank-id>
+      <name>Amlodipine</name>
+      <description>The therapeutic efficacy of Amlodipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01427</drugbank-id>
+      <name>Amrinone</name>
+      <description>The therapeutic efficacy of Amrinone can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09230</drugbank-id>
+      <name>Azelnidipine</name>
+      <description>The therapeutic efficacy of Azelnidipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04957</drugbank-id>
+      <name>Azimilide</name>
+      <description>The therapeutic efficacy of Azimilide can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09227</drugbank-id>
+      <name>Barnidipine</name>
+      <description>The therapeutic efficacy of Barnidipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00436</drugbank-id>
+      <name>Bendroflumethiazide</name>
+      <description>Bendroflumethiazide may decrease the excretion rate of Calcium gluconate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09231</drugbank-id>
+      <name>Benidipine</name>
+      <description>The therapeutic efficacy of Benidipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01244</drugbank-id>
+      <name>Bepridil</name>
+      <description>The therapeutic efficacy of Bepridil can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11960</drugbank-id>
+      <name>Cai</name>
+      <description>The therapeutic efficacy of Cai can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00146</drugbank-id>
+      <name>Calcidiol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium gluconate is combined with Calcidiol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02300</drugbank-id>
+      <name>Calcipotriol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium gluconate is combined with Calcipotriol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00136</drugbank-id>
+      <name>Calcitriol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium gluconate is combined with Calcitriol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00258</drugbank-id>
+      <name>Calcium Acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium gluconate is combined with Calcium Acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01212</drugbank-id>
+      <name>Ceftriaxone</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium gluconate is combined with Ceftriaxone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00880</drugbank-id>
+      <name>Chlorothiazide</name>
+      <description>Chlorothiazide may decrease the excretion rate of Calcium gluconate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09093</drugbank-id>
+      <name>Chlortetracycline</name>
+      <description>The serum concentration of Chlortetracycline can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00310</drugbank-id>
+      <name>Chlorthalidone</name>
+      <description>Chlorthalidone may decrease the excretion rate of Calcium gluconate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00169</drugbank-id>
+      <name>Cholecalciferol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium gluconate is combined with Cholecalciferol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09232</drugbank-id>
+      <name>Cilnidipine</name>
+      <description>The therapeutic efficacy of Cilnidipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00568</drugbank-id>
+      <name>Cinnarizine</name>
+      <description>The therapeutic efficacy of Cinnarizine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00827</drugbank-id>
+      <name>Cinoxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Cinoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00537</drugbank-id>
+      <name>Ciprofloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Ciprofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04920</drugbank-id>
+      <name>Clevidipine</name>
+      <description>The therapeutic efficacy of Clevidipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00720</drugbank-id>
+      <name>Clodronate</name>
+      <description>The serum concentration of Clodronate can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09234</drugbank-id>
+      <name>Darodipine</name>
+      <description>The therapeutic efficacy of Darodipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08826</drugbank-id>
+      <name>Deferiprone</name>
+      <description>The serum concentration of Deferiprone can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00618</drugbank-id>
+      <name>Demeclocycline</name>
+      <description>The serum concentration of Demeclocycline can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01078</drugbank-id>
+      <name>Deslanoside</name>
+      <description>Calcium gluconate may increase the arrhythmogenic activities of Deslanoside.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01396</drugbank-id>
+      <name>Digitoxin</name>
+      <description>Calcium gluconate may increase the arrhythmogenic activities of Digitoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00390</drugbank-id>
+      <name>Digoxin</name>
+      <description>Calcium gluconate may increase the arrhythmogenic activities of Digoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01070</drugbank-id>
+      <name>Dihydrotachysterol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium gluconate is combined with Dihydrotachysterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00343</drugbank-id>
+      <name>Diltiazem</name>
+      <description>The therapeutic efficacy of Diltiazem can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09414</drugbank-id>
+      <name>Dipotassium phosphate</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00841</drugbank-id>
+      <name>Dobutamine</name>
+      <description>The therapeutic efficacy of Dobutamine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08930</drugbank-id>
+      <name>Dolutegravir</name>
+      <description>The serum concentration of Dolutegravir can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06446</drugbank-id>
+      <name>Dotarizine</name>
+      <description>The therapeutic efficacy of Dotarizine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06410</drugbank-id>
+      <name>Doxercalciferol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium gluconate is combined with Doxercalciferol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00254</drugbank-id>
+      <name>Doxycycline</name>
+      <description>The serum concentration of Doxycycline can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09235</drugbank-id>
+      <name>Efonidipine</name>
+      <description>The therapeutic efficacy of Efonidipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06210</drugbank-id>
+      <name>Eltrombopag</name>
+      <description>The serum concentration of Eltrombopag can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00467</drugbank-id>
+      <name>Enoxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Enoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08992</drugbank-id>
+      <name>Eperisone</name>
+      <description>The therapeutic efficacy of Eperisone can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00153</drugbank-id>
+      <name>Ergocalciferol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium gluconate is combined with Ergocalciferol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01196</drugbank-id>
+      <name>Estramustine</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Estramustine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01077</drugbank-id>
+      <name>Etidronic acid</name>
+      <description>The serum concentration of Etidronic acid can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01023</drugbank-id>
+      <name>Felodipine</name>
+      <description>The therapeutic efficacy of Felodipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08980</drugbank-id>
+      <name>Fendiline</name>
+      <description>The therapeutic efficacy of Fendiline can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04576</drugbank-id>
+      <name>Fleroxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Fleroxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08972</drugbank-id>
+      <name>Flumequine</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Flumequine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04841</drugbank-id>
+      <name>Flunarizine</name>
+      <description>The therapeutic efficacy of Flunarizine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00996</drugbank-id>
+      <name>Gabapentin</name>
+      <description>The therapeutic efficacy of Gabapentin can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12923</drugbank-id>
+      <name>Gallopamil</name>
+      <description>The therapeutic efficacy of Gallopamil can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06160</drugbank-id>
+      <name>Garenoxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Garenoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01044</drugbank-id>
+      <name>Gatifloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Gatifloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01155</drugbank-id>
+      <name>Gemifloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Gemifloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00365</drugbank-id>
+      <name>Grepafloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Grepafloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00999</drugbank-id>
+      <name>Hydrochlorothiazide</name>
+      <description>Hydrochlorothiazide may decrease the excretion rate of Calcium gluconate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00774</drugbank-id>
+      <name>Hydroflumethiazide</name>
+      <description>Hydroflumethiazide may decrease the excretion rate of Calcium gluconate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00710</drugbank-id>
+      <name>Ibandronate</name>
+      <description>The serum concentration of Ibandronate can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00808</drugbank-id>
+      <name>Indapamide</name>
+      <description>Indapamide may decrease the excretion rate of Calcium gluconate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00270</drugbank-id>
+      <name>Isradipine</name>
+      <description>The therapeutic efficacy of Isradipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09236</drugbank-id>
+      <name>Lacidipine</name>
+      <description>The therapeutic efficacy of Lacidipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00555</drugbank-id>
+      <name>Lamotrigine</name>
+      <description>The therapeutic efficacy of Lamotrigine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00528</drugbank-id>
+      <name>Lercanidipine</name>
+      <description>The therapeutic efficacy of Lercanidipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01137</drugbank-id>
+      <name>Levofloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Levofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00451</drugbank-id>
+      <name>Levothyroxine</name>
+      <description>The therapeutic efficacy of Levothyroxine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00279</drugbank-id>
+      <name>Liothyronine</name>
+      <description>The therapeutic efficacy of Liothyronine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01583</drugbank-id>
+      <name>Liotrix</name>
+      <description>The therapeutic efficacy of Liotrix can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00166</drugbank-id>
+      <name>Lipoic Acid</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Lipoic Acid resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00978</drugbank-id>
+      <name>Lomefloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Lomefloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00653</drugbank-id>
+      <name>Magnesium Sulfate</name>
+      <description>The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09238</drugbank-id>
+      <name>Manidipine</name>
+      <description>The therapeutic efficacy of Manidipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00232</drugbank-id>
+      <name>Methyclothiazide</name>
+      <description>Methyclothiazide may decrease the excretion rate of Calcium gluconate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00524</drugbank-id>
+      <name>Metolazone</name>
+      <description>Metolazone may decrease the excretion rate of Calcium gluconate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01388</drugbank-id>
+      <name>Mibefradil</name>
+      <description>The therapeutic efficacy of Mibefradil can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01017</drugbank-id>
+      <name>Minocycline</name>
+      <description>The serum concentration of Minocycline can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00218</drugbank-id>
+      <name>Moxifloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Moxifloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12092</drugbank-id>
+      <name>Naftopidil</name>
+      <description>The therapeutic efficacy of Naftopidil can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00779</drugbank-id>
+      <name>Nalidixic Acid</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Nalidixic Acid resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06600</drugbank-id>
+      <name>Nemonoxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Nemonoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00622</drugbank-id>
+      <name>Nicardipine</name>
+      <description>The therapeutic efficacy of Nicardipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01115</drugbank-id>
+      <name>Nifedipine</name>
+      <description>The therapeutic efficacy of Nifedipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09239</drugbank-id>
+      <name>Niguldipine</name>
+      <description>The therapeutic efficacy of Niguldipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09240</drugbank-id>
+      <name>Niludipine</name>
+      <description>The therapeutic efficacy of Niludipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06712</drugbank-id>
+      <name>Nilvadipine</name>
+      <description>The therapeutic efficacy of Nilvadipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04743</drugbank-id>
+      <name>Nimesulide</name>
+      <description>The therapeutic efficacy of Nimesulide can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00393</drugbank-id>
+      <name>Nimodipine</name>
+      <description>The therapeutic efficacy of Nimodipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00401</drugbank-id>
+      <name>Nisoldipine</name>
+      <description>The therapeutic efficacy of Nisoldipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01054</drugbank-id>
+      <name>Nitrendipine</name>
+      <description>The therapeutic efficacy of Nitrendipine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01059</drugbank-id>
+      <name>Norfloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Norfloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01165</drugbank-id>
+      <name>Ofloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Ofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12843</drugbank-id>
+      <name>Oleandrin</name>
+      <description>Calcium gluconate may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01092</drugbank-id>
+      <name>Ouabain</name>
+      <description>Calcium gluconate may increase the arrhythmogenic activities of Ouabain.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00595</drugbank-id>
+      <name>Oxytetracycline</name>
+      <description>The serum concentration of Oxytetracycline can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00282</drugbank-id>
+      <name>Pamidronate</name>
+      <description>The serum concentration of Pamidronate can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00910</drugbank-id>
+      <name>Paricalcitol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium gluconate is combined with Paricalcitol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11774</drugbank-id>
+      <name>Pazufloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Pazufloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00487</drugbank-id>
+      <name>Pefloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Pefloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01074</drugbank-id>
+      <name>Perhexiline</name>
+      <description>The therapeutic efficacy of Perhexiline can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09090</drugbank-id>
+      <name>Pinaverium</name>
+      <description>The therapeutic efficacy of Pinaverium can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01324</drugbank-id>
+      <name>Polythiazide</name>
+      <description>Polythiazide may decrease the excretion rate of Calcium gluconate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00230</drugbank-id>
+      <name>Pregabalin</name>
+      <description>The therapeutic efficacy of Pregabalin can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04825</drugbank-id>
+      <name>Prenylamine</name>
+      <description>The therapeutic efficacy of Prenylamine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11892</drugbank-id>
+      <name>Prulifloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Prulifloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01325</drugbank-id>
+      <name>Quinethazone</name>
+      <description>Quinethazone may decrease the excretion rate of Calcium gluconate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00884</drugbank-id>
+      <name>Risedronate</name>
+      <description>The serum concentration of Risedronate can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00817</drugbank-id>
+      <name>Rosoxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Rosoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09561</drugbank-id>
+      <name>Sodium glycerophosphate</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Sodium glycerophosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09449</drugbank-id>
+      <name>Sodium phosphates</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01208</drugbank-id>
+      <name>Sparfloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Sparfloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09267</drugbank-id>
+      <name>Strontium ranelate</name>
+      <description>The serum concentration of Strontium ranelate can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09411</drugbank-id>
+      <name>Technetium tc 99m etidronate</name>
+      <description>The serum concentration of Technetium tc 99m etidronate can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09138</drugbank-id>
+      <name>Technetium Tc-99m Medronate</name>
+      <description>The serum concentration of Technetium Tc-99m Medronate can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01405</drugbank-id>
+      <name>Temafloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Temafloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00759</drugbank-id>
+      <name>Tetracycline</name>
+      <description>The serum concentration of Tetracycline can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09100</drugbank-id>
+      <name>Thyroid, porcine</name>
+      <description>The therapeutic efficacy of Thyroid, porcine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01133</drugbank-id>
+      <name>Tiludronic acid</name>
+      <description>The serum concentration of Tiludronate can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09216</drugbank-id>
+      <name>Tolfenamic Acid</name>
+      <description>The therapeutic efficacy of Tolfenamic Acid can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07615</drugbank-id>
+      <name>Tranilast</name>
+      <description>The therapeutic efficacy of Tranilast can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01021</drugbank-id>
+      <name>Trichlormethiazide</name>
+      <description>Trichlormethiazide may decrease the excretion rate of Calcium gluconate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06824</drugbank-id>
+      <name>Triethylenetetramine</name>
+      <description>The serum concentration of Triethylenetetramine can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00685</drugbank-id>
+      <name>Trovafloxacin</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Trovafloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00661</drugbank-id>
+      <name>Verapamil</name>
+      <description>The therapeutic efficacy of Verapamil can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12131</drugbank-id>
+      <name>Vinpocetine</name>
+      <description>The therapeutic efficacy of Vinpocetine can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06694</drugbank-id>
+      <name>Xylometazoline</name>
+      <description>The therapeutic efficacy of Xylometazoline can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06283</drugbank-id>
+      <name>Ziconotide</name>
+      <description>The therapeutic efficacy of Ziconotide can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00399</drugbank-id>
+      <name>Zoledronic acid</name>
+      <description>The serum concentration of Zoledronic acid can be decreased when it is combined with Calcium gluconate.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-2</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-0.99</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>4.42e+01 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-3.4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>calcium bis((2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoate)</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>calcium bis(D-gluconate)</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>430.372</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>430.0635463</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[Ca++].[H][C@@](O)(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]([H])(O)C([O-])=O.[H][C@@](O)(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]([H])(O)C([O-])=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C12H22CaO14</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/2C6H12O7.Ca/c2*7-1-2(8)3(9)4(10)5(11)6(12)13;/h2*2-5,7-11H,1H2,(H,12,13);/q;;+2/p-2/t2*2-,3-,4+,5-;/m11./s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>NEEHYRZPVYRGPP-IYEMJOQQSA-L</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>141.28</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>49.11</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>16.62</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>10</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>3.39</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>21190</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>4808</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C08133</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2106119</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

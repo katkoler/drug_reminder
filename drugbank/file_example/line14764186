@@ -1,0 +1,520 @@
+<drug type="biotech" created="2016-05-20" updated="2016-08-17">
+  <drugbank-id primary="true">DB11597</drugbank-id>
+  <name>Human Rho(D) immune globulin</name>
+  <description>Human Rho(D) immune globulin is a medicine given by intramuscular injection that is used to prevent the immunological condition known as Rh disease (or hemolytic disease of newborn). Human Rho(D) immune globulin is produced by an ion-exchange chromatography isolation procedure, using pooled plasma obtained by plasmapheresis of immunized Rh0(D)-negative US donors.</description>
+  <cas-number/>
+  <unii>48W7181FLP</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Anti-D immunoglobulin</synonym>
+    <synonym language="" coder="">Anti-D immunoglobulins</synonym>
+    <synonym language="" coder="">Human anti-D immunoglobulin</synonym>
+    <synonym language="" coder="">IGG, Rho (D)</synonym>
+    <synonym language="" coder="">Immunoglobulin human anti-RH</synonym>
+    <synonym language="" coder="">Rh0(D) Immune Globulin Intravenous (Human)</synonym>
+    <synonym language="" coder="">Rho (D) immune globulin,human</synonym>
+    <synonym language="" coder="">Rho D immune globulin human</synonym>
+    <synonym language="" coder="">Rho(D) immune globulin (human)</synonym>
+    <synonym language="" coder="">Rho(D) immune globulin human</synonym>
+    <synonym language="" coder="">Rho(D) immune globulin IM human</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Hyp Rho D Inj 16.5%</name>
+      <labeller>Cutter Med &amp; Biol, Division Of Miles Canada Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00083267</dpd-id>
+      <started-marketing-on>1979-12-31</started-marketing-on>
+      <ended-marketing-on>1998-09-25</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>16.5 %</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Hyperrho S/d Full Dose</name>
+      <labeller>Grifols</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-631</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1996-08-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>1500 [iU]/1</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA101141</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Hyperrho S/d Mini-dose</name>
+      <labeller>Grifols</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-661</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1996-08-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>250 [iU]/1</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA101141</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Micrhogam Ultra-filtered Plus</name>
+      <labeller>Kedrion Melville, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0562-7806</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>50 ug/1</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103777</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rhogam Ultra-filtered Plus</name>
+      <labeller>Kedrion Melville, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0562-7805</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 ug/1</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103777</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rhophylac</name>
+      <labeller>Csl Behring Ag</labeller>
+      <ndc-id/>
+      <ndc-product-code>44206-300</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-01-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>1500 [iU]/2mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>BLA125070</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Winrho Sd Kit Inj</name>
+      <labeller>Rh Pharmaceuticals Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02022842</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>1997-07-22</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Winrho Sd Kit Inj.</name>
+      <labeller>Rh Pharmaceuticals Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02022834</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>1997-07-22</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Winrho Sdf</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02217430</dpd-id>
+      <started-marketing-on>1997-01-10</started-marketing-on>
+      <ended-marketing-on>2016-07-15</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>600 unit</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Winrho Sdf</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02217449</dpd-id>
+      <started-marketing-on>1996-08-28</started-marketing-on>
+      <ended-marketing-on>2016-07-15</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>1500 unit</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Winrho Sdf</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230397</dpd-id>
+      <started-marketing-on>1998-01-28</started-marketing-on>
+      <ended-marketing-on>2016-07-15</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>5000 unit</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Winrho Sdf      (liquid Formulation)</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02302594</dpd-id>
+      <started-marketing-on>2008-06-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>5000 unit</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Winrho Sdf      (liquid Formulation)</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02302551</dpd-id>
+      <started-marketing-on>2008-06-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>600 unit</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Winrho Sdf      (liquid Formulation)</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02302578</dpd-id>
+      <started-marketing-on>2008-06-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>1500 unit</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Winrho Sdf      (liquid Formulation)</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02302586</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>2500 unit</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Winrho Sdf      (liquid Formulation)</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02302608</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>15000 unit</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Rhogam Ultra-filtered Plus</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Micrhogam Ultra-filtered Plus</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Hyperrho S/d Full Dose</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Hyperrho S/d Mini-dose</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Winrho Sd Kit Inj</name>
+      <ingredients>Sodium Chloride + Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Winrho Sd Kit Inj.</name>
+      <ingredients>Sodium Chloride + Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Hyp Rho D Inj 16.5%</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Winrho Sdf      (liquid Formulation)</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Winrho Sdf      (liquid Formulation)</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Winrho Sdf      (liquid Formulation)</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Winrho Sdf      (liquid Formulation)</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Winrho Sdf      (liquid Formulation)</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Winrho Sdf</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Winrho Sdf</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Winrho Sdf</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rhophylac</name>
+      <ingredients>Human Rho(D) immune globulin</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular</route>
+      <strength>16.5 %</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular</route>
+      <strength>1500 [iU]/1</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular</route>
+      <strength>250 [iU]/1</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular</route>
+      <strength>50 ug/1</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular</route>
+      <strength>300 ug/1</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>1500 [iU]/2mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>1500 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>5000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>600 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>1500 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>15000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>2500 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>5000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>600 unit</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7768</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7771</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Rho(D)_immune_globulin</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

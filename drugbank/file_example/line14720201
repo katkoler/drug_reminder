@@ -1,0 +1,829 @@
+<drug type="small molecule" created="2015-12-03" updated="2017-02-11">
+  <drugbank-id primary="true">DB11133</drugbank-id>
+  <name>Omega-3 fatty acids</name>
+  <description>Omega-3 fatty acids are polyunsaturated fatty acids (PUFAs) with a double bond at the third carbon atom from the end of the carbon chain. The three types of omega-3 fatty acids involved in human physiology are α-linolenic acid (ALA) (found in plant oils), eicosapentaenoic acid (EPA), and docosahexaenoic acid (DHA) (both commonly found in marine oils).</description>
+  <cas-number/>
+  <unii>1DI56QDM62</unii>
+  <groups>
+    <group>approved</group>
+    <group>nutraceutical</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">n-3 fatty acids</synonym>
+    <synonym language="" coder="">Omega 3 fatty acids</synonym>
+    <synonym language="" coder="">Omega-3</synonym>
+    <synonym language="" coder="">Omega-3 acid</synonym>
+    <synonym language="" coder="">Omega-3 acid</synonym>
+    <synonym language="" coder="">Omega-3 acid triglycerides</synonym>
+    <synonym language="" coder="">Omega-3 fatty acid</synonym>
+    <synonym language="" coder="">Omega-3 phospholipids</synonym>
+    <synonym language="" coder="">Omega-3 polyunsaturated fatty acids</synonym>
+    <synonym language="" coder="">Omega-3 polyunsaturates</synonym>
+    <synonym language="" coder="">Phospholipids</synonym>
+    <synonym language="" coder="">ω-3 fatty acids</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Animi-3</name>
+      <labeller>Pbm Pharmaceuticals Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>66213-543</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Animi-3 With Vitamin D</name>
+      <labeller>Pbm Pharmaceuticals Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>66213-542</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>C-nate DHA</name>
+      <labeller>Centurion Labs</labeller>
+      <ndc-id/>
+      <ndc-product-code>23359-105</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>PNF-First</name>
+      <labeller>Acella Pharmaceuticals, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>42192-350</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-05-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Reaphirm Plant Source DHA</name>
+      <labeller>Everett Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0642-3010</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-12-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Se-tan DHA</name>
+      <labeller>Seton Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>13925-119</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-10-01</started-marketing-on>
+      <ended-marketing-on>2016-04-30</ended-marketing-on>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Se-tan DHA</name>
+      <labeller>Cameron Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>42494-119</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-10-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Tozal</name>
+      <labeller>Focus Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>15821-501</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-06-01</started-marketing-on>
+      <ended-marketing-on>2016-10-13</ended-marketing-on>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ultimatecare One Nf</name>
+      <labeller>Trigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>13811-050</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-12-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vitafol One</name>
+      <labeller>Everett Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0642-0070</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-06-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vitafol Plus</name>
+      <labeller>Everett Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0642-0092</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-04-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Vitafol One</name>
+      <ingredients>Vitamin A + Vitamin C + Thiamine + Riboflavin + Niacin + Pyridoxine + Cyanocobalamin + Folic Acid + Iodine + Magnesium + Zinc + Copper + Vitamin d + Omega-3 fatty acids + Vitamin E + Iron</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vitafol Plus</name>
+      <ingredients>Omega-3 fatty acids + Niacin + Vitamin E + Vitamin d + Lauric Acid + Vitamin A + Vitamin C + Thiamine + Riboflavin + Pyridoxine + Cyanocobalamin + Iron + Zinc + Copper + Iodine + Magnesium + Folic Acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Reaphirm Plant Source DHA</name>
+      <ingredients>Vitamin A + Vitamin C + Thiamine + Riboflavin + Niacin + Pyridoxine + Cyanocobalamin + Folic Acid + Iodine + Magnesium + Zinc + Copper + Vitamin d + Omega-3 fatty acids + Vitamin E + Iron</ingredients>
+    </mixture>
+    <mixture>
+      <name>Se-tan DHA</name>
+      <ingredients>Iron + Iron Dextran + Vitamin C + Folic Acid + Pyridoxine + Omega-3 fatty acids + Doconexent + Icosapent</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tozal</name>
+      <ingredients>Vitamin A + Vitamin C + Cholecalciferol + Vitamin E + Pyridoxine + Folic Acid + Cyanocobalamin + Zinc picolinate + Copper + Omega-3 fatty acids + Taurine + Lutein + Zeaxanthin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Se-tan DHA</name>
+      <ingredients>Iron + Iron Dextran + Vitamin C + Folic Acid + Pyridoxine + Omega-3 fatty acids + Doconexent + Icosapent</ingredients>
+    </mixture>
+    <mixture>
+      <name>Animi-3 With Vitamin D</name>
+      <ingredients>Folic Acid + Cholecalciferol + Pyridoxine + Cyanocobalamin + Omega-3 fatty acids + Doconexent + Icosapent + Soy sterol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Animi-3</name>
+      <ingredients>Folic Acid + Cholecalciferol + Pyridoxine + Cyanocobalamin + Omega-3 fatty acids + Doconexent + Icosapent + Soy sterol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ultimatecare One Nf</name>
+      <ingredients>Omega-3 fatty acids + Doconexent + Icosapent + Alpha-Linolenic Acid + Calcium ascorbate + Calcium threonate + Cholecalciferol + Vitamin E + Riboflavin + Nicotinamide + Pyridoxine + Folic Acid + Biotin + Calcium + Iron + Ferrous asparto glycinate + Iodine + Magnesium oxide + Zinc oxide + Docusate</ingredients>
+    </mixture>
+    <mixture>
+      <name>PNF-First</name>
+      <ingredients>Beta carotene + Vitamin C + Cholecalciferol + Vitamin E + Thiamine + Riboflavin + Nicotinamide + Folic Acid + Pyridoxine + Cyanocobalamin + Iron saccharate + Potassium Iodide + Magnesium oxide + Zinc oxide + Cupric oxide + Omega-3 fatty acids</ingredients>
+    </mixture>
+    <mixture>
+      <name>C-nate DHA</name>
+      <ingredients>Omega-3 fatty acids + Thiamine + Riboflavin + Pyridoxine + Cyanocobalamin + Folic Acid + Cholecalciferol + Vitamin C + Vitamin E + Cupric sulfate + Zinc oxide + Iron + Magnesium</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Diet, Food, and Nutrition</category>
+      <mesh-id>D000066888</mesh-id>
+    </category>
+    <category>
+      <category>Dietary Fats</category>
+      <mesh-id>D004041</mesh-id>
+    </category>
+    <category>
+      <category>Dietary Fats, Unsaturated</category>
+      <mesh-id>D004042</mesh-id>
+    </category>
+    <category>
+      <category>Fats</category>
+      <mesh-id>D005223</mesh-id>
+    </category>
+    <category>
+      <category>Fatty Acids</category>
+      <mesh-id>D005227</mesh-id>
+    </category>
+    <category>
+      <category>Fatty Acids, Unsaturated</category>
+      <mesh-id>D005231</mesh-id>
+    </category>
+    <category>
+      <category>Fish Oils</category>
+      <mesh-id>D005395</mesh-id>
+    </category>
+    <category>
+      <category>Food</category>
+      <mesh-id>D005502</mesh-id>
+    </category>
+    <category>
+      <category>Food and Beverages</category>
+      <mesh-id>D019602</mesh-id>
+    </category>
+    <category>
+      <category>Lipids</category>
+      <mesh-id>D008055</mesh-id>
+    </category>
+    <category>
+      <category>Membrane Lipids</category>
+      <mesh-id>D008563</mesh-id>
+    </category>
+    <category>
+      <category>Oils</category>
+      <mesh-id>D009821</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Phenomena</category>
+      <mesh-id>D010829</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule, gelatin coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule, liquid filled</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Abciximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Acenocoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00945</drugbank-id>
+      <name>Acetylsalicylic acid</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Acetylsalicylic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00770</drugbank-id>
+      <name>Alprostadil</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Alprostadil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00261</drugbank-id>
+      <name>Anagrelide</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Anagrelide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05099</drugbank-id>
+      <name>Ancrod</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Ancrod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11598</drugbank-id>
+      <name>Antithrombin III human</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06605</drugbank-id>
+      <name>Apixaban</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Apixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00407</drugbank-id>
+      <name>Ardeparin</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Ardeparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00278</drugbank-id>
+      <name>Argatroban</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Argatroban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00972</drugbank-id>
+      <name>Azelastine</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Azelastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00102</drugbank-id>
+      <name>Becaplermin</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Becaplermin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05229</drugbank-id>
+      <name>Beraprost</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Beraprost.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00006</drugbank-id>
+      <name>Bivalirudin</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Bivalirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12749</drugbank-id>
+      <name>Butylphthalide</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Butylphthalide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06441</drugbank-id>
+      <name>Cangrelor</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Cangrelor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09261</drugbank-id>
+      <name>Certoparin</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Certoparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01166</drugbank-id>
+      <name>Cilostazol</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Cilostazol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04272</drugbank-id>
+      <name>Citric Acid</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Citric Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00758</drugbank-id>
+      <name>Clopidogrel</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Clopidogrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06695</drugbank-id>
+      <name>Dabigatran etexilate</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Dabigatran etexilate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06779</drugbank-id>
+      <name>Dalteparin</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Dalteparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06754</drugbank-id>
+      <name>Danaparoid</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Danaparoid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04932</drugbank-id>
+      <name>Defibrotide</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Defibrotide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11095</drugbank-id>
+      <name>Desirudin</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09255</drugbank-id>
+      <name>Dextran</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Dextran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11122</drugbank-id>
+      <name>Dextran 40</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Dextran 40.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11076</drugbank-id>
+      <name>Dextran 70</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Dextran 70.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11241</drugbank-id>
+      <name>Dextran 75</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Dextran 75.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00266</drugbank-id>
+      <name>Dicoumarol</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Dicoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00975</drugbank-id>
+      <name>Dipyridamole</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Dipyridamole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00974</drugbank-id>
+      <name>Edetic Acid</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Edetic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09075</drugbank-id>
+      <name>Edoxaban</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Edoxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01225</drugbank-id>
+      <name>Enoxaparin</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Enoxaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00751</drugbank-id>
+      <name>Epinastine</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Epinastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06392</drugbank-id>
+      <name>eplivanserine</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of eplivanserine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01240</drugbank-id>
+      <name>Epoprostenol</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Epoprostenol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00063</drugbank-id>
+      <name>Eptifibatide</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08794</drugbank-id>
+      <name>Ethyl biscoumacetate</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Ethyl biscoumacetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13136</drugbank-id>
+      <name>Fluindione</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Fluindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11728</drugbank-id>
+      <name>Fondaparinux</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Fondaparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00569</drugbank-id>
+      <name>Fondaparinux sodium</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Fondaparinux sodium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12831</drugbank-id>
+      <name>Gabexate</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Gabexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Heparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09053</drugbank-id>
+      <name>Ibrutinib</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Ibrutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05266</drugbank-id>
+      <name>Ibudilast</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Ibudilast.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08887</drugbank-id>
+      <name>Icosapent ethyl</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Icosapent ethyl.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06406</drugbank-id>
+      <name>idraparinux</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of idraparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08954</drugbank-id>
+      <name>Ifenprodil</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Ifenprodil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01088</drugbank-id>
+      <name>Iloprost</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Iloprost.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12465</drugbank-id>
+      <name>Ketanserin</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Ketanserin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00001</drugbank-id>
+      <name>Lepirudin</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Lepirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00235</drugbank-id>
+      <name>Milrinone</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Milrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08813</drugbank-id>
+      <name>Nadroparin</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Nadroparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12598</drugbank-id>
+      <name>Nafamostat</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Nafamostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12092</drugbank-id>
+      <name>Naftopidil</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Naftopidil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05822</drugbank-id>
+      <name>NCX 4016</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of NCX 4016.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04743</drugbank-id>
+      <name>Nimesulide</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Nimesulide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12445</drugbank-id>
+      <name>Nitroaspirin</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Nitroaspirin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06635</drugbank-id>
+      <name>Otamixaban</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Otamixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00686</drugbank-id>
+      <name>Pentosan Polysulfate</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Pentosan Polysulfate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00806</drugbank-id>
+      <name>Pentoxifylline</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Pentoxifylline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00498</drugbank-id>
+      <name>Phenindione</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Phenindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00946</drugbank-id>
+      <name>Phenprocoumon</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Phenprocoumon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06209</drugbank-id>
+      <name>Prasugrel</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Prasugrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11312</drugbank-id>
+      <name>Protein C</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Protein C.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13149</drugbank-id>
+      <name>Protein S human</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Protein S human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11268</drugbank-id>
+      <name>Protocatechualdehyde</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Protocatechualdehyde.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13036</drugbank-id>
+      <name>Ramatroban</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Ramatroban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02709</drugbank-id>
+      <name>Resveratrol</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Resveratrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09259</drugbank-id>
+      <name>Reviparin</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Reviparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01207</drugbank-id>
+      <name>Ridogrel</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Ridogrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06228</drugbank-id>
+      <name>Rivaroxaban</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Rivaroxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05692</drugbank-id>
+      <name>SCH-530348</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of SCH-530348.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01236</drugbank-id>
+      <name>Sevoflurane</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Sevoflurane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05073</drugbank-id>
+      <name>SRT501</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of SRT501.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06271</drugbank-id>
+      <name>Sulodexide</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Sulodexide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04905</drugbank-id>
+      <name>Tesmilifene</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Tesmilifene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00208</drugbank-id>
+      <name>Ticlopidine</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Ticlopidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00775</drugbank-id>
+      <name>Tirofiban</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Tirofiban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07615</drugbank-id>
+      <name>Tranilast</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Tranilast.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09283</drugbank-id>
+      <name>Trapidil</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Trapidil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08814</drugbank-id>
+      <name>Triflusal</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Triflusal.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09030</drugbank-id>
+      <name>Vorapaxar</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Vorapaxar.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04898</drugbank-id>
+      <name>Ximelagatran</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Ximelagatran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12289</drugbank-id>
+      <name>YM150</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Ym150.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Omega-3_fatty_acid</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

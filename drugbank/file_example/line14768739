@@ -1,0 +1,266 @@
+<drug type="biotech" created="2016-06-24" updated="2016-08-17">
+  <drugbank-id primary="true">DB11607</drugbank-id>
+  <name>Efmoroctocog alfa</name>
+  <description>Efmoroctocog alfa is a long-acting, fully-recombinant factor VIII Fc fusion protein.</description>
+  <cas-number>1270012-79-7</cas-number>
+  <unii>7PCM518YLR</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For the treatment of Haemophilia A.</indication>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Antihemophilic Factor (Recombinant BDD), FC Fusion Protein</synonym>
+    <synonym language="" coder="">Antihemophilic factor (recombinant, FC fusion protein)</synonym>
+    <synonym language="" coder="">Coagulation factor VIII recombinant immunoglubulin g1 fusion protein</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Eloctate</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02430290</dpd-id>
+      <started-marketing-on>2016-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>250 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eloctate</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02430304</dpd-id>
+      <started-marketing-on>2016-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>500 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eloctate</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02430312</dpd-id>
+      <started-marketing-on>2016-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>750 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eloctate</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02430320</dpd-id>
+      <started-marketing-on>2016-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>1000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eloctate</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02430339</dpd-id>
+      <started-marketing-on>2016-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>1500 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eloctate</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02430347</dpd-id>
+      <started-marketing-on>2016-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>2000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eloctate</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02430355</dpd-id>
+      <started-marketing-on>2016-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>3000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Eloctate</name>
+      <ingredients>Efmoroctocog alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eloctate</name>
+      <ingredients>Efmoroctocog alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eloctate</name>
+      <ingredients>Efmoroctocog alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eloctate</name>
+      <ingredients>Efmoroctocog alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eloctate</name>
+      <ingredients>Efmoroctocog alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eloctate</name>
+      <ingredients>Efmoroctocog alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eloctate</name>
+      <ingredients>Efmoroctocog alfa</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1500 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>2000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>250 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>3000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>500 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>750 unit</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>22511</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

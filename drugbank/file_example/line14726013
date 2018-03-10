@@ -1,0 +1,254 @@
+<drug type="biotech" created="2015-12-03" updated="2016-11-18">
+  <drugbank-id primary="true">DB11311</drugbank-id>
+  <name>Prothrombin</name>
+  <description/>
+  <cas-number>9001-26-7</cas-number>
+  <unii>8FB1K07F16</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Coagulation factor II (human)</synonym>
+    <synonym language="" coder="">Coagulation factor II human</synonym>
+    <synonym language="" coder="">Factor II</synonym>
+    <synonym language="" coder="WHO-DD">Factor II (prothrombin)</synonym>
+    <synonym language="" coder="">Human coagulation factor II</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Beriplex P/n 1000</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02410826</dpd-id>
+      <started-marketing-on>2013-11-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Beriplex P/n 500</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02359251</dpd-id>
+      <started-marketing-on>2011-07-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Kcentra</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code>63833-386</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-04-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA125421</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Kcentra</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code>63833-387</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-12-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA125421</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Octaplex</name>
+      <labeller>Octapharma Pharmazeutika Produktionsges M B H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02434970</dpd-id>
+      <started-marketing-on>2015-08-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Octaplex</name>
+      <labeller>Octapharma Pharmazeutika Produktionsges M B H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02294664</dpd-id>
+      <started-marketing-on>2008-07-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Octaplex</name>
+      <ingredients>Protein C + Protein S human + Prothrombin + Coagulation factor X human + Coagulation factor VII human + Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kcentra</name>
+      <ingredients>Prothrombin + Coagulation factor VII human + Coagulation Factor IX Human + Coagulation factor X human + Protein C + Protein S human + Water</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kcentra</name>
+      <ingredients>Prothrombin + Coagulation factor VII human + Coagulation Factor IX Human + Coagulation factor X human + Protein C + Protein S human + Water</ingredients>
+    </mixture>
+    <mixture>
+      <name>Octaplex</name>
+      <ingredients>Protein C + Protein S human + Prothrombin + Coagulation factor X human + Coagulation factor VII human + Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Beriplex P/n 500</name>
+      <ingredients>Protein C + Protein S human + Prothrombin + Coagulation factor X human + Coagulation factor VII human + Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Beriplex P/n 1000</name>
+      <ingredients>Protein C + Protein S human + Prothrombin + Coagulation factor X human + Coagulation factor VII human + Coagulation Factor IX Human</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Biological Factors</category>
+      <mesh-id>D001685</mesh-id>
+    </category>
+    <category>
+      <category>Blood Coagulation Factors</category>
+      <mesh-id>D001779</mesh-id>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Enzyme Precursors</category>
+      <mesh-id>D004792</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes and Coenzymes</category>
+      <mesh-id>D045762</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>2931</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

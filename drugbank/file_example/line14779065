@@ -1,0 +1,335 @@
+<drug type="biotech" created="2016-09-06" updated="2016-09-06">
+  <drugbank-id primary="true">DB11621</drugbank-id>
+  <name>Human Varicella-Zoster Immune Globulin</name>
+  <description>Human Varicella-Zoster Immune Globulin is a solvent/detergent-treated sterile liquid preparation of purified human immune globulin G (IgG) containing antibodies to varicella zoster virus (anti-VZV).</description>
+  <cas-number/>
+  <unii>33T61IWL27</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>6341478</pubmed-id>
+        <citation>Zaia JA, Levin MJ, Preblud SR, Leszczynski J, Wright GG, Ellis RJ, Curtis AC, Valerio MA, LeGore J: Evaluation of varicella-zoster immune globulin: protection of immunosuppressed children after household exposure to varicella. J Infect Dis. 1983 Apr;147(4):737-43.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Human herpesvirus 3 immune globulin</synonym>
+    <synonym language="" coder="">Varicella zoster immune globulin</synonym>
+    <synonym language="" coder="">Varicella zoster immune globulin (human)</synonym>
+    <synonym language="" coder="">Varicella zoster immune globulin human</synonym>
+    <synonym language="" coder="">Varicella-zoster immune globulin</synonym>
+    <synonym language="" coder="">Varicella-zoster immune globulin human</synonym>
+    <synonym language="" coder="">VZV immune globulin</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Varicella Zoster Immune Globulin Inj</name>
+      <labeller>Massachusetts Public Health Biologic Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00554286</dpd-id>
+      <started-marketing-on>1982-01-26</started-marketing-on>
+      <ended-marketing-on>2000-11-13</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>125 unit</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Varicella-zoster Immune Globulin (human)</name>
+      <labeller>Massachusetts Public Health Biologic Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02231277</dpd-id>
+      <started-marketing-on>2000-07-24</started-marketing-on>
+      <ended-marketing-on>2007-06-19</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>100 unit</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Varizig</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02442183</dpd-id>
+      <started-marketing-on>2015-08-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>125 unit</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Varizig</name>
+      <labeller>Cangene Bio Pharma</labeller>
+      <ndc-id/>
+      <ndc-product-code>53270-0126</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-05-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>1.25 [iU]/mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA125430</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Varizig</name>
+      <labeller>Cangene Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02243342</dpd-id>
+      <started-marketing-on>2006-02-13</started-marketing-on>
+      <ended-marketing-on>2016-08-02</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>125 unit</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Varicella Zoster Immune Globulin Inj</name>
+      <ingredients>Human Varicella-Zoster Immune Globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Varicella-zoster Immune Globulin (human)</name>
+      <ingredients>Human Varicella-Zoster Immune Globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Varizig</name>
+      <ingredients>Human Varicella-Zoster Immune Globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Varizig</name>
+      <ingredients>Human Varicella-Zoster Immune Globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Varizig</name>
+      <ingredients>Human Varicella-Zoster Immune Globulin</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies</category>
+      <mesh-id>D000906</mesh-id>
+    </category>
+    <category>
+      <category>Biological Products</category>
+      <mesh-id>D001688</mesh-id>
+    </category>
+    <category>
+      <category>Blood</category>
+      <mesh-id>D001769</mesh-id>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Body Fluids</category>
+      <mesh-id>D001826</mesh-id>
+    </category>
+    <category>
+      <category>Complex Mixtures</category>
+      <mesh-id>D045424</mesh-id>
+    </category>
+    <category>
+      <category>Fluids and Secretions</category>
+      <mesh-id>D005441</mesh-id>
+    </category>
+    <category>
+      <category>Globulins</category>
+      <mesh-id>D005916</mesh-id>
+    </category>
+    <category>
+      <category>Hemic and Immune Systems</category>
+      <mesh-id>D006424</mesh-id>
+    </category>
+    <category>
+      <category>Herpesvirus 3, Human</category>
+      <mesh-id>D014645</mesh-id>
+    </category>
+    <category>
+      <category>Immunization, Passive</category>
+      <mesh-id>D007116</mesh-id>
+    </category>
+    <category>
+      <category>Immunoglobulins</category>
+      <mesh-id>D007136</mesh-id>
+    </category>
+    <category>
+      <category>Immunoproteins</category>
+      <mesh-id>D007162</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Serum</category>
+      <mesh-id>D044967</mesh-id>
+    </category>
+    <category>
+      <category>Serum Globulins</category>
+      <mesh-id>D012712</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular</route>
+      <strength>125 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular</route>
+      <strength>100 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>125 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular</route>
+      <strength>1.25 [iU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>125 unit</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB04914</drugbank-id>
+      <name>G17DT</name>
+      <description>The therapeutic efficacy of G17DT can be decreased when used in combination with Human Varicella-Zoster Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05942</drugbank-id>
+      <name>GI-5005</name>
+      <description>The therapeutic efficacy of GI-5005 can be decreased when used in combination with Human Varicella-Zoster Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05322</drugbank-id>
+      <name>INGN 201</name>
+      <description>The therapeutic efficacy of INGN 201 can be decreased when used in combination with Human Varicella-Zoster Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05325</drugbank-id>
+      <name>INGN 225</name>
+      <description>The therapeutic efficacy of INGN 225 can be decreased when used in combination with Human Varicella-Zoster Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10283</drugbank-id>
+      <name>Rabies vaccine</name>
+      <description>The therapeutic efficacy of Rabies vaccine can be decreased when used in combination with Human Varicella-Zoster Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05374</drugbank-id>
+      <name>Rindopepimut</name>
+      <description>The therapeutic efficacy of CDX-110 can be decreased when used in combination with Human Varicella-Zoster Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05440</drugbank-id>
+      <name>SRP 299</name>
+      <description>The therapeutic efficacy of SRP 299 can be decreased when used in combination with Human Varicella-Zoster Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06584</drugbank-id>
+      <name>TG4010</name>
+      <description>The therapeutic efficacy of TG4010 can be decreased when used in combination with Human Varicella-Zoster Immune Globulin.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7852</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>VZV_immune_globulin</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,1703 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-04-01">
+  <drugbank-id primary="true">DB09525</drugbank-id>
+  <name>Sodium phosphate, monobasic, monohydrate</name>
+  <description/>
+  <cas-number/>
+  <unii/>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Anticoagulant Citrate Phosphate Dextrose (cpd) Blood-pack Units In Pl 146 Plastic</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-9201</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN170401</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Anticoagulant Citrate Phosphate Dextrose (cpd) Blood-pack Units In Pl 146 Plastic</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-9202</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN170401</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>As 3</name>
+      <labeller>Terumo Bct</labeller>
+      <ndc-id/>
+      <ndc-product-code>14537-966</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2002-05-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN001214</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Azuphen Mb</name>
+      <labeller>Burel Pharmaceuticals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>35573-314</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-09-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpd</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-9206</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN170401</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6331</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-05-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6332</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-06-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6336</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-06-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6343</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-08-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6344</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-12-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6301</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6305</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6307</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6308</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6309</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6312</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6316</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-06-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6317</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6319</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6320</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-06-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6321</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6322</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-06-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6326</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-12-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6327</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-05-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6328</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-05-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6329</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-05-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-6330</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-05-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-9304</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-9393</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-9394</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN077420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-9395</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-9398</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN770420</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1 Blood Collection System</name>
+      <labeller>Haemonetics Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>53157-130</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1980-11-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA800077</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cpda-1 Blood Collection System</name>
+      <labeller>Haemonetics Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>53157-730</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1980-11-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA800077</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Avera Mc Kennan Hospital</labeller>
+      <ndc-id/>
+      <ndc-product-code>69189-0104</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-03-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Rising Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>64980-104</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-06-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>55154-7676</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-06-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Amerincan Health Packaging</labeller>
+      <ndc-id/>
+      <ndc-product-code>68084-764</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-06-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Kaiser Foundations Hospitals</labeller>
+      <ndc-id/>
+      <ndc-product-code>0179-0154</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-07-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Carilion Materials Management</labeller>
+      <ndc-id/>
+      <ndc-product-code>68151-2195</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-06-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Haemonetics Additive Solution Formula 3 (as-3)</name>
+      <labeller>Haemonetics Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>57826-460</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-01-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Extracorporeal</route>
+      <fda-application-number>BN000127</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Haemonetics Additive Solution Formula 3 (as-3)</name>
+      <labeller>Haemonetics Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>57826-462</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-01-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Extracorporeal</route>
+      <fda-application-number>BN000127</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Haemonetics Anticoagulant Citrate Phosphate Double Dextrose Solution (cp2d)</name>
+      <labeller>Haemonetics Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>57826-455</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-01-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Extracorporeal</route>
+      <fda-application-number>BN000127</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Hyolev Mb</name>
+      <labeller>Burel Pharmaceuticals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>35573-301</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-06-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Indiomin Mb</name>
+      <labeller>Burel Pharmaceuticals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>35573-315</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-09-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Intersol</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-9601</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN080041</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>K Phos Neutral</name>
+      <labeller>Beach Productsd, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0486-1125</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1977-04-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leukotrap Wb System</name>
+      <labeller>Haemonetics Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>53157-136</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1980-11-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA800077</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leukotrap Wb System</name>
+      <labeller>Haemonetics Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>53157-736</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1980-11-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA800077</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Me Naphos Mb Hyo 1</name>
+      <labeller>Method Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>58657-454</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-12-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Monobasic Sodium Phosphate and Dibasic Sodium Phosphate</name>
+      <labeller>Novel Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>40032-030</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-01-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA079247</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nutricel Additive System - As-3</name>
+      <labeller>Medsep Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>62646-AS3</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-02-01</started-marketing-on>
+      <ended-marketing-on>2016-04-05</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA820915</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nutricel Additive System - Cp2d</name>
+      <labeller>Medsep Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>62646-120</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-02-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA820915</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Osmoprep</name>
+      <labeller>Salix Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>65649-701</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2006-05-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA021892</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Osmoprep</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-5889</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-05-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA021892</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Phosphasal</name>
+      <labeller>Star Pharmaceuticals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0076-0902</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-09-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rejuvesol</name>
+      <labeller>Citra Labs</labeller>
+      <ndc-id/>
+      <ndc-product-code>23731-7000</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-02-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Extracorporeal</route>
+      <fda-application-number>BN950522</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Phosphates</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>55154-5738</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Phosphates</name>
+      <labeller>Fresenius Kabi</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-170</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-09-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Phosphates</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-3405</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Phosphates</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-3415</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Phosphates</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-3450</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sterile Cord Blood Collection Unit</name>
+      <labeller>Medsep Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>62646-791</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-03-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA800222</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Teruflex Blood Bag System Anticoagulant Citrate Phosphate Dextrose Adenine (cpda-1)</name>
+      <labeller>Terumo Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>53877-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN820528</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ur N-C Urinary Antiseptic</name>
+      <labeller>Mayne Pharma</labeller>
+      <ndc-id/>
+      <ndc-product-code>51862-175</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-05-21</started-marketing-on>
+      <ended-marketing-on>2018-04-30</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Uramit Mb</name>
+      <labeller>Burel Pharmaceuticals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>35573-300</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-06-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Urelle</name>
+      <labeller>Meda Pharmaceuticals Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code>0037-6321</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-01-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Urelle</name>
+      <labeller>Jazz Pharmaceuticals Commercial Corp.</labeller>
+      <ndc-id/>
+      <ndc-product-code>66663-219</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2002-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Uribel</name>
+      <labeller>Star Pharmaceuticals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0076-0111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-08-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Urimar-T</name>
+      <labeller>Marnel Pharmaceuticals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0682-0334</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2005-07-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Urin D/s</name>
+      <labeller>Llorens Pharmaceuticals International Division</labeller>
+      <ndc-id/>
+      <ndc-product-code>54859-701</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1999-05-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ustell</name>
+      <labeller>Star Pharmaceuticals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0076-0903</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-09-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Visicol</name>
+      <labeller>Salix Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>65649-601</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-10-01</started-marketing-on>
+      <ended-marketing-on>2016-01-05</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA021097</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>K Phos Neutral</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Phosphates</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Phosphates</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Phosphates</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>As 3</name>
+      <ingredients>Glucose + Sodium Citrate + Sodium Chloride + Sodium phosphate, monobasic, monohydrate + Citric Acid + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1 Blood Collection System</name>
+      <ingredients>Glucose + Sodium Citrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leukotrap Wb System</name>
+      <ingredients>Glucose + Sodium Citrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1 Blood Collection System</name>
+      <ingredients>Glucose + Sodium Citrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leukotrap Wb System</name>
+      <ingredients>Glucose + Sodium Citrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Phosphates</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Haemonetics Anticoagulant Citrate Phosphate Double Dextrose Solution (cp2d)</name>
+      <ingredients>Citric Acid + Trisodium citrate dihydrate + Sodium phosphate, monobasic, monohydrate + Anhydrous dextrose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Haemonetics Additive Solution Formula 3 (as-3)</name>
+      <ingredients>Citric Acid + Sodium phosphate, monobasic, monohydrate + Sodium Chloride + Adenine + Anhydrous dextrose + Trisodium citrate dihydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Haemonetics Additive Solution Formula 3 (as-3)</name>
+      <ingredients>Citric Acid + Sodium phosphate, monobasic, monohydrate + Sodium Chloride + Adenine + Anhydrous dextrose + Trisodium citrate dihydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nutricel Additive System - Cp2d</name>
+      <ingredients>Glucose + Sodium Citrate + Citric Acid + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sterile Cord Blood Collection Unit</name>
+      <ingredients>Sodium Citrate + Glucose + Citric Acid + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nutricel Additive System - As-3</name>
+      <ingredients>Glucose + Sodium Citrate + Sodium Chloride + Sodium phosphate, monobasic, monohydrate + Citric Acid + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Phosphates</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Visicol</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rejuvesol</name>
+      <ingredients>Pyruvate + Inosine + Adenine + Sodium phosphates + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Anticoagulant Citrate Phosphate Dextrose (cpd) Blood-pack Units In Pl 146 Plastic</name>
+      <ingredients>Trisodium citrate dihydrate + Glucose + Citric Acid + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Anticoagulant Citrate Phosphate Dextrose (cpd) Blood-pack Units In Pl 146 Plastic</name>
+      <ingredients>Trisodium citrate dihydrate + Glucose + Citric Acid + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpd</name>
+      <ingredients>Trisodium citrate dihydrate + Glucose + Citric Acid + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cpda-1</name>
+      <ingredients>Glucose + Trisodium citrate dihydrate + Citric Acid + Sodium phosphate, monobasic, monohydrate + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Monobasic Sodium Phosphate and Dibasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Osmoprep</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Urelle</name>
+      <ingredients>Hyoscyamine + Hexamethylenetetramine + Methylene blue + Phenyl salicylate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Urimar-T</name>
+      <ingredients>Hexamethylenetetramine + Sodium phosphate, monobasic, monohydrate + Phenyl salicylate + Methylene blue + Hyoscyamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Urin D/s</name>
+      <ingredients>Hexamethylenetetramine + Sodium phosphate, monobasic, monohydrate + Phenyl salicylate + Methylene blue + Hyoscyamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Urelle</name>
+      <ingredients>Hyoscyamine + Hexamethylenetetramine + Methylene blue + Phenyl salicylate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Me Naphos Mb Hyo 1</name>
+      <ingredients>Hexamethylenetetramine + Sodium phosphate, monobasic, monohydrate + Methylene blue + Hyoscyamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Intersol</name>
+      <ingredients>Sodium Chloride + Sodium acetate + Trisodium citrate dihydrate + Sodium phosphates + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Uramit Mb</name>
+      <ingredients>Hexamethylenetetramine + Sodium phosphate, monobasic, monohydrate + Phenyl salicylate + Methylene blue + Hyoscyamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Hyolev Mb</name>
+      <ingredients>Hyoscyamine + Hexamethylenetetramine + Methylene blue + Phenyl salicylate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Azuphen Mb</name>
+      <ingredients>Hyoscyamine + Hexamethylenetetramine + Methylene blue + Phenyl salicylate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Indiomin Mb</name>
+      <ingredients>Hyoscyamine + Hexamethylenetetramine + Methylene blue + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ur N-C Urinary Antiseptic</name>
+      <ingredients>Hyoscyamine + Sodium phosphate, monobasic, monohydrate + Phenyl salicylate + Hexamethylenetetramine + Methylene blue</ingredients>
+    </mixture>
+    <mixture>
+      <name>Teruflex Blood Bag System Anticoagulant Citrate Phosphate Dextrose Adenine (cpda-1)</name>
+      <ingredients>Citric Acid + Trisodium citrate dihydrate + Sodium phosphate, monobasic, monohydrate + Glucose + Adenine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Osmoprep</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Uribel</name>
+      <ingredients>Hexamethylenetetramine + Sodium phosphate, monobasic, monohydrate + Phenyl salicylate + Methylene blue + Hyoscyamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ustell</name>
+      <ingredients>Hexamethylenetetramine + Sodium phosphate, monobasic, monohydrate + Phenyl salicylate + Methylene blue + Hyoscyamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Phosphasal</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Phenyl salicylate + Hyoscyamine + Methylene blue + Hexamethylenetetramine</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Extracorporeal</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents>
+    <patent>
+      <number>7687075</number>
+      <country>United States</country>
+      <approved>2008-06-22</approved>
+      <expires>2028-06-22</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

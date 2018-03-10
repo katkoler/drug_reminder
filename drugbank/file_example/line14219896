@@ -1,0 +1,196 @@
+<drug type="small molecule" created="2015-11-30" updated="2016-08-17">
+  <drugbank-id primary="true">DB09517</drugbank-id>
+  <name>Sodium ferric gluconate complex</name>
+  <description/>
+  <cas-number/>
+  <unii>CC9149U2QX</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Ferrlecit</name>
+      <labeller>Sanofi Aventis</labeller>
+      <ndc-id/>
+      <ndc-product-code>0024-2792</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>12.5 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020955</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ferrlecit</name>
+      <labeller>Sanofi Aventis</labeller>
+      <ndc-id/>
+      <ndc-product-code>0024-2794</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-07-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>12.5 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020955</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nulecit</name>
+      <labeller>Watson Pharma, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>52544-149</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-03-31</started-marketing-on>
+      <ended-marketing-on>2017-01-20</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>12.5 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA078215</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Ferric Gluconate Complex</name>
+      <labeller>Actavis Pharma Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>0591-0149</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-03-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>12.5 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA078215</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Ferric Gluconate Complex In Sucrose</name>
+      <labeller>West Ward Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>0143-9570</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-03-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>12.5 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA078215</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Ferric Gluconate Complex In Sucrose</name>
+      <labeller>Actavis Pharma Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>0591-2508</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>12.5 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA078215</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Ferrlecit</name>
+      <ingredients>Sodium ferric gluconate complex</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ferrlecit</name>
+      <ingredients>Sodium ferric gluconate complex</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Ferric Gluconate Complex In Sucrose</name>
+      <ingredients>Sodium ferric gluconate complex</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nulecit</name>
+      <ingredients>Sodium ferric gluconate complex</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Ferric Gluconate Complex</name>
+      <ingredients>Sodium ferric gluconate complex</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Ferric Gluconate Complex In Sucrose</name>
+      <ingredients>Sodium ferric gluconate complex</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>12.5 mg/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

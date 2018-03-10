@@ -1,0 +1,643 @@
+<drug type="small molecule" created="2017-01-20" updated="2017-03-10">
+  <drugbank-id primary="true">DB13164</drugbank-id>
+  <name>Olmutinib</name>
+  <description>Olmutinib (Olita(TM)) is an oral, third-generation epidermal growth factor receptor tyrosine kinase inhibitor (EGFR TKI) that is being developed by Boehringer Ingelheim and Hanmi Pharmaceutical Co. Ltd for the treatment of non-small cell lung cancer (NSCLC). Olmutinib is an antineoplastic agent that was approved in South Korea in May 2016 for the second-line treatment of non-small cell lung cancer with the T790M mutation of EGFR [A18705].</description>
+  <cas-number>1353550-13-6</cas-number>
+  <unii>CHL9B67L95</unii>
+  <average-mass>486.59</average-mass>
+  <monoisotopic-mass>486.183795275</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>27912760</pubmed-id>
+        <citation>Liao BC, Lin CC, Lee JH, Yang JC: Update on recent preclinical and clinical studies of T790M mutant-specific irreversible epidermal growth factor receptor tyrosine kinase inhibitors. J Biomed Sci. 2016 Dec 3;23(1):86.</citation>
+      </article>
+      <article>
+        <pubmed-id>27071706</pubmed-id>
+        <citation>Wang S, Cang S, Liu D: Third-generation inhibitors targeting EGFR T790M mutation in advanced non-small cell lung cancer. J Hematol Oncol. 2016 Apr 12;9:34. doi: 10.1186/s13045-016-0268-z.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Treatment of non-small cell lung cancer (NSCLC)</indication>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>486.59</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>486.183795275</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CN1CCN(CC1)C1=CC=C(NC2=NC(OC3=CC=CC(NC(=O)C=C)=C3)=C3SC=CC3=N2)C=C1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C26H26N6O2S</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C26H26N6O2S/c1-3-23(33)27-19-5-4-6-21(17-19)34-25-24-22(11-16-35-24)29-26(30-25)28-18-7-9-20(10-8-18)32-14-12-31(2)13-15-32/h3-11,16-17H,1,12-15H2,2H3,(H,27,33)(H,28,29,30)</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>FDMQDKQUTRLUBU-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D10859</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Olmutinib</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000767</id>
+      <name>Epidermal growth factor receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P00533" source="Swiss-Prot">
+    <name>Epidermal growth factor receptor</name>
+    <general-function>Ubiquitin protein ligase binding</general-function>
+    <specific-function>Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, amphiregulin, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF. Ligand binding triggers receptor homo- and/or heterodimerization and autophosphorylation on key cytoplasmic residues. The phosphorylated receptor recruits adapter proteins like GRB2 which in turn activates complex downstream signaling cascades. Activates at least 4 major downstream signaling cascades including the RAS-RAF-MEK-ERK, PI3 kinase-AKT, PLCgamma-PKC and STATs modules. May also activate the NF-kappa-B signaling cascade. Also directly phosphorylates other proteins like RGS16, activating its GTPase activity and probably coupling the EGF receptor signaling to the G protein-coupled receptor signaling. Also phosphorylates MUC1 and increases its interaction with SRC and CTNNB1/beta-catenin.Isoform 2 may act as an antagonist of EGF action.</specific-function>
+    <gene-name>EGFR</gene-name>
+    <locus>7p12</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>646-668</transmembrane-regions>
+    <signal-regions>1-24</signal-regions>
+    <theoretical-pi>6.67</theoretical-pi>
+    <molecular-weight>134276.185</molecular-weight>
+    <chromosome-location>7</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:3236</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>EGFR</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>X00588</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>757924</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1797</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P00533</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>EGFR_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>2.7.10.1</synonym>
+      <synonym>ERBB</synonym>
+      <synonym>ERBB1</synonym>
+      <synonym>HER1</synonym>
+      <synonym>Proto-oncogene c-ErbB-1</synonym>
+      <synonym>Receptor tyrosine-protein kinase erbB-1</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001530|Epidermal growth factor receptor
+MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEV
+VLGNLEITYVQRNYDLSFLKTIQEVAGYVLIALNTVERIPLENLQIIRGNMYYENSYALA
+VLSNYDANKTGLKELPMRNLQEILHGAVRFSNNPALCNVESIQWRDIVSSDFLSNMSMDF
+QNHLGSCQKCDPSCPNGSCWGAGEENCQKLTKIICAQQCSGRCRGKSPSDCCHNQCAAGC
+TGPRESDCLVCRKFRDEATCKDTCPPLMLYNPTTYQMDVNPEGKYSFGATCVKKCPRNYV
+VTDHGSCVRACGADSYEMEEDGVRKCKKCEGPCRKVCNGIGIGEFKDSLSINATNIKHFK
+NCTSISGDLHILPVAFRGDSFTHTPPLDPQELDILKTVKEITGFLLIQAWPENRTDLHAF
+ENLEIIRGRTKQHGQFSLAVVSLNITSLGLRSLKEISDGDVIISGNKNLCYANTINWKKL
+FGTSGQKTKIISNRGENSCKATGQVCHALCSPEGCWGPEPRDCVSCRNVSRGRECVDKCN
+LLEGEPREFVENSECIQCHPECLPQAMNITCTGRGPDNCIQCAHYIDGPHCVKTCPAGVM
+GENNTLVWKYADAGHVCHLCHPNCTYGCTGPGLEGCPTNGPKIPSIATGMVGALLLLLVV
+ALGIGLFMRRRHIVRKRTLRRLLQERELVEPLTPSGEAPNQALLRILKETEFKKIKVLGS
+GAFGTVYKGLWIPEGEKVKIPVAIKELREATSPKANKEILDEAYVMASVDNPHVCRLLGI
+CLTSTVQLITQLMPFGCLLDYVREHKDNIGSQYLLNWCVQIAKGMNYLEDRRLVHRDLAA
+RNVLVKTPQHVKITDFGLAKLLGAEEKEYHAEGGKVPIKWMALESILHRIYTHQSDVWSY
+GVTVWELMTFGSKPYDGIPASEISSILEKGERLPQPPICTIDVYMIMVKCWMIDADSRPK
+FRELIIEFSKMARDPQRYLVIQGDERMHLPSPTDSNFYRALMDEEDMDDVVDADEYLIPQ
+QGFFSSPSTSRTPLLSSLSATSNNSTVACIDRNGLQSCPIKEDSFLQRYSSDPTGALTED
+SIDDTFLPVPEYINQSVPKRPAGSVQNPVYHNQPLNPAPSRDPHYQDPHSTAVGNPEYLN
+TVQPTCVNSTFDSPAHWAQKGSHQISLDNPDYQQDFFPKEAKPNGIFKGSTAENAEYLRV
+APQSSEFIGA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0019007|Epidermal growth factor receptor (EGFR)
+ATGCGACCCTCCGGGACGGCCGGGGCAGCGCTCCTGGCGCTGCTGGCTGCGCTCTGCCCG
+GCGAGTCGGGCTCTGGAGGAAAAGAAAGTTTGCCAAGGCACGAGTAACAAGCTCACGCAG
+TTGGGCACTTTTGAAGATCATTTTCTCAGCCTCCAGAGGATGTTCAATAACTGTGAGGTG
+GTCCTTGGGAATTTGGAAATTACCTATGTGCAGAGGAATTATGATCTTTCCTTCTTAAAG
+ACCATCCAGGAGGTGGCTGGTTATGTCCTCATTGCCCTCAACACAGTGGAGCGAATTCCT
+TTGGAAAACCTGCAGATCATCAGAGGAAATATGTACTACGAAAATTCCTATGCCTTAGCA
+GTCTTATCTAACTATGATGCAAATAAAACCGGACTGAAGGAGCTGCCCATGAGAAATTTA
+CAGGAAATCCTGCATGGCGCCGTGCGGTTCAGCAACAACCCTGCCCTGTGCAACGTGGAG
+AGCATCCAGTGGCGGGACATAGTCAGCAGTGACTTTCTCAGCAACATGTCGATGGACTTC
+CAGAACCACCTGGGCAGCTGCCAAAAGTGTGATCCAAGCTGTCCCAATGGGAGCTGCTGG
+GGTGCAGGAGAGGAGAACTGCCAGAAACTGACCAAAATCATCTGTGCCCAGCAGTGCTCC
+GGGCGCTGCCGTGGCAAGTCCCCCAGTGACTGCTGCCACAACCAGTGTGCTGCAGGCTGC
+ACAGGCCCCCGGGAGAGCGACTGCCTGGTCTGCCGCAAATTCCGAGACGAAGCCACGTGC
+AAGGACACCTGCCCCCCACTCATGCTCTACAACCCCACCACGTACCAGATGGATGTGAAC
+CCCGAGGGCAAATACAGCTTTGGTGCCACCTGCGTGAAGAAGTGTCCCCGTAATTATGTG
+GTGACAGATCACGGCTCGTGCGTCCGAGCCTGTGGGGCCGACAGCTATGAGATGGAGGAA
+GACGGCGTCCGCAAGTGTAAGAAGTGCGAAGGGCCTTGCCGCAAAGTGTGTAACGGAATA
+GGTATTGGTGAATTTAAAGACTCACTCTCCATAAATGCTACGAATATTAAACACTTCAAA
+AACTGCACCTCCATCAGTGGCGATCTCCACATCCTGCCGGTGGCATTTAGGGGTGACTCC
+TTCACACATACTCCTCCTCTGGATCCACAGGAACTGGATATTCTGAAAACCGTAAAGGAA
+ATCACAGGGTTTTTGCTGATTCAGGCTTGGCCTGAAAACAGGACGGACCTCCATGCCTTT
+GAGAACCTAGAAATCATACGCGGCAGGACCAAGCAACATGGTCAGTTTTCTCTTGCAGTC
+GTCAGCCTGAACATAACATCCTTGGGATTACGCTCCCTCAAGGAGATAAGTGATGGAGAT
+GTGATAATTTCAGGAAACAAAAATTTGTGCTATGCAAATACAATAAACTGGAAAAAACTG
+TTTGGGACCTCCGGTCAGAAAACCAAAATTATAAGCAACAGAGGTGAAAACAGCTGCAAG
+GCCACAGGCCAGGTCTGCCATGCCTTGTGCTCCCCCGAGGGCTGCTGGGGCCCGGAGCCC
+AGGGACTGCGTCTCTTGCCGGAATGTCAGCCGAGGCAGGGAATGCGTGGACAAGTGCAAC
+CTTCTGGAGGGTGAGCCAAGGGAGTTTGTGGAGAACTCTGAGTGCATACAGTGCCACCCA
+GAGTGCCTGCCTCAGGCCATGAACATCACCTGCACAGGACGGGGACCAGACAACTGTATC
+CAGTGTGCCCACTACATTGACGGCCCCCACTGCGTCAAGACCTGCCCGGCAGGAGTCATG
+GGAGAAAACAACACCCTGGTCTGGAAGTACGCAGACGCCGGCCATGTGTGCCACCTGTGC
+CATCCAAACTGCACCTACGGATGCACTGGGCCAGGTCTTGAAGGCTGTCCAACGAATGGG
+CCTAAGATCCCGTCCATCGCCACTGGGATGGTGGGGGCCCTCCTCTTGCTGCTGGTGGTG
+GCCCTGGGGATCGGCCTCTTCATGCGAAGGCGCCACATCGTTCGGAAGCGCACGCTGCGG
+AGGCTGCTGCAGGAGAGGGAGCTTGTGGAGCCTCTTACACCCAGTGGAGAAGCTCCCAAC
+CAAGCTCTCTTGAGGATCTTGAAGGAAACTGAATTCAAAAAGATCAAAGTGCTGGGCTCC
+GGTGCGTTCGGCACGGTGTATAAGGGACTCTGGATCCCAGAAGGTGAGAAAGTTAAAATT
+CCCGTCGCTATCAAGGAATTAAGAGAAGCAACATCTCCGAAAGCCAACAAGGAAATCCTC
+GATGAAGCCTACGTGATGGCCAGCGTGGACAACCCCCACGTGTGCCGCCTGCTGGGCATC
+TGCCTCACCTCCACCGTGCAGCTCATCACGCAGCTCATGCCCTTCGGCTGCCTCCTGGAC
+TATGTCCGGGAACACAAAGACAATATTGGCTCCCAGTACCTGCTCAACTGGTGTGTGCAG
+ATCGCAAAGGGCATGAACTACTTGGAGGACCGTCGCTTGGTGCACCGCGACCTGGCAGCC
+AGGAACGTACTGGTGAAAACACCGCAGCATGTCAAGATCACAGATTTTGGGCTGGCCAAA
+CTGCTGGGTGCGGAAGAGAAAGAATACCATGCAGAAGGAGGCAAAGTGCCTATCAAGTGG
+ATGGCATTGGAATCAATTTTACACAGAATCTATACCCACCAGAGTGATGTCTGGAGCTAC
+GGGGTGACCGTTTGGGAGTTGATGACCTTTGGATCCAAGCCATATGACGGAATCCCTGCC
+AGCGAGATCTCCTCCATCCTGGAGAAAGGAGAACGCCTCCCTCAGCCACCCATATGTACC
+ATCGATGTCTACATGATCATGGTCAAGTGCTGGATGATAGACGCAGATAGTCGCCCAAAG
+TTCCGTGAGTTGATCATCGAATTCTCCAAAATGGCCCGAGACCCCCAGCGCTACCTTGTC
+ATTCAGGGGGATGAAAGAATGCATTTGCCAAGTCCTACAGACTCCAACTTCTACCGTGCC
+CTGATGGATGAAGAAGACATGGACGACGTGGTGGATGCCGACGAGTACCTCATCCCACAG
+CAGGGCTTCTTCAGCAGCCCCTCCACGTCACGGACTCCCCTCCTGAGCTCTCTGAGTGCA
+ACCAGCAACAATTCCACCGTGGCTTGCATTGATAGAAATGGGCTGCAAAGCTGTCCCATC
+AAGGAAGACAGCTTCTTGCAGCGATACAGCTCAGACCCCACAGGCGCCTTGACTGAGGAC
+AGCATAGACGACACCTTCCTCCCAGTGCCTGAATACATAAACCAGTCCGTTCCCAAAAGG
+CCCGCTGGCTCTGTGCAGAATCCTGTCTATCACAATCAGCCTCTGAACCCCGCGCCCAGC
+AGAGACCCACACTACCAGGACCCCCACAGCACTGCAGTGGGCAACCCCGAGTATCTCAAC
+ACTGTCCAGCCCACCTGTGTCAACAGCACATTCGACAGCCCTGCCCACTGGGCCCAGAAA
+GGCAGCCACCAAATTAGCCTGGACAACCCTGACTACCAGCAGGACTTCTTTCCCAAGGAA
+GCCAAGCCAAATGGCATCTTTAAGGGCTCCACAGCTGAAAATGCAGAATACCTAAGGGTC
+GCGCCACAAAGCAGTGAATTTATTGGAGCATGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF07714</identifier>
+        <name>Pkinase_Tyr</name>
+      </pfam>
+      <pfam>
+        <identifier>PF00757</identifier>
+        <name>Furin-like</name>
+      </pfam>
+      <pfam>
+        <identifier>PF01030</identifier>
+        <name>Recep_L_domain</name>
+      </pfam>
+      <pfam>
+        <identifier>PF14843</identifier>
+        <name>GF_recep_IV</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endocytic vesicle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>receptor complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nuclear membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular space</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>perinuclear region of cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>Golgi membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>multivesicular body, internal vesicle lumen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>Shc-EGFR complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>basolateral plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>focal adhesion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>early endosome membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell surface</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endosome membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane raft</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transmembrane signaling receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>identical protein binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein phosphatase binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ubiquitin protein ligase binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>chromatin binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>double-stranded DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein tyrosine kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>MAP kinase kinase kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>epidermal growth factor-activated receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATP binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enzyme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein heterodimerization activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transmembrane receptor protein tyrosine kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>actin filament binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>receptor signaling protein tyrosine kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of peptidyl-tyrosine phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>Fc-epsilon receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>neurotrophin TRK receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of nitric oxide biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of catenin import into nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>embryonic placenta development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>salivary gland morphogenesis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>ossification</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to amino acid stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>Ras protein signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>single organismal cell-cell adhesion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein insertion into membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of DNA replication</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to epidermal growth factor stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>vascular endothelial growth factor receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cerebral cortex cell migration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>digestive tract morphogenesis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of protein kinase B signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cell migration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>activation of phospholipase C activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of nitric-oxide synthase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hair follicle development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of DNA repair</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>axon guidance</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of MAP kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>learning or memory</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>activation of MAPKK activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small GTPase mediated signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of fibroblast proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>epidermal growth factor receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of epithelial cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>fibroblast growth factor receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell surface receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>phosphatidylinositol-mediated signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>activation of phospholipase A2 activity by calcium-mediated signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>innate immune response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>insulin receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to estradiol stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to stress</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cyclin-dependent protein serine/threonine kinase activity involved in G1/S transition of mitotic cell cycle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of ERK1 and ERK2 cascade</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>morphogenesis of an epithelial fold</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>peptidyl-tyrosine phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>MAPK cascade</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of protein catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of epidermal growth factor receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein autophosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to UV-A</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of protein phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of apoptotic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,900 @@
+<drug type="small molecule" created="2016-10-20" updated="2017-03-08">
+  <drugbank-id primary="true">DB11699</drugbank-id>
+  <name>Tropisetron</name>
+  <description>Tropisetron is an indole derivative with antiemetic activity. As a selective serotonin receptor antagonist, tropisetron competitively blocks the action of serotonin at 5HT3 receptors, resulting in suppression of chemotherapy-and radiotherapy-induced nausea and vomiting.&#13;
+&#13;
+Tropisetron appears to be well tolerated with the most frequently reported adverse effect being headache. Extrapyramidal side effects are rare upon using tropisetron.</description>
+  <cas-number>89565-68-4</cas-number>
+  <unii>6I819NIK1W</unii>
+  <average-mass>284.3529</average-mass>
+  <monoisotopic-mass>284.152477894</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>product info</title>
+        <url>https://pubchem.ncbi.nlm.nih.gov/compound/TROPISETRON_HCl#section=Pharmacology-and-Biochemistry</url>
+      </link>
+      <link>
+        <title>Monograph</title>
+        <url>http://www.medsafe.govt.nz/profs/Datasheet/t/tropisetronaftinj.pdf</url>
+      </link>
+      <link>
+        <title>MSDS</title>
+        <url>http://www.abcam.com/ps/Products/120/ab120156/Msds/ab120156_CLP1_EN.pdf</url>
+      </link>
+      <link>
+        <title>Article</title>
+        <url>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2014558/</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For the prevention of nausea and vomiting induced by cytotoxic therapy and postoperative. </indication>
+  <pharmacodynamics/>
+  <mechanism-of-action>Tropisetron competitively binds to and blocks the action of serotonin at 5HT3 receptors peripherally on vagus nerve terminals located in the gastrointestinal (GI) tract as well as centrally in the chemoreceptor trigger zone (CTZ) of the area postrema of the central nervous system (CNS). This results in the suppression of chemotherapy- and radiotherapy-induced nausea and vomiting.</mechanism-of-action>
+  <toxicity>LD50: 265 mg/kg (Rat, oral). </toxicity>
+  <metabolism>The metabolism of tropisetron occurs by hydroxylation at the 5, 6 or 7 positions of its indole ring, followed by a conjugation reaction to the glucuronide or sulphate with excretion in the urine or bile (urine to faeces ratio 5:1). The metabolites have a greatly reduced potency for the 5-HT3 receptor and do not contribute to the pharmacological action of the drug. </metabolism>
+  <absorption>The absorption of tropisetron from the gastrointestinal tract is rapid (mean half-life of about 20 minutes) and nearly complete (more than 95%). Due to first-pass metabolism in the liver, the absolute bioavailability of a 5 mg oral dose is 60%. The peak plasma concentration is attained within three hours. </absorption>
+  <half-life>5.7 h. </half-life>
+  <protein-binding>71% bound to plasma protein in a non-specific manner.</protein-binding>
+  <route-of-elimination>About 8% of tropisetron is excreted in the urine as unchanged drug, 70% as metabolites; 15% is excreted in the feces. </route-of-elimination>
+  <volume-of-distribution> 400-600 L.</volume-of-distribution>
+  <clearance>1800 ml/min. </clearance>
+  <classification>
+    <description>This compound belongs to the class of chemical entities known as indolecarboxylic acids and derivatives. These are compounds containing a carboxylic acid group (or a derivative thereof) linked to an indole.</description>
+    <direct-parent>Indolecarboxylic acids and derivatives</direct-parent>
+    <kingdom>Chemical entities</kingdom>
+    <superclass>Organic compounds</superclass>
+    <class>Organoheterocyclic compounds</class>
+    <subclass>Indoles and derivatives</subclass>
+    <alternative-parent>Amino acids and derivatives</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Benzenoids</alternative-parent>
+    <alternative-parent>Carboxylic acid esters</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Indoles</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>N-alkylpyrrolidines</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organooxygen compounds</alternative-parent>
+    <alternative-parent>Organopnictogen compounds</alternative-parent>
+    <alternative-parent>Piperidines</alternative-parent>
+    <alternative-parent>Pyrrole carboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Substituted pyrroles</alternative-parent>
+    <alternative-parent>Trialkylamines</alternative-parent>
+    <alternative-parent>Tropane alkaloids</alternative-parent>
+    <alternative-parent>Vinylogous amides</alternative-parent>
+    <substituent>Amine</substituent>
+    <substituent>Amino acid or derivatives</substituent>
+    <substituent>Aromatic heteropolycyclic compound</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Carboxylic acid ester</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Indole</substituent>
+    <substituent>Indolecarboxylic acid derivative</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>N-alkylpyrrolidine</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Organopnictogen compound</substituent>
+    <substituent>Piperidine</substituent>
+    <substituent>Pyrrole</substituent>
+    <substituent>Pyrrole-3-carboxylic acid or derivatives</substituent>
+    <substituent>Pyrrolidine</substituent>
+    <substituent>Substituted pyrrole</substituent>
+    <substituent>Tertiary aliphatic amine</substituent>
+    <substituent>Tertiary amine</substituent>
+    <substituent>Tropane alkaloid</substituent>
+    <substituent>Vinylogous amide</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT002051</drugbank-id>
+      <name>Tropisetron Hydrochloride</name>
+      <unii>A19338Q2YO</unii>
+      <cas-number>105826-92-4</cas-number>
+      <inchikey>XIEGSJAEZIGKSA-LUNMCBQDSA-N</inchikey>
+      <average-mass>320.82</average-mass>
+      <monoisotopic-mass>320.1291556</monoisotopic-mass>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT002052</drugbank-id>
+      <name>Tropisetron Mesylate</name>
+      <unii>X2V6FDY03T</unii>
+      <cas-number>833482-77-2</cas-number>
+      <inchikey>FFTYLXTULVZQRZ-LUNMCBQDSA-N</inchikey>
+      <average-mass>380.46</average-mass>
+      <monoisotopic-mass>380.140593055</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms/>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Anti-Arrhythmia Agents</category>
+      <mesh-id>D000889</mesh-id>
+    </category>
+    <category>
+      <category>Anti-Inflammatory Agents</category>
+      <mesh-id>D000893</mesh-id>
+    </category>
+    <category>
+      <category>Antiemetics</category>
+      <mesh-id>D000932</mesh-id>
+    </category>
+    <category>
+      <category>Antiemetics and Antinauseants</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Antiemetics Antagonists</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Autonomic Agents</category>
+      <mesh-id>D001337</mesh-id>
+    </category>
+    <category>
+      <category>Central Nervous System Agents</category>
+      <mesh-id>D002491</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Gastrointestinal Agents</category>
+      <mesh-id>D005765</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 2-Ring</category>
+      <mesh-id>D006574</mesh-id>
+    </category>
+    <category>
+      <category>Molecular Mechanisms of Pharmacological Action</category>
+      <mesh-id>D045504</mesh-id>
+    </category>
+    <category>
+      <category>Neurotransmitter Agents</category>
+      <mesh-id>D018377</mesh-id>
+    </category>
+    <category>
+      <category>Peripheral Nervous System Agents</category>
+      <mesh-id>D018373</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Serotonin (5HT3) Antagonists</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Serotonin Agents</category>
+      <mesh-id>D018490</mesh-id>
+    </category>
+    <category>
+      <category>Serotonin Antagonists</category>
+      <mesh-id>D012702</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages/>
+  <atc-codes>
+    <atc-code code="A04AA03">
+      <level code="A04AA">Serotonin (5HT3) antagonists</level>
+      <level code="A04A">ANTIEMETICS AND ANTINAUSEANTS</level>
+      <level code="A04">ANTIEMETICS AND ANTINAUSEANTS</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00918</drugbank-id>
+      <name>Almotriptan</name>
+      <description>Tropisetron may increase the serotonergic activities of Almotriptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00321</drugbank-id>
+      <name>Amitriptyline</name>
+      <description>Tropisetron may increase the serotonergic activities of Amitriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00543</drugbank-id>
+      <name>Amoxapine</name>
+      <description>Tropisetron may increase the serotonergic activities of Amoxapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00714</drugbank-id>
+      <name>Apomorphine</name>
+      <description>Tropisetron may increase the hypotensive activities of Apomorphine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01200</drugbank-id>
+      <name>Bromocriptine</name>
+      <description>Tropisetron may increase the serotonergic activities of Bromocriptine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00490</drugbank-id>
+      <name>Buspirone</name>
+      <description>Tropisetron may increase the serotonergic activities of Buspirone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00248</drugbank-id>
+      <name>Cabergoline</name>
+      <description>Tropisetron may increase the serotonergic activities of Cabergoline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00215</drugbank-id>
+      <name>Citalopram</name>
+      <description>Tropisetron may increase the serotonergic activities of Citalopram.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01242</drugbank-id>
+      <name>Clomipramine</name>
+      <description>Tropisetron may increase the serotonergic activities of Clomipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00924</drugbank-id>
+      <name>Cyclobenzaprine</name>
+      <description>Tropisetron may increase the serotonergic activities of Cyclobenzaprine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01151</drugbank-id>
+      <name>Desipramine</name>
+      <description>Tropisetron may increase the serotonergic activities of Desipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06700</drugbank-id>
+      <name>Desvenlafaxine</name>
+      <description>Tropisetron may increase the serotonergic activities of Desvenlafaxine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00514</drugbank-id>
+      <name>Dextromethorphan</name>
+      <description>Tropisetron may increase the serotonergic activities of Dextromethorphan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00320</drugbank-id>
+      <name>Dihydroergotamine</name>
+      <description>Tropisetron may increase the serotonergic activities of Dihydroergotamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01142</drugbank-id>
+      <name>Doxepin</name>
+      <description>Tropisetron may increase the serotonergic activities of Doxepin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00476</drugbank-id>
+      <name>Duloxetine</name>
+      <description>Tropisetron may increase the serotonergic activities of Duloxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00216</drugbank-id>
+      <name>Eletriptan</name>
+      <description>Tropisetron may increase the serotonergic activities of Eletriptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01049</drugbank-id>
+      <name>Ergoloid mesylate</name>
+      <description>Tropisetron may increase the serotonergic activities of Ergoloid mesylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01253</drugbank-id>
+      <name>Ergonovine</name>
+      <description>Tropisetron may increase the serotonergic activities of Ergonovine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00696</drugbank-id>
+      <name>Ergotamine</name>
+      <description>Tropisetron may increase the serotonergic activities of Ergotamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01175</drugbank-id>
+      <name>Escitalopram</name>
+      <description>Tropisetron may increase the serotonergic activities of Escitalopram.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00813</drugbank-id>
+      <name>Fentanyl</name>
+      <description>Tropisetron may increase the serotonergic activities of Fentanyl.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00472</drugbank-id>
+      <name>Fluoxetine</name>
+      <description>Tropisetron may increase the serotonergic activities of Fluoxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00176</drugbank-id>
+      <name>Fluvoxamine</name>
+      <description>Tropisetron may increase the serotonergic activities of Fluvoxamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00998</drugbank-id>
+      <name>Frovatriptan</name>
+      <description>Tropisetron may increase the serotonergic activities of Frovatriptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00458</drugbank-id>
+      <name>Imipramine</name>
+      <description>Tropisetron may increase the serotonergic activities of Imipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01247</drugbank-id>
+      <name>Isocarboxazid</name>
+      <description>Tropisetron may increase the serotonergic activities of Isocarboxazid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08918</drugbank-id>
+      <name>Levomilnacipran</name>
+      <description>Tropisetron may increase the serotonergic activities of Levomilnacipran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00601</drugbank-id>
+      <name>Linezolid</name>
+      <description>Tropisetron may increase the serotonergic activities of Linezolid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01356</drugbank-id>
+      <name>Lithium</name>
+      <description>Tropisetron may increase the serotonergic activities of Lithium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04871</drugbank-id>
+      <name>Lorcaserin</name>
+      <description>Tropisetron may increase the serotonergic activities of Lorcaserin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00934</drugbank-id>
+      <name>Maprotiline</name>
+      <description>Tropisetron may increase the serotonergic activities of Maprotiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00333</drugbank-id>
+      <name>Methadone</name>
+      <description>Tropisetron may increase the serotonergic activities of Methadone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04896</drugbank-id>
+      <name>Milnacipran</name>
+      <description>Tropisetron may increase the serotonergic activities of Milnacipran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00370</drugbank-id>
+      <name>Mirtazapine</name>
+      <description>Tropisetron may increase the serotonergic activities of Mirtazapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01171</drugbank-id>
+      <name>Moclobemide</name>
+      <description>Tropisetron may increase the serotonergic activities of Moclobemide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00952</drugbank-id>
+      <name>Naratriptan</name>
+      <description>Tropisetron may increase the serotonergic activities of Naratriptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01149</drugbank-id>
+      <name>Nefazodone</name>
+      <description>Tropisetron may increase the serotonergic activities of Nefazodone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00540</drugbank-id>
+      <name>Nortriptyline</name>
+      <description>Tropisetron may increase the serotonergic activities of Nortriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00715</drugbank-id>
+      <name>Paroxetine</name>
+      <description>Tropisetron may increase the serotonergic activities of Paroxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00454</drugbank-id>
+      <name>Pethidine</name>
+      <description>Tropisetron may increase the serotonergic activities of Pethidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00780</drugbank-id>
+      <name>Phenelzine</name>
+      <description>Tropisetron may increase the serotonergic activities of Phenelzine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01168</drugbank-id>
+      <name>Procarbazine</name>
+      <description>Tropisetron may increase the serotonergic activities of Procarbazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01069</drugbank-id>
+      <name>Promethazine</name>
+      <description>Tropisetron may increase the serotonergic activities of Promethazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00344</drugbank-id>
+      <name>Protriptyline</name>
+      <description>Tropisetron may increase the serotonergic activities of Protriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01367</drugbank-id>
+      <name>Rasagiline</name>
+      <description>Tropisetron may increase the serotonergic activities of Rasagiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00953</drugbank-id>
+      <name>Rizatriptan</name>
+      <description>Tropisetron may increase the serotonergic activities of Rizatriptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01037</drugbank-id>
+      <name>Selegiline</name>
+      <description>Tropisetron may increase the serotonergic activities of Selegiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01104</drugbank-id>
+      <name>Sertraline</name>
+      <description>Tropisetron may increase the serotonergic activities of Sertraline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00669</drugbank-id>
+      <name>Sumatriptan</name>
+      <description>Tropisetron may increase the serotonergic activities of Sumatriptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06204</drugbank-id>
+      <name>Tapentadol</name>
+      <description>Tropisetron may decrease the analgesic activities of Tapentadol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09042</drugbank-id>
+      <name>Tedizolid Phosphate</name>
+      <description>Tropisetron may increase the serotonergic activities of Tedizolid Phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00193</drugbank-id>
+      <name>Tramadol</name>
+      <description>Tropisetron may decrease the analgesic activities of Tramadol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00752</drugbank-id>
+      <name>Tranylcypromine</name>
+      <description>Tropisetron may increase the serotonergic activities of Tranylcypromine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00656</drugbank-id>
+      <name>Trazodone</name>
+      <description>Tropisetron may increase the serotonergic activities of Trazodone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00726</drugbank-id>
+      <name>Trimipramine</name>
+      <description>Tropisetron may increase the serotonergic activities of Trimipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00285</drugbank-id>
+      <name>Venlafaxine</name>
+      <description>Tropisetron may increase the serotonergic activities of Venlafaxine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06684</drugbank-id>
+      <name>Vilazodone</name>
+      <description>Tropisetron may increase the serotonergic activities of Vilazodone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09068</drugbank-id>
+      <name>Vortioxetine</name>
+      <description>Tropisetron may increase the serotonergic activities of Vortioxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00315</drugbank-id>
+      <name>Zolmitriptan</name>
+      <description>Tropisetron may increase the serotonergic activities of Zolmitriptan.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>3.14</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-2.3</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.33e+00 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>2.63</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(1R,3R,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-yl 1H-indole-3-carboxylate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>tropisetron</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>284.3529</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>284.152477894</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[H][C@]12CC[C@]([H])(C[C@@]([H])(C1)OC(=O)C1=CNC3=CC=CC=C13)N2C</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C17H20N2O2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C17H20N2O2/c1-19-11-6-7-12(19)9-13(8-11)21-17(20)15-10-18-16-5-3-2-4-14(15)16/h2-5,10-13,18H,6-9H2,1H3/t11-,12+,13+</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>ZNRGQMMCGHDTEI-ITGUQSILSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>45.33</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>81.5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>31.35</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>12.18</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>9.34</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000311</id>
+      <name>5-hydroxytryptamine receptor 3A</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P46098" source="Swiss-Prot">
+    <name>5-hydroxytryptamine receptor 3A</name>
+    <general-function>Voltage-gated potassium channel activity</general-function>
+    <specific-function>This is one of the several different receptors for 5-hydroxytryptamine (serotonin), a biogenic hormone that functions as a neurotransmitter, a hormone, and a mitogen. This receptor is a ligand-gated ion channel, which when activated causes fast, depolarizing responses in neurons. It is a cation-specific, but otherwise relatively nonselective, ion channel.</specific-function>
+    <gene-name>HTR3A</gene-name>
+    <locus>11q23.1</locus>
+    <cellular-location>Cell junction</cellular-location>
+    <transmembrane-regions>242-268
+274-292
+303-321
+456-475</transmembrane-regions>
+    <signal-regions>1-23</signal-regions>
+    <theoretical-pi>7.43</theoretical-pi>
+    <molecular-weight>55279.835</molecular-weight>
+    <chromosome-location>11</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:5297</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>HTR3A</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>D49394</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>681914</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>IUPHAR</resource>
+        <identifier>373</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P46098</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>5HT3A_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>5-HT-3</synonym>
+      <synonym>5-HT3-A</synonym>
+      <synonym>5-HT3R</synonym>
+      <synonym>5-hydroxytryptamine receptor 3</synonym>
+      <synonym>5HT3R</synonym>
+      <synonym>HTR3</synonym>
+      <synonym>Serotonin receptor 3A</synonym>
+      <synonym>Serotonin-gated ion channel receptor</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000619|5-hydroxytryptamine receptor 3A
+MLLWVQQALLALLLPTLLAQGEARRSRNTTRPALLRLSDYLLTNYRKGVRPVRDWRKPTT
+VSIDVIVYAILNVDEKNQVLTTYIWYRQYWTDEFLQWNPEDFDNITKLSIPTDSIWVPDI
+LINEFVDVGKSPNIPYVYIRHQGEVQNYKPLQVVTACSLDIYNFPFDVQNCSLTFTSWLH
+TIQDINISLWRLPEKVKSDRSVFMNQGEWELLGVLPYFREFSMESSNYYAEMKFYVVIRR
+RPLFYVVSLLLPSIFLMVMDIVGFYLPPNSGERVSFKITLLLGYSVFLIIVSDTLPATAI
+GTPLIGVYFVVCMALLVISLAETIFIVRLVHKQDLQQPVPAWLRHLVLERIAWLLCLREQ
+STSQRPPATSQATKTDDCSAMGNHCSHMGGPQDFEKSPRDRCSPPPPPREASLAVCGLLQ
+ELSSIRQFLEKRDEIREVARDWLRVGSVLDKLLFHIYLLAVLAYSITLVMLWSIWQYA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0010242|5-hydroxytryptamine receptor 3A (HTR3A)
+ATGCTTGGAAAGCTCGCTATGCTGCTGTGGGTCCAGCAGGCGCTGCTCGCCTTGCTCCTC
+CCCACACTCCTGGCACAGGGAGAAGCCAGGAGGAGCCGAAACACCACCAGGCCCGCTCTG
+CTGAGGCTGTCGGATTACCTTTTGACCAACTACAGGAAGGGTGTGCGCCCCGTGAGGGAC
+TGGAGGAAGCCAACCACCGTATCCATTGACGTCATTGTCTATGCCATCCTCAACGTGGAT
+GAGAAGAATCAGGTGCTGACCACCTACATCTGGTACCGGCAGTACTGGACTGATGAGTTT
+CTCCAGTGGAACCCTGAGGACTTTGACAACATCACCAAGTTGTCCATCCCCACGGACAGC
+ATCTGGGTCCCGGACATTCTCATCAATGAGTTCGTGGATGTGGGGAAGTCTCCAAATATC
+CCGTACGTGTATATTCGGCATCAAGGCGAAGTTCAGAACTACAAGCCCCTTCAGGTGGTG
+ACTGCCTGTAGCCTCGACATCTACAACTTCCCCTTCGATGTCCAGAACTGCTCGCTGACC
+TTCACCAGTTGGCTGCACACCATCCAGGACATCAACATCTCTTTGTGGCGCTTGCCAGAA
+AAGGTGAAATCCGACAGGAGTGTCTTCATGAACCAGGGAGAGTGGGAGTTGCTGGGGGTG
+CTGCCCTACTTTCGGGAGTTCAGCATGGAAAGCAGTAACTACTATGCAGAAATGAAGTTC
+TATGTGGTCATCCGCCGGCGGCCCCTCTTCTATGTGGTCAGCCTGCTACTGCCCAGCATC
+TTCCTCATGGTCATGGACATCGTGGGCTTCTACCTGCCCCCCAACAGTGGCGAGAGGGTC
+TCTTTCAAGATTACACTCCTCCTGGGCTACTCGGTCTTCCTGATCATCGTTTCTGACACG
+CTGCCGGCCACTGCCATCGGCACTCCTCTCATTGGTGTCTACTTTGTGGTGTGCATGGCT
+CTGCTGGTGATAAGTTTGGCCGAGACCATCTTCATTGTGCGGCTGGTGCACAAGCAAGAC
+CTGCAGCAGCCCGTGCCTGCTTGGCTGCGTCACCTGGTTCTGGAGAGAATCGCCTGGCTA
+CTTTGCCTGAGGGAGCAGTCAACTTCCCAGAGGCCCCCAGCCACCTCCCAAGCCACCAAG
+ACTGATGACTGCTCAGCCATGGGAAACCACTGCAGCCACATGGGAGGACCCCAGGACTTC
+GAGAAGAGCCCGAGGGACAGATGTAGCCCTCCCCCACCACCTCGGGAGGCCTCGCTGGCG
+GTGTGTGGGCTGCTGCAGGAGCTGTCCTCCATCCGGCAATTCCTGGAAAAGCGGGATGAG
+ATCCGAGAGGTGGCCCGAGACTGGCTGCGCGTGGGCTCCGTGCTGGACAAGCTGCTATTC
+CACATTTACCTGCTAGCGGTGCTGGCCTACAGCATCACCCTGGTTATGCTCTGGTCCATC
+TGGCAGTACGCTTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF02931</identifier>
+        <name>Neur_chan_LBD</name>
+      </pfam>
+      <pfam>
+        <identifier>PF02932</identifier>
+        <name>Neur_chan_memb</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>neuronal cell body</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell junction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>axon</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>synapse</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>neuron projection</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>postsynaptic membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>serotonin binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>serotonin-activated cation-selective channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>serotonin receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>voltage-gated potassium channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to cocaine</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>synaptic transmission</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>digestion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to ethanol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of membrane potential</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cation transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>ion transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to growth factor stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>neurological system process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>serotonin receptor signaling pathway</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

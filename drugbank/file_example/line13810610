@@ -1,0 +1,2564 @@
+<drug type="small molecule" created="2015-11-30" updated="2016-08-24">
+  <drugbank-id primary="true">DB09389</drugbank-id>
+  <name>Norgestrel</name>
+  <description>Norgestrel is synthetic steroidal progestin that is used in combination with ethinyl estradiol for oral contraception. Norgestrel is composed of a racemic mixture of two stereoisomers, dextronorgestrel and levonorgestrel.  However, only the levorotary enantiomer (levonorgestrel) is biologically active.</description>
+  <cas-number>6533-00-2</cas-number>
+  <unii>3J8Q1747Z2</unii>
+  <average-mass>312.453</average-mass>
+  <monoisotopic-mass>312.208930142</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Norgestrel in combination with ethinyl estradiol is indicated for the prevention of pregnancy in women who elect to use this product as a method of contraception.</indication>
+  <pharmacodynamics/>
+  <mechanism-of-action>Norgestrel (and more specifically the active stereoisomer levonorgestrel) binds to the progesterone and estrogen receptors within the female reproductive tract, the mammary gland, the hypothalamus, and the pituitary. Once bound to the receptor, progestins like levonorgestrel will slow the frequency of release of gonadotropin releasing hormone (GnRH) from the hypothalamus and blunt the pre-ovulatory LH (luteinizing hormone) surge. Loss of the LH surge inhibits ovulation and thereby prevents pregnancy.&#13;
+</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of chemical entities known as estrogens and derivatives. These are steroids with a structure containing a 3-hydroxylated estrane.</description>
+    <direct-parent>Estrogens and derivatives</direct-parent>
+    <kingdom>Chemical entities</kingdom>
+    <superclass>Organic compounds</superclass>
+    <class>Lipids and lipid-like molecules</class>
+    <subclass>Steroids and steroid derivatives</subclass>
+    <alternative-parent>17-hydroxysteroids</alternative-parent>
+    <alternative-parent>3-oxo delta-4-steroids</alternative-parent>
+    <alternative-parent>Acetylides</alternative-parent>
+    <alternative-parent>Cyclic alcohols and derivatives</alternative-parent>
+    <alternative-parent>Cyclohexenones</alternative-parent>
+    <alternative-parent>Delta-4-steroids</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Tertiary alcohols</alternative-parent>
+    <alternative-parent>Ynones</alternative-parent>
+    <substituent>17-hydroxysteroid</substituent>
+    <substituent>3-oxo-delta-4-steroid</substituent>
+    <substituent>3-oxosteroid</substituent>
+    <substituent>Acetylide</substituent>
+    <substituent>Alcohol</substituent>
+    <substituent>Aliphatic homopolycyclic compound</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Cyclic alcohol</substituent>
+    <substituent>Cyclic ketone</substituent>
+    <substituent>Cyclohexenone</substituent>
+    <substituent>Delta-4-steroid</substituent>
+    <substituent>Estrogen-skeleton</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Hydroxysteroid</substituent>
+    <substituent>Ketone</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Oxosteroid</substituent>
+    <substituent>Tertiary alcohol</substituent>
+    <substituent>Ynone</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="IUPAC">17-ethynyl-17-hydroxy-18a-homoestr-4-en-3-one</synonym>
+    <synonym language="" coder="">LD norgestrel</synonym>
+    <synonym language="" coder="">Methylnorethindrone</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Cryselle</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-4851</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2003-10-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>ANDA075840</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cryselle</name>
+      <labeller>Teva</labeller>
+      <ndc-id/>
+      <ndc-product-code>0555-9049</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2002-07-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>ANDA075840</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cryselle</name>
+      <labeller>A S Medication Solutions</labeller>
+      <ndc-id/>
+      <ndc-product-code>50090-2183</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2002-07-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>ANDA075840</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Elinest</name>
+      <labeller>North Star Rx Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>16714-365</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-07-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA091105</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Lo-femenal 21 Tablets</name>
+      <labeller>Pfizer</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02215640</dpd-id>
+      <started-marketing-on>2001-05-14</started-marketing-on>
+      <ended-marketing-on>2014-04-04</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lo/ovral-28</name>
+      <labeller>A S Medication Solutions</labeller>
+      <ndc-id/>
+      <ndc-product-code>54569-0679</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1976-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>NDA017802</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Low-ogestrel</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-4850</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-09-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA075288</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Low-ogestrel</name>
+      <labeller>Mayne Pharma</labeller>
+      <ndc-id/>
+      <ndc-product-code>51862-564</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-08-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>ANDA075288</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Low-ogestrel</name>
+      <labeller>Actavis Pharma Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52544-847</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1999-07-28</started-marketing-on>
+      <ended-marketing-on>2018-03-31</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>ANDA075288</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ovral 21</name>
+      <labeller>Pfizer</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02043033</dpd-id>
+      <started-marketing-on>1996-09-20</started-marketing-on>
+      <ended-marketing-on>2010-09-30</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ovral 21 Tab</name>
+      <labeller>Wyeth Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00034207</dpd-id>
+      <started-marketing-on>1968-12-31</started-marketing-on>
+      <ended-marketing-on>1997-08-14</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ovral 28 Tablets</name>
+      <labeller>Wyeth Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02043041</dpd-id>
+      <started-marketing-on>1995-12-31</started-marketing-on>
+      <ended-marketing-on>2006-08-04</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ovral 28tab</name>
+      <labeller>Wyeth Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00340766</dpd-id>
+      <started-marketing-on>1970-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-10</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ovrette Tablets</name>
+      <labeller>Pfizer</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02223090</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength>0.075 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Elinest</name>
+      <ingredients>Norgestrel + Ethinyl Estradiol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lo/ovral-28</name>
+      <ingredients>Norgestrel + Ethinyl Estradiol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Low-ogestrel</name>
+      <ingredients>Norgestrel + Ethinyl Estradiol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cryselle</name>
+      <ingredients>Norgestrel + Ethinyl Estradiol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovral 21 Tab</name>
+      <ingredients>Ethinyl Estradiol + Norgestrel</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovral 28tab</name>
+      <ingredients>Ethinyl Estradiol + Norgestrel</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lo-femenal 21 Tablets</name>
+      <ingredients>Ethinyl Estradiol + Norgestrel</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovrette Tablets</name>
+      <ingredients>Norgestrel</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovral 28 Tablets</name>
+      <ingredients>Ethinyl Estradiol + Norgestrel</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovral 21</name>
+      <ingredients>Ethinyl Estradiol + Norgestrel</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cryselle</name>
+      <ingredients>Norgestrel + Ethinyl Estradiol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Low-ogestrel</name>
+      <ingredients>Norgestrel + Ethinyl Estradiol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Low-ogestrel</name>
+      <ingredients>Norgestrel + Ethinyl Estradiol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cryselle</name>
+      <ingredients>Norgestrel + Ethinyl Estradiol</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Contraceptive Agents</category>
+      <mesh-id>D003270</mesh-id>
+    </category>
+    <category>
+      <category>Contraceptive Agents, Female</category>
+      <mesh-id>D003271</mesh-id>
+    </category>
+    <category>
+      <category>Contraceptives, Oral</category>
+      <mesh-id>D003276</mesh-id>
+    </category>
+    <category>
+      <category>Contraceptives, Oral, Synthetic</category>
+      <mesh-id>D003280</mesh-id>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP3A4 Substrates</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Genito Urinary System and Sex Hormones</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Norpregnanes</category>
+      <mesh-id>D009650</mesh-id>
+    </category>
+    <category>
+      <category>Norpregnenes</category>
+      <mesh-id>D009652</mesh-id>
+    </category>
+    <category>
+      <category>Norsteroids</category>
+      <mesh-id>D009654</mesh-id>
+    </category>
+    <category>
+      <category>Oral Contraceptive (Progestins)</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Compounds</category>
+      <mesh-id>D011083</mesh-id>
+    </category>
+    <category>
+      <category>Progestin Contraceptives</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Reproductive Control Agents</category>
+      <mesh-id>D012102</mesh-id>
+    </category>
+    <category>
+      <category>Sex Hormones and Modulators of the Genital System</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Steroids</category>
+      <mesh-id>D013256</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Kit</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>0.075 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="G03FB01">
+      <level code="G03FB">Progestogens and estrogens, sequential preparations</level>
+      <level code="G03F">PROGESTOGENS AND ESTROGENS IN COMBINATION</level>
+      <level code="G03">SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM</level>
+      <level code="G">GENITO URINARY SYSTEM AND SEX HORMONES</level>
+    </atc-code>
+    <atc-code code="G03AA06">
+      <level code="G03AA">Progestogens and estrogens, fixed combinations</level>
+      <level code="G03A">HORMONAL CONTRACEPTIVES FOR SYSTEMIC USE</level>
+      <level code="G03">SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM</level>
+      <level code="G">GENITO URINARY SYSTEM AND SEX HORMONES</level>
+    </atc-code>
+    <atc-code code="G03FA10">
+      <level code="G03FA">Progestogens and estrogens, fixed combinations</level>
+      <level code="G03F">PROGESTOGENS AND ESTROGENS IN COMBINATION</level>
+      <level code="G03">SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM</level>
+      <level code="G">GENITO URINARY SYSTEM AND SEX HORMONES</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB09389.pdf?1472069635</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>Norgestrel may decrease the anticoagulant activities of Acenocoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00459</drugbank-id>
+      <name>Acitretin</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Acitretin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00210</drugbank-id>
+      <name>Adapalene</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Adapalene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00523</drugbank-id>
+      <name>Alitretinoin</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Alitretinoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01118</drugbank-id>
+      <name>Amiodarone</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Amiodarone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01351</drugbank-id>
+      <name>Amobarbital</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Amobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00673</drugbank-id>
+      <name>Aprepitant</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Aprepitant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06697</drugbank-id>
+      <name>Artemether</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Artemether.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01072</drugbank-id>
+      <name>Atazanavir</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Atazanavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00289</drugbank-id>
+      <name>Atomoxetine</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Atomoxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09001</drugbank-id>
+      <name>Barbexaclone</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Barbexaclone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01483</drugbank-id>
+      <name>Barbital</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Barbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00307</drugbank-id>
+      <name>Bexarotene</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Bexarotene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00307</drugbank-id>
+      <name>Bexarotene</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Bexarotene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08873</drugbank-id>
+      <name>Boceprevir</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Boceprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00188</drugbank-id>
+      <name>Bortezomib</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Bortezomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00559</drugbank-id>
+      <name>Bosentan</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Bosentan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Carbamazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09063</drugbank-id>
+      <name>Ceritinib</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Ceritinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01432</drugbank-id>
+      <name>Cholestyramine</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Cholestyramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01211</drugbank-id>
+      <name>Clarithromycin</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Clarithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00283</drugbank-id>
+      <name>Clemastine</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Clemastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00349</drugbank-id>
+      <name>Clobazam</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Clobazam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00257</drugbank-id>
+      <name>Clotrimazole</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Clotrimazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09065</drugbank-id>
+      <name>Cobicistat</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Cobicistat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00930</drugbank-id>
+      <name>Colesevelam</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Colesevelam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00375</drugbank-id>
+      <name>Colestipol</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Colestipol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00872</drugbank-id>
+      <name>Conivaptan</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Conivaptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08865</drugbank-id>
+      <name>Crizotinib</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Crizotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00091</drugbank-id>
+      <name>Cyclosporine</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Cyclosporine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08912</drugbank-id>
+      <name>Dabrafenib</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Dabrafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01264</drugbank-id>
+      <name>Darunavir</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Darunavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Dasatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01609</drugbank-id>
+      <name>Deferasirox</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Deferasirox.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00705</drugbank-id>
+      <name>Delavirdine</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Delavirdine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01234</drugbank-id>
+      <name>Dexamethasone</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Dexamethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00266</drugbank-id>
+      <name>Dicoumarol</name>
+      <description>Norgestrel may decrease the anticoagulant activities of Dicoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00320</drugbank-id>
+      <name>Dihydroergotamine</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Dihydroergotamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00343</drugbank-id>
+      <name>Diltiazem</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Diltiazem.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00254</drugbank-id>
+      <name>Doxycycline</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Doxycycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04855</drugbank-id>
+      <name>Dronedarone</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Dronedarone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00625</drugbank-id>
+      <name>Efavirenz</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Efavirenz.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08899</drugbank-id>
+      <name>Enzalutamide</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Enzalutamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00199</drugbank-id>
+      <name>Erythromycin</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Erythromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09119</drugbank-id>
+      <name>Eslicarbazepine acetate</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Eslicarbazepine acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08794</drugbank-id>
+      <name>Ethyl biscoumacetate</name>
+      <description>Norgestrel may decrease the anticoagulant activities of Ethyl biscoumacetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06414</drugbank-id>
+      <name>Etravirine</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Etravirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01276</drugbank-id>
+      <name>Exenatide</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Exenatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00949</drugbank-id>
+      <name>Felbamate</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Felbamate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04908</drugbank-id>
+      <name>Flibanserin</name>
+      <description>The serum concentration of Flibanserin can be increased when it is combined with Norgestrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00196</drugbank-id>
+      <name>Fluconazole</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Fluconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13136</drugbank-id>
+      <name>Fluindione</name>
+      <description>Norgestrel may decrease the anticoagulant activities of Fluindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00176</drugbank-id>
+      <name>Fluvoxamine</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Fluvoxamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01319</drugbank-id>
+      <name>Fosamprenavir</name>
+      <description>The serum concentration of the active metabolites of Fosamprenavir can be reduced when Fosamprenavir is used in combination with Norgestrel resulting in a loss in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06717</drugbank-id>
+      <name>Fosaprepitant</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Fosaprepitant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01320</drugbank-id>
+      <name>Fosphenytoin</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Fosphenytoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02703</drugbank-id>
+      <name>Fusidic Acid</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Fusidic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00400</drugbank-id>
+      <name>Griseofulvin</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Griseofulvin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01355</drugbank-id>
+      <name>Hexobarbital</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Hexobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09054</drugbank-id>
+      <name>Idelalisib</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Idelalisib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00619</drugbank-id>
+      <name>Imatinib</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Imatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00224</drugbank-id>
+      <name>Indinavir</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Indinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06636</drugbank-id>
+      <name>Isavuconazonium</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Isavuconazonium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00982</drugbank-id>
+      <name>Isotretinoin</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Isotretinoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00270</drugbank-id>
+      <name>Isradipine</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Isradipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01167</drugbank-id>
+      <name>Itraconazole</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Itraconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08820</drugbank-id>
+      <name>Ivacaftor</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Ivacaftor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01026</drugbank-id>
+      <name>Ketoconazole</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Ketoconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00555</drugbank-id>
+      <name>Lamotrigine</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Lamotrigine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01601</drugbank-id>
+      <name>Lopinavir</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Lopinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00227</drugbank-id>
+      <name>Lovastatin</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Lovastatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08933</drugbank-id>
+      <name>Luliconazole</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Luliconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09280</drugbank-id>
+      <name>Lumacaftor</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Lumacaftor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00474</drugbank-id>
+      <name>Methohexital</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Methohexital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00849</drugbank-id>
+      <name>Methylphenobarbital</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Methylphenobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09046</drugbank-id>
+      <name>Metreleptin</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Metreleptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00834</drugbank-id>
+      <name>Mifepristone</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Mifepristone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00648</drugbank-id>
+      <name>Mitotane</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Mitotane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00745</drugbank-id>
+      <name>Modafinil</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Modafinil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01024</drugbank-id>
+      <name>Mycophenolic acid</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Mycophenolic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00607</drugbank-id>
+      <name>Nafcillin</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Nafcillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01149</drugbank-id>
+      <name>Nefazodone</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Nefazodone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00220</drugbank-id>
+      <name>Nelfinavir</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Nelfinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09048</drugbank-id>
+      <name>Netupitant</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Netupitant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00238</drugbank-id>
+      <name>Nevirapine</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Nevirapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04868</drugbank-id>
+      <name>Nilotinib</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Nilotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09074</drugbank-id>
+      <name>Olaparib</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Olaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09330</drugbank-id>
+      <name>Osimertinib</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Osimertinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00776</drugbank-id>
+      <name>Oxcarbazepine</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Oxcarbazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09073</drugbank-id>
+      <name>Palbociclib</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Palbociclib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00312</drugbank-id>
+      <name>Pentobarbital</name>
+      <description>The metabolism of Norgestrel can be increased when combined with Pentobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08883</drugbank-id>
+      <name>Perampanel</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Perampanel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00498</drugbank-id>
+      <name>Phenindione</name>
+      <description>Norgestrel may decrease the anticoagulant activities of Phenindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01174</drugbank-id>
+      <name>Phenobarbital</name>
+      <description>The metabolism of Norgestrel can be increased when combined with Phenobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00946</drugbank-id>
+      <name>Phenprocoumon</name>
+      <description>Norgestrel may decrease the anticoagulant activities of Phenprocoumon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00252</drugbank-id>
+      <name>Phenytoin</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Phenytoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01263</drugbank-id>
+      <name>Posaconazole</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Posaconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00794</drugbank-id>
+      <name>Primidone</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Primidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06480</drugbank-id>
+      <name>Prucalopride</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Prucalopride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00243</drugbank-id>
+      <name>Ranolazine</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Ranolazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00615</drugbank-id>
+      <name>Rifabutin</name>
+      <description>The metabolism of Norgestrel can be increased when combined with Rifabutin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01045</drugbank-id>
+      <name>Rifampicin</name>
+      <description>The metabolism of Norgestrel can be increased when combined with Rifampicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01201</drugbank-id>
+      <name>Rifapentine</name>
+      <description>The metabolism of Norgestrel can be increased when combined with Rifapentine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00503</drugbank-id>
+      <name>Ritonavir</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Ritonavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01232</drugbank-id>
+      <name>Saquinavir</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Saquinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00418</drugbank-id>
+      <name>Secobarbital</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Secobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01037</drugbank-id>
+      <name>Selegiline</name>
+      <description>The serum concentration of Selegiline can be increased when it is combined with Norgestrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00203</drugbank-id>
+      <name>Sildenafil</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Sildenafil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09036</drugbank-id>
+      <name>Siltuximab</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Siltuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06290</drugbank-id>
+      <name>Simeprevir</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Simeprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01323</drugbank-id>
+      <name>St. John's Wort</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with St. John&amp;#39;s Wort.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09118</drugbank-id>
+      <name>Stiripentol</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Stiripentol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06206</drugbank-id>
+      <name>Sugammadex</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Sugammadex.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00263</drugbank-id>
+      <name>Sulfisoxazole</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Sulfisoxazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05521</drugbank-id>
+      <name>Telaprevir</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Telaprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00976</drugbank-id>
+      <name>Telithromycin</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Telithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01041</drugbank-id>
+      <name>Thalidomide</name>
+      <description>Norgestrel may increase the thrombogenic activities of Thalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01154</drugbank-id>
+      <name>Thiamylal</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Thiamylal.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00599</drugbank-id>
+      <name>Thiopental</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Thiopental.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00208</drugbank-id>
+      <name>Ticlopidine</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Ticlopidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00932</drugbank-id>
+      <name>Tipranavir</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Tipranavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06273</drugbank-id>
+      <name>Tocilizumab</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Tocilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00273</drugbank-id>
+      <name>Topiramate</name>
+      <description>The serum concentration of Norgestrel can be decreased when it is combined with Topiramate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00302</drugbank-id>
+      <name>Tranexamic Acid</name>
+      <description>Norgestrel may increase the thrombogenic activities of Tranexamic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00755</drugbank-id>
+      <name>Tretinoin</name>
+      <description>The therapeutic efficacy of Norgestrel can be decreased when used in combination with Tretinoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00285</drugbank-id>
+      <name>Venlafaxine</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Venlafaxine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00661</drugbank-id>
+      <name>Verapamil</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Verapamil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00582</drugbank-id>
+      <name>Voriconazole</name>
+      <description>The serum concentration of Norgestrel can be increased when it is combined with Voriconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>Norgestrel may decrease the anticoagulant activities of Warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00246</drugbank-id>
+      <name>Ziprasidone</name>
+      <description>The metabolism of Norgestrel can be decreased when combined with Ziprasidone.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>3.25</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-4.7</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>5.83e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>3.66</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>15-ethyl-14-ethynyl-14-hydroxytetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadec-6-en-5-one</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>methylnorethindrone</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>312.453</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>312.208930142</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CCC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2(O)C#C</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C21H28O2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C21H28O2/c1-3-20-11-9-17-16-8-6-15(22)13-14(16)5-7-18(17)19(20)10-12-21(20,23)4-2/h2,13,16-19,23H,3,5-12H2,1H3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>WWYNJERNGUHSAO-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>37.3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>92.03</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>36.83</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>17.91</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-1.5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7494</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7503</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>7630</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D00954</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Norgestrel</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2107797</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/low-ogestrel-drug.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>https://www.drugs.com/cdi/norgestrel-ethinyl-estradiol.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000557</id>
+      <name>Progesterone receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>binder</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>11521119</pubmed-id>
+            <citation>Hammond GL, Rabe T, Wagner JD: Preclinical profiles of progestins used in formulations of oral contraceptives and hormone replacement therapy. Am J Obstet Gynecol. 2001 Aug;185(2 Suppl):S24-31.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P06401" source="Swiss-Prot">
+    <name>Progesterone receptor</name>
+    <general-function>Zinc ion binding</general-function>
+    <specific-function>The steroid hormones and their receptors are involved in the regulation of eukaryotic gene expression and affect cellular proliferation and differentiation in target tissues. Progesterone receptor isoform B (PRB) is involved activation of c-SRC/MAPK signaling on hormone stimulation.Isoform A: inactive in stimulating c-Src/MAPK signaling on hormone stimulation.Isoform 4: Increases mitochondrial membrane potential and cellular respiration upon stimulation by progesterone.</specific-function>
+    <gene-name>PGR</gene-name>
+    <locus>11q22-q23</locus>
+    <cellular-location>Nucleus</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>6.45</theoretical-pi>
+    <molecular-weight>98979.96</molecular-weight>
+    <chromosome-location>11</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:8910</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>PGR</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>X51730</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>35652</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>IUPHAR</resource>
+        <identifier>627</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>627</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P06401</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>PRGR_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>NR3C3</synonym>
+      <synonym>Nuclear receptor subfamily 3 group C member 3</synonym>
+      <synonym>PR</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001112|Progesterone receptor
+MTELKAKGPRAPHVAGGPPSPEVGSPLLCRPAAGPFPGSQTSDTLPEVSAIPISLDGLLF
+PRPCQGQDPSDEKTQDQQSLSDVEGAYSRAEATRGAGGSSSSPPEKDSGLLDSVLDTLLA
+PSGPGQSQPSPPACEVTSSWCLFGPELPEDPPAAPATQRVLSPLMSRSGCKVGDSSGTAA
+AHKVLPRGLSPARQLLLPASESPHWSGAPVKPSPQAAAVEVEEEDGSESEESAGPLLKGK
+PRALGGAAAGGGAAAVPPGAAAGGVALVPKEDSRFSAPRVALVEQDAPMAPGRSPLATTV
+MDFIHVPILPLNHALLAARTRQLLEDESYDGGAGAASAFAPPRSSPCASSTPVAVGDFPD
+CAYPPDAEPKDDAYPLYSDFQPPALKIKEEEEGAEASARSPRSYLVAGANPAAFPDFPLG
+PPPPLPPRATPSRPGEAAVTAAPASASVSSASSSGSTLECILYKAEGAPPQQGPFAPPPC
+KAPGASGCLLPRDGLPSTSASAAAAGAAPALYPALGLNGLPQLGYQAAVLKEGLPQVYPP
+YLNYLRPDSEASQSPQYSFESLPQKICLICGDEASGCHYGVLTCGSCKVFFKRAMEGQHN
+YLCAGRNDCIVDKIRRKNCPACRLRKCCQAGMVLGGRKFKKFNKVRVVRALDAVALPQPV
+GVPNESQALSQRFTFSPGQDIQLIPPLINLLMSIEPDVIYAGHDNTKPDTSSSLLTSLNQ
+LGERQLLSVVKWSKSLPGFRNLHIDDQITLIQYSWMSLMVFGLGWRSYKHVSGQMLYFAP
+DLILNEQRMKESSFYSLCLTMWQIPQEFVKLQVSQEEFLCMKVLLLLNTIPLEGLRSQTQ
+FEEMRSSYIRELIKAIGLRQKGVVSSSQRFYQLTKLLDNLHDLVKQLHLYCLNTFIQSRA
+LSVEFPEMMSEVIAAQLPKILAGMVKPLLFHKK</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0010387|Progesterone receptor (PGR)
+ATGACTGAGCTGAAGGCAAAGGGTCCCCGGGCTCCCCACGTGGCGGGCGGCCCGCCCTCC
+CCCGAGGTCGGATCCCCACTGCTGTGTCGCCCAGCCGCAGGTCCGTTCCCGGGGAGCCAG
+ACCTCGGACACCTTGCCTGAAGTTTCGGCCATACCTATCTCCCTGGACGGGCTACTCTTC
+CCTCGGCCCTGCCAGGGACAGGACCCCTCCGACGAAAAGACGCAGGACCAGCAGTCGCTG
+TCGGACGTGGAGGGCGCATATTCCAGAGCTGAAGCTACAAGGGGTGCTGGAGGCAGCAGT
+TCTAGTCCCCCAGAAAAGGACAGCGGACTGCTGGACAGTGTCTTGGACACTCTGTTGGCG
+CCCTCAGGTCCCGGGCAGAGCCAACCCAGCCCTCCCGCCTGCGAGGTCACCAGCTCTTGG
+TGCCTGTTTGGCCCCGAACTTCCCGAAGATCCACCGGCTGCCCCCGCCACCCAGCGGGTG
+TTGTCCCCGCTCATGAGCCGGTCCGGGTGCAAGGTTGGAGACAGCTCCGGGACGGCAGCT
+GCCCATAAAGTGCTGCCCCGGGGCCTGTCACCAGCCCGGCAGCTGCTGCTCCCGGCCTCT
+GAGAGCCCTCACTGGTCCGGGGCCCCAGTGAAGCCGTCTCCGCAGGCCGCTGCGGTGGAG
+GTTGAGGAGGAGGATGGCTCTGAGTCCGAGGAGTCTGCGGGTCCGCTTCTGAAGGGCAAA
+CCTCGGGCTCTGGGTGGCGCGGCGGCTGGAGGAGGAGCCGCGGCTGTCCCGCCGGGGGCG
+GCAGCAGGAGGCGTCGCCCTGGTCCCCAAGGAAGATTCCCGCTTCTCAGCGCCCAGGGTC
+GCCCTGGTGGAGCAGGACGCGCCGATGGCGCCCGGGCGCTCCCCGCTGGCCACCACGGTG
+ATGGATTTCATCCACGTGCCTATCCTGCCTCTCAATCACGCCTTATTGGCAGCCCGCACT
+CGGCAGCTGCTGGAAGACGAAAGTTACGACGGCGGGGCCGGGGCTGCCAGCGCCTTTGCC
+CCGCCGCGGAGTTCACCCTGTGCCTCGTCCACCCCGGTCGCTGTAGGCGACTTCCCCGAC
+TGCGCGTACCCGCCCGACGCCGAGCCCAAGGACGACGCGTACCCTCTCTATAGCGACTTC
+CAGCCGCCCGCTCTAAAGATAAAGGAGGAGGAGGAAGGCGCGGAGGCCTCCGCGCGCTCC
+CCGCGTTCCTACCTTGTGGCCGGTGCCAACCCCGCAGCCTTCCCGGATTTCCCGTTGGGG
+CCACCGCCCCCGCTGCCGCCGCGAGCGACCCCATCCAGACCCGGGGAAGCGGCGGTGACG
+GCCGCACCCGCCAGTGCCTCAGTCTCGTCTGCGTCCTCCTCGGGGTCGACCCTGGAGTGC
+ATCCTGTACAAAGCGGAGGGCGCGCCGCCCCAGCAGGGCCCGTTCGCGCCGCCGCCCTGC
+AAGGCGCCGGGCGCGAGCGGCTGCCTGCTCCCGCGGGACGGCCTGCCCTCCACCTCCGCC
+TCTGCCGCCGCCGCCGGGGCGGCCCCCGCGCTCTACCCTGCACTCGGCCTCAACGGGCTC
+CCGCAGCTCGGCTACCAGGCCGCCGTGCTCAAGGAGGGCCTGCCGCAGGTCTACCCGCCC
+TATCTCAACTACCTGAGGCCGGATTCAGAAGCCAGCCAGAGCCCACAATACAGCTTCGAG
+TCATTACCTCAGAAGATTTGTTTAATCTGTGGGGATGAAGCATCAGGCTGTCATTATGGT
+GTCCTTACCTGTGGGAGCTGTAAGGTCTTCTTTAAGAGGGCAATGGAAGGGCAGCACAAC
+TACTTATGTGCTGGAAGAAATGACTGCATCGTTGATAAAATCCGCAGAAAAAACTGCCCA
+GCATGTCGCCTTAGAAAGTGCTGTCAGGCTGGCATGGTCCTTGGAGGTCGAAAATTTAAA
+AAGTTCAATAAAGTCAGAGTTGTGAGAGCACTGGATGCTGTTGCTCTCCCACAGCCAGTG
+GGCGTTCCAAATGAAAGCCAAGCCCTAAGCCAGAGATTCACTTTTTCACCAGGTCAAGAC
+ATACAGTTGATTCCACCACTGATCAACCTGTTAATGAGCATTGAACCAGATGTGATCTAT
+GCAGGACATGACAACACAAAACCTGACACCTCCAGTTCTTTGCTGACAAGTCTTAATCAA
+CTAGGCGAGAGGCAACTTCTTTCAGTAGTCAAGTGGTCTAAATCATTGCCAGGTTTTCGA
+AACTTACATATTGATGACCAGATAACTCTCATTCAGTATTCTTGGATGAGCTTAATGGTG
+TTTGGTCTAGGATGGAGATCCTACAAACACGTCAGTGGGCAGATGCTGTATTTTGCACCT
+GATCTAATACTAAATGAACAGCGGATGAAAGAATCATCATTCTATTCATTATGCCTTACC
+ATGTGGCAGATCCCACAGGAGTTTGTCAAGCTTCAAGTTAGCCAAGAAGAGTTCCTCTGT
+ATGAAAGTATTGTTACTTCTTAATACAATTCCTTTGGAAGGGCTACGAAGTCAAACCCAG
+TTTGAGGAGATGAGGTCAAGCTACATTAGAGAGCTCATCAAGGCAATTGGTTTGAGGCAA
+AAAGGAGTTGTGTCGAGCTCACAGCGTTTCTATCAACTTACAAAACTTCTTGATAACTTG
+CATGATCTTGTCAAACAACTTCATCTGTACTGCTTGAATACATTTATCCAGTCCCGGGCA
+CTGAGTGTTGAATTTCCAGAAATGATGTCTGAAGTTATTGCTGCACAATTACCCAAGATA
+TTGGCAGGGATGGTGAAACCCCTTCTCTTTCATAAAAAGTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00104</identifier>
+        <name>Hormone_recep</name>
+      </pfam>
+      <pfam>
+        <identifier>PF00105</identifier>
+        <name>zf-C4</name>
+      </pfam>
+      <pfam>
+        <identifier>PF02161</identifier>
+        <name>Prog_receptor</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>mitochondrial outer membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>receptor binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>RNA polymerase II core promoter proximal region sequence-specific DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enzyme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>zinc ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hormone receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATPase binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>ovulation from ovarian follicle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell-cell signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>epithelial cell maturation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>gene expression</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>lung alveolus development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transcription initiation from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>paracrine signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>progesterone receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of epithelial cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>tertiary branching involved in mammary gland duct morphogenesis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of gene expression</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0000539</id>
+      <name>3-oxo-5-alpha-steroid 4-dehydrogenase 1</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>11075290</pubmed-id>
+            <citation>Rabe T, Kowald A, Ortmann J, Rehberger-Schneider S: Inhibition of skin 5 alpha-reductase by oral contraceptive progestins in vitro. Gynecol Endocrinol. 2000 Aug;14(4):223-30.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P18405" source="Swiss-Prot">
+    <name>3-oxo-5-alpha-steroid 4-dehydrogenase 1</name>
+    <general-function>Electron carrier activity</general-function>
+    <specific-function>Converts testosterone into 5-alpha-dihydrotestosterone and progesterone or corticosterone into their corresponding 5-alpha-3-oxosteroids. It plays a central role in sexual differentiation and androgen physiology.</specific-function>
+    <gene-name>SRD5A1</gene-name>
+    <locus>5p15</locus>
+    <cellular-location>Microsome membrane</cellular-location>
+    <transmembrane-regions>12-29
+86-106
+111-131
+151-171
+209-229</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>9.07</theoretical-pi>
+    <molecular-weight>29458.18</molecular-weight>
+    <chromosome-location>5</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:11284</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>SRD5A1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M32313</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>177767</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P18405</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>S5A1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.3.1.22</synonym>
+      <synonym>S5AR 1</synonym>
+      <synonym>SR type 1</synonym>
+      <synonym>Steroid 5-alpha-reductase 1</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010375|3-oxo-5-alpha-steroid 4-dehydrogenase 1
+MATATGVAEERLLAALAYLQCAVGCAVFARNRQTNSVYGRHALPSHRLRVPARAAWVVQE
+LPSLALPLYQYASESAPRLRSAPNCILLAMFLVHYGHRCLIYPFLMRGGKPMPLLACTMA
+IMFCTCNGYLQSRYLSHCAVYADDWVTDPRFLIGFGLWLTGMLINIHSDHILRNLRKPGD
+TGYKIPRGGLFEYVTAANYFGEIMEWCGYALASWSVQGAAFAFFTFCFLSGRAKEHHEWY
+LRKFEEYPKFRKIIIPFLF</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0010376|3-oxo-5-alpha-steroid 4-dehydrogenase 1 (SRD5A1)
+ATGGCAACGGCGACGGGGGTGGCGGAGGAGCGCCTGCTGGCCGCGCTCGCCTACCTGCAG
+TGCGCCGTGGGCTGCGCGGTCTTCGCGCGCAATCGTCAGACGAACTCAGTGTACGGCCGC
+CACGCGCTGCCCAGCCACAGGCTCCGAGTGCCGGCGCGGGCCGCCTGGGTGGTGCAGGAG
+CTGCCCTCGCTGGCCCTGCCGCTCTACCAGTACGCCAGCGAGTCCGCCCCGCGTCTCCGC
+AGCGCGCCCAACTGCATCCTCCTGGCCATGTTCCTCGTCCACTACGGGCATCGGTGCTTA
+ATTTACCCATTTCTGATGCGAGGAGGAAAGCCTATGCCACTGTTGGCGTGTACAATGGCG
+ATTATGTTCTGTACCTGTAACGGCTATTTGCAAAGCAGATACTTGAGCCATTGTGCAGTG
+TATGCTGATGACTGGGTAACAGATCCCCGTTTTCTAATAGGTTTTGGCTTGTGGTTAACG
+GGCATGTTGATAAACATCCATTCAGATCATATCCTAAGGAATCTCAGAAAACCAGGAGAT
+ACTGGATACAAAATACCAAGGGGAGGCTTATTTGAATACGTAACTGCAGCCAACTATTTT
+GGAGAAATCATGGAGTGGTGTGGCTATGCCCTGGCCAGCTGGTCTGTCCAAGGCGCGGCT
+TTTGCTTTCTTCACGTTTTGTTTTTTATCTGGTAGAGCAAAAGAGCATCATGAGTGGTAC
+CTCCGGAAATTTGAAGAGTATCCAAAGTTCAGAAAAATTATAATTCCATTTTTGTTTTAA
+</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF02544</identifier>
+        <name>Steroid_dh</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>3-oxo-5-alpha-steroid 4-dehydrogenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>cholestenone 5-alpha-reductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>electron carrier activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>androgen biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sex determination</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sex differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell differentiation</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+    <target position="3">
+      <id>BE0000132</id>
+      <name>Androgen receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>3139361</pubmed-id>
+            <citation>Kloosterboer HJ, Vonk-Noordegraaf CA, Turpijn EW: Selectivity in progesterone and androgen receptor binding of progestagens used in oral contraceptives. Contraception. 1988 Sep;38(3):325-32.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P10275" source="Swiss-Prot">
+    <name>Androgen receptor</name>
+    <general-function>Zinc ion binding</general-function>
+    <specific-function>Steroid hormone receptors are ligand-activated transcription factors that regulate eukaryotic gene expression and affect cellular proliferation and differentiation in target tissues. Transcription factor activity is modulated by bound coactivator and corepressor proteins. Transcription activation is down-regulated by NR0B2. Activated, but not phosphorylated, by HIPK3 and ZIPK/DAPK3.</specific-function>
+    <gene-name>AR</gene-name>
+    <locus>Xq11.2-q12</locus>
+    <cellular-location>Nucleus</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>6.38</theoretical-pi>
+    <molecular-weight>98987.9</molecular-weight>
+    <chromosome-location>X</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:644</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>AR</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M20132</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>178628</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>IUPHAR</resource>
+        <identifier>628</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>628</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P10275</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>ANDR_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>DHTR</synonym>
+      <synonym>Dihydrotestosterone receptor</synonym>
+      <synonym>NR3C4</synonym>
+      <synonym>Nuclear receptor subfamily 3 group C member 4</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000263|Androgen receptor
+MEVQLGLGRVYPRPPSKTYRGAFQNLFQSVREVIQNPGPRHPEAASAAPPGASLLLLQQQ
+QQQQQQQQQQQQQQQQQQETSPRQQQQQQGEDGSPQAHRRGPTGYLVLDEEQQPSQPQSA
+LECHPERGCVPEPGAAVAASKGLPQQLPAPPDEDDSAAPSTLSLLGPTFPGLSSCSADLK
+DILSEASTMQLLQQQQQEAVSEGSSSGRAREASGAPTSSKDNYLGGTSTISDNAKELCKA
+VSVSMGLGVEALEHLSPGEQLRGDCMYAPLLGVPPAVRPTPCAPLAECKGSLLDDSAGKS
+TEDTAEYSPFKGGYTKGLEGESLGCSGSAAAGSSGTLELPSTLSLYKSGALDEAAAYQSR
+DYYNFPLALAGPPPPPPPPHPHARIKLENPLDYGSAWAAAAAQCRYGDLASLHGAGAAGP
+GSGSPSAAASSSWHTLFTAEEGQLYGPCGGGGGGGGGGGGGGGGGGGGGGGGEAGAVAPY
+GYTRPPQGLAGQESDFTAPDVWYPGGMVSRVPYPSPTCVKSEMGPWMDSYSGPYGDMRLE
+TARDHVLPIDYYFPPQKTCLICGDEASGCHYGALTCGSCKVFFKRAAEGKQKYLCASRND
+CTIDKFRRKNCPSCRLRKCYEAGMTLGARKLKKLGNLKLQEEGEASSTTSPTEETTQKLT
+VSHIEGYECQPIFLNVLEAIEPGVVCAGHDNNQPDSFAALLSSLNELGERQLVHVVKWAK
+ALPGFRNLHVDDQMAVIQYSWMGLMVFAMGWRSFTNVNSRMLYFAPDLVFNEYRMHKSRM
+YSQCVRMRHLSQEFGWLQITPQEFLCMKALLLFSIIPVDGLKNQKFFDELRMNYIKELDR
+IIACKRKNPTSCSRRFYQLTKLLDSVQPIARELHQFTFDLLIKSHMVSVDFPEMMAEIIS
+VQVPKILSGKVKPIYFHTQ</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0020451|Androgen receptor (AR)
+ATGGAAGTGCAGTTAGGGCTGGGAAGGGTCTACCCTCGGCCGCCGTCCAAGACCTACCGA
+GGAGCTTTCCAGAATCTGTTCCAGAGCGTGCGCGAAGTGATCCAGAACCCGGGCCCCAGG
+CACCCAGAGGCCGCGAGCGCAGCACCTCCCGGCGCCAGTTTGCTGCTGCTGCAGCAGCAG
+CAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAA
+GAGACTAGCCCCAGGCAGCAGCAGCAGCAGCAGGGTGAGGATGGTTCTCCCCAAGCCCAT
+CGTAGAGGCCCCACAGGCTACCTGGTCCTGGATGAGGAACAGCAACCTTCACAGCCGCAG
+TCGGCCCTGGAGTGCCACCCCGAGAGAGGTTGCGTCCCAGAGCCTGGAGCCGCCGTGGCC
+GCCAGCAAGGGGCTGCCGCAGCAGCTGCCAGCACCTCCGGACGAGGATGACTCAGCTGCC
+CCATCCACGTTGTCCCTGCTGGGCCCCACTTTCCCCGGCTTAAGCAGCTGCTCCGCTGAC
+CTTAAAGACATCCTGAGCGAGGCCAGCACCATGCAACTCCTTCAGCAACAGCAGCAGGAA
+GCAGTATCCGAAGGCAGCAGCAGCGGGAGAGCGAGGGAGGCCTCGGGGGCTCCCACTTCC
+TCCAAGGACAATTACTTAGGGGGCACTTCGACCATTTCTGACAACGCCAAGGAGTTGTGT
+AAGGCAGTGTCGGTGTCCATGGGCCTGGGTGTGGAGGCGTTGGAGCATCTGAGTCCAGGG
+GAACAGCTTCGGGGGGATTGCATGTACGCCCCACTTTTGGGAGTTCCACCCGCTGTGCGT
+CCCACTCCTTGTGCCCCATTGGCCGAATGCAAAGGTTCTCTGCTAGACGACAGCGCAGGC
+AAGAGCACTGAAGATACTGCTGAGTATTCCCCTTTCAAGGGAGGTTACACCAAAGGGCTA
+GAAGGCGAGAGCCTAGGCTGCTCTGGCAGCGCTGCAGCAGGGAGCTCCGGGACACTTGAA
+CTGCCGTCTACCCTGTCTCTCTACAAGTCCGGAGCACTGGACGAGGCAGCTGCGTACCAG
+AGTCGCGACTACTACAACTTTCCACTGGCTCTGGCCGGACCGCCGCCCCCTCCGCCGCCT
+CCCCATCCCCACGCTCGCATCAAGCTGGAGAACCCGCTGGACTACGGCAGCGCCTGGGCG
+GCTGCGGCGGCGCAGTGCCGCTATGGGGACCTGGCGAGCCTGCATGGCGCGGGTGCAGCG
+GGACCCGGTTCTGGGTCACCCTCAGCCGCCGCTTCCTCATCCTGGCACACTCTCTTCACA
+GCCGAAGAAGGCCAGTTGTATGGACCGTGTGGTGGTGGTGGGGGTGGTGGCGGCGGCGGC
+GGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGAGGCGGGAGCTGTAGCCCCC
+TACGGCTACACTCGGCCCCCTCAGGGGCTGGCGGGCCAGGAAAGCGACTTCACCGCACCT
+GATGTGTGGTACCCTGGCGGCATGGTGAGCAGAGTGCCCTATCCCAGTCCCACTTGTGTC
+AAAAGCGAAATGGGCCCCTGGATGGATAGCTACTCCGGACCTTACGGGGACATGCGTTTG
+GAGACTGCCAGGGACCATGTTTTGCCCATTGACTATTACTTTCCACCCCAGAAGACCTGC
+CTGATCTGTGGAGATGAAGCTTCTGGGTGTCACTATGGAGCTCTCACATGTGGAAGCTGC
+AAGGTCTTCTTCAAAAGAGCCGCTGAAGGGAAACAGAAGTACCTGTGCGCCAGCAGAAAT
+GATTGCACTATTGATAAATTCCGAAGGAAAAATTGTCCATCTTGTCGTCTTCGGAAATGT
+TATGAAGCAGGGATGACTCTGGGAGCCCGGAAGCTGAAGAAACTTGGTAATCTGAAACTA
+CAGGAGGAAGGAGAGGCTTCCAGCACCACCAGCCCCACTGAGGAGACAACCCAGAAGCTG
+ACAGTGTCACACATTGAAGGCTATGAATGTCAGCCCATCTTTCTGAATGTCCTGGAAGCC
+ATTGAGCCAGGTGTAGTGTGTGCTGGACACGACAACAACCAGCCCGACTCCTTTGCAGCC
+TTGCTCTCTAGCCTCAATGAACTGGGAGAGAGACAGCTTGTACACGTGGTCAAGTGGGCC
+AAGGCCTTGCCTGGCTTCCGCAACTTACACGTGGACGACCAGATGGCTGTCATTCAGTAC
+TCCTGGATGGGGCTCATGGTGTTTGCCATGGGCTGGCGATCCTTCACCAATGTCAACTCC
+AGGATGCTCTACTTCGCCCCTGATCTGGTTTTCAATGAGTACCGCATGCACAAGTCCCGG
+ATGTACAGCCAGTGTGTCCGAATGAGGCACCTCTCTCAAGAGTTTGGATGGCTCCAAATC
+ACCCCCCAGGAATTCCTGTGCATGAAAGCACTGCTACTCTTCAGCATTATTCCAGTGGAT
+GGGCTGAAAAATCAAAAATTCTTTGATGAACTTCGAATGAACTACATCAAGGAACTCGAT
+CGTATCATTGCATGCAAAAGAAAAAATCCCACATCCTGCTCAAGACGCTTCTACCAGCTC
+ACCAAGCTCCTGGACTCCGTGCAGCCTATTGCGAGAGAGCTGCATCAGTTCACTTTTGAC
+CTGCTAATCAAGTCACACATGGTGAGCGTGGACTTTCCGGAAATGATGGCAGAGATCATC
+TCTGTGCAAGTGCCCAAGATCCTTTCTGGGAAAGTCAAGCCCATCTATTTCCACACCCAG
+TGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00104</identifier>
+        <name>Hormone_recep</name>
+      </pfam>
+      <pfam>
+        <identifier>PF00105</identifier>
+        <name>zf-C4</name>
+      </pfam>
+      <pfam>
+        <identifier>PF02166</identifier>
+        <name>Androgen_recep</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nuclear chromatin</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>protein complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>RNA polymerase II core promoter proximal region sequence-specific DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>receptor binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>androgen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>androgen receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transcription factor activity, sequence-specific DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein dimerization activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transcription regulatory region DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>chromatin binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transcription factor binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>zinc ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>beta-catenin binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>RNA polymerase II transcription factor binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATPase binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enzyme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transcription, DNA-templated</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of integrin biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of gene expression</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>gene expression</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of integrin biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of extrinsic apoptotic signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transcription initiation from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of NF-kappaB transcription factor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>intracellular receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>androgen receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of transcription, DNA-templated</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cell differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>prostate gland development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell growth</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of transcription from RNA polymerase III promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small GTPase mediated signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein oligomerization</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell-cell signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sex differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of establishment of protein localization to plasma membrane</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes>
+    <enzyme position="4">
+      <id>BE0002638</id>
+      <name>Cytochrome P450 3A4</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>19934256</pubmed-id>
+            <citation>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. doi: 10.1093/nar/gkp970.  Epub 2009 Nov 24.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P08684" source="Swiss-Prot">
+    <name>Cytochrome P450 3A4</name>
+    <general-function>Vitamin d3 25-hydroxylase activity</general-function>
+    <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It performs a variety of oxidation reactions (e.g. caffeine 8-oxidation, omeprazole sulphoxidation, midazolam 1'-hydroxylation and midazolam 4-hydroxylation) of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. Acts as a 1,8-cineole 2-exo-monooxygenase. The enzyme also hydroxylates etoposide (PubMed:11159812). Catalyzes 4-beta-hydroxylation of cholesterol. May catalyze 25-hydroxylation of cholesterol in vitro (PubMed:21576599).</specific-function>
+    <gene-name>CYP3A4</gene-name>
+    <locus>7q21.1</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions>2-22</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>8.25</theoretical-pi>
+    <molecular-weight>57342.67</molecular-weight>
+    <chromosome-location>7</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2637</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP3A4</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M18907</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1337</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P08684</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP3A4_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1,8-cineole 2-exo-monooxygenase</synonym>
+      <synonym>1.14.13.-</synonym>
+      <synonym>Albendazole monooxygenase</synonym>
+      <synonym>Albendazole sulfoxidase</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYP3A3</synonym>
+      <synonym>CYPIIIA3</synonym>
+      <synonym>CYPIIIA4</synonym>
+      <synonym>Cytochrome P450 3A3</synonym>
+      <synonym>Cytochrome P450 HLp</synonym>
+      <synonym>Cytochrome P450 NF-25</synonym>
+      <synonym>Cytochrome P450-PCN1</synonym>
+      <synonym>Nifedipine oxidase</synonym>
+      <synonym>Quinine 3-monooxygenase</synonym>
+      <synonym>Taurochenodeoxycholate 6-alpha-hydroxylase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0021936|Cytochrome P450 3A4
+MALIPDLAMETWLLLAVSLVLLYLYGTHSHGLFKKLGIPGPTPLPFLGNILSYHKGFCMF
+DMECHKKYGKVWGFYDGQQPVLAITDPDMIKTVLVKECYSVFTNRRPFGPVGFMKSAISI
+AEDEEWKRLRSLLSPTFTSGKLKEMVPIIAQYGDVLVRNLRREAETGKPVTLKDVFGAYS
+MDVITSTSFGVNIDSLNNPQDPFVENTKKLLRFDFLDPFFLSITVFPFLIPILEVLNICV
+FPREVTNFLRKSVKRMKESRLEDTQKHRVDFLQLMIDSQNSKETESHKALSDLELVAQSI
+IFIFAGYETTSSVLSFIMYELATHPDVQQKLQEEIDAVLPNKAPPTYDTVLQMEYLDMVV
+NETLRLFPIAMRLERVCKKDVEINGMFIPKGVVVMIPSYALHRDPKYWTEPEKFLPERFS
+KKNKDNIDPYIYTPFGSGPRNCIGMRFALMNMKLALIRVLQNFSFKPCKETQIPLKLSLG
+GLLQPEKPVVLKVESRDGTVSGA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0021937|Cytochrome P450 3A4 (CYP3A4)
+ATGGCTCTCATCCCAGACTTGGCCATGGAAACCTGGCTTCTCCTGGCTGTCAGCCTGGTG
+CTCCTCTATCTATATGGAACCCATTCACATGGACTTTTTAAGAAGCTTGGAATTCCAGGG
+CCCACACCTCTGCCTTTTTTGGGAAATATTTTGTCCTACCATAAGGGCTTTTGTATGTTT
+GACATGGAATGTCATAAAAAGTATGGAAAAGTGTGGGGCTTTTATGATGGTCAACAGCCT
+GTGCTGGCTATCACAGATCCTGACATGATCAAAACAGTGCTAGTGAAAGAATGTTATTCT
+GTCTTCACAAACCGGAGGCCTTTTGGTCCAGTGGGATTTATGAAAAGTGCCATCTCTATA
+GCTGAGGATGAAGAATGGAAGAGATTACGATCATTGCTGTCTCCAACCTTCACCAGTGGA
+AAACTCAAGGAGATGGTCCCTATCATTGCCCAGTATGGAGATGTGTTGGTGAGAAATCTG
+AGGCGGGAAGCAGAGACAGGCAAGCCTGTCACCTTGAAAGACGTCTTTGGGGCCTACAGC
+ATGGATGTGATCACTAGCACATCATTTGGAGTGAACATCGACTCTCTCAACAATCCACAA
+GACCCCTTTGTGGAAAACACCAAGAAGCTTTTAAGATTTGATTTTTTGGATCCATTCTTT
+CTCTCAATAATCTTTCCATTCCTCATCCCAATTCTTGAAGTATTAAATATCTGTGTGTTT
+CCAAGAGAAGTTACAAATTTTTTAAGAAAATCTGTAAAAAGGATGAAAGAAAGTCGCCTC
+GAAGATACACAAAAGCACCGAGTGGATTTCCTTCAGCTGATGATTGACTCTCAGAATTCA
+AAAGAAACTGAGTCCCACAAAGCTCTGTCCGATCTGGAGCTCGTGGCCCAATCAATTATC
+TTTATTTTTGCTGGCTATGAAACCACGAGCAGTGTTCTCTCCTTCATTATGTATGAACTG
+GCCACTCACCCTGATGTCCAGCAGAAACTGCAGGAGGAAATTGATGCAGTTTTACCCAAT
+AAGGCACCACCCACCTATGATACTGTGCTACAGATGGAGTATCTTGACATGGTGGTGAAT
+GAAACGCTCAGATTATTCCCAATTGCTATGAGACTTGAGAGGGTCTGCAAAAAAGATGTT
+GAGATCAATGGGATGTTCATTCCCAAAGGGGTGGTGGTGATGATTCCAAGCTATGCTCTT
+CACCGTGACCCAAAGTACTGGACAGAGCCTGAGAAGTTCCTCCCTGAAAGATTCAGCAAG
+AAGAACAAGGACAACATAGATCCTTACATATACACACCCTTTGGAAGTGGACCCAGAAAC
+TGCATTGGCATGAGGTTTGCTCTCATGAACATGAAACTTGCTCTAATCAGAGTCCTTCAG
+AACTTCTCCTTCAAACCTTGTAAAGAAACACAGATCCCCCTGAAATTAAGCTTAGGAGGA
+CTTCTTCAACCAGAAAAACCCGTTGTTCTAAAGGTTGAGTCAAGGGATGGCACCGTAAGT
+GGAGCCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>vitamin D 24-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enzyme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>testosterone 6-beta-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>vitamin D3 25-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>albendazole monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>caffeine oxidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>quinine 3-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>taurochenodeoxycholate 6alpha-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>androgen metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>calcitriol biosynthetic process from calciol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>vitamin D metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>lipid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heterocycle metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+    <enzyme position="5">
+      <id>BE0002090</id>
+      <name>Cytochrome P450 19A1</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>19934256</pubmed-id>
+            <citation>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. doi: 10.1093/nar/gkp970.  Epub 2009 Nov 24.</citation>
+          </article>
+          <article>
+            <pubmed-id>639763</pubmed-id>
+            <citation>Schurenkamper P, Lisse K: [In-vitro studies on the effect of D-norgestrel and norethisterone acetate on the formation of sex steroids in the human ovary]. Endokrinologie. 1978 Feb;71(1):25-34.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P11511" source="Swiss-Prot">
+    <name>Aromatase</name>
+    <general-function>Oxygen binding</general-function>
+    <specific-function>Catalyzes the formation of aromatic C18 estrogens from C19 androgens.</specific-function>
+    <gene-name>CYP19A1</gene-name>
+    <locus>15q21.1</locus>
+    <cellular-location>Membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>7.56</theoretical-pi>
+    <molecular-weight>57882.48</molecular-weight>
+    <chromosome-location>15</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2594</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP19A1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M22246</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>179002</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1362</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P11511</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP19A_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.14.14.14</synonym>
+      <synonym>ARO1</synonym>
+      <synonym>CYAR</synonym>
+      <synonym>CYP19</synonym>
+      <synonym>CYPXIX</synonym>
+      <synonym>Cytochrome P-450AROM</synonym>
+      <synonym>Cytochrome P450 19A1</synonym>
+      <synonym>Estrogen synthase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004098|Aromatase
+MVLEMLNPIHYNITSIVPEAMPAATMPVLLLTGLFLLVWNYEGTSSIPGPGYCMGIGPLI
+SHGRFLWMGIGSACNYYNRVYGEFMRVWISGEETLIISKSSSMFHIMKHNHYSSRFGSKL
+GLQCIGMHEKGIIFNNNPELWKTTRPFFMKALSGPGLVRMVTVCAESLKTHLDRLEEVTN
+ESGYVDVLTLLRRVMLDTSNTLFLRIPLDESAIVVKIQGYFDAWQALLIKPDIFFKISWL
+YKKYEKSVKDLKDAIEVLIAEKRRRISTEEKLEECMDFATELILAEKRGDLTRENVNQCI
+LEMLIAAPDTMSVSLFFMLFLIAKHPNVEEAIIKEIQTVIGERDIKIDDIQKLKVMENFI
+YESMRYQPVVDLVMRKALEDDVIDGYPVKKGTNIILNIGRMHRLEFFPKPNEFTLENFAK
+NVPYRYFQPFGFGPRGCAGKYIAMVMMKAILVTLLRRFHVKTLQGQCVESIQKIHDLSLH
+PDETKNMLEMIFTPRNSDRCLEH</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016675|Aromatase (CYP19A1)
+ATGGTTTTGGAAATGCTGAACCCGATACATTATAACATCACCAGCATCGTGCCTGAAGCC
+ATGCCTGCTGCCACCATGCCAGTCCTGCTCCTCACTGGCCTTTTTCTCTTGGTGTGGAAT
+TATGAGGGCACATCCTCAATACCAGGTCCTGGCTACTGCATGGGAATTGGACCCCTCATC
+TCCCACGGCAGATTCCTGTGGATGGGGATCGGCAGTGCCTGCAACTACTACAACCGGGTA
+TATGGAGAATTCATGCGAGTCTGGATCTCTGGAGAGGAAACACTCATTATCAGCAAGTCC
+TCAAGTATGTTCCACATAATGAAGCACAATCATTACAGCTCTCGATTCGGCAGCAAACTT
+GGGCTGCAGTGCATCGGTATGCATGAGAAAGGCATCATATTTAACAACAATCCAGAGCTC
+TGGAAAACAACTCGACCCTTCTTTATGAAAGCTCTGTCAGGCCCCGGCCTTGTTCGTATG
+GTCACAGTCTGTGCTGAATCCCTCAAAACACATCTGGACAGGTTGGAGGAGGTGACCAAT
+GAATCGGGCTATGTGGACGTGTTGACCCTTCTGCGTCGTGTCATGCTGGACACCTCTAAC
+ACGCTCTTCTTGAGGATCCCTTTGGACGAAAGTGCTATCGTGGTTAAAATCCAAGGTTAT
+TTTGATGCATGGCAAGCTCTCCTCATCAAACCAGACATCTTCTTTAAGATTTCTTGGCTA
+TACAAAAAGTATGAGAAGTCTGTCAAGGATTTGAAAGATGCCATAGAAGTTCTGATAGCA
+GAAAAAAGACGCAGGATTTCCACAGAAGAGAAACTGGAAGAATGTATGGACTTTGCCACT
+GAGTTGATTTTAGCAGAGAAACGTGGTGACCTGACAAGAGAGAATGTGAACCAGTGCATA
+TTGGAAATGCTGATCGCAGCTCCTGACACCATGTCTGTCTCTTTGTTCTTCATGCTATTT
+CTCATTGCAAAGCACCCTAATGTTGAAGAGGCAATAATAAAGGAAATCCAGACTGTTATT
+GGTGAGAGAGACATAAAGATTGATGATATACAAAAATTAAAAGTGATGGAAAACTTCATT
+TATGAGAGCATGCGGTACCAGCCTGTCGTGGACTTGGTCATGCGCAAAGCCTTAGAAGAT
+GATGTAATCGATGGCTACCCAGTGAAAAAGGGGACAAACATTATCCTGAATATTGGAAGG
+ATGCACAGACTCGAGTTTTTCCCCAAACCCAATGAATTTACTCTTGAAAATTTTGCAAAG
+AATGTTCCTTATAGGTACTTTCAGCCATTTGGCTTTGGGCCCCGTGGCTGTGCAGGAAAG
+TACATCGCCATGGTGATGATGAAAGCCATCCTCGTTACACTTCTGAGACGATTCCACGTG
+AAGACATTGCAAGGACAGTGTGTTGAGAGCATACAGAAGATACACGACTTGTCCTTGCAC
+CCAGATGAGACTAAAAACATGCTGGAAATGATCTTTACCCCAAGAAACTCAGACAGGTGT
+CTGGAACACTAG</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>electron carrier activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of macrophage chemotaxis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of chronic inflammatory response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>estrogen biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>prostate gland growth</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sterol metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>androgen metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

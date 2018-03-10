@@ -1,0 +1,415 @@
+<drug type="biotech" created="2016-11-18" updated="2017-03-07">
+  <drugbank-id primary="true">DB13152</drugbank-id>
+  <name>Coagulation Factor IX Human</name>
+  <description>Factor IX (or Christmas factor) is one of the serine proteases of the coagulation system; it belongs to peptidase family S1. Deficiency of this protein causes hemophilia B.</description>
+  <cas-number/>
+  <unii>6U90Y1795T</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Recombinant factor IX is used to treat Christmas disease. Factor IX deficiency is treated by injection of purified factor IX produced through cloning in various animal or animal cell vectors. Tranexamic acid may be of value in patients undergoing surgery who have inherited factor IX deficiency in order to reduce the perioperative risk of bleeding.</indication>
+  <pharmacodynamics>Coagulation factor IX injection (human) is a human clotting factor derived from human plasma. It works by increasing the amount of clotting factor IX in the blood, which helps the blood form clots and stop bleeding.</pharmacodynamics>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life>Infusion of Mononine® (coagulation factor ix (human)) into ten subjects with severe or moderate Hemophilia B has shown a mean recovery of 0. 67 IU/dL rise per IU/kg body weight infused and a mean half-life of 22.6 hours.</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Antihemophilic factor B</synonym>
+    <synonym language="" coder="">Coagulation factor IX (human)</synonym>
+    <synonym language="" coder="">Human coagulation factor IX</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Alphanine Sd</name>
+      <labeller>Grifols</labeller>
+      <ndc-id/>
+      <ndc-product-code>68516-3601</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103249</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Alphanine Sd</name>
+      <labeller>Grifols</labeller>
+      <ndc-id/>
+      <ndc-product-code>68516-3602</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103249</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Alphanine Sd</name>
+      <labeller>Grifols</labeller>
+      <ndc-id/>
+      <ndc-product-code>68516-3603</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103249</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bebulin</name>
+      <labeller>Baxalta Canada Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>64193-445</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1992-08-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA103112</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bebulin Vh</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>64193-244</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-03-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA103112</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Beriplex P/n 1000</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02410826</dpd-id>
+      <started-marketing-on>2013-11-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Beriplex P/n 500</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02359251</dpd-id>
+      <started-marketing-on>2011-07-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Immunine Vh</name>
+      <labeller>Baxalta Canada Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02206021</dpd-id>
+      <started-marketing-on>1996-10-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>720 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Kcentra</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code>63833-386</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-04-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA125421</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Kcentra</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code>63833-387</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-12-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA125421</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Mononine</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code>0053-6232</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1992-08-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA103957</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Mononine</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code>0053-6233</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1992-08-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA103957</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Octaplex</name>
+      <labeller>Octapharma Pharmazeutika Produktionsges M B H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02434970</dpd-id>
+      <started-marketing-on>2015-08-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Octaplex</name>
+      <labeller>Octapharma Pharmazeutika Produktionsges M B H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02294664</dpd-id>
+      <started-marketing-on>2008-07-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Octaplex</name>
+      <ingredients>Protein C + Protein S human + Prothrombin + Coagulation factor X human + Coagulation factor VII human + Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Mononine</name>
+      <ingredients>Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Mononine</name>
+      <ingredients>Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kcentra</name>
+      <ingredients>Prothrombin + Coagulation factor VII human + Coagulation Factor IX Human + Coagulation factor X human + Protein C + Protein S human + Water</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kcentra</name>
+      <ingredients>Prothrombin + Coagulation factor VII human + Coagulation Factor IX Human + Coagulation factor X human + Protein C + Protein S human + Water</ingredients>
+    </mixture>
+    <mixture>
+      <name>Bebulin Vh</name>
+      <ingredients>Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Bebulin</name>
+      <ingredients>Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alphanine Sd</name>
+      <ingredients>Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alphanine Sd</name>
+      <ingredients>Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alphanine Sd</name>
+      <ingredients>Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Octaplex</name>
+      <ingredients>Protein C + Protein S human + Prothrombin + Coagulation factor X human + Coagulation factor VII human + Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Beriplex P/n 500</name>
+      <ingredients>Protein C + Protein S human + Prothrombin + Coagulation factor X human + Coagulation factor VII human + Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Beriplex P/n 1000</name>
+      <ingredients>Protein C + Protein S human + Prothrombin + Coagulation factor X human + Coagulation factor VII human + Coagulation Factor IX Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Immunine Vh</name>
+      <ingredients>Coagulation Factor IX Human</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>720 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>90</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

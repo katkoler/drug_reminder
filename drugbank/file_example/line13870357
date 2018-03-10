@@ -1,0 +1,2103 @@
+<drug type="small molecule" created="2015-11-30" updated="2016-08-17">
+  <drugbank-id primary="true">DB09481</drugbank-id>
+  <name>Magnesium carbonate</name>
+  <description/>
+  <cas-number/>
+  <unii>0E53J927NA</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Acid Gone Antacid</name>
+      <labeller>Major</labeller>
+      <ndc-id/>
+      <ndc-product-code>0904-7727</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2004-12-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Acid Gone Antacid Extra Strength</name>
+      <labeller>Major</labeller>
+      <ndc-id/>
+      <ndc-product-code>0904-5365</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-06-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Aluminum Hydroxide and Magnesium Carbonate</name>
+      <labeller>Simpex Pharma Pvt. Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code>76457-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-11-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Antacid</name>
+      <labeller>Meijer Distribution</labeller>
+      <ndc-id/>
+      <ndc-product-code>41250-880</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1996-09-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Antacid - Tab</name>
+      <labeller>Swiss Herbal Remedies Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02217783</dpd-id>
+      <started-marketing-on>1996-09-04</started-marketing-on>
+      <ended-marketing-on>2003-09-10</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antacid Extra Strength</name>
+      <labeller>Rite Aid</labeller>
+      <ndc-id/>
+      <ndc-product-code>11822-0880</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-08-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Aspirin Plus Stomach Guard Ext.stgth.caplet</name>
+      <labeller>Sterling Winthrop Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02079933</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-10</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Aspirin Plus Stomach Guard Extra Strength</name>
+      <labeller>Bayer Inc Consumer Care</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02150360</dpd-id>
+      <started-marketing-on>1995-12-31</started-marketing-on>
+      <ended-marketing-on>1998-09-28</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Aspirin Plus Stomach Guard Tab</name>
+      <labeller>Sterling Winthrop Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02078449</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-10</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Aspirin With Stomach Guard</name>
+      <labeller>Bayer Inc Consumer Care</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02229980</dpd-id>
+      <started-marketing-on>1997-10-01</started-marketing-on>
+      <ended-marketing-on>2012-07-12</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Aspirin With Stomach Guard Extra Strength - Tab</name>
+      <labeller>Bayer Inc Consumer Care</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02229967</dpd-id>
+      <started-marketing-on>1997-07-07</started-marketing-on>
+      <ended-marketing-on>2012-07-12</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium and Magnesium Tab</name>
+      <labeller>Country Health Laboratories Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00559695</dpd-id>
+      <started-marketing-on>1982-12-31</started-marketing-on>
+      <ended-marketing-on>2001-07-27</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Cepasium Tab 100mg</name>
+      <labeller>Laboratoires Cortunon Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00481734</dpd-id>
+      <started-marketing-on>1979-12-31</started-marketing-on>
+      <ended-marketing-on>2002-08-23</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>100 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Cvs Health Extra Strength Heartburn Relief Antacid Original Flavor</name>
+      <labeller>Cvs Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>59779-880</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-08-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Equate Antacid Extra Strength</name>
+      <labeller>Walmart Stores</labeller>
+      <ndc-id/>
+      <ndc-product-code>49035-880</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1999-09-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Equate Extra Strength Antacid</name>
+      <labeller>Walmart Stores</labeller>
+      <ndc-id/>
+      <ndc-product-code>49035-105</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1996-04-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Estomarol</name>
+      <labeller>Laboratorios Imperiales, S.A. De C.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code>57465-100</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-05-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Foamcoat Antacid</name>
+      <labeller>Guardian Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>53041-128</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2005-04-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gavis-care Antacid</name>
+      <labeller>Gericare Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>57896-617</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gaviscon</name>
+      <labeller>Glaxo Smith Kline Consumer Healthcare Holdings (Us) Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0135-0574</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-08-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gaviscon</name>
+      <labeller>Glaxo Smith Kline Consumer Healthcare Holdings (Us) Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0135-0094</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-01-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gaviscon</name>
+      <labeller>Glaxo Smith Kline Consumer Healthcare Holdings (Us) Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0135-0095</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-01-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gaviscon Extra Strength</name>
+      <labeller>Glaxo Smith Kline Consumer Heathcare Lp</labeller>
+      <ndc-id/>
+      <ndc-product-code>0135-0098</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-06-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gaviscon Extra Strength</name>
+      <labeller>Glaxo Smith Kline Consumer Heathcare Lp</labeller>
+      <ndc-id/>
+      <ndc-product-code>0135-0430</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-06-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Good Neighbor Pharmacy Antacid Extra Strength</name>
+      <labeller>Amerisource Bergen</labeller>
+      <ndc-id/>
+      <ndc-product-code>46122-150</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-08-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Humco Dewees Carminative</name>
+      <labeller>Humco Holding Group. Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0395-0713</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1998-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength>50 mg/mL</strength>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Inon</name>
+      <labeller>Sato Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>49873-045</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1989-05-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Granule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leader Antacid Extra Strength</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>37205-780</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1996-10-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Maalox Antacid Caplets</name>
+      <labeller>Rhone Poulenc Rorer</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02046296</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-09</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Magnebind 400 Rx</name>
+      <labeller>Carilion Materials Management</labeller>
+      <ndc-id/>
+      <ndc-product-code>68151-4243</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1999-10-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Magnebind 400 Rx</name>
+      <labeller>Nephro Tech, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>59528-0416</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1999-10-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Magnesium Comprime Tab</name>
+      <labeller>Herbes Universelles Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00819603</dpd-id>
+      <started-marketing-on>1990-12-31</started-marketing-on>
+      <ended-marketing-on>2009-07-15</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Renacidin</name>
+      <labeller>United Guardian, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0327-0011</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1991-01-01</started-marketing-on>
+      <ended-marketing-on>2018-06-01</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Irrigation</route>
+      <fda-application-number>NDA019481</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Renacidin</name>
+      <labeller>United Guardian, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0327-0012</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-02-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Irrigation</route>
+      <fda-application-number>NDA019481</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Riginic Antacid Liquid</name>
+      <labeller>Rij Pharmaceutical Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>53807-137</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-04-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rx Act Antacid Extra Strength</name>
+      <labeller>H.E.B.</labeller>
+      <ndc-id/>
+      <ndc-product-code>37808-880</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sohmed Acid Reducer</name>
+      <labeller>SOHM Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>50405-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-08-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Stomachin Antacid</name>
+      <labeller>Chang Kuo Chou Pharmaceutical Co. Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>43337-9328</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-04-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Stomachin Antacid</name>
+      <labeller>Chang Kuo Chou Pharmaceutical Co. Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>43337-9329</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-04-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sunmark Antacid Extra Strength</name>
+      <labeller>Mc Kesson</labeller>
+      <ndc-id/>
+      <ndc-product-code>49348-194</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2003-08-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Tri-buffered Asa Tab</name>
+      <labeller>Zee Medical Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00887498</dpd-id>
+      <started-marketing-on>1990-12-31</started-marketing-on>
+      <ended-marketing-on>2009-07-30</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Gaviscon Extra Strength</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gaviscon Extra Strength</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Humco Dewees Carminative</name>
+      <ingredients>Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Acid Gone Antacid Extra Strength</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Acid Gone Antacid</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antacid Extra Strength</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leader Antacid Extra Strength</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rx Act Antacid Extra Strength</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antacid</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Stomachin Antacid</name>
+      <ingredients>Magnesium carbonate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Stomachin Antacid</name>
+      <ingredients>Magnesium carbonate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Equate Antacid Extra Strength</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sunmark Antacid Extra Strength</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Inon</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sohmed Acid Reducer</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Foamcoat Antacid</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Riginic Antacid Liquid</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Estomarol</name>
+      <ingredients>Aluminum hydroxide + Bismuth subcarbonate + Calcium carbonate + Magnesium carbonate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gavis-care Antacid</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Magnebind 400 Rx</name>
+      <ingredients>Magnesium carbonate + Calcium carbonate + Folic Acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Magnebind 400 Rx</name>
+      <ingredients>Magnesium carbonate + Calcium carbonate + Folic Acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aluminum Hydroxide and Magnesium Carbonate</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Magnesium Comprime Tab</name>
+      <ingredients>Magnesium carbonate + Magnesium oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tri-buffered Asa Tab</name>
+      <ingredients>Acetylsalicylic acid + Magnesium + Calcium carbonate + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aspirin Plus Stomach Guard Ext.stgth.caplet</name>
+      <ingredients>Acetylsalicylic acid + Calcium carbonate + Magnesium carbonate + Magnesium oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Maalox Antacid Caplets</name>
+      <ingredients>Calcium carbonate + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aspirin Plus Stomach Guard Extra Strength</name>
+      <ingredients>Acetylsalicylic acid + Calcium carbonate + Magnesium carbonate + Magnesium oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cepasium Tab 100mg</name>
+      <ingredients>Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antacid - Tab</name>
+      <ingredients>Calcium carbonate + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aspirin Plus Stomach Guard Tab</name>
+      <ingredients>Acetylsalicylic acid + Calcium carbonate + Magnesium carbonate + Magnesium oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aspirin With Stomach Guard Extra Strength - Tab</name>
+      <ingredients>Acetylsalicylic acid + Calcium carbonate + Magnesium carbonate + Magnesium oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aspirin With Stomach Guard</name>
+      <ingredients>Acetylsalicylic acid + Calcium carbonate + Magnesium carbonate + Magnesium oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium and Magnesium Tab</name>
+      <ingredients>Calcium carbonate + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Good Neighbor Pharmacy Antacid Extra Strength</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Equate Extra Strength Antacid</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Renacidin</name>
+      <ingredients>Citric Acid + Gluconolactone + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Renacidin</name>
+      <ingredients>Citric Acid + Gluconolactone + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cvs Health Extra Strength Heartburn Relief Antacid Original Flavor</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gaviscon</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gaviscon</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gaviscon</name>
+      <ingredients>Aluminum hydroxide + Magnesium carbonate</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Drugs for Constipation</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Elements</category>
+      <mesh-id>D004602</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Metals</category>
+      <mesh-id>D008670</mesh-id>
+    </category>
+    <category>
+      <category>Metals, Alkaline Earth</category>
+      <mesh-id>D008673</mesh-id>
+    </category>
+    <category>
+      <category>Metals, Light</category>
+      <mesh-id>D019565</mesh-id>
+    </category>
+    <category>
+      <category>Osmotically Acting Laxatives</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Liquid</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>100 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, chewable</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Oral</route>
+      <strength>50 mg/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Granule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, film coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Irrigation</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="A02AA01">
+      <level code="A02AA">Magnesium compounds</level>
+      <level code="A02A">ANTACIDS</level>
+      <level code="A02">DRUGS FOR ACID RELATED DISORDERS</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+    <atc-code code="V03AE04">
+      <level code="V03AE">Drugs for treatment of hyperkalemia and hyperphosphatemia</level>
+      <level code="V03A">ALL OTHER THERAPEUTIC PRODUCTS</level>
+      <level code="V03">ALL OTHER THERAPEUTIC PRODUCTS</level>
+      <level code="V">VARIOUS</level>
+    </atc-code>
+    <atc-code code="A06AD01">
+      <level code="A06AD">Osmotically acting laxatives</level>
+      <level code="A06A">DRUGS FOR CONSTIPATION</level>
+      <level code="A06">DRUGS FOR CONSTIPATION</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB05107</drugbank-id>
+      <name>16-Bromoepiandrosterone</name>
+      <description>The bioavailability of 16-Bromoepiandrosterone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01434</drugbank-id>
+      <name>19-norandrostenedione</name>
+      <description>The bioavailability of 19-norandrostenedione can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01467</drugbank-id>
+      <name>2,5-Dimethoxy-4-ethylamphetamine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of 2,5-Dimethoxy-4-ethylamphetamine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01509</drugbank-id>
+      <name>3,4-Methylenedioxyamphetamine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of 3,4-Methylenedioxyamphetamine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01454</drugbank-id>
+      <name>3,4-Methylenedioxymethamphetamine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of 3,4-Methylenedioxymethamphetamine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01536</drugbank-id>
+      <name>4-Androstenedione</name>
+      <description>The bioavailability of 4-Androstenedione can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01484</drugbank-id>
+      <name>4-Bromo-2,5-dimethoxyamphetamine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of 4-Bromo-2,5-dimethoxyamphetamine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01456</drugbank-id>
+      <name>5-androstenedione</name>
+      <description>The bioavailability of 5-androstenedione can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01614</drugbank-id>
+      <name>Acepromazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Acepromazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01615</drugbank-id>
+      <name>Aceprometazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Aceprometazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00240</drugbank-id>
+      <name>Alclometasone</name>
+      <description>The bioavailability of Alclometasone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04630</drugbank-id>
+      <name>Aldosterone</name>
+      <description>The bioavailability of Aldosterone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00630</drugbank-id>
+      <name>Alendronic acid</name>
+      <description>The serum concentration of Alendronic acid can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01246</drugbank-id>
+      <name>Alimemazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Alimemazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00437</drugbank-id>
+      <name>Allopurinol</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Allopurinol resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00288</drugbank-id>
+      <name>Amcinonide</name>
+      <description>The bioavailability of Amcinonide can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00182</drugbank-id>
+      <name>Amphetamine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Amphetamine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12081</drugbank-id>
+      <name>Anecortave</name>
+      <description>The bioavailability of Anecortave can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01072</drugbank-id>
+      <name>Atazanavir</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Atazanavir resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01076</drugbank-id>
+      <name>Atorvastatin</name>
+      <description>The serum concentration of Atorvastatin can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11897</drugbank-id>
+      <name>Beclomethasone</name>
+      <description>The bioavailability of Beclomethasone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00394</drugbank-id>
+      <name>Beclomethasone dipropionate</name>
+      <description>The bioavailability of Beclomethasone dipropionate can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00865</drugbank-id>
+      <name>Benzphetamine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Benzphetamine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00443</drugbank-id>
+      <name>Betamethasone</name>
+      <description>The bioavailability of Betamethasone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09020</drugbank-id>
+      <name>Bisacodyl</name>
+      <description>The therapeutic efficacy of Bisacodyl can be decreased when used in combination with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09275</drugbank-id>
+      <name>Bismuth Subcitrate</name>
+      <description>The therapeutic efficacy of Bismuth Subcitrate can be decreased when used in combination with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05687</drugbank-id>
+      <name>BL-1020</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of BL-1020 resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06616</drugbank-id>
+      <name>Bosutinib</name>
+      <description>The serum concentration of Bosutinib can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01222</drugbank-id>
+      <name>Budesonide</name>
+      <description>The bioavailability of Budesonide can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01197</drugbank-id>
+      <name>Captopril</name>
+      <description>The serum concentration of Captopril can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01066</drugbank-id>
+      <name>Cefditoren</name>
+      <description>The serum concentration of Cefditoren can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01416</drugbank-id>
+      <name>Cefpodoxime</name>
+      <description>The serum concentration of Cefpodoxime can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01112</drugbank-id>
+      <name>Cefuroxime</name>
+      <description>The serum concentration of Cefuroxime can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00439</drugbank-id>
+      <name>Cerivastatin</name>
+      <description>The serum concentration of Cerivastatin can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00608</drugbank-id>
+      <name>Chloroquine</name>
+      <description>The serum concentration of Chloroquine can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01556</drugbank-id>
+      <name>Chlorphentermine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Chlorphentermine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00477</drugbank-id>
+      <name>Chlorpromazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Chlorpromazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09093</drugbank-id>
+      <name>Chlortetracycline</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Chlortetracycline resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01410</drugbank-id>
+      <name>Ciclesonide</name>
+      <description>The bioavailability of Ciclesonide can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00827</drugbank-id>
+      <name>Cinoxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Cinoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00537</drugbank-id>
+      <name>Ciprofloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Ciprofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11750</drugbank-id>
+      <name>Clobetasol</name>
+      <description>The bioavailability of Clobetasol can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01013</drugbank-id>
+      <name>Clobetasol propionate</name>
+      <description>The bioavailability of Clobetasol propionate can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00838</drugbank-id>
+      <name>Clocortolone</name>
+      <description>The bioavailability of Clocortolone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00720</drugbank-id>
+      <name>Clodronate</name>
+      <description>The serum concentration of Clodronate can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09270</drugbank-id>
+      <name>Coenzyme Q10</name>
+      <description>The serum concentration of Coenzyme Q10 can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01380</drugbank-id>
+      <name>Cortisone acetate</name>
+      <description>The bioavailability of Cortisone acetate can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00847</drugbank-id>
+      <name>Cysteamine</name>
+      <description>The therapeutic efficacy of Cysteamine can be decreased when used in combination with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06695</drugbank-id>
+      <name>Dabigatran etexilate</name>
+      <description>The serum concentration of Dabigatran etexilate can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08912</drugbank-id>
+      <name>Dabrafenib</name>
+      <description>The serum concentration of Dabrafenib can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Dasatinib resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08826</drugbank-id>
+      <name>Deferiprone</name>
+      <description>The serum concentration of Deferiprone can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05804</drugbank-id>
+      <name>dehydroepiandrosterone sulfate</name>
+      <description>The bioavailability of dehydroepiandrosterone sulfate can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00705</drugbank-id>
+      <name>Delavirdine</name>
+      <description>The serum concentration of Delavirdine can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00618</drugbank-id>
+      <name>Demeclocycline</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Demeclocycline resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00547</drugbank-id>
+      <name>Desoximetasone</name>
+      <description>The bioavailability of Desoximetasone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06780</drugbank-id>
+      <name>Desoxycorticosterone acetate</name>
+      <description>The bioavailability of Desoxycorticosterone acetate can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01134</drugbank-id>
+      <name>Desoxycorticosterone Pivalate</name>
+      <description>The bioavailability of Desoxycorticosterone Pivalate can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01234</drugbank-id>
+      <name>Dexamethasone</name>
+      <description>The bioavailability of Dexamethasone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11487</drugbank-id>
+      <name>Dexamethasone isonicotinate</name>
+      <description>The bioavailability of Dexamethasone isonicotinate can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06701</drugbank-id>
+      <name>Dexmethylphenidate</name>
+      <description>Magnesium carbonate can cause an increase in the absorption of Dexmethylphenidate resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01576</drugbank-id>
+      <name>Dextroamphetamine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Dextroamphetamine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00937</drugbank-id>
+      <name>Diethylpropion</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Diethylpropion which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00223</drugbank-id>
+      <name>Diflorasone</name>
+      <description>The bioavailability of Diflorasone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09095</drugbank-id>
+      <name>Difluocortolone</name>
+      <description>The bioavailability of Difluocortolone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06781</drugbank-id>
+      <name>Difluprednate</name>
+      <description>The bioavailability of Difluprednate can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09414</drugbank-id>
+      <name>Dipotassium phosphate</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00254</drugbank-id>
+      <name>Doxycycline</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Doxycycline resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09101</drugbank-id>
+      <name>Elvitegravir</name>
+      <description>The serum concentration of Elvitegravir can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00467</drugbank-id>
+      <name>Enoxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Enoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03515</drugbank-id>
+      <name>Equilenin</name>
+      <description>The bioavailability of Equilenin can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02187</drugbank-id>
+      <name>Equilin</name>
+      <description>The bioavailability of Equilin can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00530</drugbank-id>
+      <name>Erlotinib</name>
+      <description>The serum concentration of Erlotinib can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>The bioavailability of Estrone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04574</drugbank-id>
+      <name>Estrone sulfate</name>
+      <description>The bioavailability of Estrone sulfate can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01077</drugbank-id>
+      <name>Etidronic acid</name>
+      <description>The serum concentration of Etidronic acid can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08917</drugbank-id>
+      <name>Ferric Carboxymaltose</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Ferric Carboxymaltose resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09162</drugbank-id>
+      <name>Ferric Citrate</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Ferric Citrate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09147</drugbank-id>
+      <name>Ferric pyrophosphate</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Ferric pyrophosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00950</drugbank-id>
+      <name>Fexofenadine</name>
+      <description>The serum concentration of Fexofenadine can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04576</drugbank-id>
+      <name>Fleroxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Fleroxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06250</drugbank-id>
+      <name>fluasterone</name>
+      <description>The bioavailability of fluasterone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00687</drugbank-id>
+      <name>Fludrocortisone</name>
+      <description>The bioavailability of Fludrocortisone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08972</drugbank-id>
+      <name>Flumequine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Flumequine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00663</drugbank-id>
+      <name>Flumethasone</name>
+      <description>The bioavailability of Flumethasone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00180</drugbank-id>
+      <name>Flunisolide</name>
+      <description>The bioavailability of Flunisolide can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00591</drugbank-id>
+      <name>Fluocinolone Acetonide</name>
+      <description>The bioavailability of Fluocinolone Acetonide can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01047</drugbank-id>
+      <name>Fluocinonide</name>
+      <description>The bioavailability of Fluocinonide can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08971</drugbank-id>
+      <name>Fluocortolone</name>
+      <description>The bioavailability of Fluocortolone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00324</drugbank-id>
+      <name>Fluorometholone</name>
+      <description>The bioavailability of Fluorometholone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00623</drugbank-id>
+      <name>Fluphenazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Fluphenazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08970</drugbank-id>
+      <name>Fluprednidene</name>
+      <description>The bioavailability of Fluprednidene can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09378</drugbank-id>
+      <name>Fluprednisolone</name>
+      <description>The bioavailability of Fluprednisolone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00846</drugbank-id>
+      <name>Flurandrenolide</name>
+      <description>The bioavailability of Flurandrenolide can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08906</drugbank-id>
+      <name>Fluticasone furoate</name>
+      <description>The bioavailability of Fluticasone furoate can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00588</drugbank-id>
+      <name>Fluticasone Propionate</name>
+      <description>The bioavailability of Fluticasone Propionate can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01095</drugbank-id>
+      <name>Fluvastatin</name>
+      <description>The serum concentration of Fluvastatin can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08905</drugbank-id>
+      <name>Formestane</name>
+      <description>The bioavailability of Formestane can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00492</drugbank-id>
+      <name>Fosinopril</name>
+      <description>The serum concentration of Fosinopril can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00996</drugbank-id>
+      <name>Gabapentin</name>
+      <description>The serum concentration of Gabapentin can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06160</drugbank-id>
+      <name>Garenoxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Garenoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01044</drugbank-id>
+      <name>Gatifloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Gatifloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00317</drugbank-id>
+      <name>Gefitinib</name>
+      <description>The serum concentration of Gefitinib can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01155</drugbank-id>
+      <name>Gemifloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Gemifloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00365</drugbank-id>
+      <name>Grepafloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Grepafloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05212</drugbank-id>
+      <name>HE3286</name>
+      <description>The bioavailability of HE3286 can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06799</drugbank-id>
+      <name>Hexamethylenetetramine</name>
+      <description>The therapeutic efficacy of Hexamethylenetetramine can be decreased when used in combination with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00741</drugbank-id>
+      <name>Hydrocortisone</name>
+      <description>The bioavailability of Hydrocortisone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09352</drugbank-id>
+      <name>Hydroxyamphetamine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Hydroxyamphetamine hydrobromide which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00424</drugbank-id>
+      <name>Hyoscyamine</name>
+      <description>The serum concentration of Hyoscyamine can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00710</drugbank-id>
+      <name>Ibandronate</name>
+      <description>The serum concentration of Ibandronate can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01592</drugbank-id>
+      <name>Iron</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Iron resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00893</drugbank-id>
+      <name>Iron Dextran</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Iron Dextran resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09146</drugbank-id>
+      <name>Iron saccharate</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Iron saccharate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00951</drugbank-id>
+      <name>Isoniazid</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Isoniazid resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06157</drugbank-id>
+      <name>Istaroxime</name>
+      <description>The bioavailability of Istaroxime can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01167</drugbank-id>
+      <name>Itraconazole</name>
+      <description>The serum concentration of Itraconazole can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01026</drugbank-id>
+      <name>Ketoconazole</name>
+      <description>The serum concentration of Ketoconazole can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09027</drugbank-id>
+      <name>Ledipasvir</name>
+      <description>The serum concentration of Ledipasvir can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01137</drugbank-id>
+      <name>Levofloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Levofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01255</drugbank-id>
+      <name>Lisdexamfetamine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Lisdexamfetamine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00978</drugbank-id>
+      <name>Lomefloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Lomefloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00227</drugbank-id>
+      <name>Lovastatin</name>
+      <description>The serum concentration of Lovastatin can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05402</drugbank-id>
+      <name>ME-609</name>
+      <description>The bioavailability of ME-609 can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00657</drugbank-id>
+      <name>Mecamylamine</name>
+      <description>The serum concentration of Mecamylamine can be increased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00253</drugbank-id>
+      <name>Medrysone</name>
+      <description>The bioavailability of Medrysone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11529</drugbank-id>
+      <name>Melengestrol</name>
+      <description>The bioavailability of Melengestrol can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01043</drugbank-id>
+      <name>Memantine</name>
+      <description>The serum concentration of Memantine can be increased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13108</drugbank-id>
+      <name>Mephedrone</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Mephedrone which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01365</drugbank-id>
+      <name>Mephentermine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Mephentermine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00244</drugbank-id>
+      <name>Mesalazine</name>
+      <description>The therapeutic efficacy of Mesalazine can be decreased when used in combination with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00933</drugbank-id>
+      <name>Mesoridazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Mesoridazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01577</drugbank-id>
+      <name>Methamphetamine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Methamphetamine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01403</drugbank-id>
+      <name>Methotrimeprazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Methotrimeprazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09241</drugbank-id>
+      <name>Methylene blue</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Methylene blue resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00422</drugbank-id>
+      <name>Methylphenidate</name>
+      <description>Magnesium carbonate can cause an increase in the absorption of Methylphenidate resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00959</drugbank-id>
+      <name>Methylprednisolone</name>
+      <description>The bioavailability of Methylprednisolone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06693</drugbank-id>
+      <name>Mevastatin</name>
+      <description>The serum concentration of Mevastatin can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01017</drugbank-id>
+      <name>Minocycline</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Minocycline resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00929</drugbank-id>
+      <name>Misoprostol</name>
+      <description>The risk or severity of adverse effects can be increased when Magnesium carbonate is combined with Misoprostol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01442</drugbank-id>
+      <name>MMDA</name>
+      <description>Magnesium carbonate may decrease the excretion rate of MMDA which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00764</drugbank-id>
+      <name>Mometasone</name>
+      <description>The bioavailability of Mometasone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00680</drugbank-id>
+      <name>Moricizine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Moricizine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00218</drugbank-id>
+      <name>Moxifloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Moxifloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01024</drugbank-id>
+      <name>Mycophenolic acid</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Mycophenolic acid resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00779</drugbank-id>
+      <name>Nalidixic Acid</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Nalidixic Acid resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05410</drugbank-id>
+      <name>NCX 1022</name>
+      <description>The bioavailability of NCX 1022 can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06600</drugbank-id>
+      <name>Nemonoxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Nemonoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04868</drugbank-id>
+      <name>Nilotinib</name>
+      <description>The serum concentration of Nilotinib can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01059</drugbank-id>
+      <name>Norfloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Norfloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01165</drugbank-id>
+      <name>Ofloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Ofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04870</drugbank-id>
+      <name>Oleoyl estrone</name>
+      <description>The bioavailability of Oleoyl estrone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00595</drugbank-id>
+      <name>Oxytetracycline</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Oxytetracycline resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00282</drugbank-id>
+      <name>Pamidronate</name>
+      <description>The serum concentration of Pamidronate can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01384</drugbank-id>
+      <name>Paramethasone</name>
+      <description>The bioavailability of Paramethasone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06589</drugbank-id>
+      <name>Pazopanib</name>
+      <description>The serum concentration of Pazopanib can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11774</drugbank-id>
+      <name>Pazufloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Pazufloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00487</drugbank-id>
+      <name>Pefloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Pefloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00859</drugbank-id>
+      <name>Penicillamine</name>
+      <description>The serum concentration of Penicillamine can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12710</drugbank-id>
+      <name>Perazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Perazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00850</drugbank-id>
+      <name>Perphenazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Perphenazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00191</drugbank-id>
+      <name>Phentermine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Phentermine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08860</drugbank-id>
+      <name>Pitavastatin</name>
+      <description>The serum concentration of Pitavastatin can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01344</drugbank-id>
+      <name>Polystyrene sulfonate</name>
+      <description>The risk or severity of adverse effects can be increased when Magnesium carbonate is combined with Polystyrene sulfonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01708</drugbank-id>
+      <name>Prasterone</name>
+      <description>The bioavailability of Prasterone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00175</drugbank-id>
+      <name>Pravastatin</name>
+      <description>The serum concentration of Pravastatin can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01130</drugbank-id>
+      <name>Prednicarbate</name>
+      <description>The bioavailability of Prednicarbate can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00860</drugbank-id>
+      <name>Prednisolone</name>
+      <description>The bioavailability of Prednisolone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00635</drugbank-id>
+      <name>Prednisone</name>
+      <description>The bioavailability of Prednisone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02789</drugbank-id>
+      <name>Pregnenolone</name>
+      <description>The bioavailability of Pregnenolone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00433</drugbank-id>
+      <name>Prochlorperazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Prochlorperazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00420</drugbank-id>
+      <name>Promazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Promazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01069</drugbank-id>
+      <name>Promethazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Promethazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11540</drugbank-id>
+      <name>Propiopromazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Propiopromazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11892</drugbank-id>
+      <name>Prulifloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Prulifloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00852</drugbank-id>
+      <name>Pseudoephedrine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Pseudoephedrine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00908</drugbank-id>
+      <name>Quinidine</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Quinidine which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00468</drugbank-id>
+      <name>Quinine</name>
+      <description>The serum concentration of Quinine can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08864</drugbank-id>
+      <name>Rilpivirine</name>
+      <description>The serum concentration of Rilpivirine can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00896</drugbank-id>
+      <name>Rimexolone</name>
+      <description>The bioavailability of Rimexolone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08931</drugbank-id>
+      <name>Riociguat</name>
+      <description>The serum concentration of Riociguat can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00884</drugbank-id>
+      <name>Risedronate</name>
+      <description>The serum concentration of Risedronate can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12080</drugbank-id>
+      <name>Ritobegron</name>
+      <description>Magnesium carbonate may decrease the excretion rate of Ritobegron which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00817</drugbank-id>
+      <name>Rosoxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Rosoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01098</drugbank-id>
+      <name>Rosuvastatin</name>
+      <description>The serum concentration of Rosuvastatin can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00641</drugbank-id>
+      <name>Simvastatin</name>
+      <description>The serum concentration of Simvastatin can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09561</drugbank-id>
+      <name>Sodium glycerophosphate</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Sodium glycerophosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09449</drugbank-id>
+      <name>Sodium phosphates</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00489</drugbank-id>
+      <name>Sotalol</name>
+      <description>The serum concentration of Sotalol can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01208</drugbank-id>
+      <name>Sparfloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Sparfloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00391</drugbank-id>
+      <name>Sulpiride</name>
+      <description>The serum concentration of Sulpiride can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09411</drugbank-id>
+      <name>Technetium tc 99m etidronate</name>
+      <description>The serum concentration of Technetium tc 99m etidronate can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09138</drugbank-id>
+      <name>Technetium Tc-99m Medronate</name>
+      <description>The serum concentration of Technetium Tc-99m Medronate can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01405</drugbank-id>
+      <name>Temafloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Temafloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00759</drugbank-id>
+      <name>Tetracycline</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Tetracycline resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00372</drugbank-id>
+      <name>Thiethylperazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Thiethylperazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00679</drugbank-id>
+      <name>Thioridazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Thioridazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01133</drugbank-id>
+      <name>Tiludronic acid</name>
+      <description>The serum concentration of Tiludronate can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09091</drugbank-id>
+      <name>Tixocortol</name>
+      <description>The bioavailability of Tixocortol can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00620</drugbank-id>
+      <name>Triamcinolone</name>
+      <description>The bioavailability of Triamcinolone can be decreased when combined with Magnesium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06824</drugbank-id>
+      <name>Triethylenetetramine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Triethylenetetramine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00831</drugbank-id>
+      <name>Trifluoperazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Trifluoperazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00508</drugbank-id>
+      <name>Triflupromazine</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Triflupromazine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00685</drugbank-id>
+      <name>Trovafloxacin</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Trovafloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00399</drugbank-id>
+      <name>Zoledronic acid</name>
+      <description>The serum concentration of Zoledronic acid can be decreased when it is combined with Magnesium carbonate.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>6880</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>703</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

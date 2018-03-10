@@ -1,0 +1,606 @@
+<drug type="small molecule" created="2016-10-20" updated="2017-03-09">
+  <drugbank-id primary="true">DB12095</drugbank-id>
+  <name>Telotristat</name>
+  <description>Telotristat only approved oral therapy for carcinoid syndrome diarrhea. Telotristat (as Telotristat ethyl) was approved by the FDA in March, 2017 as Xermelo.</description>
+  <cas-number>1033805-28-5</cas-number>
+  <unii>381V4FCV2Z</unii>
+  <average-mass>546.94</average-mass>
+  <monoisotopic-mass>546.1394008</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>27817224</pubmed-id>
+        <citation>Lamarca A, Barriuso J, McNamara MG, Hubner RA, Valle JW: Telotristat ethyl: a new option for the management of carcinoid syndrome. Expert Opin Pharmacother. 2016 Dec;17(18):2487-2498. Epub 2016 Nov 16.</citation>
+      </article>
+      <article>
+        <pubmed-id>25012985</pubmed-id>
+        <citation>Kulke MH, O'Dorisio T, Phan A, Bergsland E, Law L, Banks P, Freiman J, Frazier K, Jackson J, Yao JC, Kvols L, Lapuerta P, Zambrowicz B, Fleming D, Sands A: Telotristat etiprate, a novel serotonin synthesis inhibitor, in patients with carcinoid syndrome and diarrhea not adequately controlled by octreotide. Endocr Relat Cancer. 2014 Oct;21(5):705-14. doi: 10.1530/ERC-14-0173. Epub 2014 Jul 10.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Clinical Investigation- Special report</title>
+        <url>http://www.openaccessjournals.com/articles/telotristat-etiprate-a-novel-inhibitor-of-serotonin-synthesis-for-the-treatment-of-carcinoid-syndrome.pdf</url>
+      </link>
+      <link>
+        <title>FDA Review- Telotristat </title>
+        <url>http://www.lexpharma.com/media-center/news/525-fda-extends-pdufa-date-for-telotristat-etiprate-for-the-treatment-of-carcinoid-syndrome</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>As a serotonin synthesis inhibitor, telotristat etiprate, has the potential to reduce serotonin levels and address the key elements of carcinoid syndrome. </indication>
+  <pharmacodynamics> Activity is mainly in the gastrointestinal tract, with minimal effects reported on the brain and cardiovascular system, accompanied by an excellent safety profile.&#13;
+In normal mice, telotristat etiprate (administered once daily for 4 days at doses of 15–300 mg/kg/day) was found to reduce serotonin levels throughout the gastrointestinal tract. These reductions occurred in a dose dependent fashion with maximal effects observed with doses of telotristat etiprate ≥150 mg/kg. No significant change in brain serotonin or 5-hydroxyindoleacetic acid (5-HIAA, a serotonin metabolite) was observed. Similar findings were seen in Sprague-Dawley rats. Gastrointestinal motility studies were conducted in rats using the charcoal meal test. There was a significant dose-related delay in both gastrointestinal transit and gastric emptying, associated with a reduction in blood serotonin levels and proximal colon serotonin.&#13;
+A quantitative whole-body autoradiography study was conducted to assess the absorption, distribution and excretion of radioactivity in rats following a single oral dose of telotristat etiprate labeled with carbon 14. Rats were administered either 30 mg/kg or 100 mg/kg of the compound. The distribution of radioactivity was limited to tissues of the hepatic and renal system and the contents of the GI tract. There was no measurable radioactivity in the brain at any dose tested.</pharmacodynamics>
+  <mechanism-of-action>Telotristat etiprate is an ethyl ester prodrug which is hydrolyzed to its active moiety LP-778902 both in vivo and in vitro. Systemic exposure of telotristat etiprate is relatively low, as the hydrolysis to the active moiety is rapid. LP-778902 is a potent inhibitor of TPH with an in vivo IC50 of 0.028 μM. While existing treatments for carcinoid syndrome work to reduce the release of serotonin outside tumor cells, telotristat etiprate works at the source to reduce serotonin production within the tumor cells. By specifically inhibiting serotonin production, telotristat etiprate seeks to control this important driver of carcinoid syndrome and, in turn, provide patients with more control over their disease. </mechanism-of-action>
+  <toxicity>Telotristat causes depression and constipation in high doses.</toxicity>
+  <metabolism>metabolized by the liver</metabolism>
+  <absorption>Low systemic absorption. Tmax of 2–4 h, supporting the 8-hourly administration</absorption>
+  <half-life>4–12 h</half-life>
+  <protein-binding>high plasma protein binding of its active metabolite, LP-778902.</protein-binding>
+  <route-of-elimination>Telotristat ethyl is mainly excreted in feces.</route-of-elimination>
+  <volume-of-distribution>Not available</volume-of-distribution>
+  <clearance>Not available</clearance>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as phenylalanine and derivatives. These are compounds containing phenylalanine or a derivative thereof resulting from reaction of phenylalanine at the amino group or the carboxy group, or from the replacement of any hydrogen of glycine by a heteroatom.</description>
+    <direct-parent>Phenylalanine and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic acids and derivatives</superclass>
+    <class>Carboxylic acids and derivatives</class>
+    <subclass>Amino acids, peptides, and analogues</subclass>
+    <alternative-parent>Alkyl aryl ethers</alternative-parent>
+    <alternative-parent>Alkyl fluorides</alternative-parent>
+    <alternative-parent>Amino acids</alternative-parent>
+    <alternative-parent>Aminopyrimidines and derivatives</alternative-parent>
+    <alternative-parent>Amphetamines and derivatives</alternative-parent>
+    <alternative-parent>Aralkylamines</alternative-parent>
+    <alternative-parent>Aryl chlorides</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Chlorobenzenes</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>L-alpha-amino acids</alternative-parent>
+    <alternative-parent>Monoalkylamines</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organochlorides</alternative-parent>
+    <alternative-parent>Organofluorides</alternative-parent>
+    <alternative-parent>Phenylpropanoic acids</alternative-parent>
+    <alternative-parent>Phenylpyrazoles</alternative-parent>
+    <alternative-parent>Phenylpyrimidines</alternative-parent>
+    <substituent>3-phenylpropanoic-acid</substituent>
+    <substituent>4-phenylpyrimidine</substituent>
+    <substituent>Alkyl aryl ether</substituent>
+    <substituent>Alkyl fluoride</substituent>
+    <substituent>Alkyl halide</substituent>
+    <substituent>Alpha-amino acid</substituent>
+    <substituent>Amine</substituent>
+    <substituent>Amino acid</substituent>
+    <substituent>Aminopyrimidine</substituent>
+    <substituent>Amphetamine or derivatives</substituent>
+    <substituent>Aralkylamine</substituent>
+    <substituent>Aromatic heteromonocyclic compound</substituent>
+    <substituent>Aryl chloride</substituent>
+    <substituent>Aryl halide</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Azole</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Chlorobenzene</substituent>
+    <substituent>Ether</substituent>
+    <substituent>Halobenzene</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>L-alpha-amino acid</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>Monocyclic benzene moiety</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organochloride</substituent>
+    <substituent>Organofluoride</substituent>
+    <substituent>Organohalogen compound</substituent>
+    <substituent>Organoheterocyclic compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Phenylalanine or derivatives</substituent>
+    <substituent>Phenylpyrazole</substituent>
+    <substituent>Primary aliphatic amine</substituent>
+    <substituent>Primary amine</substituent>
+    <substituent>Pyrazole</substituent>
+    <substituent>Pyrimidine</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT002374</drugbank-id>
+      <name>Telotristat ethyl</name>
+      <unii>8G388563M7</unii>
+      <cas-number>1033805-22-9</cas-number>
+      <inchikey>MDSQOJYHHZBZKA-GBXCKJPGSA-N</inchikey>
+      <average-mass>574.99</average-mass>
+      <monoisotopic-mass>574.1707009</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Xermelo</name>
+      <labeller>Lexicon Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>70183-125</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2017-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength>250 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA208794</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Xermelo</name>
+      <ingredients>Telotristat</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids</category>
+      <mesh-id>D000596</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Aromatic</category>
+      <mesh-id>D024322</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Cyclic</category>
+      <mesh-id>D000598</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Essential</category>
+      <mesh-id>D000601</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 1-Ring</category>
+      <mesh-id>D006573</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>250 mg/1</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>546.94</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>546.1394008</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CC1=NN(C=C1)C1=CC(Cl)=CC=C1[C@@H](OC1=NC(N)=NC(=C1)C1=CC=C(C[C@H](N)C(O)=O)C=C1)C(F)(F)F</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C25H22ClF3N6O3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C25H22ClF3N6O3/c1-13-8-9-35(34-13)20-11-16(26)6-7-17(20)22(25(27,28)29)38-21-12-19(32-24(31)33-21)15-4-2-14(3-5-15)10-18(30)23(36)37/h2-9,11-12,18,22H,10,30H2,1H3,(H,36,37)(H2,31,32,33)/t18-,22+/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>NCLGDOBQAWBXRA-PGRDOPGGSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2103855</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000080</id>
+      <name>Tryptophan 5-hydroxylase 2</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>Clinical Investigation- Special report</title>
+            <url>http://www.openaccessjournals.com/articles/telotristat-etiprate-a-novel-inhibitor-of-serotonin-synthesis-for-the-treatment-of-carcinoid-syndrome.pdf</url>
+          </link>
+        </links>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q8IWU9" source="Swiss-Prot">
+    <name>Tryptophan 5-hydroxylase 2</name>
+    <general-function>Tryptophan 5-monooxygenase activity</general-function>
+    <specific-function/>
+    <gene-name>TPH2</gene-name>
+    <locus>12q21.1</locus>
+    <cellular-location/>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>6.36</theoretical-pi>
+    <molecular-weight>56056.295</molecular-weight>
+    <chromosome-location>12</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:20692</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>TPH2</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>AY098914</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>27497159</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q8IWU9</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>TPH2_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.14.16.4</synonym>
+      <synonym>Neuronal tryptophan hydroxylase</synonym>
+      <synonym>NTPH</synonym>
+      <synonym>Tryptophan 5-monooxygenase 2</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000160|Tryptophan 5-hydroxylase 2
+MQPAMMMFSSKYWARRGFSLDSAVPEEHQLLGSSTLNKPNSGKNDDKGNKGSSKREAATE
+SGKTAVVFSLKNEVGGLVKALRLFQEKRVNMVHIESRKSRRRSSEVEIFVDCECGKTEFN
+ELIQLLKFQTTIVTLNPPENIWTEEEELEDVPWFPRKISELDKCSHRVLMYGSELDADHP
+GFKDNVYRQRRKYFVDVAMGYKYGQPIPRVEYTEEETKTWGVVFRELSKLYPTHACREYL
+KNFPLLTKYCGYREDNVPQLEDVSMFLKERSGFTVRPVAGYLSPRDFLAGLAYRVFHCTQ
+YIRHGSDPLYTPEPDTCHELLGHVPLLADPKFAQFSQEIGLASLGASDEDVQKLATCYFF
+TIEFGLCKQEGQLRAYGAGLLSSIGELKHALSDKACVKAFDPKTTCLQECLITTFQEAYF
+VSESFEEAKEKMRDFAKSITRPFSVYFNPYTQSIEILKDTRSIENVVQDLRSDLNTVCDA
+LNKMNQYLGI</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0009922|Tryptophan 5-hydroxylase 2 (TPH2)
+ATGCAGCCAGCAATGATGATGTTTTCCAGTAAATACTGGGCACGGAGAGGGTTTTCCCTG
+GATTCAGCAGTGCCCGAAGAGCATCAGCTACTTGGCAGCTCAACACTAAATAAACCTAAC
+TCTGGCAAAAATGACGACAAAGGCAACAAGGGAAGCAGCAAACGTGAAGCTGCTACCGAA
+AGTGGCAAGACAGCAGTTGTTTTCTCCTTGAAGAATGAAGTTGGTGGATTGGTAAAAGCA
+CTGAGGCTCTTTCAGGAAAAACGTGTCAACATGGTTCATATTGAATCCAGGAAATCTCGG
+CGAAGAAGTTCTGAGGTTGAAATCTTTGTGGACTGTGAGTGTGGGAAAACAGAATTCAAT
+GAGCTCATTCAGTTGCTGAAATTTCAAACCACTATTGTGACGCTGAATCCTCCAGAGAAC
+ATTTGGACAGAGGAAGAAGAGCTAGAGGATGTGCCCTGGTTCCCTCGGAAGATCTCTGAG
+TTAGACAAATGCTCTCACAGAGTTCTCATGTATGGTTCTGAGCTTGATGCTGACCACCCA
+GGATTTAAGGACAATGTCTATCGACAGAGAAGAAAGTATTTTGTGGATGTGGCCATGGGT
+TATAAATATGGTCAGCCCATTCCCAGGGTGGAGTATACTGAAGAAGAAACTAAAACTTGG
+GGTGTTGTATTCCGGGAGCTCTCCAAACTCTATCCCACTCATGCTTGCCGAGAGTATTTG
+AAAAACTTCCCTCTGCTGACTAAATACTGTGGCTACAGAGAGGACAATGTGCCTCAACTC
+GAAGATGTCTCCATGTTTCTGAAAGAAAGGTCTGGCTTCACGGTGAGGCCGGTGGCTGGA
+TACCTGAGCCCACGAGACTTTCTGGCAGGACTGGCCTACAGAGTGTTCCACTGTACCCAG
+TACATCCGGCATGGCTCAGATCCCCTCTACACCCCAGAACCAGACACATGCCATGAACTC
+TTGGGACATGTTCCACTACTTGCGGATCCTAAGTTTGCTCAGTTTTCACAAGAAATAGGT
+CTGGCGTCTCTGGGAGCATCAGATGAAGATGTTCAGAAACTAGCCACGTGCTATTTCTTC
+ACAATCGAGTTTGGCCTTTGCAAGCAAGAAGGGCAACTGCGGGCATATGGAGCAGGACTC
+CTTTCCTCCATTGGAGAATTAAAGCACGCCCTTTCTGACAAGGCATGTGTGAAAGCCTTT
+GACCCAAAGACAACTTGCTTACAGGAATGCCTTATCACCACCTTCCAGGAAGCCTACTTT
+GTTTCAGAAAGTTTTGAAGAAGCCAAAGAAAAGATGAGGGACTTTGCAAAGTCAATTACC
+CGTCCCTTCTCAGTATACTTCAATCCCTACACACAGAGTATTGAAATTCTGAAAGACACC
+AGAAGTATTGAAAATGTGGTGCAGGACCTTCGCAGCGACTTGAATACAGTGTGTGATGCT
+TTAAACAAAATGAACCAATATCTGGGGATTTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00351</identifier>
+        <name>Biopterin_H</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>neuron projection</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>tryptophan 5-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>amino acid binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>serotonin biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>aromatic amino acid family metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to lithium ion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>circadian rhythm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>indolalkylamine biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to calcium ion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to estrogen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular nitrogen compound metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to glucocorticoid</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to nutrient levels</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0000121</id>
+      <name>Tryptophan 5-hydroxylase 1</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>Clinical Investigation- Special report</title>
+            <url>http://www.openaccessjournals.com/articles/telotristat-etiprate-a-novel-inhibitor-of-serotonin-synthesis-for-the-treatment-of-carcinoid-syndrome.pdf</url>
+          </link>
+        </links>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P17752" source="Swiss-Prot">
+    <name>Tryptophan 5-hydroxylase 1</name>
+    <general-function>Tryptophan 5-monooxygenase activity</general-function>
+    <specific-function/>
+    <gene-name>TPH1</gene-name>
+    <locus>11p15.3-p14</locus>
+    <cellular-location/>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>7.23</theoretical-pi>
+    <molecular-weight>50984.725</molecular-weight>
+    <chromosome-location>11</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:12008</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>TPH1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>X52836</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>37955</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P17752</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>TPH1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.14.16.4</synonym>
+      <synonym>TPH</synonym>
+      <synonym>TPRH</synonym>
+      <synonym>TRPH</synonym>
+      <synonym>Tryptophan 5-monooxygenase 1</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000242|Tryptophan 5-hydroxylase 1
+MIEDNKENKDHSLERGRASLIFSLKNEVGGLIKALKIFQEKHVNLLHIESRKSKRRNSEF
+EIFVDCDINREQLNDIFHLLKSHTNVLSVNLPDNFTLKEDGMETVPWFPKKISDLDHCAN
+RVLMYGSELDADHPGFKDNVYRKRRKYFADLAMNYKHGDPIPKVEFTEEEIKTWGTVFQE
+LNKLYPTHACREYLKNLPLLSKYCGYREDNIPQLEDVSNFLKERTGFSIRPVAGYLSPRD
+FLSGLAFRVFHCTQYVRHSSDPFYTPEPDTCHELLGHVPLLAEPSFAQFSQEIGLASLGA
+SEEAVQKLATCYFFTVEFGLCKQDGQLRVFGAGLLSSISELKHALSGHAKVKPFDPKITC
+KQECLITTFQDVYFVSESFEDAKEKMREFTKTIKRPFGVKYNPYTRSIQILKDTKSITSA
+MNELQHDLDVVSDALAKVSRKPSI</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0009948|Tryptophan 5-hydroxylase 1 (TPH1)
+ATGATTGAAGACAATAAGGAGAACAAAGACCATTCCTTAGAAAGGGGAAGAGCAAGTCTC
+ATTTTTTCCTTAAAGAATGAAGTTGGAGGACTTATAAAAGCCCTGAAAATCTTTCAGGAG
+AAGCATGTGAATCTGTTACATATCGAGTCCCGAAAATCAAAAAGAAGAAACTCAGAATTT
+GAGATTTTTGTTGACTGTGACATCAACAGAGAACAATTGAATGATATTTTTCATCTGCTG
+AAGTCTCATACCAATGTTCTCTCTGTGAATCTACCAGATAATTTTACTTTGAAGGAAGAT
+GGTATGGAAACTGTTCCTTGGTTTCCAAAGAAGATTTCTGACCTGGACCATTGTGCCAAC
+AGAGTTCTGATGTATGGATCTGAACTAGATGCAGACCATCCTGGCTTCAAAGACAATGTC
+TACCGTAAACGTCGAAAGTATTTTGCGGACTTGGCTATGAACTATAAACATGGAGACCCC
+ATTCCAAAGGTTGAATTCACTGAAGAGGAGATTAAGACCTGGGGAACCGTATTCCAAGAG
+CTCAACAAACTCTACCCAACCCATGCTTGCAGAGAGTATCTCAAAAACTTACCTTTGCTT
+TCTAAATATTGTGGATATCGGGAGGATAATATCCCACAATTGGAAGATGTCTCCAACTTT
+TTAAAAGAGCGTACAGGTTTTTCCATCCGTCCTGTGGCTGGTTACTTATCACCAAGAGAT
+TTCTTATCAGGTTTAGCCTTTCGAGTTTTTCACTGCACTCAATATGTGAGACACAGTTCA
+GATCCCTTCTATACCCCAGAGCCAGATACCTGCCATGAACTCTTAGGTCATGTCCCGCTT
+TTGGCTGAACCTAGTTTTGCCCAATTCTCCCAAGAAATTGGCTTGGCTTCTCTTGGCGCT
+TCAGAGGAGGCTGTTCAAAAACTGGCAACGTGCTACTTTTTCACTGTGGAGTTTGGTCTA
+TGTAAACAAGATGGACAGCTAAGAGTCTTTGGTGCTGGCTTACTTTCTTCTATCAGTGAA
+CTCAAACATGCACTTTCTGGACATGCCAAAGTAAAGCCCTTTGATCCCAAGATTACCTGC
+AAACAGGAATGTCTTATCACAACTTTTCAAGATGTCTACTTTGTATCTGAAAGTTTTGAA
+GATGCAAAGGAGAAGATGAGAGAATTTACCAAAACAATTAAGCGTCCATTTGGAGTGAAG
+TATAATCCATATACACGGAGTATTCAGATCCTGAAAGACACCAAGAGCATAACCAGTGCC
+ATGAATGAGCTGCAGCATGATCTCGATGTTGTCAGTGATGCCCTTGCTAAGGTCAGCAGG
+AAGCCGAGTATCTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00351</identifier>
+        <name>Biopterin_H</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>neuron projection</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>tryptophan 5-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>amino acid binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>aromatic amino acid family metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>circadian rhythm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>indolalkylamine biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>serotonin biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>bone remodeling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>mammary gland alveolus development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of ossification</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular nitrogen compound metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of fat cell differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to immobilization stress</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

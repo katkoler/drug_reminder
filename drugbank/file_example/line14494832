@@ -1,0 +1,124 @@
+<drug type="biotech" created="2015-12-01" updated="2016-08-17">
+  <drugbank-id primary="true">DB10997</drugbank-id>
+  <name>Autologous cultured chondrocytes</name>
+  <description/>
+  <cas-number/>
+  <unii>D5P3K3V822</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Carticel</name>
+      <labeller>Vericel Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>69866-1025</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1905-06-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Implant</dosage-form>
+      <strength>12000000 1/1</strength>
+      <route>Intra-articular</route>
+      <fda-application-number>BLA103661</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Carticel</name>
+      <labeller>Genzyme Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>58468-1025</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-08-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Implant</dosage-form>
+      <strength>12000000 1/1</strength>
+      <route>Intra-articular</route>
+      <fda-application-number>BLA103661</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Carticel</name>
+      <ingredients>Autologous cultured chondrocytes</ingredients>
+    </mixture>
+    <mixture>
+      <name>Carticel</name>
+      <ingredients>Autologous cultured chondrocytes</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Implant</form>
+      <route>Intra-articular</route>
+      <strength>12000000 1/1</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB10997.pdf?1457727589</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/pro/carticel.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

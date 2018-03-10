@@ -1,0 +1,1370 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-04-01">
+  <drugbank-id primary="true">DB09472</drugbank-id>
+  <drugbank-id>DB09476</drugbank-id>
+  <name>Sodium sulfate</name>
+  <description/>
+  <cas-number>7757-82-6</cas-number>
+  <unii>36KCS0R750</unii>
+  <average-mass>142.042</average-mass>
+  <monoisotopic-mass>141.931268528</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+    <group>vet_approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of chemical entities known as alkali metal sulfates. These are inorganic compounds in which the largest oxoanion is sulfate, and in which the heaviest atom not in an oxoanion is an alkali metal.</description>
+    <direct-parent>Alkali metal sulfates</direct-parent>
+    <kingdom>Chemical entities</kingdom>
+    <superclass>Inorganic compounds</superclass>
+    <class>Mixed metal/non-metal compounds</class>
+    <subclass>Alkali metal oxoanionic compounds</subclass>
+    <alternative-parent>Inorganic oxides</alternative-parent>
+    <alternative-parent>Inorganic sodium salts</alternative-parent>
+    <substituent>Alkali metal sulfate</substituent>
+    <substituent>Inorganic oxide</substituent>
+    <substituent>Inorganic salt</substituent>
+    <substituent>Inorganic sodium salt</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001892</drugbank-id>
+      <name>Sodium sulfate decahydrate</name>
+      <unii>0YPR65R21J</unii>
+      <cas-number>7727-73-3</cas-number>
+      <inchikey>RSIJVJUOQBWMIM-UHFFFAOYSA-L</inchikey>
+      <average-mass>322.195</average-mass>
+      <monoisotopic-mass>322.036915388</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">Anhydrous sodium sulfate</synonym>
+    <synonym language="" coder="">Sodium sulfate anhydrous</synonym>
+    <synonym language="" coder="">Sodium sulfate, anhydrous</synonym>
+    <synonym language="" coder="">Sodium sulphate anhydrous</synonym>
+    <synonym language="" coder="">Sodium sulphate, anhydrous</synonym>
+    <synonym language="" coder="">Sulfuric acid disodium salt, anhydrous</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Bi-peglyte</name>
+      <labeller>Pendopharm Division Of De Pharmascience Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02326302</dpd-id>
+      <started-marketing-on>2010-06-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution; Tablet, delayed release</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Colprep Kit</name>
+      <labeller>Kvk Tech,Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>10702-283</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-12-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA204553</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Colyte</name>
+      <labeller>Meda Pharmaceuticals Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code>0037-6820</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-08-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Nasogastric</route>
+      <fda-application-number>NDA018983</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Colyte</name>
+      <labeller>Alaven Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>68220-133</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Nasogastric; Oral</route>
+      <fda-application-number>NDA018983</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Colyte</name>
+      <labeller>Pendopharm Division Of De Pharmascience Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00677442</dpd-id>
+      <started-marketing-on>1986-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Nasogastric; Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Colyte With Flavor Packs</name>
+      <labeller>Alaven Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>68220-130</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1999-04-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Nasogastric; Oral</route>
+      <fda-application-number>NDA018983</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eau Purgative Riga</name>
+      <labeller>Glendale Agencies</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00421359</dpd-id>
+      <started-marketing-on>1978-12-31</started-marketing-on>
+      <ended-marketing-on>1996-11-29</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Electropeg Solution</name>
+      <labeller>Technilab Pharma Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230825</dpd-id>
+      <started-marketing-on>1998-04-20</started-marketing-on>
+      <ended-marketing-on>1999-09-27</ended-marketing-on>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gavilyte - C Tm</name>
+      <labeller>Gavis Pharmaceuticals, LLC.</labeller>
+      <ndc-id/>
+      <ndc-product-code>43386-060</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA090186</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gavilyte G Tm</name>
+      <labeller>Lupin Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>43386-090</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA090231</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Golytely</name>
+      <labeller>Braintree Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>52268-100</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1984-07-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA019011</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Golytely</name>
+      <labeller>Braintree Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>52268-101</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1984-07-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA019011</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Golytely</name>
+      <labeller>Braintree Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>52268-700</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1984-07-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA019011</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Golytely</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-0054</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-09-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Nasogastric; Oral</route>
+      <fda-application-number>NDA019011</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Golytely Gi Lavage Solution</name>
+      <labeller>Braintree Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00652512</dpd-id>
+      <started-marketing-on>1985-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Jamp-electropeg</name>
+      <labeller>Jamp Pharma Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02406780</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Jamp-electropeg With Flavour Packet</name>
+      <labeller>Jamp Pharma Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02406799</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Jamplyte</name>
+      <labeller>Jamp Pharma Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02368234</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Jamplyte 280</name>
+      <labeller>Jamp Pharma Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02378329</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Klean-prep</name>
+      <labeller>Pendopharm Division Of De Pharmascience Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02147793</dpd-id>
+      <started-marketing-on>1999-05-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Klean-prep</name>
+      <labeller>Richmond Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00741175</dpd-id>
+      <started-marketing-on>1988-12-31</started-marketing-on>
+      <ended-marketing-on>1999-08-09</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lyteprep</name>
+      <labeller>Therapex Division De E Z Em Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239569</dpd-id>
+      <started-marketing-on>2000-01-25</started-marketing-on>
+      <ended-marketing-on>2005-09-26</ended-marketing-on>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lyteprep</name>
+      <labeller>Therapex Division De E Z Em Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00695335</dpd-id>
+      <started-marketing-on>1987-12-31</started-marketing-on>
+      <ended-marketing-on>2000-04-26</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lyteprep</name>
+      <labeller>Therapex Division De E Z Em Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00695335</dpd-id>
+      <started-marketing-on>1987-12-31</started-marketing-on>
+      <ended-marketing-on>2000-04-26</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Moviprep</name>
+      <labeller>Salix Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>65649-201</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2006-10-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>NDA021881</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Moviprep</name>
+      <labeller>Medical Futures Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02359499</dpd-id>
+      <started-marketing-on>2011-04-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Normo Gastryl</name>
+      <labeller>Sabex Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00570826</dpd-id>
+      <started-marketing-on>1973-12-31</started-marketing-on>
+      <ended-marketing-on>2009-11-24</ended-marketing-on>
+      <dosage-form>Tablet, effervescent</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ocl Solution</name>
+      <labeller>Abbott</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00709298</dpd-id>
+      <started-marketing-on>1988-12-31</started-marketing-on>
+      <ended-marketing-on>2007-07-31</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Peg-3350 and Electrolytes</name>
+      <labeller>Kremers Urban</labeller>
+      <ndc-id/>
+      <ndc-product-code>62175-446</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1984-10-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA018983</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Peg-3350 and Electrolytes</name>
+      <labeller>Affordable Pharmaceuticals, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>10572-100</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-07-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA019011</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Peg-3350 and Electrolytes</name>
+      <labeller>Affordable Pharmaceuticals, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>10572-101</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-07-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA019011</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Peg-3350 and Electrolytes</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-6138</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-08-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA019011</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Peglyte Powder</name>
+      <labeller>Pendopharm Division Of De Pharmascience Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00777838</dpd-id>
+      <started-marketing-on>1988-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Peglyte Solution</name>
+      <labeller>Pharmascience Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00777846</dpd-id>
+      <started-marketing-on>1989-12-31</started-marketing-on>
+      <ended-marketing-on>2012-07-13</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polyethylene Glycol 3350 and Electrolytes</name>
+      <labeller>Mylan Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>0378-6669</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-02-02</started-marketing-on>
+      <ended-marketing-on>2016-01-14</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA090928</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Polyethylene Glycol-3350 and Electrolytes</name>
+      <labeller>Novel Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>40032-090</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA090231</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Polyethylene Glycol-3350 and Electrolytes With Flavor Pack</name>
+      <labeller>Novel Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>40032-060</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA090186</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Prolax - Pws</name>
+      <labeller>Rivex Pharma Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02147785</dpd-id>
+      <started-marketing-on>1997-04-21</started-marketing-on>
+      <ended-marketing-on>2007-10-15</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sodium Polysulthionate and Folic Acid</name>
+      <labeller>Solubiomix</labeller>
+      <ndc-id/>
+      <ndc-product-code>69499-904</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-08-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Polysulthionate, 5-methyltetrahydrofolate</name>
+      <labeller>Solubiomix</labeller>
+      <ndc-id/>
+      <ndc-product-code>69499-921</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-07-21</started-marketing-on>
+      <ended-marketing-on>2030-01-01</ended-marketing-on>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral; Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Polysulthionate, 5-mthf</name>
+      <labeller>Solubiomix</labeller>
+      <ndc-id/>
+      <ndc-product-code>69499-922</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-01-09</started-marketing-on>
+      <ended-marketing-on>2016-01-15</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Suprep Bowel Prep</name>
+      <labeller>Braintree Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>52268-012</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-08-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution, concentrate</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA022372</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Xizflus</name>
+      <labeller>Basiem</labeller>
+      <ndc-id/>
+      <ndc-product-code>69597-922</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-01-09</started-marketing-on>
+      <ended-marketing-on>2016-01-15</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Xizflus</name>
+      <labeller>Basiem</labeller>
+      <ndc-id/>
+      <ndc-product-code>69597-921</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-07-14</started-marketing-on>
+      <ended-marketing-on>2030-01-01</ended-marketing-on>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral; Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Polyethylene Glycol 3350 and Electrolytes</name>
+      <ingredients>Polyethylene glycol + Sodium Chloride + Sodium bicarbonate + Potassium Chloride + Sodium sulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Peg-3350 and Electrolytes</name>
+      <ingredients>Polyethylene glycol + Sodium sulfate + Sodium bicarbonate + Sodium Chloride + Potassium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Peg-3350 and Electrolytes</name>
+      <ingredients>Polyethylene glycol + Sodium sulfate + Sodium bicarbonate + Sodium Chloride + Potassium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polyethylene Glycol-3350 and Electrolytes With Flavor Pack</name>
+      <ingredients>Polyethylene glycol + Sodium Chloride + Sodium bicarbonate + Potassium Chloride + Sodium sulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polyethylene Glycol-3350 and Electrolytes</name>
+      <ingredients>Polyethylene glycol + Sodium Chloride + Sodium bicarbonate + Potassium Chloride + Sodium sulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gavilyte - C Tm</name>
+      <ingredients>Polyethylene glycol + Sodium Chloride + Sodium bicarbonate + Potassium Chloride + Sodium sulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Suprep Bowel Prep</name>
+      <ingredients>Sodium sulfate + Potassium + Magnesium Sulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Golytely</name>
+      <ingredients>Polyethylene glycol + Sodium sulfate + Sodium bicarbonate + Sodium Chloride + Potassium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Golytely</name>
+      <ingredients>Polyethylene glycol + Sodium sulfate + Sodium bicarbonate + Sodium Chloride + Potassium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Golytely</name>
+      <ingredients>Polyethylene glycol + Sodium sulfate + Sodium bicarbonate + Sodium Chloride + Potassium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Golytely</name>
+      <ingredients>Polyethylene glycol + Sodium sulfate + Sodium bicarbonate + Sodium Chloride + Potassium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Peg-3350 and Electrolytes</name>
+      <ingredients>Polyethylene glycol + Sodium sulfate + Sodium bicarbonate + Sodium Chloride + Potassium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Polysulthionate, 5-methyltetrahydrofolate</name>
+      <ingredients>Sulfur + Sodium sulfate + Sodium thiosulfate + Levomefolic acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xizflus</name>
+      <ingredients>Sulfur + Sodium sulfate + Sodium thiosulfate + Levomefolic acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Polysulthionate, 5-mthf</name>
+      <ingredients>Sulfur + Sodium sulfate + Sodium thiosulfate + 5-methyltetrahydrofolic acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xizflus</name>
+      <ingredients>Sulfur + Sodium sulfate + Sodium thiosulfate + 5-methyltetrahydrofolic acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Klean-prep</name>
+      <ingredients>Potassium Chloride + Sodium Chloride + Polyethylene glycol + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Golytely Gi Lavage Solution</name>
+      <ingredients>Polyethylene glycol + Potassium Chloride + Sodium Chloride + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Colyte</name>
+      <ingredients>Potassium Chloride + Sodium Chloride + Polyethylene glycol + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Bi-peglyte</name>
+      <ingredients>Bisacodyl + Potassium Chloride + Sodium Chloride + Polyethylene glycol + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Moviprep</name>
+      <ingredients>Sodium sulfate + Vitamin C + Potassium Chloride + Sodium Chloride + Vitamin C + Polyethylene glycol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Peglyte Powder</name>
+      <ingredients>Polyethylene glycol + Potassium Chloride + Sodium Chloride + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Prolax - Pws</name>
+      <ingredients>Potassium Chloride + Sodium Chloride + Polyethylene glycol + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eau Purgative Riga</name>
+      <ingredients>Sodium sulfate + Magnesium Sulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Electropeg Solution</name>
+      <ingredients>Potassium Chloride + Sodium Chloride + Polyethylene glycol + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lyteprep</name>
+      <ingredients>Potassium Chloride + Sodium Chloride + Polyethylene glycol + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Klean-prep</name>
+      <ingredients>Polyethylene glycol + Potassium Chloride + Sodium Chloride + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ocl Solution</name>
+      <ingredients>Polyethylene glycol + Potassium Chloride + Sodium Chloride + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Peglyte Solution</name>
+      <ingredients>Polyethylene glycol + Potassium Chloride + Sodium Chloride + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Jamplyte</name>
+      <ingredients>Potassium Chloride + Sodium Chloride + Polyethylene glycol + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Jamplyte 280</name>
+      <ingredients>Potassium Chloride + Sodium Chloride + Polyethylene glycol + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Jamp-electropeg</name>
+      <ingredients>Potassium Chloride + Sodium Chloride + Polyethylene glycol + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Jamp-electropeg With Flavour Packet</name>
+      <ingredients>Potassium Chloride + Sodium Chloride + Polyethylene glycol + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lyteprep</name>
+      <ingredients>Sodium bicarbonate + Sodium sulfate + Potassium Chloride + Sodium Chloride + Potassium + Sodium bicarbonate + Sodium Chloride + Sodium sulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lyteprep</name>
+      <ingredients>Sodium bicarbonate + Sodium sulfate + Potassium Chloride + Sodium Chloride + Potassium + Sodium bicarbonate + Sodium Chloride + Sodium sulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Colyte</name>
+      <ingredients>Polyethylene glycol + Sodium Chloride + Potassium Chloride + Sodium bicarbonate + Sodium sulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Peg-3350 and Electrolytes</name>
+      <ingredients>Polyethylene glycol + Sodium Chloride + Potassium Chloride + Sodium bicarbonate + Sodium sulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Colyte With Flavor Packs</name>
+      <ingredients>Polyethylene glycol + Sodium Chloride + Potassium Chloride + Sodium bicarbonate + Sodium sulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Colyte</name>
+      <ingredients>Polyethylene glycol + Sodium Chloride + Potassium Chloride + Sodium bicarbonate + Sodium sulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Moviprep</name>
+      <ingredients>Polyethylene glycol + Sodium sulfate + Sodium Chloride + Potassium Chloride + Vitamin C + Vitamin C</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Polysulthionate and Folic Acid</name>
+      <ingredients>Folic Acid + Sulfur + Sodium sulfate + Sodium thiosulfate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Normo Gastryl</name>
+      <ingredients>Sodium phosphates + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gavilyte G Tm</name>
+      <ingredients>Polyethylene glycol + Sodium sulfate + Sodium bicarbonate + Sodium Chloride + Potassium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Colprep Kit</name>
+      <ingredients>Sodium sulfate + Potassium + Magnesium Sulfate</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acids</category>
+      <mesh-id>D000143</mesh-id>
+    </category>
+    <category>
+      <category>Acids, Noncarboxylic</category>
+      <mesh-id>D000148</mesh-id>
+    </category>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Anions</category>
+      <mesh-id>D000838</mesh-id>
+    </category>
+    <category>
+      <category>Cathartics</category>
+      <mesh-id>D002400</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Drugs for Constipation</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Electrolytes</category>
+      <mesh-id>D004573</mesh-id>
+    </category>
+    <category>
+      <category>Gastrointestinal Agents</category>
+      <mesh-id>D005765</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Ions</category>
+      <mesh-id>D007477</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Osmotically Acting Laxatives</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Sulfur Acids</category>
+      <mesh-id>D013456</mesh-id>
+    </category>
+    <category>
+      <category>Sulfur Compounds</category>
+      <mesh-id>D013457</mesh-id>
+    </category>
+    <category>
+      <category>Sulfuric Acids</category>
+      <mesh-id>D013464</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Kit; powder, for solution; tablet, delayed release</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Nasogastric</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Nasogastric; Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, effervescent</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Oral; Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution, concentrate</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="A12CA02">
+      <level code="A12CA">Sodium</level>
+      <level code="A12C">OTHER MINERAL SUPPLEMENTS</level>
+      <level code="A12">MINERAL SUPPLEMENTS</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+    <atc-code code="A06AD13">
+      <level code="A06AD">Osmotically acting laxatives</level>
+      <level code="A06A">DRUGS FOR CONSTIPATION</level>
+      <level code="A06">DRUGS FOR CONSTIPATION</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents>
+    <patent>
+      <number>6946149</number>
+      <country>United States</country>
+      <approved>2003-03-07</approved>
+      <expires>2023-03-07</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>7169381</number>
+      <country>United States</country>
+      <approved>2004-09-01</approved>
+      <expires>2024-09-01</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>7658914</number>
+      <country>United States</country>
+      <approved>2004-09-01</approved>
+      <expires>2024-09-01</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-0.84</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>disodium sulfate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>disodium sulfate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>142.042</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>141.931268528</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[Na+].[Na+].[O-]S([O-])(=O)=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>Na2O4S</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/2Na.H2O4S/c;;1-5(2,3)4/h;;(H2,1,2,3,4)/q2*+1;/p-2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>PMZURENOXWZQFD-UHFFFAOYSA-L</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>80.26</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>11.53</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>5.81</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>-3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>20641</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7247</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>32149</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C13199</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D01732</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Sodium_sulfate</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL233406</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

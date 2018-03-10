@@ -1,0 +1,452 @@
+<drug type="small molecule" created="2016-12-04" updated="2016-12-04">
+  <drugbank-id primary="true">DB13159</drugbank-id>
+  <name>Cetrimide</name>
+  <description/>
+  <cas-number>8044-71-1</cas-number>
+  <unii>L64N7M9BWR</unii>
+  <average-mass>364.456</average-mass>
+  <monoisotopic-mass>363.250063</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>experimental</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as tetraalkylammonium salts. These are organonitrogen compounds containing a quaternary ammonium substituted with four alkyl chains.</description>
+    <direct-parent>Tetraalkylammonium salts</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic nitrogen compounds</superclass>
+    <class>Organonitrogen compounds</class>
+    <subclass>Quaternary ammonium salts</subclass>
+    <alternative-parent>Amines</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Organic bromide salts</alternative-parent>
+    <alternative-parent>Organic cations</alternative-parent>
+    <substituent>Aliphatic acyclic compound</substituent>
+    <substituent>Amine</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Organic bromide salt</substituent>
+    <substituent>Organic cation</substituent>
+    <substituent>Organic salt</substituent>
+    <substituent>Tetraalkylammonium salt</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Cetrimide bromide</synonym>
+    <synonym language="Latin" coder="">Cetrimidum</synonym>
+    <synonym language="" coder="">Tetradecyl trimethyl ammonium bromide</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Resdan Dandruff Treatment Liquid 1%</name>
+      <labeller>Wyeth Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01934007</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>2005-07-28</ended-marketing-on>
+      <dosage-form>Liquid; Shampoo</dosage-form>
+      <strength>1 %</strength>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Savlodil</name>
+      <labeller>Regent Medical Americas, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02022206</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>2012-07-31</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Savlon Crm 0.5%</name>
+      <labeller>Whitehall Robins Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01932411</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>2002-07-19</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength>.5 %</strength>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Savlon Hospital Concentrate</name>
+      <labeller>Durex Canada, Division Of Ssl Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02021005</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>2005-07-14</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Xylonor - Aem Asp</name>
+      <labeller>Septodont</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02218607</dpd-id>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Aerosol, metered; Spray</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Xylonor - Aem Asp</name>
+      <ingredients>Cetrimide + Lidocaine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Savlon Crm 0.5%</name>
+      <ingredients>Cetrimide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Savlon Hospital Concentrate</name>
+      <ingredients>Cetrimide + Chlorhexidine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Savlodil</name>
+      <ingredients>Cetrimide + Chlorhexidine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Resdan Dandruff Treatment Liquid 1%</name>
+      <ingredients>Cetrimide</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amines</category>
+      <mesh-id>D000588</mesh-id>
+    </category>
+    <category>
+      <category>Ammonium Compounds</category>
+      <mesh-id>D064751</mesh-id>
+    </category>
+    <category>
+      <category>Anti-Infective Agents</category>
+      <mesh-id>D000890</mesh-id>
+    </category>
+    <category>
+      <category>Anti-Infective Agents, Local</category>
+      <mesh-id>D000891</mesh-id>
+    </category>
+    <category>
+      <category>Antiseptics and Disinfectants</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Dermatologicals</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Detergents</category>
+      <mesh-id>D003902</mesh-id>
+    </category>
+    <category>
+      <category>Household Products</category>
+      <mesh-id>D006795</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Nitrogen Compounds</category>
+      <mesh-id>D017672</mesh-id>
+    </category>
+    <category>
+      <category>Onium Compounds</category>
+      <mesh-id>D009861</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Quaternary Ammonium Compounds</category>
+      <mesh-id>D000644</mesh-id>
+    </category>
+    <category>
+      <category>Specialty Uses of Chemicals</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+    <category>
+      <category>Surface-Active Agents</category>
+      <mesh-id>D013501</mesh-id>
+    </category>
+    <category>
+      <category>Technology, Industry, and Agriculture</category>
+      <mesh-id>D013676</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+    <category>
+      <category>Trimethyl Ammonium Compounds</category>
+      <mesh-id>D050337</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Liquid; shampoo</form>
+      <route>Topical</route>
+      <strength>1 %</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Cream</form>
+      <route>Topical</route>
+      <strength>.5 %</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Aerosol, metered; spray</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="D11AC01">
+      <level code="D11AC">Medicated shampoos</level>
+      <level code="D11A">OTHER DERMATOLOGICAL PREPARATIONS</level>
+      <level code="D11">OTHER DERMATOLOGICAL PREPARATIONS</level>
+      <level code="D">DERMATOLOGICALS</level>
+    </atc-code>
+    <atc-code code="D08AJ04">
+      <level code="D08AJ">Quaternary ammonium compounds</level>
+      <level code="D08A">ANTISEPTICS AND DISINFECTANTS</level>
+      <level code="D08">ANTISEPTICS AND DISINFECTANTS</level>
+      <level code="D">DERMATOLOGICALS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>1.92</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-7.4</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.41e-05 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>2.69</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>hexadecyltrimethylazanium bromide</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>cetyl-trimethyl-ammonium bromide</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>364.456</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>363.250063</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[Br-].CCCCCCCCCCCCCCCC[N+](C)(C)C</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C19H42BrN</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C19H42N.BrH/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(2,3)4;/h5-19H2,1-4H3;1H/q+1;/p-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>LZZYPRNAOMGNLH-UHFFFAOYSA-M</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>104.99</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>41.09</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>15</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>2199</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>3565</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C11279</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Cetrimide</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,355 @@
+<drug type="biotech" created="2016-05-24" updated="2017-03-14">
+  <drugbank-id primary="true">DB11601</drugbank-id>
+  <name>Tuberculin Purified Protein Derivative</name>
+  <description>Tuberculin PPD is a sterile aqueous solution of a purified protein fraction for intradermal administration as an aid in the diagnosis of tuberculosis. The solution is stabilized with polysorbate (Tween) 80, buffered with potassium and sodium phosphates and contains 0.25% phenol as a preservative. The purified protein fraction is isolated from culture media filtrates of a human strain of Mycobacterium tuberculosis.</description>
+  <cas-number/>
+  <unii>I7L8FKN87J</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Indicated as an aid in the detection of infection with Mycobacterium tuberculosis.</indication>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Mycobacterium tuberculosis purified protein derivative</synonym>
+    <synonym language="" coder="">Purified protein derivative of tuberculin</synonym>
+    <synonym language="" coder="">Tuberculin PPD</synonym>
+    <synonym language="" coder="">Tuberculin, purified protein derivative</synonym>
+    <synonym language="" coder="">Tuberculin,purified protein derivative</synonym>
+    <synonym language="" coder="">Tuberculinum</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Aplisol</name>
+      <labeller>TYA Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>64725-0104</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-04-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>5 [iU]/.1mL</strength>
+      <route>Intradermal</route>
+      <fda-application-number>BLA103782</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Aplisol</name>
+      <labeller>Par Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>42023-104</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-04-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>5 [iU]/.1mL</strength>
+      <route>Intradermal</route>
+      <fda-application-number>BLA103782</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Aplisol</name>
+      <labeller>A S Medication Solutions</labeller>
+      <ndc-id/>
+      <ndc-product-code>50090-1336</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-04-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>5 [iU]/.1mL</strength>
+      <route>Intradermal</route>
+      <fda-application-number>BLA103782</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Tuberculin Ppd (mantoux)</name>
+      <labeller>Aventis Pasteur Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00316377</dpd-id>
+      <started-marketing-on>1975-12-31</started-marketing-on>
+      <ended-marketing-on>2001-07-19</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>1 tub</strength>
+      <route>Intradermal</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Tuberculin Ppd (mantoux)</name>
+      <labeller>Aventis Pasteur Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00317233</dpd-id>
+      <started-marketing-on>1975-12-31</started-marketing-on>
+      <ended-marketing-on>2001-07-19</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>250 tub</strength>
+      <route>Intradermal</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Tubersol</name>
+      <labeller>Sanofi Pasteur Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code>49281-752</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1956-08-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>5 [iU]/.1mL</strength>
+      <route>Intradermal</route>
+      <fda-application-number>BLA103941</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Tubersol</name>
+      <labeller>A S Medication Solutions</labeller>
+      <ndc-id/>
+      <ndc-product-code>50090-0261</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1956-08-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>5 [iU]/.1mL</strength>
+      <route>Intradermal</route>
+      <fda-application-number>BLA103941</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Tubersol</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-2972</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1956-08-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>5 [iU]/.1mL</strength>
+      <route>Intradermal</route>
+      <fda-application-number>BLA103941</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Tubersol</name>
+      <labeller>Sanofi Pasteur Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00317268</dpd-id>
+      <started-marketing-on>1975-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>5 tub</strength>
+      <route>Intradermal</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Tubersol</name>
+      <labeller>A S Medication Solutions</labeller>
+      <ndc-id/>
+      <ndc-product-code>50090-1668</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1956-08-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>5 [iU]/.1mL</strength>
+      <route>Intradermal</route>
+      <fda-application-number>BLA103941</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Aplisol</name>
+      <ingredients>Tuberculin Purified Protein Derivative</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tubersol</name>
+      <ingredients>Tuberculin Purified Protein Derivative</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tubersol</name>
+      <ingredients>Tuberculin Purified Protein Derivative</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tuberculin Ppd (mantoux)</name>
+      <ingredients>Tuberculin Purified Protein Derivative</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tuberculin Ppd (mantoux)</name>
+      <ingredients>Tuberculin Purified Protein Derivative</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tubersol</name>
+      <ingredients>Tuberculin Purified Protein Derivative</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tubersol</name>
+      <ingredients>Tuberculin Purified Protein Derivative</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aplisol</name>
+      <ingredients>Tuberculin Purified Protein Derivative</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aplisol</name>
+      <ingredients>Tuberculin Purified Protein Derivative</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tubersol</name>
+      <ingredients>Tuberculin Purified Protein Derivative</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Antigens</category>
+      <mesh-id>D000941</mesh-id>
+    </category>
+    <category>
+      <category>Antigens, Bacterial</category>
+      <mesh-id>D000942</mesh-id>
+    </category>
+    <category>
+      <category>Biological Factors</category>
+      <mesh-id>D001685</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Indicators and Reagents</category>
+      <mesh-id>D007202</mesh-id>
+    </category>
+    <category>
+      <category>Laboratory Chemicals</category>
+      <mesh-id>D019995</mesh-id>
+    </category>
+    <category>
+      <category>Specialty Uses of Chemicals</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Intradermal</route>
+      <strength>5 [iU]/.1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intradermal</route>
+      <strength>1 tub</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intradermal</route>
+      <strength>250 tub</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intradermal</route>
+      <strength>5 [iU]/.1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intradermal</route>
+      <strength>5 tub</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB11601.pdf?1464130365</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7783</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

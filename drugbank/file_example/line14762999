@@ -1,0 +1,392 @@
+<drug type="biotech" created="2016-05-19" updated="2016-08-19">
+  <drugbank-id primary="true">DB11595</drugbank-id>
+  <name>Atezolizumab</name>
+  <description>Atezolizumab is an Fc-engineered, humanized, monoclonal antibody that binds to Programmed Death Ligand 1 (PD-L1) and blocks its interactions with the receptors B7.1 (also known as CD80) and  Programmed Death 1 (PD-1).  The binding of PD-L1 to PD-1 or B7.1 on activated T cells causes an inhibitory signal to suppress their production in the lymph nodes, thereby preventing immune responses to events such as pregnancy or autoimmune disease. This pathway is also utilized by cancer cells to evade the immune system through evasion of anti-tumor T-cell response. Furthermore, over-expression of PD-L1 and PD-1 has been linked to increased tumour aggressiveness and poorer prognosis.  &#13;
+&#13;
+Currently the only antibody against PD-L1 and available as the product Tecentriq (FDA), atezolizumab is indicated for the treatment of locally advanced or metastatic urothelial carcinoma. </description>
+  <cas-number>1380723-44-3</cas-number>
+  <unii>52CMI0WC3Y</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>27412122</pubmed-id>
+        <citation>Markham A: Atezolizumab: First Global Approval. Drugs. 2016 Aug;76(12):1227-32. doi: 10.1007/s40265-016-0618-8.</citation>
+      </article>
+      <article>
+        <pubmed-id>26952546</pubmed-id>
+        <citation>Rosenberg JE, Hoffman-Censits J, Powles T, van der Heijden MS, Balar AV, Necchi A, Dawson N, O'Donnell PH, Balmanoukian A, Loriot Y, Srinivas S, Retz MM, Grivas P, Joseph RW, Galsky MD, Fleming MT, Petrylak DP, Perez-Gracia JL, Burris HA, Castellano D, Canil C, Bellmunt J, Bajorin D, Nickles D, Bourgon R, Frampton GM, Cui N, Mariathasan S, Abidoye O, Fine GD, Dreicer R: Atezolizumab in patients with locally advanced and metastatic urothelial carcinoma who have progressed following treatment with platinum-based chemotherapy: a single-arm, multicentre, phase 2 trial. Lancet. 2016 May 7;387(10031):1909-20. doi: 10.1016/S0140-6736(16)00561-4. Epub 2016 Mar 4.</citation>
+      </article>
+      <article>
+        <pubmed-id>26382775</pubmed-id>
+        <citation>Chang SS: Re: MPDL3280A (Anti-PD-L1) Treatment Leads to Clinical Activity in Metastatic Bladder Cancer. J Urol. 2015 Oct;194(4):956. doi: 10.1016/j.juro.2015.07.017. Epub 2015 Jul 10.</citation>
+      </article>
+      <article>
+        <pubmed-id>15569934</pubmed-id>
+        <citation>Thompson RH, Gillett MD, Cheville JC, Lohse CM, Dong H, Webster WS, Krejci KG, Lobo JR, Sengupta S, Chen L, Zincke H, Blute ML, Strome SE, Leibovich BC, Kwon ED: Costimulatory B7-H1 in renal cell carcinoma patients: Indicator of tumor aggressiveness and potential therapeutic target. Proc Natl Acad Sci U S A. 2004 Dec 7;101(49):17174-9. Epub 2004 Nov 29.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For the treatment of patients with locally advanced or metastatic urothelial carcinoma who: 1) have disease progression during or following platinum-containing chemotherapy, and 2) have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.</indication>
+  <pharmacodynamics/>
+  <mechanism-of-action>Atezolizumab is a monoclonal antibody that binds to PD-L1 and blocks its interactions with both PD-1 and B7.1 receptors. This prevents PD-L1/PD-1 mediated inhibition of the immune response, including activation of the anti-tumor immune response without inducing antibody-dependent cellular cytotoxicity. </mechanism-of-action>
+  <toxicity>Most common adverse reactions (≥ 20% of patients) included: fatigue, decreased appetite, nausea, urinary tract infection, pyrexia, and constipation.</toxicity>
+  <metabolism/>
+  <absorption> The population PK analysis suggests steady state is obtained after 6 to 9 weeks (2 to 3 cycles) of repeated dosing. The systemic accumulation in area under the curve (AUC), maximum concentration (Cmax) and trough concentration (Cmin) was 1.91, 1.46 and 2.75-fold, respectively.</absorption>
+  <half-life>27 days</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution>6.9 L</volume-of-distribution>
+  <clearance>0.20 L/day</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Tecentriq</name>
+      <labeller>Genentech, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>50242-917</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-05-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>1200 mg/20mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA761034</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Tecentriq</name>
+      <ingredients>Atezolizumab</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies</category>
+      <mesh-id>D000906</mesh-id>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Globulins</category>
+      <mesh-id>D005916</mesh-id>
+    </category>
+    <category>
+      <category>Immunoglobulins</category>
+      <mesh-id>D007136</mesh-id>
+    </category>
+    <category>
+      <category>Immunoproteins</category>
+      <mesh-id>D007162</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Serum Globulins</category>
+      <mesh-id>D012712</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>1200 mg/20mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB11595.pdf?1463672661</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB04914</drugbank-id>
+      <name>G17DT</name>
+      <description>The therapeutic efficacy of G17DT can be decreased when used in combination with Atezolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05942</drugbank-id>
+      <name>GI-5005</name>
+      <description>The therapeutic efficacy of GI-5005 can be decreased when used in combination with Atezolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05322</drugbank-id>
+      <name>INGN 201</name>
+      <description>The therapeutic efficacy of INGN 201 can be decreased when used in combination with Atezolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05325</drugbank-id>
+      <name>INGN 225</name>
+      <description>The therapeutic efficacy of INGN 225 can be decreased when used in combination with Atezolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10283</drugbank-id>
+      <name>Rabies vaccine</name>
+      <description>The therapeutic efficacy of Rabies vaccine can be decreased when used in combination with Atezolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05374</drugbank-id>
+      <name>Rindopepimut</name>
+      <description>The therapeutic efficacy of CDX-110 can be decreased when used in combination with Atezolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05440</drugbank-id>
+      <name>SRP 299</name>
+      <description>The therapeutic efficacy of SRP 299 can be decreased when used in combination with Atezolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06584</drugbank-id>
+      <name>TG4010</name>
+      <description>The therapeutic efficacy of TG4010 can be decreased when used in combination with Atezolizumab.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;Heavy Chain Sequence
+EVQLVESGGGLVQPGGSLRLSCAASGFTFSDSWIHWVRQAPGKGLEWVAWISPYGGSTYY
+ADSVKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCARRHWPGGFDYWGQGTLVTVSSAS
+TKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGL
+YSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPS
+VFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYAST
+YRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSREEMT
+KNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQ
+GNVFSCSVMHEALHNHYTQKSLSLSPGK</sequence>
+    <sequence format="FASTA">&gt;Light Chain Sequence
+DIQMTQSPSSLSASVGDRVTITCRASQDVSTAVAWYQQKPGKAPKLLIYSASFLYSGVPS
+RFSGSGSGTDFTLTISSLQPEDFATYYCQQYLYHPATFGQGTKVEIKRTVAAPSVFIFPP
+SDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLT
+LSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>145000.0</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D10773</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Atezolizumab</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/tecentriq-drug.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>https://www.drugs.com/tecentriq.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0003441</id>
+      <name>Programmed cell death 1 ligand 1</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antibody</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q9NZQ7" source="Swiss-Prot">
+    <name>Programmed cell death 1 ligand 1</name>
+    <general-function/>
+    <specific-function>Involved in the costimulatory signal, essential for T-cell proliferation and production of IL10 and IFNG, in an IL2-dependent and a PDCD1-independent manner. Interaction with PDCD1 inhibits T-cell proliferation and cytokine production.</specific-function>
+    <gene-name>CD274</gene-name>
+    <locus/>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>239-259</transmembrane-regions>
+    <signal-regions>1-18</signal-regions>
+    <theoretical-pi>7.25</theoretical-pi>
+    <molecular-weight>33275.095</molecular-weight>
+    <chromosome-location>9</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:17635</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CD274</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>BC113736</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>2848</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9NZQ7</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>PD1L1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>B7 homolog 1</synonym>
+      <synonym>B7-H1</synonym>
+      <synonym>B7H1</synonym>
+      <synonym>PD-L1</synonym>
+      <synonym>PDCD1L1</synonym>
+      <synonym>PDCD1LG1</synonym>
+      <synonym>PDL1</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0006712|Programmed cell death 1 ligand 1
+MRIFAVFIFMTYWHLLNAFTVTVPKDLYVVEYGSNMTIECKFPVEKQLDLAALIVYWEME
+DKNIIQFVHGEEDLKVQHSSYRQRARLLKDQLSLGNAALQITDVKLQDAGVYRCMISYGG
+ADYKRITVKVNAPYNKINQRILVVDPVTSEHELTCQAEGYPKAEVIWTSSDHQVLSGKTT
+TTNSKREEKLFNVTSTLRINTTTNEIFYCTFRRLDPEENHTAELVIPELPLAHPPNERTH
+LVILGAILLCLGVALTFIFRLRKGRMMDVKKCGIQDTNSKKQSDTHLEET</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0019421|Programmed cell death 1 ligand 1 (CD274)
+ATGAGGATATTTGCTGTCTTTATATTCATGACCTACTGGCATTTGCTGAACGCCCCATAC
+AACAAAATCAACCAAAGAATTTTGGTTGTGGATCCAGTCACCTCTGAACATGAACTGACA
+TGTCAGGCTGAGGGCTACCCCAAGGCCGAAGTCATCTGGACAAGCAGTGACCATCAAGTC
+CTGAGTGGTAAGACCACCACCACCAATTCCAAGAGAGAGGAGAAGCTTTTCAATGTGACC
+AGCACACTGAGAATCAACACAACAACTAATGAGATTTTCTACTGCACTTTTAGGAGATTA
+GATCCTGAGGAAAACCATACAGCTGAATTGGTCATCCCAGAACTACCTCTGGCACATCCT
+CCAAATGAAAGGACTCACTTGGTAATTCTGGGAGCCATCTTATTATGCCTTGGTGTAGCA
+CTGACATTCATCTTCCGTTTAAGAAAAGGGAGAATGATGGATGTGAAAAAATGTGGCATC
+CAAGATACAAACTCAAAGAAGCAAAGTGATACACATTTGGAGGAGACGTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF07686</identifier>
+        <name>V-set</name>
+      </pfam>
+      <pfam>
+        <identifier>PF08205</identifier>
+        <name>C2-set_2</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>external side of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endomembrane system</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of activated T cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cell migration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of tumor necrosis factor superfamily cytokine production</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell surface receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of T cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>T cell costimulation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to cytokine</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of interleukin-10 production</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>immune response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>toxin transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of interleukin-10 secretion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of interferon-gamma production</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

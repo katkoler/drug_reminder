@@ -1,0 +1,1590 @@
+<drug type="small molecule" created="2016-11-04" updated="2016-11-04">
+  <drugbank-id primary="true">DB13143</drugbank-id>
+  <name>Methallenestril</name>
+  <description/>
+  <cas-number>517-18-0</cas-number>
+  <unii>XL025389JS</unii>
+  <average-mass>286.371</average-mass>
+  <monoisotopic-mass>286.156894568</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>experimental</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as naphthalenes. These are compounds containing a naphthalene moiety, which consists of two fused benzene rings.</description>
+    <direct-parent>Naphthalenes</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Benzenoids</superclass>
+    <class>Naphthalenes</class>
+    <subclass/>
+    <alternative-parent>Alkyl aryl ethers</alternative-parent>
+    <alternative-parent>Anisoles</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <substituent>Alkyl aryl ether</substituent>
+    <substituent>Anisole</substituent>
+    <substituent>Aromatic homopolycyclic compound</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Ether</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>Naphthalene</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Phenol ether</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">b-ethyl-6-methoxy-a,a-dimethyl-2-naphthalenepropionic acid</synonym>
+  </synonyms>
+  <products/>
+  <international-brands>
+    <international-brand>
+      <name>Vallestril</name>
+      <company/>
+    </international-brand>
+  </international-brands>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Estrogen Contraceptives</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Estrogens</category>
+      <mesh-id>D004967</mesh-id>
+    </category>
+    <category>
+      <category>Genito Urinary System and Sex Hormones</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Hydrocarbons</category>
+      <mesh-id>D006838</mesh-id>
+    </category>
+    <category>
+      <category>Hydrocarbons, Aromatic</category>
+      <mesh-id>D006841</mesh-id>
+    </category>
+    <category>
+      <category>Hydrocarbons, Cyclic</category>
+      <mesh-id>D006844</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Compounds</category>
+      <mesh-id>D011083</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Hydrocarbons, Aromatic</category>
+      <mesh-id>D011084</mesh-id>
+    </category>
+    <category>
+      <category>Sex Hormones and Modulators of the Genital System</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Synthetic Estrogens, Plain</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes>
+    <atc-code code="G03CC03">
+      <level code="G03CC">Estrogens, combinations with other drugs</level>
+      <level code="G03C">ESTROGENS</level>
+      <level code="G03">SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM</level>
+      <level code="G">GENITO URINARY SYSTEM AND SEX HORMONES</level>
+    </atc-code>
+    <atc-code code="G03CB03">
+      <level code="G03CB">Synthetic estrogens, plain</level>
+      <level code="G03C">ESTROGENS</level>
+      <level code="G03">SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM</level>
+      <level code="G">GENITO URINARY SYSTEM AND SEX HORMONES</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB02365</drugbank-id>
+      <name>1,10-Phenanthroline</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with 1,10-Phenanthroline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05107</drugbank-id>
+      <name>16-Bromoepiandrosterone</name>
+      <description>The serum concentration of 16-Bromoepiandrosterone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01434</drugbank-id>
+      <name>19-norandrostenedione</name>
+      <description>The serum concentration of 19-norandrostenedione can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04459</drugbank-id>
+      <name>3,4-Dichloroisocoumarin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with 3,4-Dichloroisocoumarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07347</drugbank-id>
+      <name>4-(2-AMINOETHYL)BENZENESULFONYL FLUORIDE</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with 4-(2-AMINOETHYL)BENZENESULFONYL FLUORIDE.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01536</drugbank-id>
+      <name>4-Androstenedione</name>
+      <description>The serum concentration of 4-Androstenedione can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01456</drugbank-id>
+      <name>5-androstenedione</name>
+      <description>The serum concentration of 5-androstenedione can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Abciximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Acenocoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00459</drugbank-id>
+      <name>Acitretin</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Acitretin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00210</drugbank-id>
+      <name>Adapalene</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Adapalene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00240</drugbank-id>
+      <name>Alclometasone</name>
+      <description>The serum concentration of Alclometasone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04630</drugbank-id>
+      <name>Aldosterone</name>
+      <description>The serum concentration of Aldosterone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00523</drugbank-id>
+      <name>Alitretinoin</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Alitretinoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06203</drugbank-id>
+      <name>Alogliptin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Alogliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00058</drugbank-id>
+      <name>Alpha-1-proteinase inhibitor</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Alpha-1-proteinase inhibitor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13141</drugbank-id>
+      <name>Ambroxol acefyllinate</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00288</drugbank-id>
+      <name>Amcinonide</name>
+      <description>The serum concentration of Amcinonide can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01223</drugbank-id>
+      <name>Aminophylline</name>
+      <description>The serum concentration of Aminophylline can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01351</drugbank-id>
+      <name>Amobarbital</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Amobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00701</drugbank-id>
+      <name>Amprenavir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Amprenavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01217</drugbank-id>
+      <name>Anastrozole</name>
+      <description>The therapeutic efficacy of Anastrozole can be decreased when used in combination with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05099</drugbank-id>
+      <name>Ancrod</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Ancrod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12081</drugbank-id>
+      <name>Anecortave</name>
+      <description>The serum concentration of Anecortave can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09057</drugbank-id>
+      <name>Anthrax immune globulin human</name>
+      <description>Methallenestril may increase the thrombogenic activities of Anthrax immune globulin human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11598</drugbank-id>
+      <name>Antithrombin III human</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06605</drugbank-id>
+      <name>Apixaban</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Apixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00673</drugbank-id>
+      <name>Aprepitant</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Aprepitant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06692</drugbank-id>
+      <name>Aprotinin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Aprotinin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00407</drugbank-id>
+      <name>Ardeparin</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Ardeparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00278</drugbank-id>
+      <name>Argatroban</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Argatroban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06413</drugbank-id>
+      <name>Armodafinil</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Armodafinil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06697</drugbank-id>
+      <name>Artemether</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Artemether.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11586</drugbank-id>
+      <name>Asunaprevir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Asunaprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01072</drugbank-id>
+      <name>Atazanavir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Atazanavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09001</drugbank-id>
+      <name>Barbexaclone</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Barbexaclone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01483</drugbank-id>
+      <name>Barbital</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Barbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03880</drugbank-id>
+      <name>Batimastat</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Batimastat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00102</drugbank-id>
+      <name>Becaplermin</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Becaplermin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11897</drugbank-id>
+      <name>Beclomethasone</name>
+      <description>The serum concentration of Beclomethasone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00394</drugbank-id>
+      <name>Beclomethasone dipropionate</name>
+      <description>The serum concentration of Beclomethasone dipropionate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00542</drugbank-id>
+      <name>Benazepril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Benazepril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03127</drugbank-id>
+      <name>Benzamidine</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Benzamidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00443</drugbank-id>
+      <name>Betamethasone</name>
+      <description>The serum concentration of Betamethasone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00307</drugbank-id>
+      <name>Bexarotene</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Bexarotene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00307</drugbank-id>
+      <name>Bexarotene</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Bexarotene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11808</drugbank-id>
+      <name>Bi201335</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Bi201335.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00006</drugbank-id>
+      <name>Bivalirudin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Bivalirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08873</drugbank-id>
+      <name>Boceprevir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Boceprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00559</drugbank-id>
+      <name>Bosentan</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Bosentan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01222</drugbank-id>
+      <name>Budesonide</name>
+      <description>The serum concentration of Budesonide can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06404</drugbank-id>
+      <name>C1 Esterase Inhibitor (Human)</name>
+      <description>Methallenestril may increase the thrombogenic activities of C1 Esterase Inhibitor (Human).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09228</drugbank-id>
+      <name>C1 Esterase Inhibitor (Recombinant)</name>
+      <description>Methallenestril may increase the thrombogenic activities of C1 Esterase Inhibitor (Recombinant).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00616</drugbank-id>
+      <name>Candoxatril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Candoxatril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11623</drugbank-id>
+      <name>Candoxatrilat</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Candoxatrilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01197</drugbank-id>
+      <name>Captopril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Captopril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Carbamazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00482</drugbank-id>
+      <name>Celecoxib</name>
+      <description>Celecoxib may increase the thrombogenic activities of Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09261</drugbank-id>
+      <name>Certoparin</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Certoparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06777</drugbank-id>
+      <name>Chenodeoxycholic acid</name>
+      <description>The therapeutic efficacy of Chenodeoxycholic acid can be decreased when used in combination with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01432</drugbank-id>
+      <name>Cholestyramine</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Cholestyramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01683</drugbank-id>
+      <name>Chymostatin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Chymostatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01410</drugbank-id>
+      <name>Ciclesonide</name>
+      <description>The serum concentration of Ciclesonide can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01597</drugbank-id>
+      <name>Cilastatin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Cilastatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01340</drugbank-id>
+      <name>Cilazapril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Cilazapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04272</drugbank-id>
+      <name>Citric Acid</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Citric Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00349</drugbank-id>
+      <name>Clobazam</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Clobazam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11750</drugbank-id>
+      <name>Clobetasol</name>
+      <description>The serum concentration of Clobetasol can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01013</drugbank-id>
+      <name>Clobetasol propionate</name>
+      <description>The serum concentration of Clobetasol propionate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00838</drugbank-id>
+      <name>Clocortolone</name>
+      <description>The serum concentration of Clocortolone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09065</drugbank-id>
+      <name>Cobicistat</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Cobicistat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00930</drugbank-id>
+      <name>Colesevelam</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Colesevelam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00375</drugbank-id>
+      <name>Colestipol</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Colestipol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01380</drugbank-id>
+      <name>Cortisone acetate</name>
+      <description>The serum concentration of Cortisone acetate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06695</drugbank-id>
+      <name>Dabigatran etexilate</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Dabigatran etexilate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08912</drugbank-id>
+      <name>Dabrafenib</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Dabrafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06779</drugbank-id>
+      <name>Dalteparin</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Dalteparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06754</drugbank-id>
+      <name>Danaparoid</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Danaparoid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01264</drugbank-id>
+      <name>Darunavir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Darunavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05804</drugbank-id>
+      <name>dehydroepiandrosterone sulfate</name>
+      <description>The serum concentration of dehydroepiandrosterone sulfate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11095</drugbank-id>
+      <name>Desirudin</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00547</drugbank-id>
+      <name>Desoximetasone</name>
+      <description>The serum concentration of Desoximetasone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06780</drugbank-id>
+      <name>Desoxycorticosterone acetate</name>
+      <description>The serum concentration of Desoxycorticosterone acetate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01134</drugbank-id>
+      <name>Desoxycorticosterone Pivalate</name>
+      <description>The serum concentration of Desoxycorticosterone Pivalate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01234</drugbank-id>
+      <name>Dexamethasone</name>
+      <description>The serum concentration of Dexamethasone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11487</drugbank-id>
+      <name>Dexamethasone isonicotinate</name>
+      <description>The serum concentration of Dexamethasone isonicotinate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09255</drugbank-id>
+      <name>Dextran</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Dextran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11122</drugbank-id>
+      <name>Dextran 40</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Dextran 40.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11076</drugbank-id>
+      <name>Dextran 70</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Dextran 70.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11241</drugbank-id>
+      <name>Dextran 75</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Dextran 75.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00266</drugbank-id>
+      <name>Dicoumarol</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Dicoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00223</drugbank-id>
+      <name>Diflorasone</name>
+      <description>The serum concentration of Diflorasone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09095</drugbank-id>
+      <name>Difluocortolone</name>
+      <description>The serum concentration of Difluocortolone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06781</drugbank-id>
+      <name>Difluprednate</name>
+      <description>The serum concentration of Difluprednate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00651</drugbank-id>
+      <name>Dyphylline</name>
+      <description>The serum concentration of Dyphylline can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05265</drugbank-id>
+      <name>Ecabet</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Ecabet.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00974</drugbank-id>
+      <name>Edetic Acid</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Edetic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09075</drugbank-id>
+      <name>Edoxaban</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Edoxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05161</drugbank-id>
+      <name>Elafin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Elafin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09101</drugbank-id>
+      <name>Elvitegravir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Elvitegravir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00584</drugbank-id>
+      <name>Enalapril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Enalapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09477</drugbank-id>
+      <name>Enalaprilat</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03395</drugbank-id>
+      <name>Enalkiren</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Enalkiren.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01225</drugbank-id>
+      <name>Enoxaparin</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Enoxaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03515</drugbank-id>
+      <name>Equilenin</name>
+      <description>The serum concentration of Equilenin can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02187</drugbank-id>
+      <name>Equilin</name>
+      <description>The serum concentration of Equilin can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09119</drugbank-id>
+      <name>Eslicarbazepine acetate</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Eslicarbazepine acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>The serum concentration of Estrone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04574</drugbank-id>
+      <name>Estrone sulfate</name>
+      <description>The serum concentration of Estrone sulfate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08794</drugbank-id>
+      <name>Ethyl biscoumacetate</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Ethyl biscoumacetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00749</drugbank-id>
+      <name>Etodolac</name>
+      <description>Etodolac may increase the thrombogenic activities of Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01628</drugbank-id>
+      <name>Etoricoxib</name>
+      <description>Etoricoxib may increase the thrombogenic activities of Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00990</drugbank-id>
+      <name>Exemestane</name>
+      <description>The therapeutic efficacy of Exemestane can be decreased when used in combination with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01276</drugbank-id>
+      <name>Exenatide</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Exenatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00949</drugbank-id>
+      <name>Felbamate</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Felbamate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04908</drugbank-id>
+      <name>Flibanserin</name>
+      <description>The serum concentration of Flibanserin can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06250</drugbank-id>
+      <name>fluasterone</name>
+      <description>The serum concentration of fluasterone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00687</drugbank-id>
+      <name>Fludrocortisone</name>
+      <description>The serum concentration of Fludrocortisone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13136</drugbank-id>
+      <name>Fluindione</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Fluindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00663</drugbank-id>
+      <name>Flumethasone</name>
+      <description>The serum concentration of Flumethasone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00180</drugbank-id>
+      <name>Flunisolide</name>
+      <description>The serum concentration of Flunisolide can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00591</drugbank-id>
+      <name>Fluocinolone Acetonide</name>
+      <description>The serum concentration of Fluocinolone Acetonide can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01047</drugbank-id>
+      <name>Fluocinonide</name>
+      <description>The serum concentration of Fluocinonide can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08971</drugbank-id>
+      <name>Fluocortolone</name>
+      <description>The serum concentration of Fluocortolone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00324</drugbank-id>
+      <name>Fluorometholone</name>
+      <description>The serum concentration of Fluorometholone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08970</drugbank-id>
+      <name>Fluprednidene</name>
+      <description>The serum concentration of Fluprednidene can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09378</drugbank-id>
+      <name>Fluprednisolone</name>
+      <description>The serum concentration of Fluprednisolone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00846</drugbank-id>
+      <name>Flurandrenolide</name>
+      <description>The serum concentration of Flurandrenolide can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08906</drugbank-id>
+      <name>Fluticasone furoate</name>
+      <description>The serum concentration of Fluticasone furoate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00588</drugbank-id>
+      <name>Fluticasone Propionate</name>
+      <description>The serum concentration of Fluticasone Propionate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11728</drugbank-id>
+      <name>Fondaparinux</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Fondaparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00569</drugbank-id>
+      <name>Fondaparinux sodium</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Fondaparinux sodium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08905</drugbank-id>
+      <name>Formestane</name>
+      <description>The serum concentration of Formestane can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01319</drugbank-id>
+      <name>Fosamprenavir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Fosamprenavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06717</drugbank-id>
+      <name>Fosaprepitant</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Fosaprepitant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00492</drugbank-id>
+      <name>Fosinopril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Fosinopril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01320</drugbank-id>
+      <name>Fosphenytoin</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Fosphenytoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12831</drugbank-id>
+      <name>Gabexate</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Gabexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02424</drugbank-id>
+      <name>Geldanamycin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Geldanamycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02255</drugbank-id>
+      <name>GM6001</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with GM6001.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00400</drugbank-id>
+      <name>Griseofulvin</name>
+      <description>The metabolism of Methallenestril can be increased when combined with Griseofulvin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05212</drugbank-id>
+      <name>HE3286</name>
+      <description>The serum concentration of HE3286 can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Heparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01355</drugbank-id>
+      <name>Hexobarbital</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Hexobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00070</drugbank-id>
+      <name>Hyaluronidase</name>
+      <description>The therapeutic efficacy of Hyaluronidase can be decreased when used in combination with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00741</drugbank-id>
+      <name>Hydrocortisone</name>
+      <description>The serum concentration of Hydrocortisone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06406</drugbank-id>
+      <name>idraparinux</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with idraparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11783</drugbank-id>
+      <name>Imidapril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Imidapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00224</drugbank-id>
+      <name>Indinavir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Indinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00677</drugbank-id>
+      <name>Isoflurophate</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Isoflurophate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00982</drugbank-id>
+      <name>Isotretinoin</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Isotretinoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06157</drugbank-id>
+      <name>Istaroxime</name>
+      <description>The serum concentration of Istaroxime can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09570</drugbank-id>
+      <name>Ixazomib</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Ixazomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00555</drugbank-id>
+      <name>Lamotrigine</name>
+      <description>The serum concentration of Lamotrigine can be decreased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00480</drugbank-id>
+      <name>Lenalidomide</name>
+      <description>Methallenestril may increase the thrombogenic activities of Lenalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00001</drugbank-id>
+      <name>Lepirudin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Lepirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00451</drugbank-id>
+      <name>Levothyroxine</name>
+      <description>The therapeutic efficacy of Levothyroxine can be decreased when used in combination with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08882</drugbank-id>
+      <name>Linagliptin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Linagliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00279</drugbank-id>
+      <name>Liothyronine</name>
+      <description>The therapeutic efficacy of Liothyronine can be decreased when used in combination with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01583</drugbank-id>
+      <name>Liotrix</name>
+      <description>The therapeutic efficacy of Liotrix can be decreased when used in combination with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00722</drugbank-id>
+      <name>Lisinopril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Lisinopril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01601</drugbank-id>
+      <name>Lopinavir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Lopinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09280</drugbank-id>
+      <name>Lumacaftor</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Lumacaftor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01283</drugbank-id>
+      <name>Lumiracoxib</name>
+      <description>Lumiracoxib may increase the thrombogenic activities of Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05402</drugbank-id>
+      <name>ME-609</name>
+      <description>The serum concentration of ME-609 can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00253</drugbank-id>
+      <name>Medrysone</name>
+      <description>The serum concentration of Medrysone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11529</drugbank-id>
+      <name>Melengestrol</name>
+      <description>The serum concentration of Melengestrol can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00474</drugbank-id>
+      <name>Methohexital</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Methohexital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00849</drugbank-id>
+      <name>Methylphenobarbital</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Methylphenobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00959</drugbank-id>
+      <name>Methylprednisolone</name>
+      <description>The serum concentration of Methylprednisolone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09046</drugbank-id>
+      <name>Metreleptin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Metreleptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00834</drugbank-id>
+      <name>Mifepristone</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Mifepristone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00745</drugbank-id>
+      <name>Modafinil</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Modafinil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00691</drugbank-id>
+      <name>Moexipril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Moexipril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00764</drugbank-id>
+      <name>Mometasone</name>
+      <description>The serum concentration of Mometasone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01024</drugbank-id>
+      <name>Mycophenolic acid</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Mycophenolic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02855</drugbank-id>
+      <name>N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00461</drugbank-id>
+      <name>Nabumetone</name>
+      <description>Nabumetone may increase the thrombogenic activities of Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08813</drugbank-id>
+      <name>Nadroparin</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Nadroparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12598</drugbank-id>
+      <name>Nafamostat</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Nafamostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00607</drugbank-id>
+      <name>Nafcillin</name>
+      <description>The metabolism of Methallenestril can be increased when combined with Nafcillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05410</drugbank-id>
+      <name>NCX 1022</name>
+      <description>The serum concentration of NCX 1022 can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05822</drugbank-id>
+      <name>NCX 4016</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with NCX 4016.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00220</drugbank-id>
+      <name>Nelfinavir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Nelfinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00238</drugbank-id>
+      <name>Nevirapine</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Nevirapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12445</drugbank-id>
+      <name>Nitroaspirin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Nitroaspirin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04870</drugbank-id>
+      <name>Oleoyl estrone</name>
+      <description>The serum concentration of Oleoyl estrone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00886</drugbank-id>
+      <name>Omapatrilat</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Omapatrilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04938</drugbank-id>
+      <name>Ospemifene</name>
+      <description>The risk or severity of adverse effects can be increased when Methallenestril is combined with Ospemifene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06635</drugbank-id>
+      <name>Otamixaban</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Otamixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00776</drugbank-id>
+      <name>Oxcarbazepine</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Oxcarbazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01384</drugbank-id>
+      <name>Paramethasone</name>
+      <description>The serum concentration of Paramethasone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08439</drugbank-id>
+      <name>Parecoxib</name>
+      <description>Parecoxib may increase the thrombogenic activities of Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00312</drugbank-id>
+      <name>Pentobarbital</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Pentobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00686</drugbank-id>
+      <name>Pentosan Polysulfate</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Pentosan Polysulfate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00790</drugbank-id>
+      <name>Perindopril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Perindopril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00498</drugbank-id>
+      <name>Phenindione</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Phenindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01174</drugbank-id>
+      <name>Phenobarbital</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Phenobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00946</drugbank-id>
+      <name>Phenprocoumon</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Phenprocoumon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00252</drugbank-id>
+      <name>Phenytoin</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Phenytoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02557</drugbank-id>
+      <name>Phosphoramidon</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Phosphoramidon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01708</drugbank-id>
+      <name>Prasterone</name>
+      <description>The risk or severity of adverse effects can be increased when Prasterone is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01130</drugbank-id>
+      <name>Prednicarbate</name>
+      <description>The serum concentration of Prednicarbate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00860</drugbank-id>
+      <name>Prednisolone</name>
+      <description>The serum concentration of Prednisolone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00635</drugbank-id>
+      <name>Prednisone</name>
+      <description>The serum concentration of Prednisone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02789</drugbank-id>
+      <name>Pregnenolone</name>
+      <description>The serum concentration of Pregnenolone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00794</drugbank-id>
+      <name>Primidone</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Primidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05100</drugbank-id>
+      <name>Prinomastat</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Prinomastat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11312</drugbank-id>
+      <name>Protein C</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Protein C.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13149</drugbank-id>
+      <name>Protein S human</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Protein S human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11268</drugbank-id>
+      <name>Protocatechualdehyde</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Protocatechualdehyde.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06480</drugbank-id>
+      <name>Prucalopride</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Prucalopride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00881</drugbank-id>
+      <name>Quinapril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Quinapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11696</drugbank-id>
+      <name>Racecadotril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Racecadotril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00178</drugbank-id>
+      <name>Ramipril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Ramipril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00212</drugbank-id>
+      <name>Remikiren</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Remikiren.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09259</drugbank-id>
+      <name>Reviparin</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Reviparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00615</drugbank-id>
+      <name>Rifabutin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Rifabutin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01045</drugbank-id>
+      <name>Rifampicin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Rifampicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01201</drugbank-id>
+      <name>Rifapentine</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Rifapentine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00896</drugbank-id>
+      <name>Rimexolone</name>
+      <description>The serum concentration of Rimexolone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00503</drugbank-id>
+      <name>Ritonavir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Ritonavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06228</drugbank-id>
+      <name>Rivaroxaban</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Rivaroxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00533</drugbank-id>
+      <name>Rofecoxib</name>
+      <description>Rofecoxib may increase the thrombogenic activities of Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00268</drugbank-id>
+      <name>Ropinirole</name>
+      <description>The serum concentration of Ropinirole can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01232</drugbank-id>
+      <name>Saquinavir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Saquinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06335</drugbank-id>
+      <name>Saxagliptin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Saxagliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00418</drugbank-id>
+      <name>Secobarbital</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Secobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01037</drugbank-id>
+      <name>Selegiline</name>
+      <description>The serum concentration of Selegiline can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06290</drugbank-id>
+      <name>Simeprevir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Simeprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01261</drugbank-id>
+      <name>Sitagliptin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Sitagliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00052</drugbank-id>
+      <name>Somatropin recombinant</name>
+      <description>The therapeutic efficacy of Somatropin recombinant can be decreased when used in combination with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01348</drugbank-id>
+      <name>Spirapril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Spirapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01323</drugbank-id>
+      <name>St. John's Wort</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with St. John&amp;#39;s Wort.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06271</drugbank-id>
+      <name>Sulodexide</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Sulodexide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05521</drugbank-id>
+      <name>Telaprevir</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Telaprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08836</drugbank-id>
+      <name>Temocapril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Temocapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01041</drugbank-id>
+      <name>Thalidomide</name>
+      <description>Methallenestril may increase the thrombogenic activities of Thalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00277</drugbank-id>
+      <name>Theophylline</name>
+      <description>The serum concentration of Theophylline can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01154</drugbank-id>
+      <name>Thiamylal</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Thiamylal.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00599</drugbank-id>
+      <name>Thiopental</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Thiopental.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08626</drugbank-id>
+      <name>Thiorphan</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Thiorphan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09100</drugbank-id>
+      <name>Thyroid, porcine</name>
+      <description>The therapeutic efficacy of Thyroid, porcine can be decreased when used in combination with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00932</drugbank-id>
+      <name>Tipranavir</name>
+      <description>Methallenestril may increase the dermatologic adverse activities of Tipranavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09091</drugbank-id>
+      <name>Tixocortol</name>
+      <description>The serum concentration of Tixocortol can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00273</drugbank-id>
+      <name>Topiramate</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Topiramate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00519</drugbank-id>
+      <name>Trandolapril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Trandolapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00302</drugbank-id>
+      <name>Tranexamic Acid</name>
+      <description>Methallenestril may increase the thrombogenic activities of Tranexamic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00755</drugbank-id>
+      <name>Tretinoin</name>
+      <description>The therapeutic efficacy of Methallenestril can be decreased when used in combination with Tretinoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00620</drugbank-id>
+      <name>Triamcinolone</name>
+      <description>The serum concentration of Triamcinolone can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03424</drugbank-id>
+      <name>Ubenimex</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Ubenimex.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12038</drugbank-id>
+      <name>Ulinastatin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Ulinastatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01586</drugbank-id>
+      <name>Ursodeoxycholic acid</name>
+      <description>The therapeutic efficacy of Ursodeoxycholic acid can be decreased when used in combination with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00580</drugbank-id>
+      <name>Valdecoxib</name>
+      <description>Valdecoxib may increase the thrombogenic activities of Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04876</drugbank-id>
+      <name>Vildagliptin</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Vildagliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00126</drugbank-id>
+      <name>Vitamin C</name>
+      <description>The serum concentration of Methallenestril can be increased when it is combined with Vitamin C.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00582</drugbank-id>
+      <name>Voriconazole</name>
+      <description>The metabolism of Methallenestril can be decreased when combined with Voriconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04898</drugbank-id>
+      <name>Ximelagatran</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Ximelagatran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12289</drugbank-id>
+      <name>YM150</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Ym150.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>4.69</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-5.5</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.02e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>4.72</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(3R)-3-(6-methoxynaphthalen-2-yl)-2,2-dimethylpentanoic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>(3R)-3-(6-methoxynaphthalen-2-yl)-2,2-dimethylpentanoic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>286.371</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>286.156894568</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CC[C@H](C1=CC=C2C=C(OC)C=CC2=C1)C(C)(C)C(O)=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C18H22O3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C18H22O3/c1-5-16(18(2,3)17(19)20)14-7-6-13-11-15(21-4)9-8-12(13)10-14/h6-11,16H,5H2,1-4H3,(H,19,20)/t16-/m1/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>KHLJKRBMZVNZOC-MRXNPFEDSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>46.53</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>83.11</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>32.23</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>4.53</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-4.8</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Methallenestril</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

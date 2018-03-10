@@ -1,0 +1,1774 @@
+<drug type="small molecule" created="2016-04-07" updated="2017-04-01">
+  <drugbank-id primary="true">DB11574</drugbank-id>
+  <name>Elbasvir</name>
+  <description>Elbasvir is an inhibitor of the Hepatitis C Virus (HCV) Non-Structural protein 5A (NS5A). Although NS5A has no known enzymatic function, it has been shown to have multiple functions at various stages of the life cycle, including viral replication, virion assembly, and use within multi-protein binding complexes. Combining elbasvir with other drugs that target other points of the viral life cycle and with non-overlapping resistance profiles results in increased potency and an improved barrier to resistance.&#13;
+&#13;
+Elbasvir is currently approved for use in combination with grazoprevir (as the combination product Zapatier) for the treatment of chronic hepatitis C genotypes 1 and 4. </description>
+  <cas-number>1370468-36-2</cas-number>
+  <unii>632L571YDK</unii>
+  <average-mass>882.035</average-mass>
+  <monoisotopic-mass>881.422445147</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>27403342</pubmed-id>
+        <citation>Bell AM, Wagner JL, Barber KE, Stover KR: Elbasvir/Grazoprevir: A Review of the Latest Agent in the Fight against Hepatitis C. Int J Hepatol. 2016;2016:3852126. doi: 10.1155/2016/3852126. Epub 2016 Jun 15.</citation>
+      </article>
+      <article>
+        <pubmed-id>24127258</pubmed-id>
+        <citation>Coburn CA, Meinke PT, Chang W, Fandozzi CM, Graham DJ, Hu B, Huang Q, Kargman S, Kozlowski J, Liu R, McCauley JA, Nomeir AA, Soll RM, Vacca JP, Wang D, Wu H, Zhong B, Olsen DB, Ludmerer SW: Discovery of MK-8742: an HCV NS5A inhibitor with broad genotype activity. ChemMedChem. 2013 Dec;8(12):1930-40. doi: 10.1002/cmdc.201300343. Epub 2013 Oct 14.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference>Coburn CA, Meinke PT, Chang W, Fandozzi CM, Graham DJ, Hu B, Huang Q, Kargman S, Kozlowski J, Liu R, McCauley JA, Nomeir AA, Soll RM, Vacca JP, Wang D, Wu H, Zhong B, Olsen DB, Ludmerer SW: Discovery of MK-8742: an HCV NS5A inhibitor with broad genotype activity. ChemMedChem. 2013 Dec;8(12):1930-40. doi: 10.1002/cmdc.201300343. Epub 2013 Oct 14.</synthesis-reference>
+  <indication>Elbasvir, when used in combination with grazoprevir as the combination product Zepatier, is indicated for use  with or without ribavirin for the treatment of chronic hepatitis C virus (HCV) genotypes 1 or 4 infection in adults.</indication>
+  <pharmacodynamics>At a concentration 3 to 4 times the therapeutic concentration, elbasvir does not prolong QTc to any clinically relevant extent.</pharmacodynamics>
+  <mechanism-of-action>Elbasvir is an inhibitor of the Hepatitis C Virus (HCV) Non-Structural protein 5A (NS5A), which is essential for viral RNA replication and virion assembly.  By combining two direct-acting antiviral agents with distinct mechanisms of action and non-overlapping resistance profiles (elbasvir and grazoprevir) into the fixed dose combination product Zapatier, this medication targets HCV at multiple steps in the viral lifecycle with improved resistance rates. </mechanism-of-action>
+  <toxicity>The most commonly reported adverse reactions during clinical trials were fatigue, headache, anemia, and nausea.</toxicity>
+  <metabolism>Elbasvir is partially eliminated by oxidative metabolism, primarily by CYP3A, with no circulating metabolites detected in plasma. </metabolism>
+  <absorption>Following administration of the fixed dose combination product Zapatier (elbasvir plus grazoprevir) to HCV-infected subjects, elbasvir peak concentrations occured at a median Tmax of 3 hours (range of 3 to 6 hours) and grazoprevir peak concentrations occured at a median Tmax of 2 hours (range of 30 minutes to 3 hours).</absorption>
+  <half-life>Approximately 24 hours. </half-life>
+  <protein-binding>Elbasvir is extensively bound (greater than 99.9%) to human plasma proteins.  It also binds to both human serum albumin and α1-acid glycoprotein.</protein-binding>
+  <route-of-elimination>The primary route of elimination of elbasvir is through feces with almost all (greater than 90%) of radiolabeled dose recovered in feces compared to less than 1% in urine.</route-of-elimination>
+  <volume-of-distribution>Estimated apparent volume of distribution of elbasvir is approximately 680 L.</volume-of-distribution>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as valine and derivatives. These are compounds containing valine or a derivative thereof resulting from reaction of valine at the amino group or the carboxy group, or from the replacement of any hydrogen of glycine by a heteroatom.</description>
+    <direct-parent>Valine and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic acids and derivatives</superclass>
+    <class>Carboxylic acids and derivatives</class>
+    <subclass>Amino acids, peptides, and analogues</subclass>
+    <alternative-parent>Alpha amino acid amides</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Benzene and substituted derivatives</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Imidazoles</alternative-parent>
+    <alternative-parent>Indoles</alternative-parent>
+    <alternative-parent>Methylcarbamates</alternative-parent>
+    <alternative-parent>N-acylpyrrolidines</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organonitrogen compounds</alternative-parent>
+    <alternative-parent>Oxacyclic compounds</alternative-parent>
+    <alternative-parent>Pyrroles</alternative-parent>
+    <alternative-parent>Tertiary carboxylic acid amides</alternative-parent>
+    <substituent>Alpha-amino acid amide</substituent>
+    <substituent>Aromatic heteropolycyclic compound</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Azole</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Carbamic acid ester</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxamide group</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Imidazole</substituent>
+    <substituent>Indole</substituent>
+    <substituent>Indole or derivatives</substituent>
+    <substituent>Methylcarbamate</substituent>
+    <substituent>Monocyclic benzene moiety</substituent>
+    <substituent>N-acylpyrrolidine</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organoheterocyclic compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Oxacycle</substituent>
+    <substituent>Pyrrole</substituent>
+    <substituent>Pyrrolidine</substituent>
+    <substituent>Tertiary carboxylic acid amide</substituent>
+    <substituent>Valine or derivatives</substituent>
+  </classification>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Zepatier</name>
+      <labeller>Merck Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02451131</dpd-id>
+      <started-marketing-on>2016-01-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Zepatier</name>
+      <labeller>Merck Sharp &amp; Dohme Limited
+ </labeller>
+      <ndc-id/>
+      <ndc-product-code>0006-3074</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-01-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA208261</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Zepatier</name>
+      <ingredients>Elbasvir + Grazoprevir</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zepatier</name>
+      <ingredients>Elbasvir + Grazoprevir</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zepatier</name>
+      <ingredients>Grazoprevir + Elbasvir</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Azoles</category>
+      <mesh-id>D001393</mesh-id>
+    </category>
+    <category>
+      <category>BCRP/ABCG2 Inhibitors</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 1-Ring</category>
+      <mesh-id>D006573</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 2-Ring</category>
+      <mesh-id>D006574</mesh-id>
+    </category>
+    <category>
+      <category>P-glycoprotein/ABCB1 Inhibitors</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, film coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB11574.pdf?1471037501</fda-label>
+  <patents>
+    <patent>
+      <number>7973040</number>
+      <country>United States</country>
+      <approved>2009-07-24</approved>
+      <expires>2029-07-24</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8871759</number>
+      <country>United States</country>
+      <approved>2011-05-04</approved>
+      <expires>2031-05-04</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB01193</drugbank-id>
+      <name>Acebutolol</name>
+      <description>The serum concentration of Acebutolol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00316</drugbank-id>
+      <name>Acetaminophen</name>
+      <description>The serum concentration of Acetaminophen can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00945</drugbank-id>
+      <name>Acetylsalicylic acid</name>
+      <description>The serum concentration of Acetylsalicylic acid can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08916</drugbank-id>
+      <name>Afatinib</name>
+      <description>The serum concentration of Afatinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04630</drugbank-id>
+      <name>Aldosterone</name>
+      <description>The serum concentration of Aldosterone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00523</drugbank-id>
+      <name>Alitretinoin</name>
+      <description>The serum concentration of Alitretinoin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06403</drugbank-id>
+      <name>Ambrisentan</name>
+      <description>The serum concentration of Ambrisentan can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00321</drugbank-id>
+      <name>Amitriptyline</name>
+      <description>The serum concentration of Amitriptyline can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06605</drugbank-id>
+      <name>Apixaban</name>
+      <description>The serum concentration of Apixaban can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01169</drugbank-id>
+      <name>Arsenic trioxide</name>
+      <description>The serum concentration of Arsenic trioxide can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01072</drugbank-id>
+      <name>Atazanavir</name>
+      <description>The serum concentration of Atazanavir can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00335</drugbank-id>
+      <name>Atenolol</name>
+      <description>The serum concentration of Atenolol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06626</drugbank-id>
+      <name>Axitinib</name>
+      <description>The serum concentration of Axitinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00443</drugbank-id>
+      <name>Betamethasone</name>
+      <description>The serum concentration of Betamethasone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08873</drugbank-id>
+      <name>Boceprevir</name>
+      <description>The serum concentration of Boceprevir can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06616</drugbank-id>
+      <name>Bosutinib</name>
+      <description>The serum concentration of Bosutinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08870</drugbank-id>
+      <name>Brentuximab vedotin</name>
+      <description>The serum concentration of Brentuximab vedotin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01200</drugbank-id>
+      <name>Bromocriptine</name>
+      <description>The serum concentration of Bromocriptine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06772</drugbank-id>
+      <name>Cabazitaxel</name>
+      <description>The serum concentration of Cabazitaxel can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00201</drugbank-id>
+      <name>Caffeine</name>
+      <description>The serum concentration of Caffeine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04690</drugbank-id>
+      <name>Camptothecin</name>
+      <description>The serum concentration of Camptothecin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08907</drugbank-id>
+      <name>Canagliflozin</name>
+      <description>The serum concentration of Canagliflozin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The serum concentration of Carbamazepine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08889</drugbank-id>
+      <name>Carfilzomib</name>
+      <description>The serum concentration of Carfilzomib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09063</drugbank-id>
+      <name>Ceritinib</name>
+      <description>The serum concentration of Ceritinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00439</drugbank-id>
+      <name>Cerivastatin</name>
+      <description>The serum concentration of Cerivastatin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00477</drugbank-id>
+      <name>Chlorpromazine</name>
+      <description>The serum concentration of Chlorpromazine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00501</drugbank-id>
+      <name>Cimetidine</name>
+      <description>The serum concentration of Cimetidine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00537</drugbank-id>
+      <name>Ciprofloxacin</name>
+      <description>The serum concentration of Ciprofloxacin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00515</drugbank-id>
+      <name>Cisplatin</name>
+      <description>The serum concentration of Cisplatin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00215</drugbank-id>
+      <name>Citalopram</name>
+      <description>The serum concentration of Citalopram can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01211</drugbank-id>
+      <name>Clarithromycin</name>
+      <description>The serum concentration of Clarithromycin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00349</drugbank-id>
+      <name>Clobazam</name>
+      <description>The serum concentration of Clobazam can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00882</drugbank-id>
+      <name>Clomifene</name>
+      <description>The serum concentration of Clomifene can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00575</drugbank-id>
+      <name>Clonidine</name>
+      <description>The serum concentration of Clonidine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00758</drugbank-id>
+      <name>Clopidogrel</name>
+      <description>The serum concentration of Clopidogrel can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00363</drugbank-id>
+      <name>Clozapine</name>
+      <description>The serum concentration of Clozapine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05239</drugbank-id>
+      <name>Cobimetinib</name>
+      <description>The serum concentration of Cobimetinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01394</drugbank-id>
+      <name>Colchicine</name>
+      <description>The serum concentration of Colchicine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00286</drugbank-id>
+      <name>Conjugated Equine Estrogens</name>
+      <description>The serum concentration of Conjugated Equine Estrogens can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08865</drugbank-id>
+      <name>Crizotinib</name>
+      <description>The serum concentration of Crizotinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00091</drugbank-id>
+      <name>Cyclosporine</name>
+      <description>The serum concentration of Cyclosporine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06695</drugbank-id>
+      <name>Dabigatran etexilate</name>
+      <description>The serum concentration of the active metabolites of Dabigatran etexilate can be increased when Dabigatran etexilate is used in combination with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08912</drugbank-id>
+      <name>Dabrafenib</name>
+      <description>The serum concentration of Dabrafenib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00970</drugbank-id>
+      <name>Dactinomycin</name>
+      <description>The serum concentration of Dactinomycin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06292</drugbank-id>
+      <name>Dapagliflozin</name>
+      <description>The serum concentration of Dapagliflozin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>The serum concentration of Dasatinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00694</drugbank-id>
+      <name>Daunorubicin</name>
+      <description>The serum concentration of Daunorubicin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04840</drugbank-id>
+      <name>Debrisoquin</name>
+      <description>The serum concentration of Debrisoquin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01234</drugbank-id>
+      <name>Dexamethasone</name>
+      <description>The serum concentration of Dexamethasone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00829</drugbank-id>
+      <name>Diazepam</name>
+      <description>The serum concentration of Diazepam can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00255</drugbank-id>
+      <name>Diethylstilbestrol</name>
+      <description>The serum concentration of Diethylstilbestrol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01396</drugbank-id>
+      <name>Digitoxin</name>
+      <description>The serum concentration of Digitoxin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00390</drugbank-id>
+      <name>Digoxin</name>
+      <description>The serum concentration of Digoxin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02901</drugbank-id>
+      <name>Dihydrotestosterone</name>
+      <description>The serum concentration of Dihydrotestosterone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00343</drugbank-id>
+      <name>Diltiazem</name>
+      <description>The serum concentration of Diltiazem can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00975</drugbank-id>
+      <name>Dipyridamole</name>
+      <description>The serum concentration of Dipyridamole can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01248</drugbank-id>
+      <name>Docetaxel</name>
+      <description>The serum concentration of Docetaxel can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01184</drugbank-id>
+      <name>Domperidone</name>
+      <description>The serum concentration of Domperidone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00997</drugbank-id>
+      <name>Doxorubicin</name>
+      <description>The serum concentration of Doxorubicin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09075</drugbank-id>
+      <name>Edoxaban</name>
+      <description>The serum concentration of Edoxaban can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00216</drugbank-id>
+      <name>Eletriptan</name>
+      <description>The serum concentration of Eletriptan can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00751</drugbank-id>
+      <name>Epinastine</name>
+      <description>The serum concentration of Epinastine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00530</drugbank-id>
+      <name>Erlotinib</name>
+      <description>The serum concentration of Erlotinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00199</drugbank-id>
+      <name>Erythromycin</name>
+      <description>The serum concentration of Erythromycin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00783</drugbank-id>
+      <name>Estradiol</name>
+      <description>The serum concentration of Estradiol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04573</drugbank-id>
+      <name>Estriol</name>
+      <description>The serum concentration of Estriol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>The serum concentration of Estrone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00977</drugbank-id>
+      <name>Ethinyl Estradiol</name>
+      <description>The serum concentration of Ethinyl Estradiol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00773</drugbank-id>
+      <name>Etoposide</name>
+      <description>The serum concentration of Etoposide can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01590</drugbank-id>
+      <name>Everolimus</name>
+      <description>The serum concentration of Everolimus can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00973</drugbank-id>
+      <name>Ezetimibe</name>
+      <description>The serum concentration of Ezetimibe can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06702</drugbank-id>
+      <name>Fesoterodine</name>
+      <description>The serum concentration of Fesoterodine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00950</drugbank-id>
+      <name>Fexofenadine</name>
+      <description>The serum concentration of Fexofenadine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08874</drugbank-id>
+      <name>Fidaxomicin</name>
+      <description>The serum concentration of Fidaxomicin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08906</drugbank-id>
+      <name>Fluticasone furoate</name>
+      <description>The serum concentration of Fluticasone furoate can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00317</drugbank-id>
+      <name>Gefitinib</name>
+      <description>The serum concentration of Gefitinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00441</drugbank-id>
+      <name>Gemcitabine</name>
+      <description>The serum concentration of Gemcitabine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11575</drugbank-id>
+      <name>Grazoprevir</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00365</drugbank-id>
+      <name>Grepafloxacin</name>
+      <description>The serum concentration of Grepafloxacin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00502</drugbank-id>
+      <name>Haloperidol</name>
+      <description>The serum concentration of Haloperidol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00741</drugbank-id>
+      <name>Hydrocortisone</name>
+      <description>The serum concentration of Hydrocortisone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01050</drugbank-id>
+      <name>Ibuprofen</name>
+      <description>The serum concentration of Ibuprofen can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09054</drugbank-id>
+      <name>Idelalisib</name>
+      <description>The serum concentration of Idelalisib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00619</drugbank-id>
+      <name>Imatinib</name>
+      <description>The serum concentration of Imatinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00458</drugbank-id>
+      <name>Imipramine</name>
+      <description>The serum concentration of Imipramine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05039</drugbank-id>
+      <name>Indacaterol</name>
+      <description>The serum concentration of Indacaterol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00224</drugbank-id>
+      <name>Indinavir</name>
+      <description>The serum concentration of Indinavir can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00328</drugbank-id>
+      <name>Indomethacin</name>
+      <description>The serum concentration of Indomethacin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00762</drugbank-id>
+      <name>Irinotecan</name>
+      <description>The serum concentration of Irinotecan can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00602</drugbank-id>
+      <name>Ivermectin</name>
+      <description>The serum concentration of Ivermectin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01587</drugbank-id>
+      <name>Ketazolam</name>
+      <description>The serum concentration of Ketazolam can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01026</drugbank-id>
+      <name>Ketoconazole</name>
+      <description>The serum concentration of Ketoconazole can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00709</drugbank-id>
+      <name>Lamivudine</name>
+      <description>The serum concentration of Lamivudine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00555</drugbank-id>
+      <name>Lamotrigine</name>
+      <description>The serum concentration of Lamotrigine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00448</drugbank-id>
+      <name>Lansoprazole</name>
+      <description>The serum concentration of Lansoprazole can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09027</drugbank-id>
+      <name>Ledipasvir</name>
+      <description>The serum concentration of Ledipasvir can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00480</drugbank-id>
+      <name>Lenalidomide</name>
+      <description>The serum concentration of Lenalidomide can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09078</drugbank-id>
+      <name>Lenvatinib</name>
+      <description>The serum concentration of Lenvatinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01202</drugbank-id>
+      <name>Levetiracetam</name>
+      <description>The serum concentration of Levetiracetam can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01137</drugbank-id>
+      <name>Levofloxacin</name>
+      <description>The serum concentration of Levofloxacin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08918</drugbank-id>
+      <name>Levomilnacipran</name>
+      <description>The serum concentration of Levomilnacipran can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08882</drugbank-id>
+      <name>Linagliptin</name>
+      <description>The serum concentration of Linagliptin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00836</drugbank-id>
+      <name>Loperamide</name>
+      <description>The serum concentration of Loperamide can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00678</drugbank-id>
+      <name>Losartan</name>
+      <description>The serum concentration of Losartan can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00742</drugbank-id>
+      <name>Mannitol</name>
+      <description>The serum concentration of Mannitol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00563</drugbank-id>
+      <name>Methotrexate</name>
+      <description>The serum concentration of Methotrexate can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00959</drugbank-id>
+      <name>Methylprednisolone</name>
+      <description>The serum concentration of Methylprednisolone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00264</drugbank-id>
+      <name>Metoprolol</name>
+      <description>The serum concentration of Metoprolol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00683</drugbank-id>
+      <name>Midazolam</name>
+      <description>The serum concentration of Midazolam can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08893</drugbank-id>
+      <name>Mirabegron</name>
+      <description>The serum concentration of Mirabegron can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01204</drugbank-id>
+      <name>Mitoxantrone</name>
+      <description>The serum concentration of Mitoxantrone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00295</drugbank-id>
+      <name>Morphine</name>
+      <description>The serum concentration of Morphine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00688</drugbank-id>
+      <name>Mycophenolate mofetil</name>
+      <description>The serum concentration of Mycophenolate mofetil can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01203</drugbank-id>
+      <name>Nadolol</name>
+      <description>The serum concentration of Nadolol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09049</drugbank-id>
+      <name>Naloxegol</name>
+      <description>The serum concentration of Naloxegol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01183</drugbank-id>
+      <name>Naloxone</name>
+      <description>The serum concentration of Naloxone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00220</drugbank-id>
+      <name>Nelfinavir</name>
+      <description>The serum concentration of Nelfinavir can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00622</drugbank-id>
+      <name>Nicardipine</name>
+      <description>The serum concentration of Nicardipine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01115</drugbank-id>
+      <name>Nifedipine</name>
+      <description>The serum concentration of Nifedipine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04868</drugbank-id>
+      <name>Nilotinib</name>
+      <description>The serum concentration of Nilotinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09079</drugbank-id>
+      <name>Nintedanib</name>
+      <description>The serum concentration of Nintedanib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00585</drugbank-id>
+      <name>Nizatidine</name>
+      <description>The serum concentration of Nizatidine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00334</drugbank-id>
+      <name>Olanzapine</name>
+      <description>The serum concentration of Olanzapine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09296</drugbank-id>
+      <name>Ombitasvir</name>
+      <description>The serum concentration of Ombitasvir can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09330</drugbank-id>
+      <name>Osimertinib</name>
+      <description>The serum concentration of Osimertinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01229</drugbank-id>
+      <name>Paclitaxel</name>
+      <description>The serum concentration of Paclitaxel can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06603</drugbank-id>
+      <name>Panobinostat</name>
+      <description>The serum concentration of Panobinostat can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06589</drugbank-id>
+      <name>Pazopanib</name>
+      <description>The serum concentration of Pazopanib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01174</drugbank-id>
+      <name>Phenobarbital</name>
+      <description>The serum concentration of Phenobarbital can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00252</drugbank-id>
+      <name>Phenytoin</name>
+      <description>The serum concentration of Phenytoin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08860</drugbank-id>
+      <name>Pitavastatin</name>
+      <description>The serum concentration of Pitavastatin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08910</drugbank-id>
+      <name>Pomalidomide</name>
+      <description>The serum concentration of Pomalidomide can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08901</drugbank-id>
+      <name>Ponatinib</name>
+      <description>The serum concentration of Ponatinib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00175</drugbank-id>
+      <name>Pravastatin</name>
+      <description>The serum concentration of Pravastatin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00457</drugbank-id>
+      <name>Prazosin</name>
+      <description>The serum concentration of Prazosin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00860</drugbank-id>
+      <name>Prednisolone</name>
+      <description>The serum concentration of Prednisolone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00635</drugbank-id>
+      <name>Prednisone</name>
+      <description>The serum concentration of Prednisone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00396</drugbank-id>
+      <name>Progesterone</name>
+      <description>The serum concentration of Progesterone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00571</drugbank-id>
+      <name>Propranolol</name>
+      <description>The serum concentration of Propranolol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06480</drugbank-id>
+      <name>Prucalopride</name>
+      <description>The serum concentration of Prucalopride can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01224</drugbank-id>
+      <name>Quetiapine</name>
+      <description>The serum concentration of Quetiapine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00908</drugbank-id>
+      <name>Quinidine</name>
+      <description>The serum concentration of Quinidine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00468</drugbank-id>
+      <name>Quinine</name>
+      <description>The serum concentration of Quinine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00863</drugbank-id>
+      <name>Ranitidine</name>
+      <description>The serum concentration of Ranitidine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00243</drugbank-id>
+      <name>Ranolazine</name>
+      <description>The serum concentration of Ranolazine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00206</drugbank-id>
+      <name>Reserpine</name>
+      <description>The serum concentration of Reserpine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01045</drugbank-id>
+      <name>Rifampicin</name>
+      <description>The serum concentration of Rifampicin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01220</drugbank-id>
+      <name>Rifaximin</name>
+      <description>The serum concentration of Rifaximin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00734</drugbank-id>
+      <name>Risperidone</name>
+      <description>The serum concentration of Risperidone can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00503</drugbank-id>
+      <name>Ritonavir</name>
+      <description>The serum concentration of Ritonavir can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06228</drugbank-id>
+      <name>Rivaroxaban</name>
+      <description>The serum concentration of Rivaroxaban can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06176</drugbank-id>
+      <name>Romidepsin</name>
+      <description>The serum concentration of Romidepsin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00936</drugbank-id>
+      <name>Salicylic acid</name>
+      <description>The serum concentration of Salicylic acid can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01232</drugbank-id>
+      <name>Saquinavir</name>
+      <description>The serum concentration of Saquinavir can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11362</drugbank-id>
+      <name>Selexipag</name>
+      <description>The serum concentration of Selexipag can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06207</drugbank-id>
+      <name>Silodosin</name>
+      <description>The serum concentration of Silodosin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06290</drugbank-id>
+      <name>Simeprevir</name>
+      <description>The serum concentration of Simeprevir can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01261</drugbank-id>
+      <name>Sitagliptin</name>
+      <description>The serum concentration of Sitagliptin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08934</drugbank-id>
+      <name>Sofosbuvir</name>
+      <description>The serum concentration of Sofosbuvir can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00398</drugbank-id>
+      <name>Sorafenib</name>
+      <description>The serum concentration of Sorafenib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01208</drugbank-id>
+      <name>Sparfloxacin</name>
+      <description>The serum concentration of Sparfloxacin can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03203</drugbank-id>
+      <name>Sphingosine</name>
+      <description>The serum concentration of Sphingosine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00864</drugbank-id>
+      <name>Tacrolimus</name>
+      <description>The serum concentration of Tacrolimus can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00675</drugbank-id>
+      <name>Tamoxifen</name>
+      <description>The serum concentration of Tamoxifen can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04348</drugbank-id>
+      <name>Taurocholic Acid</name>
+      <description>The serum concentration of Taurocholic Acid can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09161</drugbank-id>
+      <name>Technetium Tc-99m sestamibi</name>
+      <description>The serum concentration of Technetium Tc-99m sestamibi can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05521</drugbank-id>
+      <name>Telaprevir</name>
+      <description>The serum concentration of Telaprevir can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06287</drugbank-id>
+      <name>Temsirolimus</name>
+      <description>The serum concentration of Temsirolimus can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08816</drugbank-id>
+      <name>Ticagrelor</name>
+      <description>The serum concentration of Ticagrelor can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00373</drugbank-id>
+      <name>Timolol</name>
+      <description>The serum concentration of Timolol can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06212</drugbank-id>
+      <name>Tolvaptan</name>
+      <description>The serum concentration of Tolvaptan can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01030</drugbank-id>
+      <name>Topotecan</name>
+      <description>The serum concentration of Topotecan can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00539</drugbank-id>
+      <name>Toremifene</name>
+      <description>The serum concentration of Toremifene can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05773</drugbank-id>
+      <name>Trastuzumab emtansine</name>
+      <description>The serum concentration of Trastuzumab emtansine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08867</drugbank-id>
+      <name>Ulipristal</name>
+      <description>The serum concentration of Ulipristal can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09076</drugbank-id>
+      <name>Umeclidinium</name>
+      <description>The serum concentration of Umeclidinium can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01339</drugbank-id>
+      <name>Vecuronium</name>
+      <description>The serum concentration of Vecuronium can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11581</drugbank-id>
+      <name>Venetoclax</name>
+      <description>The serum concentration of Venetoclax can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00285</drugbank-id>
+      <name>Venlafaxine</name>
+      <description>The serum concentration of Venlafaxine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00661</drugbank-id>
+      <name>Verapamil</name>
+      <description>The serum concentration of Verapamil can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00570</drugbank-id>
+      <name>Vinblastine</name>
+      <description>The serum concentration of Vinblastine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00541</drugbank-id>
+      <name>Vincristine</name>
+      <description>The serum concentration of Vincristine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08828</drugbank-id>
+      <name>Vismodegib</name>
+      <description>The serum concentration of Vismodegib can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00495</drugbank-id>
+      <name>Zidovudine</name>
+      <description>The serum concentration of Zidovudine can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>6.17</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-5.3</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>4.40e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>7.07</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>methyl N-[(2S)-1-[(2S)-2-{4-[(9S)-5-{2-[(2S)-1-[(2S)-2-[(methoxycarbonyl)amino]-3-methylbutanoyl]pyrrolidin-2-yl]-1H-imidazol-4-yl}-9-phenyl-8-oxa-10-azatetracyclo[8.7.0.0²,⁷.0¹¹,¹⁶]heptadeca-1(17),2(7),3,5,11(16),12,14-heptaen-14-yl]-1H-imidazol-2-yl}pyrrolidin-1-yl]-3-methyl-1-oxobutan-2-yl]carbamate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>methyl N-[(2S)-1-[(2S)-2-{4-[(9S)-5-{2-[(2S)-1-[(2S)-2-[(methoxycarbonyl)amino]-3-methylbutanoyl]pyrrolidin-2-yl]-1H-imidazol-4-yl}-9-phenyl-8-oxa-10-azatetracyclo[8.7.0.0²,⁷.0¹¹,¹⁶]heptadeca-1(17),2(7),3,5,11(16),12,14-heptaen-14-yl]-1H-imidazol-2-yl}pyrrolidin-1-yl]-3-methyl-1-oxobutan-2-yl]carbamate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>882.035</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>881.422445147</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>COC(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C1=NC(=CN1)C1=CC2=C(C=C1)N1[C@@H](OC3=C(C=CC(=C3)C3=CNC(=N3)[C@@H]3CCCN3C(=O)[C@@H](NC(=O)OC)C(C)C)C1=C2)C1=CC=CC=C1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C49H55N9O7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C49H55N9O7/c1-27(2)41(54-48(61)63-5)45(59)56-20-10-14-37(56)43-50-25-34(52-43)30-17-19-36-32(22-30)23-39-33-18-16-31(24-40(33)65-47(58(36)39)29-12-8-7-9-13-29)35-26-51-44(53-35)38-15-11-21-57(38)46(60)42(28(3)4)55-49(62)64-6/h7-9,12-13,16-19,22-28,37-38,41-42,47H,10-11,14-15,20-21H2,1-6H3,(H,50,52)(H,51,53)(H,54,61)(H,55,62)/t37-,38-,41-,42-,47-/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>BVAZQCUMNICBAQ-PZHYSIFUSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>188.8</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>241.02</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>98.71</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>13</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>12.42</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>5.39</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>9</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>22680</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D10625</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Elbasvir</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/zepatier-drug.htm</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0008645</id>
+      <name>Nonstructural Protein 5A (NS5A)</name>
+      <organism>Hepatitis C Virus (HCV)</organism>
+      <actions>
+        <action>Inhibitor</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+    </target>
+  </targets>
+  <enzymes>
+    <enzyme position="2">
+      <id>BE0008634</id>
+      <name>Cytochrome p450 3A subfamily</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>no</known-action>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters>
+    <transporter position="3">
+      <id>BE0001032</id>
+      <name>Multidrug resistance protein 1</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>no</known-action>
+      <polypeptide id="P08183" source="Swiss-Prot">
+    <name>Multidrug resistance protein 1</name>
+    <general-function>Xenobiotic-transporting atpase activity</general-function>
+    <specific-function>Energy-dependent efflux pump responsible for decreased drug accumulation in multidrug-resistant cells.</specific-function>
+    <gene-name>ABCB1</gene-name>
+    <locus>7q21.1</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>45-67
+117-137
+187-208
+216-236
+293-316
+331-352
+712-732
+757-777
+833-853
+855-874
+935-957
+974-995</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>9.44</theoretical-pi>
+    <molecular-weight>141477.255</molecular-weight>
+    <chromosome-location>7</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:40</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>ABCB1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M14758</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>307180</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P08183</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>MDR1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>3.6.3.44</synonym>
+      <synonym>ATP-binding cassette sub-family B member 1</synonym>
+      <synonym>MDR1</synonym>
+      <synonym>P-glycoprotein 1</synonym>
+      <synonym>PGY1</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037114|Multidrug resistance protein 1
+MDLEGDRNGGAKKKNFFKLNNKSEKDKKEKKPTVSVFSMFRYSNWLDKLYMVVGTLAAII
+HGAGLPLMMLVFGEMTDIFANAGNLEDLMSNITNRSDINDTGFFMNLEEDMTRYAYYYSG
+IGAGVLVAAYIQVSFWCLAAGRQIHKIRKQFFHAIMRQEIGWFDVHDVGELNTRLTDDVS
+KINEGIGDKIGMFFQSMATFFTGFIVGFTRGWKLTLVILAISPVLGLSAAVWAKILSSFT
+DKELLAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNKNLEEAKRIGIKKAITANISIG
+AAFLLIYASYALAFWYGTTLVLSGEYSIGQVLTVFFSVLIGAFSVGQASPSIEAFANARG
+AAYEIFKIIDNKPSIDSYSKSGHKPDNIKGNLEFRNVHFSYPSRKEVKILKGLNLKVQSG
+QTVALVGNSGCGKSTTVQLMQRLYDPTEGMVSVDGQDIRTINVRFLREIIGVVSQEPVLF
+ATTIAENIRYGRENVTMDEIEKAVKEANAYDFIMKLPHKFDTLVGERGAQLSGGQKQRIA
+IARALVRNPKILLLDEATSALDTESEAVVQVALDKARKGRTTIVIAHRLSTVRNADVIAG
+FDDGVIVEKGNHDELMKEKGIYFKLVTMQTAGNEVELENAADESKSEIDALEMSSNDSRS
+SLIRKRSTRRSVRGSQAQDRKLSTKEALDESIPPVSFWRIMKLNLTEWPYFVVGVFCAII
+NGGLQPAFAIIFSKIIGVFTRIDDPETKRQNSNLFSLLFLALGIISFITFFLQGFTFGKA
+GEILTKRLRYMVFRSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGAIGSRLAVITQNI
+ANLGTGIIISFIYGWQLTLLLLAIVPIIAIAGVVEMKMLSGQALKDKKELEGSGKIATEA
+IENFRTVVSLTQEQKFEHMYAQSLQVPYRNSLRKAHIFGITFSFTQAMMYFSYAGCFRFG
+AYLVAHKLMSFEDVLLVFSAVVFGAMAVGQVSSFAPDYAKAKISAAHIIMIIEKTPLIDS
+YSTEGLMPNTLEGNVTFGEVVFNYPTRPDIPVLQGLSLEVKKGQTLALVGSSGCGKSTVV
+QLLERFYDPLAGKVLLDGKEIKRLNVQWLRAHLGIVSQEPILFDCSIAENIAYGDNSRVV
+SQEEIVRAAKEANIHAFIESLPNKYSTKVGDKGTQLSGGQKQRIAIARALVRQPHILLLD
+EATSALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVFQNGRVKEHGTHQQL
+LAQKGIYFSMVSVQAGTKRQ</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016291|Multidrug resistance protein 1 (ABCB1)
+ATGGATCTTGAAGGGGACCGCAATGGAGGAGCAAAGAAGAAGAACTTTTTTAAACTGAAC
+AATAAAAGTGAAAAAGATAAGAAGGAAAAGAAACCAACTGTCAGTGTATTTTCAATGTTT
+CGCTATTCAAATTGGCTTGACAAGTTGTATATGGTGGTGGGAACTTTGGCTGCCATCATC
+CATGGGGCTGGACTTCCTCTCATGATGCTGGTGTTTGGAGAAATGACAGATATCTTTGCA
+AATGCAGGAAATTTAGAAGATCTGATGTCAAACATCACTAATAGAAGTGATATCAATGAT
+ACAGGGTTCTTCATGAATCTGGAGGAAGACATGACCAGGTATGCCTATTATTACAGTGGA
+ATTGGTGCTGGGGTGCTGGTTGCTGCTTACATTCAGGTTTCATTTTGGTGCCTGGCAGCT
+GGAAGACAAATACACAAAATTAGAAAACAGTTTTTTCATGCTATAATGCGACAGGAGATA
+GGCTGGTTTGATGTGCACGATGTTGGGGAGCTTAACACCCGACTTACAGATGATGTCTCC
+AAGATTAATGAAGGAATTGGTGACAAAATTGGAATGTTCTTTCAGTCAATGGCAACATTT
+TTCACTGGGTTTATAGTAGGATTTACACGTGGTTGGAAGCTAACCCTTGTGATTTTGGCC
+ATCAGTCCTGTTCTTGGACTGTCAGCTGCTGTCTGGGCAAAGATACTATCTTCATTTACT
+GATAAAGAACTCTTAGCGTATGCAAAAGCTGGAGCAGTAGCTGAAGAGGTCTTGGCAGCA
+ATTAGAACTGTGATTGCATTTGGAGGACAAAAGAAAGAACTTGAAAGGTACAACAAAAAT
+TTAGAAGAAGCTAAAAGAATTGGGATAAAGAAAGCTATTACAGCCAATATTTCTATAGGT
+GCTGCTTTCCTGCTGATCTATGCATCTTATGCTCTGGCCTTCTGGTATGGGACCACCTTG
+GTCCTCTCAGGGGAATATTCTATTGGACAAGTACTCACTGTATTCTTTTCTGTATTAATT
+GGGGCTTTTAGTGTTGGACAGGCATCTCCAAGCATTGAAGCATTTGCAAATGCAAGAGGA
+GCAGCTTATGAAATCTTCAAGATAATTGATAATAAGCCAAGTATTGACAGCTATTCGAAG
+AGTGGGCACAAACCAGATAATATTAAGGGAAATTTGGAATTCAGAAATGTTCACTTCAGT
+TACCCATCTCGAAAAGAAGTTAAGATCTTGAAGGGTCTGAACCTGAAGGTGCAGAGTGGG
+CAGACGGTGGCCCTGGTTGGAAACAGTGGCTGTGGGAAGAGCACAACAGTCCAGCTGATG
+CAGAGGCTCTATGACCCCACAGAGGGGATGGTCAGTGTTGATGGACAGGATATTAGGACC
+ATAAATGTAAGGTTTCTACGGGAAATCATTGGTGTGGTGAGTCAGGAACCTGTATTGTTT
+GCCACCACGATAGCTGAAAACATTCGCTATGGCCGTGAAAATGTCACCATGGATGAGATT
+GAGAAAGCTGTCAAGGAAGCCAATGCCTATGACTTTATCATGAAACTGCCTCATAAATTT
+GACACCCTGGTTGGAGAGAGAGGGGCCCAGTTGAGTGGTGGGCAGAAGCAGAGGATCGCC
+ATTGCACGTGCCCTGGTTCGCAACCCCAAGATCCTCCTGCTGGATGAGGCCACGTCAGCC
+TTGGACACAGAAAGCGAAGCAGTGGTTCAGGTGGCTCTGGATAAGGCCAGAAAAGGTCGG
+ACCACCATTGTGATAGCTCATCGTTTGTCTACAGTTCGTAATGCTGACGTCATCGCTGGT
+TTCGATGATGGAGTCATTGTGGAGAAAGGAAATCATGATGAACTCATGAAAGAGAAAGGC
+ATTTACTTCAAACTTGTCACAATGCAGACAGCAGGAAATGAAGTTGAATTAGAAAATGCA
+GCTGATGAATCCAAAAGTGAAATTGATGCCTTGGAAATGTCTTCAAATGATTCAAGATCC
+AGTCTAATAAGAAAAAGATCAACTCGTAGGAGTGTCCGTGGATCACAAGCCCAAGACAGA
+AAGCTTAGTACCAAAGAGGCTCTGGATGAAAGTATACCTCCAGTTTCCTTTTGGAGGATT
+ATGAAGCTAAATTTAACTGAATGGCCTTATTTTGTTGTTGGTGTATTTTGTGCCATTATA
+AATGGAGGCCTGCAACCAGCATTTGCAATAATATTTTCAAAGATTATAGGGGTTTTTACA
+AGAATTGATGATCCTGAAACAAAACGACAGAATAGTAACTTGTTTTCACTATTGTTTCTA
+GCCCTTGGAATTATTTCTTTTATTACATTTTTCCTTCAGGGTTTCACATTTGGCAAAGCT
+GGAGAGATCCTCACCAAGCGGCTCCGATACATGGTTTTCCGATCCATGCTCAGACAGGAT
+GTGAGTTGGTTTGATGACCCTAAAAACACCACTGGAGCATTGACTACCAGGCTCGCCAAT
+GATGCTGCTCAAGTTAAAGGGGCTATAGGTTCCAGGCTTGCTGTAATTACCCAGAATATA
+GCAAATCTTGGGACAGGAATAATTATATCCTTCATCTATGGTTGGCAACTAACACTGTTA
+CTCTTAGCAATTGTACCCATCATTGCAATAGCAGGAGTTGTTGAAATGAAAATGTTGTCT
+GGACAAGCACTGAAAGATAAGAAAGAACTAGAAGGTTCTGGGAAGATCGCTACTGAAGCA
+ATAGAAAACTTCCGAACCGTTGTTTCTTTGACTCAGGAGCAGAAGTTTGAACATATGTAT
+GCTCAGAGTTTGCAGGTACCATACAGAAACTCTTTGAGGAAAGCACACATCTTTGGAATT
+ACATTTTCCTTCACCCAGGCAATGATGTATTTTTCCTATGCTGGATGTTTCCGGTTTGGA
+GCCTACTTGGTGGCACATAAACTCATGAGCTTTGAGGATGTTCTGTTAGTATTTTCAGCT
+GTTGTCTTTGGTGCCATGGCCGTGGGGCAAGTCAGTTCATTTGCTCCTGACTATGCCAAA
+GCCAAAATATCAGCAGCCCACATCATCATGATCATTGAAAAAACCCCTTTGATTGACAGC
+TACAGCACGGAAGGCCTAATGCCGAACACATTGGAAGGAAATGTCACATTTGGTGAAGTT
+GTATTCAACTATCCCACCCGACCGGACATCCCAGTGCTTCAGGGACTGAGCCTGGAGGTG
+AAGAAGGGCCAGACGCTGGCTCTGGTGGGCAGCAGTGGCTGTGGGAAGAGCACAGTGGTC
+CAGCTCCTGGAGCGGTTCTACGACCCCTTGGCAGGGAAAGTGCTGCTTGATGGCAAAGAA
+ATAAAGCGACTGAATGTTCAGTGGCTCCGAGCACACCTGGGCATCGTGTCCCAGGAGCCC
+ATCCTGTTTGACTGCAGCATTGCTGAGAACATTGCCTATGGAGACAACAGCCGGGTGGTG
+TCACAGGAAGAGATTGTGAGGGCAGCAAAGGAGGCCAACATACATGCCTTCATCGAGTCA
+CTGCCTAATAAATATAGCACTAAAGTAGGAGACAAAGGAACTCAGCTCTCTGGTGGCCAG
+AAACAACGCATTGCCATAGCTCGTGCCCTTGTTAGACAGCCTCATATTTTGCTTTTGGAT
+GAAGCCACGTCAGCTCTGGATACAGAAAGTGAAAAGGTTGTCCAAGAAGCCCTGGACAAA
+GCCAGAGAAGGCCGCACCTGCATTGTGATTGCTCACCGCCTGTCCACCATCCAGAATGCA
+GACTTAATAGTGGTGTTTCAGAATGGCAGAGTCAAGGAGCATGGCACGCATCAGCAGCTG
+CTGGCACAGAAAGGCATCTATTTTTCAATGGTCAGTGTCCAGGCTGGAACAAAGCGCCAG
+TGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00005</identifier>
+        <name>ABC_tran</name>
+      </pfam>
+      <pfam>
+        <identifier>PF00664</identifier>
+        <name>ABC_membrane</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell surface</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATPase activity, coupled to transmembrane movement of substances</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATP binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>xenobiotic-transporting ATPase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>G2/M transition of mitotic cell cycle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to drug</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>stem cell proliferation</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="4">
+      <id>BE0001067</id>
+      <name>ATP-binding cassette sub-family G member 2</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>no</known-action>
+      <polypeptide id="Q9UNQ0" source="Swiss-Prot">
+    <name>ATP-binding cassette sub-family G member 2</name>
+    <general-function>Xenobiotic-transporting atpase activity</general-function>
+    <specific-function>High-capacity urate exporter functioning in both renal and extrarenal urate excretion. Plays a role in porphyrin homeostasis as it is able to mediates the export of protoporhyrin IX (PPIX) both from mitochondria to cytosol and from cytosol to extracellular space, and cellular export of hemin, and heme. Xenobiotic transporter that may play an important role in the exclusion of xenobiotics from the brain. Appears to play a major role in the multidrug resistance phenotype of several cancer cell lines. Implicated in the efflux of numerous drugs and xenobiotics: mitoxantrone, the photosensitizer pheophorbide, camptothecin, methotrexate, azidothymidine (AZT), and the anthracyclines daunorubicin and doxorubicin.</specific-function>
+    <gene-name>ABCG2</gene-name>
+    <locus>4q22</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>396-416
+429-449
+478-498
+507-527
+536-556
+631-651</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>8.9</theoretical-pi>
+    <molecular-weight>72313.47</molecular-weight>
+    <chromosome-location>4</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:74</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>ABCG2</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>AF103796</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>4185796</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>792</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9UNQ0</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>ABCG2_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>ABCP</synonym>
+      <synonym>BCRP</synonym>
+      <synonym>BCRP1</synonym>
+      <synonym>Breast cancer resistance protein</synonym>
+      <synonym>CDw338</synonym>
+      <synonym>Mitoxantrone resistance-associated protein</synonym>
+      <synonym>MXR</synonym>
+      <synonym>Placenta-specific ATP-binding cassette transporter</synonym>
+      <synonym>Urate exporter</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0002125|ATP-binding cassette sub-family G member 2
+MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEGAVLSFHNICYRVKLKSGFLPCRKPVE
+KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN
+SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGT
+QFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF
+SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIING
+DSTAVALNREEDFKATEIIEPSKQDKPLIEKLAEIYVNSSFYKETKAELHQLSGGEKKKK
+ITVFKEISYTTSFCHQLRWVSKRSFKNLLGNPQASIAQIIVTVVLGLVIGAIYFGLKNDS
+TGIQNRAGVLFFLTTNQCFSSVSAVELFVVEKKLFIHEYISGYYRVSSYFLGKLLSDLLP
+MRMLPSIIFTCIVYFMLGLKPKADAFFVMMFTLMMVAYSASSMALAIAAGQSVVSVATLL
+MTICFVFMMIFSGLLVNLTTIASWLSWLQYFSIPRYGFTALQHNEFLGQNFCPGLNATGN
+NPCNYATCTGEEYLVKQGIDLSPWGLWKNHVALACMIVIFLTIAYLKLLFLKKYS</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016303|ATP-binding cassette sub-family G member 2 (ABCG2)
+ATGTCTTCCAGTAATGTCGAAGTTTTTATCCCAGTGTCACAAGGAAACACCAATGGCTTC
+CCCGCGACAGCTTCCAATGACCTGAAGGCATTTACTGAAGGAGCTGTGTTAAGTTTTCAT
+AACATCTGCTATCGAGTAAAACTGAAGAGTGGCTTTCTACCTTGTCGAAAACCAGTTGAG
+AAAGAAATATTATCGAATATCAATGGGATCATGAAACCTGGTCTCAACGCCATCCTGGGA
+CCCACAGGTGGAGGCAAATCTTCGTTATTAGATGTCTTAGCTGCAAGGAAAGATCCAAGT
+GGATTATCTGGAGATGTTCTGATAAATGGAGCACCGCGACCTGCCAATTTCAAATGTAAT
+TCAGGTTACGTGGTACAAGATGATGTTGTGATGGGCACTCTGACGGTGAGAGAAAACTTA
+CAGTTCTCAGCAGCTCTTCGGCTTGCAACAACTATGACGAATCATGAAAAAAACGAACGG
+ATTAACAGGGTCATTCAAGAGTTAGGTCTGGATAAAGTGGCAGACTCCAAGGTTGGAACT
+CAGTTTATCCGTGGTGTGTCTGGAGGAGAAAGAAAAAGGACTAGTATAGGAATGGAGCTT
+ATCACTGATCCTTCCATCTTGTTCTTGGATGAGCCTACAACTGGCTTAGACTCAAGCACA
+GCAAATGCTGTCCTTTTGCTCCTGAAAAGGATGTCTAAGCAGGGACGAACAATCATCTTC
+TCCATTCATCAGCCTCGATATTCCATCTTCAAGTTGTTTGATAGCCTCACCTTATTGGCC
+TCAGGAAGACTTATGTTCCACGGGCCTGCTCAGGAGGCCTTGGGATACTTTGAATCAGCT
+GGTTATCACTGTGAGGCCTATAATAACCCTGCAGACTTCTTCTTGGACATCATTAATGGA
+GATTCCACTGCTGTGGCATTAAACAGAGAAGAAGACTTTAAAGCCACAGAGATCATAGAG
+CCTTCCAAGCAGGATAAGCCACTCATAGAAAAATTAGCGGAGATTTATGTCAACTCCTCC
+TTCTACAAAGAGACAAAAGCTGAATTACATCAACTTTCCGGGGGTGAGAAGAAGAAGAAG
+ATCACAGTCTTCAAGGAGATCAGCTACACCACCTCCTTCTGTCATCAACTCAGATGGGTT
+TCCAAGCGTTCATTCAAAAACTTGCTGGGTAATCCCCAGGCCTCTATAGCTCAGATCATT
+GTCACAGTCGTACTGGGACTGGTTATAGGTGCCATTTACTTTGGGCTAAAAAATGATTCT
+ACTGGAATCCAGAACAGAGCTGGGGTTCTCTTCTTCCTGACGACCAACCAGTGTTTCAGC
+AGTGTTTCAGCCGTGGAACTCTTTGTGGTAGAGAAGAAGCTCTTCATACATGAATACATC
+AGCGGATACTACAGAGTGTCATCTTATTTCCTTGGAAAACTGTTATCTGATTTATTACCC
+ATGAGGATGTTACCAAGTATTATATTTACCTGTATAGTGTACTTCATGTTAGGATTGAAG
+CCAAAGGCAGATGCCTTCTTCGTTATGATGTTTACCCTTATGATGGTGGCTTATTCAGCC
+AGTTCCATGGCACTGGCCATAGCAGCAGGTCAGAGTGTGGTTTCTGTAGCAACACTTCTC
+ATGACCATCTGTTTTGTGTTTATGATGGTCTGTTGGTCAATCTCACAACCATTGCATCTT
+GGCTGTCATGGCTTCAGTACTTCAGCATTCCACGATATGGATTTACGGCTTTGCAGCATA
+ATGAATTTTTGGGACAAAACTTCTGCCCAGGACTCAATGCAACAGGAAACAATCCTTGTA
+ACTATGCAACATGTACTGGCGAAGAATATTTGGTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00005</identifier>
+        <name>ABC_tran</name>
+      </pfam>
+      <pfam>
+        <identifier>PF01061</identifier>
+        <name>ABC2_membrane</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>mitochondrial membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATPase activity, coupled to transmembrane movement of substances</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>xenobiotic-transporting ATPase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein homodimerization activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATP binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heme transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular iron ion homeostasis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>urate metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to drug</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+  </transporters>
+</drug>

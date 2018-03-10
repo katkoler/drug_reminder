@@ -1,0 +1,653 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-08">
+  <drugbank-id primary="true">DB09539</drugbank-id>
+  <name>Omega-3-acid ethyl esters</name>
+  <description>Omega-3 acid ethyl esters are prescription drugs that contain eicosapentaenoic acid-ethyl ester and docosahexaenoic acid-ethyl ester that are used in combination with changes in diet to lower triglyceride levels in adults with severe (≥ 500 mg/dL) hypertriglyceridemia,</description>
+  <cas-number/>
+  <unii>D87YGH4Z0Q</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>FDA label</title>
+        <url>http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021654s023lbl.pdf</url>
+      </link>
+      <link>
+        <title>Wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Omega-3_acid_ethyl_esters</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Omega-3-Acid Ethyl Esters capsules, USP are indicated as an adjunct to diet to reduce triglyceride (TG) levels in adult patients with severe (≥500 mg/dL) hypertriglyceridemia (HTG).</indication>
+  <pharmacodynamics>In healthy volunteers and in subjects with hypertriglyceridemia, EPA and DHA were absorbed when administered as ethyl esters orally. Omega-3-acids administered as ethyl esters (Omega-3-Acid Ethyl Esters capsules) induced significant, dose-dependent increases in serum phospholipid EPA content, though increases in DHA content were less marked and not dose-dependent when administered as ethyl esters.</pharmacodynamics>
+  <mechanism-of-action>The mechanism of action of Omega-3-Acid Ethyl Esters is not completely understood. Potential mechanisms of action include inhibition of acyl-CoA:1,2-diacylglycerol acyltransferase, increased mitochondrial and peroxisomal β-oxidation in the liver, decreased lipogenesis in the liver, and increased plasma lipoprotein lipase activity. Omega-3-Acid Ethyl Esters may reduce the synthesis of triglycerides in the liver because EPA and DHA are poor substrates for the enzymes responsible for TG synthesis, and EPA and DHA inhibit esterification of other fatty acids.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Concept DHA</name>
+      <labeller>Us Pharmaceutical Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>52747-621</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-06-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Divista</name>
+      <labeller>Us Pharmaceutical Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>52747-110</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-07-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Lovaza</name>
+      <labeller>Lake Erie Medical &amp;Surgical Supply Dba Quality Care Products Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>35356-104</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-10-21</started-marketing-on>
+      <ended-marketing-on>2016-12-22</ended-marketing-on>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>1 g/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA021654</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Lovaza</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0173-0884</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-05-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>900 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA021654</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Lovaza</name>
+      <labeller>Rebel Distributors</labeller>
+      <ndc-id/>
+      <ndc-product-code>21695-795</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-10-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>1 g/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA021654</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Lovaza</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-5816</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-12-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>1 g/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA021654</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Lovaza</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>55154-1134</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-10-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>1 g/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA021654</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Lovaza</name>
+      <labeller>Atlantic Biologicals Corps.</labeller>
+      <ndc-id/>
+      <ndc-product-code>17856-0783</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-10-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>900 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA021654</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Lovaza</name>
+      <labeller>Atlantic Biologicals Corps.</labeller>
+      <ndc-id/>
+      <ndc-product-code>17856-0084</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-05-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>900 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA021654</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Lovaza</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0173-0783</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-10-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>900 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA021654</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <labeller>Prasco, Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>66993-726</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-03-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>900 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA021654</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <labeller>Par Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>49884-019</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-06-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>900 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>ANDA091018</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <labeller>Golden State Medical Supply</labeller>
+      <ndc-id/>
+      <ndc-product-code>60429-912</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-11-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>900 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>ANDA091018</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <labeller>Avera Mc Kennan Hospital</labeller>
+      <ndc-id/>
+      <ndc-product-code>69189-0027</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-04-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>900 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>ANDA091018</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <labeller>Teva</labeller>
+      <ndc-id/>
+      <ndc-product-code>0093-5401</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-04-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>900 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>ANDA091028</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <labeller>Av Kare, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>42291-657</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-05-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>1 g/1</strength>
+      <route>Oral</route>
+      <fda-application-number>ANDA090973</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <labeller>Amneal Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>65162-034</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-11-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>1 g/1</strength>
+      <route>Oral</route>
+      <fda-application-number>ANDA204940</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <labeller>International Brand Management, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>69837-170</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-04-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>1 g/g</strength>
+      <route>Oral</route>
+      <fda-application-number>ANDA090973</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <labeller>Apotex Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>60505-3170</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>1 g/1</strength>
+      <route>Oral</route>
+      <fda-application-number>ANDA090973</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <labeller>Amerincan Health Packaging</labeller>
+      <ndc-id/>
+      <ndc-product-code>60687-127</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-06-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>1 g/1</strength>
+      <route>Oral</route>
+      <fda-application-number>ANDA090973</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <labeller>Atlantic Biologicals Corps.</labeller>
+      <ndc-id/>
+      <ndc-product-code>17856-0034</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-11-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>1 g/1</strength>
+      <route>Oral</route>
+      <fda-application-number>ANDA204940</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <labeller>Prasco, Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>66993-839</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-03-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>900 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA021654</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Omtryg</name>
+      <labeller>Trygg Pharma, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>61112-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>900 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA204977</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sure Result O3d3 System</name>
+      <labeller>International Brand Management, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>69837-700</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-03-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>ANDA090973</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Tandem DHA</name>
+      <labeller>Us Pharmaceutical Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>52747-904</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-01-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Lovaza</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lovaza</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Divista</name>
+      <ingredients>Chromium picolinate + Biotin + Pyridoxine + Cyanocobalamin + Folic Acid + Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Concept DHA</name>
+      <ingredients>Iron + Iron + Vitamin C + Folic Acid + Thiamine + Riboflavin + Niacin + Pantothenic acid + Pyridoxine + Biotin + Cyanocobalamin + Cupric sulfate + Magnesium Sulfate + Zinc sulfate + Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tandem DHA</name>
+      <ingredients>Iron + Iron + Vitamin C + Pyridoxine + Omega-3-acid ethyl esters + Folic Acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lovaza</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lovaza</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lovaza</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sure Result O3d3 System</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lovaza</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Omtryg</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lovaza</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lovaza</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+    <mixture>
+      <name>Omega-3-acid Ethyl Esters</name>
+      <ingredients>Omega-3-acid ethyl esters</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Capsule, liquid filled</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule, liquid filled</form>
+      <route>Oral</route>
+      <strength>1 g/1</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>1 g/g</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, liquid filled</form>
+      <route>Oral</route>
+      <strength>900 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>900 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

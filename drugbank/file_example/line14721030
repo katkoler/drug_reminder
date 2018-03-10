@@ -1,0 +1,2101 @@
+<drug type="small molecule" created="2015-12-03" updated="2017-02-11">
+  <drugbank-id primary="true">DB11135</drugbank-id>
+  <name>Selenium</name>
+  <description/>
+  <cas-number>7782-49-2</cas-number>
+  <unii>H6241UJ22B</unii>
+  <average-mass>78.96</average-mass>
+  <monoisotopic-mass>79.916521828</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+    <group>vet_approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of chemical entities known as homogeneous other non-metal compounds. These are inorganic non-metallic compounds in which the largest atom belongs to the class of 'other non-metals'.</description>
+    <direct-parent>Homogeneous other non-metal compounds</direct-parent>
+    <kingdom>Chemical entities</kingdom>
+    <superclass>Inorganic compounds</superclass>
+    <class>Homogeneous non-metal compounds</class>
+    <subclass>Homogeneous other non-metal compounds</subclass>
+    <substituent>Homogeneous other non metal</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001761</drugbank-id>
+      <name>Sodium selenite</name>
+      <unii>HIW548RQ3W</unii>
+      <cas-number>10102-18-8</cas-number>
+      <inchikey>BVTBRVFYZUCAKH-UHFFFAOYSA-L</inchikey>
+      <average-mass>172.94</average-mass>
+      <monoisotopic-mass>173.880805044</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="German" coder="">Selen</synonym>
+    <synonym language="Spanish" coder="">Selenio</synonym>
+    <synonym language="French" coder="">Sélénium</synonym>
+    <synonym language="" coder="">Selenium elemental</synonym>
+    <synonym language="Latin" coder="">Selenium metallicum</synonym>
+    <synonym language="" coder="">Selenium, elemental</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>A.R.T.H. Away Formula</name>
+      <labeller>Abundance Marketing Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239132</dpd-id>
+      <started-marketing-on>1999-02-01</started-marketing-on>
+      <ended-marketing-on>2006-06-16</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Amd</name>
+      <labeller>Seroyal International Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02215810</dpd-id>
+      <started-marketing-on>1997-06-27</started-marketing-on>
+      <ended-marketing-on>2009-07-06</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Cell-wise</name>
+      <labeller>Melaleuca, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02236914</dpd-id>
+      <started-marketing-on>1998-01-12</started-marketing-on>
+      <ended-marketing-on>2004-07-30</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Cell-wise Natural Source</name>
+      <labeller>Melaleuca, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237865</dpd-id>
+      <started-marketing-on>1998-05-26</started-marketing-on>
+      <ended-marketing-on>2005-06-28</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Complete Multivitamins and Minerals Tablets Timed Release</name>
+      <labeller>Pharmetics (2011) Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237940</dpd-id>
+      <started-marketing-on>1999-07-26</started-marketing-on>
+      <ended-marketing-on>2009-07-30</ended-marketing-on>
+      <dosage-form>Tablet, extended release</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Enviroflex - Tab</name>
+      <labeller>Enviro Tech International Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230247</dpd-id>
+      <started-marketing-on>1997-09-15</started-marketing-on>
+      <ended-marketing-on>1999-07-26</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Formula 14 Dietary Supplement</name>
+      <labeller>Rx Vitamins Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02235566</dpd-id>
+      <started-marketing-on>2004-12-06</started-marketing-on>
+      <ended-marketing-on>2007-10-25</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Formula CF</name>
+      <labeller>Kroeger Herb Products</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02240208</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Formula Im-vitamins and Minerals Tab</name>
+      <labeller>Metagenics, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00837040</dpd-id>
+      <started-marketing-on>1997-01-27</started-marketing-on>
+      <ended-marketing-on>2006-08-14</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Formula Inf</name>
+      <labeller>Balance Plus, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02241072</dpd-id>
+      <started-marketing-on>2000-02-09</started-marketing-on>
+      <ended-marketing-on>2004-08-17</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Formula-SE</name>
+      <labeller>Gesar Ag</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02229846</dpd-id>
+      <started-marketing-on>1997-09-26</started-marketing-on>
+      <ended-marketing-on>2001-07-02</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>30 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Golf Vitamin and Mineral Supplement</name>
+      <labeller>Muscle Marketing Usa Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02243603</dpd-id>
+      <started-marketing-on>2001-02-24</started-marketing-on>
+      <ended-marketing-on>2008-06-27</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Guardyn Tab</name>
+      <labeller>Nutri Dyn Products Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00666009</dpd-id>
+      <started-marketing-on>1986-12-31</started-marketing-on>
+      <ended-marketing-on>1998-08-13</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Henkel's Vitamin E and Selenium Cap</name>
+      <labeller>Finlandia Consultants</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00820113</dpd-id>
+      <started-marketing-on>1990-12-31</started-marketing-on>
+      <ended-marketing-on>1997-12-02</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>I-care Multivitamin and Multimineral Tablets</name>
+      <labeller>Pharmetics (2011) Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02245461</dpd-id>
+      <started-marketing-on>2002-05-30</started-marketing-on>
+      <ended-marketing-on>2009-07-30</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Icaps</name>
+      <labeller>Alcon, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02044048</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>2009-04-24</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Icaps Time Release</name>
+      <labeller>Alcon, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02192594</dpd-id>
+      <started-marketing-on>1997-06-20</started-marketing-on>
+      <ended-marketing-on>2001-08-14</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Imm Formula Cap</name>
+      <labeller>Natures Sunshine Products, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01901559</dpd-id>
+      <started-marketing-on>1990-12-31</started-marketing-on>
+      <ended-marketing-on>2001-07-31</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Itabs Plus</name>
+      <labeller>Vita Health Products Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02238908</dpd-id>
+      <started-marketing-on>2000-01-01</started-marketing-on>
+      <ended-marketing-on>2002-07-31</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>IV-8 Formula</name>
+      <labeller>Enrich International</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237836</dpd-id>
+      <started-marketing-on>1998-06-01</started-marketing-on>
+      <ended-marketing-on>2000-07-28</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Micro Plus 5 Concentrate</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02091178</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Micro Plus 6    (concentrate)</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02091127</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Micro Plus 6   (pediatric)</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02091100</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Micro Plus 6   (regular)</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02091119</dpd-id>
+      <started-marketing-on>1996-07-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Micro Se</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01986007</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>40 mcg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Multi - N.T.O.x Formula - Tab</name>
+      <labeller>Abundance Marketing Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230199</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Multi Nt-OX</name>
+      <labeller>Abundance Marketing Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02238889</dpd-id>
+      <started-marketing-on>1999-02-01</started-marketing-on>
+      <ended-marketing-on>2001-07-10</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Multi Vitamin - Mineral</name>
+      <labeller>Enrich International</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237762</dpd-id>
+      <started-marketing-on>1999-11-11</started-marketing-on>
+      <ended-marketing-on>2001-09-28</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Multi Vitamins &amp; Minerals</name>
+      <labeller>Wn Pharmaceuticals Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02241009</dpd-id>
+      <started-marketing-on>2000-01-12</started-marketing-on>
+      <ended-marketing-on>2001-04-12</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Multi-vitamins With Minerals</name>
+      <labeller>Wn Pharmaceuticals Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02241631</dpd-id>
+      <started-marketing-on>2001-04-12</started-marketing-on>
+      <ended-marketing-on>2009-09-28</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Multimineral Chelates</name>
+      <labeller>W.R. Enterprises Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00583774</dpd-id>
+      <started-marketing-on>1984-12-31</started-marketing-on>
+      <ended-marketing-on>2002-08-01</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Nata Komplete</name>
+      <labeller>Wh Nutritionals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>76331-909</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-06-25</started-marketing-on>
+      <ended-marketing-on>2016-12-06</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nutrilite Double X</name>
+      <labeller>Nutrilite, A Division Of Access Business Group, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02246512</dpd-id>
+      <started-marketing-on>2002-12-15</started-marketing-on>
+      <ended-marketing-on>2008-06-24</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Onccor</name>
+      <labeller>Simone Protective Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230207</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>One A Day Advance Adults</name>
+      <labeller>Bayer Inc Consumer Care</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02244891</dpd-id>
+      <started-marketing-on>2002-09-12</started-marketing-on>
+      <ended-marketing-on>2007-08-02</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>One A Day Advance Adults 50+</name>
+      <labeller>Bayer Inc Consumer Care</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02244483</dpd-id>
+      <started-marketing-on>2002-09-12</started-marketing-on>
+      <ended-marketing-on>2007-08-02</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Prefera Ob Plus DHA</name>
+      <labeller>Alaven Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>68220-089</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-04-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Preferaob</name>
+      <labeller>Alaven Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>68220-084</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-09-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Preferaob Plus DHA</name>
+      <labeller>Alaven Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>68220-083</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-11-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Prolynium Vitamin and Mineral Supplement</name>
+      <labeller>T &amp; T Nutrition Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02240097</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Q.T. Vitamin and Mineral Drink Mix</name>
+      <labeller>Garden State Nutritionals</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02238945</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selen-E-400 Tab</name>
+      <labeller>Metagenics, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00822574</dpd-id>
+      <started-marketing-on>1996-12-29</started-marketing-on>
+      <ended-marketing-on>2008-08-28</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium</name>
+      <labeller>Wampole Brands, A Division Of Pangeo Pharma (Canada) Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02241203</dpd-id>
+      <started-marketing-on>2000-01-21</started-marketing-on>
+      <ended-marketing-on>2002-07-29</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength>200 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium 100</name>
+      <labeller>Anabolic Laboratories Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02231075</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>100 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium 100 - Caplet</name>
+      <labeller>Health Wise Nutrition Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02138042</dpd-id>
+      <started-marketing-on>1995-12-31</started-marketing-on>
+      <ended-marketing-on>2002-07-18</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>100 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium 200 Mcg</name>
+      <labeller>Preferred Nutrition Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02248693</dpd-id>
+      <started-marketing-on>2004-05-12</started-marketing-on>
+      <ended-marketing-on>2005-08-04</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>200 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium 200 Mcg Tablets</name>
+      <labeller>Pharmetics (2011) Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239353</dpd-id>
+      <started-marketing-on>1999-08-08</started-marketing-on>
+      <ended-marketing-on>2009-07-30</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>200 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium Ctr Srt 50mg</name>
+      <labeller>Bioenergy Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00540110</dpd-id>
+      <started-marketing-on>1979-12-31</started-marketing-on>
+      <ended-marketing-on>1998-06-03</ended-marketing-on>
+      <dosage-form>Tablet, extended release</dosage-form>
+      <strength>50 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium Oxide Tab 50mcg</name>
+      <labeller>Gahler Enterprises Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00770787</dpd-id>
+      <started-marketing-on>1988-12-31</started-marketing-on>
+      <ended-marketing-on>2005-08-15</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>50 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium Plus</name>
+      <labeller>Flora Manufacturing And Distributing Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00624438</dpd-id>
+      <started-marketing-on>1985-12-31</started-marketing-on>
+      <ended-marketing-on>1999-10-18</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium Plus</name>
+      <labeller>Sisu Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02236751</dpd-id>
+      <started-marketing-on>1998-03-18</started-marketing-on>
+      <ended-marketing-on>2008-07-25</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium Supplement</name>
+      <labeller>For Mor International Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02241722</dpd-id>
+      <started-marketing-on>2000-03-25</started-marketing-on>
+      <ended-marketing-on>2004-08-11</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength>30 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium Tab 200mcg</name>
+      <labeller>Anabolic Laboratories Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00526681</dpd-id>
+      <started-marketing-on>1981-12-31</started-marketing-on>
+      <ended-marketing-on>1996-10-02</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>200 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium Tab 50mcg</name>
+      <labeller>Nutristar Health Products (1987) Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00576476</dpd-id>
+      <started-marketing-on>1986-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-09</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>50 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium Tab 50mcg</name>
+      <labeller>Hall Laboratories, Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00529826</dpd-id>
+      <started-marketing-on>1981-12-31</started-marketing-on>
+      <ended-marketing-on>2003-09-11</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>50 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selenium Tablets 100mcg</name>
+      <labeller>Royal Bodycare Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01946757</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>2005-08-02</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>100 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selepen</name>
+      <labeller>Partners Health Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02139316</dpd-id>
+      <started-marketing-on>1997-01-16</started-marketing-on>
+      <ended-marketing-on>2008-02-15</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>40 mcg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Selepen Inj 40mcg/ml USP</name>
+      <labeller>Lyphomed, Division Of Fujisawa Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01945335</dpd-id>
+      <started-marketing-on>1984-12-31</started-marketing-on>
+      <ended-marketing-on>1997-01-30</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>40 mcg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sincera - Tablets</name>
+      <labeller>Scandinavian Formulas Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02228610</dpd-id>
+      <started-marketing-on>1997-04-08</started-marketing-on>
+      <ended-marketing-on>2005-02-16</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Somavit Brand Vitamins and Minerals Complex</name>
+      <labeller>Soma Health Products</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02240872</dpd-id>
+      <started-marketing-on>2000-01-15</started-marketing-on>
+      <ended-marketing-on>2005-08-26</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Spectrum 2 Cap</name>
+      <labeller>Nf Formulas Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00719064</dpd-id>
+      <started-marketing-on>1988-12-31</started-marketing-on>
+      <ended-marketing-on>2008-06-26</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Strovite Forte Caplet</name>
+      <labeller>Everett Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0642-0204</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1996-10-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Strovite One Caplets</name>
+      <labeller>Everett Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0642-0207</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2001-05-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Super-cell</name>
+      <labeller>Body Wise International Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230726</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Tianshi Vital Powder I</name>
+      <labeller>Tianjin Tianshi Group Co., Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02240155</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Tianshi Vital Powder II</name>
+      <labeller>Tianjin Tianshi Group Co., Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02240154</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Usana Multimineral Tablets</name>
+      <labeller>Usana Health Sciences, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230021</dpd-id>
+      <started-marketing-on>1997-03-21</started-marketing-on>
+      <ended-marketing-on>2002-07-22</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Usana Multimineral Tablets - Tab</name>
+      <labeller>Usana Health Sciences, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02225751</dpd-id>
+      <started-marketing-on>1997-02-17</started-marketing-on>
+      <ended-marketing-on>1997-08-12</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>V-V Dietary Supplement</name>
+      <labeller>Garden State Nutritionals</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02238935</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Vitalife  -  Capsule</name>
+      <labeller>Holista Health (Canada) Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02157942</dpd-id>
+      <started-marketing-on>1996-11-13</started-marketing-on>
+      <ended-marketing-on>2002-08-06</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Vitamin E + 3 (extra Strength)</name>
+      <labeller>Wn Pharmaceuticals Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239371</dpd-id>
+      <started-marketing-on>1999-01-21</started-marketing-on>
+      <ended-marketing-on>2001-08-03</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Vitamin E + 3 Extra Strength With Zinc</name>
+      <labeller>Wn Pharmaceuticals Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02241565</dpd-id>
+      <started-marketing-on>2000-12-01</started-marketing-on>
+      <ended-marketing-on>2009-09-28</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Vitamin E 400 I.U. &amp; Selenium 50 Mcg Capsules</name>
+      <labeller>Pharmetics (2011) Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237846</dpd-id>
+      <started-marketing-on>1999-06-20</started-marketing-on>
+      <ended-marketing-on>2009-07-30</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Vtb Vitamin and Mineral Supplement</name>
+      <labeller>Garden State Nutritionals</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02238947</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Women's Formula</name>
+      <labeller>Pro Ma Systems</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02232894</dpd-id>
+      <started-marketing-on>1998-10-31</started-marketing-on>
+      <ended-marketing-on>2007-09-25</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Yeast Free Selenium 60mcg</name>
+      <labeller>Great Earth Companies, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230749</dpd-id>
+      <started-marketing-on>1998-08-25</started-marketing-on>
+      <ended-marketing-on>2002-10-02</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>60 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>B-Traxim Se</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Selsaf 2000</name>
+      <company/>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Strovite Forte Caplet</name>
+      <ingredients>Vitamin A + Vitamin C + Vitamin d + Vitamin E + Thiamine + Riboflavin + Niacin + Pyridoxine + Folic Acid + Cyanocobalamin + Biotin + Pantothenic acid + Magnesium + Zinc + Selenium + Copper + Chromium + Molybdenum + Iron</ingredients>
+    </mixture>
+    <mixture>
+      <name>Strovite One Caplets</name>
+      <ingredients>Vitamin A + Pantothenic acid + Vitamin C + Cholecalciferol + Vitamin E + Thiamine + Riboflavin + Nicotinamide + Pyridoxine + Folic Acid + Biotin + Cyanocobalamin + Selenium + Magnesium oxide + Zinc oxide + Cupric sulfate + Manganese + Chromium + Lipoic Acid + Lutein</ingredients>
+    </mixture>
+    <mixture>
+      <name>Preferaob Plus DHA</name>
+      <ingredients>Folic Acid + Heme iron polypeptide + Iron Dextran + Potassium Iodide + Zinc oxide + Selenium + Cupric sulfate + Cholecalciferol + Thiamine + Vitamin E + Riboflavin + Nicotinamide + Pyridoxine + Cyanocobalamin + Biotin + Pantothenic acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Preferaob</name>
+      <ingredients>Folic Acid + Heme iron polypeptide + Iron Dextran + Potassium Iodide + Zinc oxide + Selenium + Cupric sulfate + Cholecalciferol + Thiamine + Vitamin E + Riboflavin + Nicotinamide + Pyridoxine + Cyanocobalamin + Biotin + Pantothenic acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Prefera Ob Plus DHA</name>
+      <ingredients>Folic Acid + Heme iron polypeptide + Iron Dextran + Potassium Iodide + Zinc oxide + Selenium + Cupric sulfate + Cholecalciferol + Thiamine + Vitamin E + Riboflavin + Nicotinamide + Pyridoxine + Cyanocobalamin + Biotin + Pantothenic acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nata Komplete</name>
+      <ingredients>Vitamin A + Vitamin C + Cholecalciferol + Vitamin E + Thiamine + Riboflavin + Niacin + Pyridoxine + Folic Acid + Cyanocobalamin + Biotin + Pantothenic acid + Calcium + Iron + Magnesium + Zinc + Selenium + Copper + Choline</ingredients>
+    </mixture>
+    <mixture>
+      <name>Micro Se</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Micro Plus 5 Concentrate</name>
+      <ingredients>Manganese + Chromium + Selenium + Zinc + Copper</ingredients>
+    </mixture>
+    <mixture>
+      <name>Micro Plus 6   (pediatric)</name>
+      <ingredients>Manganese + Chromium + Selenium + Zinc + Copper + Iodine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Micro Plus 6    (concentrate)</name>
+      <ingredients>Manganese + Chromium + Selenium + Zinc + Copper + Iodine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Micro Plus 6   (regular)</name>
+      <ingredients>Manganese + Chromium + Selenium + Zinc + Copper + Iodine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium Tablets 100mcg</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selepen Inj 40mcg/ml USP</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium 100 - Caplet</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Amd</name>
+      <ingredients>Manganese + Chromium + Selenium + Zinc + Vitamin C</ingredients>
+    </mixture>
+    <mixture>
+      <name>Usana Multimineral Tablets - Tab</name>
+      <ingredients>Manganese + Chromium + Selenium + Zinc + Calcium + Copper + Molybdenum + Magnesium + Iodine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selepen</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium Tab 50mcg</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium Tab 200mcg</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Formula-SE</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Usana Multimineral Tablets</name>
+      <ingredients>Manganese + Chromium + Selenium + Zinc + Calcium + Copper + Molybdenum + Magnesium + Iodine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Yeast Free Selenium 60mcg</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cell-wise</name>
+      <ingredients>Manganese + Selenium + Zinc + Calcium + Copper + Vitamin C + Vitamin E + Vitamin A</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cell-wise Natural Source</name>
+      <ingredients>Manganese + Selenium + Zinc + Calcium + Copper + Vitamin C + Vitamin E + Vitamin A</ingredients>
+    </mixture>
+    <mixture>
+      <name>A.R.T.H. Away Formula</name>
+      <ingredients>Manganese + Pyridoxine + Selenium + Zinc + Calcium + Cholecalciferol + Folic Acid + Copper</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium 200 Mcg Tablets</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Formula Inf</name>
+      <ingredients>Selenium + Zinc + Calcium + Folic Acid + Vitamin C + Potassium + Magnesium + Vitamin d</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium Supplement</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Golf Vitamin and Mineral Supplement</name>
+      <ingredients>Selenium + Zinc + Vitamin C + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Multimineral Chelates</name>
+      <ingredients>Manganese + Chromium + Selenium + Iron + Zinc + Calcium + Copper + Potassium + Magnesium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium Tab 50mcg</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium 200 Mcg</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium Oxide Tab 50mcg</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium 100</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Formula CF</name>
+      <ingredients>Selenium + Vitamin C</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enviroflex - Tab</name>
+      <ingredients>Pyridoxine + Thiamine + Riboflavin + Selenium + Zinc + Calcium + Cholecalciferol + Biotin + Pantothenic acid + Nicotinamide + Vitamin C + Magnesium + Vitamin E + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vitamin E 400 I.U. &amp; Selenium 50 Mcg Capsules</name>
+      <ingredients>Selenium + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>One A Day Advance Adults 50+</name>
+      <ingredients>Manganese + Beta carotene + Pyridoxine + Thiamine + Riboflavin + Potassium Chloride + Chromium + Selenium + Zinc + Calcium + Biotin + Folic Acid + Pantothenic acid + Niacin + Cupric sulfate + Molybdenum + Vitamin C + Potassium + Magnesium + Vitamin E + Vitamin d + Vitamin A + Potassium Iodide + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>One A Day Advance Adults</name>
+      <ingredients>Manganese + Beta carotene + Pyridoxine + Thiamine + Riboflavin + Chromium + Selenium + Iron + Zinc + Potassium Chloride + Calcium + Biotin + Folic Acid + Pantothenic acid + Niacin + Cupric sulfate + Molybdenum + Vitamin C + Potassium + Magnesium + Vitamin E + Vitamin d + Vitamin A + Potassium Iodide + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>I-care Multivitamin and Multimineral Tablets</name>
+      <ingredients>Beta carotene + Selenium + Zinc + Cupric oxide + Vitamin C + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Guardyn Tab</name>
+      <ingredients>Manganese + Beta carotene + Selenium + Zinc + Copper + Vitamin C + Vitamin E + Vitamin A</ingredients>
+    </mixture>
+    <mixture>
+      <name>Prolynium Vitamin and Mineral Supplement</name>
+      <ingredients>Selenium + Zinc + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tianshi Vital Powder II</name>
+      <ingredients>Selenium + Dipotassium phosphate + Zinc + Calcium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tianshi Vital Powder I</name>
+      <ingredients>Selenium + Dipotassium phosphate + Zinc + Calcium + Folic Acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Formula Im-vitamins and Minerals Tab</name>
+      <ingredients>Beta carotene + Pyridoxine + Selenium + Zinc + Pantothenic acid + Molybdenum + Vitamin C + Vitamin A</ingredients>
+    </mixture>
+    <mixture>
+      <name>Multi Vitamins &amp; Minerals</name>
+      <ingredients>Pyridoxine + Thiamine + Riboflavin + Chromium + Selenium + Iron + Zinc + Calcium + Cholecalciferol + Biotin + Folic Acid + Pantothenic acid + Nicotinamide + Molybdenum + Vitamin C + Potassium + Magnesium + Vitamin E + Vitamin A + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Multi-vitamins With Minerals</name>
+      <ingredients>Pyridoxine + Thiamine + Riboflavin + Chromium + Selenium + Iron + Zinc + Calcium + Cholecalciferol + Biotin + Folic Acid + Pantothenic acid + Nicotinamide + Molybdenum + Vitamin C + Potassium + Magnesium + Vitamin E + Vitamin A + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Spectrum 2 Cap</name>
+      <ingredients>Manganese + Beta carotene + Riboflavin + Chromium + Selenium + Iron + Zinc + Calcium + Choline + Inositol + Biotin + Folic Acid + Pantothenic acid + Pyridoxine + Nicotinamide + Niacin + Thiamine + Molybdenum + Vitamin C + Potassium + Magnesium + Vitamin A + Potassium Iodide + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Q.T. Vitamin and Mineral Drink Mix</name>
+      <ingredients>Pyridoxine + Thiamine + Riboflavin + Chromium + Selenium + Iron + Zinc + Biotin + Folic Acid + Pantothenic acid + Nicotinamide + Copper + Vitamin C + Magnesium + Vitamin E + Cholecalciferol + Vitamin A + Potassium Iodide + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium Plus</name>
+      <ingredients>Selenium + L-Methionine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium Plus</name>
+      <ingredients>Selenium + Vitamin C + Vitamin C + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Imm Formula Cap</name>
+      <ingredients>Beta carotene + Selenium + Zinc + Vitamin C + Vitamin E + Vitamin A</ingredients>
+    </mixture>
+    <mixture>
+      <name>Henkel's Vitamin E and Selenium Cap</name>
+      <ingredients>Selenium + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selen-E-400 Tab</name>
+      <ingredients>Selenium + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Women's Formula</name>
+      <ingredients>Manganese + Pyridoxine + Thiamine + Riboflavin + Chromic chloride + Selenium + Zinc + Calcium + Cholecalciferol + Choline + Inositol + Biotin + Folic Acid + Pantothenic acid + Nicotinamide + Copper + Calcium ascorbate + Potassium + Magnesium + Vitamin E + Vitamin A + Potassium Iodide + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vitamin E + 3 (extra Strength)</name>
+      <ingredients>Beta carotene + Selenium + Vitamin C + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Somavit Brand Vitamins and Minerals Complex</name>
+      <ingredients>Manganese + Pyridoxine + Thiamine + Riboflavin + Chromium + Selenium + Zinc + Folic Acid + Pantothenic acid + Nicotinamide + Copper + Vitamin C + Vitamin E + Vitamin d + Beta carotene</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vitamin E + 3 Extra Strength With Zinc</name>
+      <ingredients>Beta carotene + Selenium + Zinc + Vitamin C + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nutrilite Double X</name>
+      <ingredients>Manganese + Beta carotene + Pyridoxine + Thiamine + Riboflavin + Chromic chloride + Selenium + Zinc + Calcium + Calcium + Calcium + Cholecalciferol + Biotin + Folic Acid + Pantothenic acid + Nicotinamide + Copper + Vitamin C + Vitamin C + Potassium + Magnesium + Magnesium + Magnesium + Vitamin E + Vitamin E + Vitamin E + Potassium Iodide + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Icaps</name>
+      <ingredients>Manganese + Beta carotene + Riboflavin + Selenium + Zinc + Copper + Vitamin C + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vitalife  -  Capsule</name>
+      <ingredients>Manganese + Beta carotene + Riboflavin + Chromium + Selenium + Vitamin A + Zinc + Calcium + Choline + Inositol + Biotin + Folic Acid + Pantothenic acid + Pyridoxine + Nicotinamide + Niacin + Thiamine + Molybdenum + Vitamin C + Potassium + Magnesium + Vitamin E + Potassium Iodide + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Icaps Time Release</name>
+      <ingredients>Beta carotene + Riboflavin + Selenium + Zinc + Copper + Vitamin C + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sincera - Tablets</name>
+      <ingredients>Beta carotene + Selenium + Zinc + Cholecalciferol + Biotin + Vitamin C + Vitamin E + Vitamin A</ingredients>
+    </mixture>
+    <mixture>
+      <name>Formula 14 Dietary Supplement</name>
+      <ingredients>Beta carotene + Selenium + Zinc + Vitamin C + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Multi Vitamin - Mineral</name>
+      <ingredients>Manganese + Beta carotene + Pyridoxine + Thiamine + Riboflavin + Chromium + Selenium + Iron + Zinc + Cholecalciferol + Biotin + Folic Acid + Pantothenic acid + Nicotinamide + Copper + Molybdenum + Vitamin C + Magnesium + Vitamin E + Potassium Iodide + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>IV-8 Formula</name>
+      <ingredients>Manganese + Beta carotene + Selenium + Zinc</ingredients>
+    </mixture>
+    <mixture>
+      <name>Complete Multivitamins and Minerals Tablets Timed Release</name>
+      <ingredients>Manganese + Beta carotene + Pyridoxine + Thiamine + Riboflavin + Chromium + Selenium + Iron + Zinc + Calcium + Choline + Inositol + Biotin + Folic Acid + Pantothenic acid + Nicotinamide + Copper + Vitamin C + Potassium + Magnesium + Vitamin E + Vitamin d + Vitamin A + Potassium Iodide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Multi Nt-OX</name>
+      <ingredients>Beta carotene + Pyridoxine + Thiamine + Riboflavin + Selenium + Biotin + Pantothenic acid + Nicotinamide + Vitamin C + Vitamin E + Vitamin d + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Itabs Plus</name>
+      <ingredients>Manganese + Beta carotene + Riboflavin + Selenium + Zinc + Copper + Vitamin C + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Multi - N.T.O.x Formula - Tab</name>
+      <ingredients>Beta carotene + Pyridoxine + Thiamine + Riboflavin + Selenium + Cholecalciferol + Biotin + Pantothenic acid + Nicotinamide + Vitamin C + Vitamin E + Vitamin A + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Onccor</name>
+      <ingredients>Manganese + Beta carotene + Pyridoxine + Thiamine + Riboflavin + Chromium + Selenium + Zinc + Ergocalciferol + Choline + Inositol + Biotin + Folic Acid + Pantothenic acid + Nicotinamide + Cupric oxide + Molybdenum + Vitamin C + Potassium + Vitamin E + Vitamin A + Potassium Iodide + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Super-cell</name>
+      <ingredients>Beta carotene + Selenium + Pantothenic acid + Vitamin C + Potassium + Magnesium + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>V-V Dietary Supplement</name>
+      <ingredients>Beta carotene + Selenium + Zinc + Copper + Vitamin C + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vtb Vitamin and Mineral Supplement</name>
+      <ingredients>Manganese + Beta carotene + Pyridoxine + Thiamine + Riboflavin + Chromium + Selenium + Zinc + Biotin + Folic Acid + Pantothenic acid + Niacin + Vitamin C + Magnesium + Vitamin E + Cholecalciferol + Vitamin A + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Selenium Ctr Srt 50mg</name>
+      <ingredients>Selenium</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Antioxidants</category>
+      <mesh-id>D000975</mesh-id>
+    </category>
+    <category>
+      <category>Chalcogens</category>
+      <mesh-id>D018011</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Diet, Food, and Nutrition</category>
+      <mesh-id>D000066888</mesh-id>
+    </category>
+    <category>
+      <category>Elements</category>
+      <mesh-id>D004602</mesh-id>
+    </category>
+    <category>
+      <category>Food</category>
+      <mesh-id>D005502</mesh-id>
+    </category>
+    <category>
+      <category>Food and Beverages</category>
+      <mesh-id>D019602</mesh-id>
+    </category>
+    <category>
+      <category>Growth Substances</category>
+      <mesh-id>D006133</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Micronutrients</category>
+      <mesh-id>D018977</mesh-id>
+    </category>
+    <category>
+      <category>Mineral Supplements</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Minerals</category>
+      <mesh-id>D008903</mesh-id>
+    </category>
+    <category>
+      <category>Molecular Mechanisms of Pharmacological Action</category>
+      <mesh-id>D045504</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Phenomena</category>
+      <mesh-id>D010829</mesh-id>
+    </category>
+    <category>
+      <category>Protective Agents</category>
+      <mesh-id>D020011</mesh-id>
+    </category>
+    <category>
+      <category>Selenious Acid</category>
+      <mesh-id>D020887</mesh-id>
+    </category>
+    <category>
+      <category>Selenium</category>
+      <mesh-id>D012643</mesh-id>
+    </category>
+    <category>
+      <category>Selenium Compounds</category>
+      <mesh-id>D018036</mesh-id>
+    </category>
+    <category>
+      <category>Sodium Compounds</category>
+      <mesh-id>D017670</mesh-id>
+    </category>
+    <category>
+      <category>Specialty Uses of Chemicals</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+    <category>
+      <category>Trace Elements</category>
+      <mesh-id>D014131</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, extended release</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>30 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>40 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>200 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>100 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, extended release</form>
+      <route>Oral</route>
+      <strength>50 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>30 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>200 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>50 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>100 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intravenous</route>
+      <strength>40 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>60 mcg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="A12CE02">
+      <level code="A12CE">Selenium</level>
+      <level code="A12C">OTHER MINERAL SUPPLEMENTS</level>
+      <level code="A12">MINERAL SUPPLEMENTS</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB08930</drugbank-id>
+      <name>Dolutegravir</name>
+      <description>The serum concentration of Dolutegravir can be decreased when it is combined with Selenium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06210</drugbank-id>
+      <name>Eltrombopag</name>
+      <description>The serum concentration of Eltrombopag can be decreased when it is combined with Selenium.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>0.15</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>selanylidene</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>selanylidene</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>78.96</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>79.916521828</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[Se]</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>Se</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/Se</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>BUGBHKTXTAQXES-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>13.11</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>1.78</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>2295</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>6319</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>704</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>27568</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C01529</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

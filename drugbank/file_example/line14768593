@@ -1,0 +1,146 @@
+<drug type="biotech" created="2016-06-22" updated="2016-08-17">
+  <drugbank-id primary="true">DB11606</drugbank-id>
+  <name>Susoctocog alfa</name>
+  <description>Intravenous susoctocog alfa is a recombinant, B-domain deleted, porcine sequence antihaemophilic factor VIII (FVIII) product that has recently been approved for the treatment of bleeding episodes in adults with acquired haemophilia A (AHA). </description>
+  <cas-number>1339940-90-7</cas-number>
+  <unii>6892UQT2GK</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>27098420</pubmed-id>
+        <citation>Burness CB, Scott LJ: Susoctocog Alfa: A Review in Acquired Haemophilia A. Drugs. 2016 May;76(7):815-21. doi: 10.1007/s40265-016-0576-1.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For the treatment of Haemophilia A</indication>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Antihemophilic factor (recombinant) porcine sequence</synonym>
+    <synonym language="" coder="">Antihemophilic factor porcine, B-domain truncated recombinant</synonym>
+    <synonym language="" coder="">Porcine recombinant factor VIII B-domain truncated</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Obizur</name>
+      <labeller>Baxalta Canada Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02447401</dpd-id>
+      <started-marketing-on>2016-11-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>500 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Obizur</name>
+      <ingredients>Susoctocog alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Obizur</name>
+      <ingredients>Susoctocog alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Obizur</name>
+      <ingredients>Susoctocog alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Obizur</name>
+      <ingredients>Susoctocog alfa</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Blood and Blood Forming Organs</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Blood Coagulation Factors</category>
+      <mesh-id>D001779</mesh-id>
+    </category>
+    <category>
+      <category>Hemostatics</category>
+      <mesh-id>D006490</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>500 U</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>500 unit</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="B02BD14">
+      <level code="B02BD">Blood coagulation factors</level>
+      <level code="B02B">VITAMIN K AND OTHER HEMOSTATICS</level>
+      <level code="B02">ANTIHEMORRHAGICS</level>
+      <level code="B">BLOOD AND BLOOD FORMING ORGANS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>22653</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

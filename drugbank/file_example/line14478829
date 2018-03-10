@@ -1,0 +1,194 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-21">
+  <drugbank-id primary="true">DB09552</drugbank-id>
+  <name>Thonzonium bromide</name>
+  <description>Thonzonium Bromide is a cationic surface-active compound. As an additive to pharmacologic formulations, thonzonium bromide causes dispersion and penetration of cellular debris and exudate, thereby promoting tissue contact of the administered medication.</description>
+  <cas-number/>
+  <unii>JI2B19CR0R</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Pubchem</title>
+        <url>https://pubchem.ncbi.nlm.nih.gov/compound/11102#section=Drug-Labels-for-Ingredients</url>
+      </link>
+      <link>
+        <title>Wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Thonzonium_bromide</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>It is used in cortisporin-TC ear drops to help penetration of active ingredients through cellular debris for its antibacterial action.</indication>
+  <pharmacodynamics>Thonzonium bromide causes dispersion and penetration of cellular debris and exudate, thereby promoting tissue contact of the administered medication.</pharmacodynamics>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Coly-mycin S</name>
+      <labeller>Par Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>42023-108</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-11-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Auricular (otic)</route>
+      <fda-application-number>NDA050356</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Coly-mycin S</name>
+      <labeller>Endo Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>63481-421</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-04-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Auricular (otic)</route>
+      <fda-application-number>NDA050356</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cortisporin-TC</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-0564</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-05-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Auricular (otic)</route>
+      <fda-application-number>NDA050356</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cortisporin-TC</name>
+      <labeller>Par Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>42023-109</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-11-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Auricular (otic)</route>
+      <fda-application-number>NDA050356</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Cortisporin-TC</name>
+      <ingredients>Colistin + Neomycin + Thonzonium bromide + Hydrocortisone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cortisporin-TC</name>
+      <ingredients>Colistin + Neomycin + Thonzonium bromide + Hydrocortisone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Coly-mycin S</name>
+      <ingredients>Colistin + Neomycin + Thonzonium bromide + Hydrocortisone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Coly-mycin S</name>
+      <ingredients>Colistin + Neomycin + Thonzonium bromide + Hydrocortisone</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amines</category>
+      <mesh-id>D000588</mesh-id>
+    </category>
+    <category>
+      <category>Ammonium Compounds</category>
+      <mesh-id>D064751</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 1-Ring</category>
+      <mesh-id>D006573</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Nitrogen Compounds</category>
+      <mesh-id>D017672</mesh-id>
+    </category>
+    <category>
+      <category>Onium Compounds</category>
+      <mesh-id>D009861</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Suspension</form>
+      <route>Auricular (otic)</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

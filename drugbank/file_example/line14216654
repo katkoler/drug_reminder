@@ -1,0 +1,108 @@
+<drug type="small molecule" created="2015-11-30" updated="2016-08-17">
+  <drugbank-id primary="true">DB09509</drugbank-id>
+  <name>Samarium Sm-153 lexidronam pentasodium</name>
+  <description/>
+  <cas-number/>
+  <unii>7389YR3OOV</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Quadramet</name>
+      <labeller>Jazz Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>57902-860</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-05-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>50 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020570</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Quadramet</name>
+      <labeller>Lantheus Medical Imaging</labeller>
+      <ndc-id/>
+      <ndc-product-code>11994-016</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-05-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>50 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020570</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Quadramet</name>
+      <ingredients>Samarium Sm-153 lexidronam pentasodium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Quadramet</name>
+      <ingredients>Samarium Sm-153 lexidronam pentasodium</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>50 mCi/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

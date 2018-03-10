@@ -1,0 +1,1730 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-04-01">
+  <drugbank-id primary="true">DB09512</drugbank-id>
+  <name>Simethicone</name>
+  <description>Simethicone is an orally administered antifoaming agent. It is mainly used to reduce gas from the gastrointestinal tract  (GIT) in patients complaining from recurrent flatulence. Simethicone is a mixture of polydimethylsiloxane and hydrated silica gel. It exerts its action locally in the GIT, it is not absorbed into the blood stream. &#13;
+The main side effects of simethicone are GIT related including: mild diarrhea, nausea and vomiting.</description>
+  <cas-number/>
+  <unii/>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>MSDS</title>
+        <url>http://www.pfizer.com/system/files/products/material_safety_data/PZ00809.pdf</url>
+      </link>
+      <link>
+        <title>product info</title>
+        <url>http://npra.moh.gov.my/images/reg-and-noti/PI/non-poison/Simethicone_Tablet_Capsule.pdf</url>
+      </link>
+      <link>
+        <title>wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Simethicone</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>1. To relieve pain and discomfort caused by excess gas in the intestine and stomach in cases such as flatulence and post operative gaseous distention.&#13;
+2. It could be used also prior to an endoscopy to eliminate foam, gas and air from the gastrointestinal tract to reduce gas shadow which will result in better visualization.  </indication>
+  <pharmacodynamics>Simethicone acts by decreasing the surface tension of gas bubbles, thus facilitating their coalescence and expulsion as flatus or belching.&#13;
+It also prevents the formation and accumulation of mucus-enclosed pockets of gas in digestive tract. &#13;
+Simethicone also facilitates the passage of gas through bowel lumen and allows patients to excrete a greater volume of gas at one time, thereby reducing the number of flatus events.</pharmacodynamics>
+  <mechanism-of-action>Decreases the surface tension of gas bubbles thereby disperses and prevents gas pockets in the GI system. </mechanism-of-action>
+  <toxicity>LD50 (oral, rat): 4070 mg/Kg. </toxicity>
+  <metabolism>The drug is not absorbed and it is excreted in the feces unchanged.</metabolism>
+  <absorption>Not absorbed following oral administration.</absorption>
+  <half-life>The drug is not absorbed. </half-life>
+  <protein-binding>Simethicone is pharmacologically inert and is not absorbed from the gastrointestinal tract. </protein-binding>
+  <route-of-elimination>Excreted unchanged in feces.</route-of-elimination>
+  <volume-of-distribution>Simethicone is pharmacologically inert and is not absorbed from the gastrointestinal tract.</volume-of-distribution>
+  <clearance>Excreted unchanged in feces.</clearance>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001568</drugbank-id>
+      <name>Dimethicone 410</name>
+      <unii/>
+      <cas-number>9006-65-9</cas-number>
+      <inchikey/>
+    </salt>
+  </salts>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Antacid &amp; Antigas</name>
+      <labeller>Gericare Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02410095</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antacid Plus Antiflatulent - Alumina, Magnesia &amp; Simethicone Oral Suspension</name>
+      <labeller>D.C. Labs Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01950940</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>2005-07-19</ended-marketing-on>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antacid Plus Extra Strength</name>
+      <labeller>Jamp Pharma Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02257807</dpd-id>
+      <started-marketing-on>2006-02-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antacid Regular With Anti-gas</name>
+      <labeller>Jamp Pharma Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02261588</dpd-id>
+      <started-marketing-on>2006-02-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antacid With Alumina, Magnesia Plus Simethicone Oral Suspension USP</name>
+      <labeller>Jamp Pharma Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02039273</dpd-id>
+      <started-marketing-on>1995-08-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antacid With Anti-gas Liquid Extra Strength Mint Flavour</name>
+      <labeller>Pharmetics (2011) Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02337665</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Cancap Simethicone USP 180 Mg Soft Capsules</name>
+      <labeller>Cancap Pharmaceutical Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02322471</dpd-id>
+      <started-marketing-on>2014-01-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>180 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Diovol Plus AF - Tab</name>
+      <labeller>Church &amp; Dwight Company, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02157624</dpd-id>
+      <started-marketing-on>1995-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Diovol Plus AF-suspension</name>
+      <labeller>Church &amp; Dwight Company, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02157616</dpd-id>
+      <started-marketing-on>1995-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Diovol Plus Suspension</name>
+      <labeller>Church &amp; Dwight Company, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00116815</dpd-id>
+      <started-marketing-on>1963-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Extra Strength Gas Relief</name>
+      <labeller>Essentia Healthcare (Canada) Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02247764</dpd-id>
+      <started-marketing-on>2003-06-16</started-marketing-on>
+      <ended-marketing-on>2004-12-09</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength>166.0 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Extra Strength Maalox Grf Tablets 150mg</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02162288</dpd-id>
+      <started-marketing-on>1996-07-30</started-marketing-on>
+      <ended-marketing-on>1998-07-08</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>150 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Flat-eeze</name>
+      <labeller>Seaford Pharmaceuticals Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02229961</dpd-id>
+      <started-marketing-on>1998-03-20</started-marketing-on>
+      <ended-marketing-on>2003-09-08</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gas Relief</name>
+      <labeller>Banner Pharmacaps</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02245144</dpd-id>
+      <started-marketing-on>2003-06-16</started-marketing-on>
+      <ended-marketing-on>2014-09-10</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength>125 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gas Relief Extra Strength</name>
+      <labeller>Apotex Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02298430</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>125.0 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gas Relief Tablets</name>
+      <labeller>Guardian Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02328127</dpd-id>
+      <started-marketing-on>2010-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength>125 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gas Relief Ultra Strength</name>
+      <labeller>Apotex Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02298449</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>180.0 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gas Relief Ultra Strength</name>
+      <labeller>Humanwell Pura Cap Pharmaceutical (Wuhan), Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>53345-003</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-04-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength>180 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>part332</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gas X Thin Strips 62.5mg Simethicone</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02270331</dpd-id>
+      <started-marketing-on>2006-04-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Strip</dosage-form>
+      <strength>62.5 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gas X Ultra Strength</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02300761</dpd-id>
+      <started-marketing-on>2008-02-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>180 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gas-X Extra Strength</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00896675</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength>125 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gas-X Regular Strength</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01907875</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength>80 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gas-X Super Extra Strength</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02241766</dpd-id>
+      <started-marketing-on>2000-08-03</started-marketing-on>
+      <ended-marketing-on>2016-08-02</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength>166 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gastrex</name>
+      <labeller>Vanc Pharmaceuticals Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02457652</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength>42 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gelusil Antacid &amp; Anti-gas</name>
+      <labeller>Boyd Pharmaceuticals Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02426668</dpd-id>
+      <started-marketing-on>2014-08-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gerber Gas Relief Drops</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02242611</dpd-id>
+      <started-marketing-on>2003-05-28</started-marketing-on>
+      <ended-marketing-on>2007-07-18</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>40 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Imodium Complete Caplets</name>
+      <labeller>Mcneil Consumer Healthcare Division Of Johnson &amp; Johnson Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02245185</dpd-id>
+      <started-marketing-on>2002-06-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Imodium Complete Chewable Tablets</name>
+      <labeller>Mcneil Consumer Healthcare Division Of Johnson &amp; Johnson Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237297</dpd-id>
+      <started-marketing-on>1998-05-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Infacol</name>
+      <labeller>Forest Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02248588</dpd-id>
+      <started-marketing-on>2006-07-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength>40 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Infants Relief Non-staining Formula</name>
+      <labeller>Cvs Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>59779-102</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-02-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>20 mg/.3mL</strength>
+      <route>Oral</route>
+      <fda-application-number>part332</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Little Tummys Gas Relief Drops</name>
+      <labeller>Prestige Brands Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02266407</dpd-id>
+      <started-marketing-on>2007-04-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>20 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Maalox Advanced Antacid &amp; Antigas</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02244689</dpd-id>
+      <started-marketing-on>2002-04-22</started-marketing-on>
+      <ended-marketing-on>2016-08-02</ended-marketing-on>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Maalox Advanced Extra Strength Antacid &amp; Antigas</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02244690</dpd-id>
+      <started-marketing-on>2002-04-22</started-marketing-on>
+      <ended-marketing-on>2016-08-02</ended-marketing-on>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Maalox Advanced Extra Strength Antacid &amp; Antigas Chewable Tablets</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02243496</dpd-id>
+      <started-marketing-on>2001-05-22</started-marketing-on>
+      <ended-marketing-on>2016-08-02</ended-marketing-on>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Maalox Grf Tablets 80mg</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02162296</dpd-id>
+      <started-marketing-on>1996-07-30</started-marketing-on>
+      <ended-marketing-on>1998-07-08</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>80 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Maalox Plus Extra Strength Tablets</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02162334</dpd-id>
+      <started-marketing-on>1996-07-30</started-marketing-on>
+      <ended-marketing-on>1999-07-21</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Maalox Plus Suspension Extra Strength</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02162342</dpd-id>
+      <started-marketing-on>1996-07-30</started-marketing-on>
+      <ended-marketing-on>2002-04-22</ended-marketing-on>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Magsil</name>
+      <labeller>Fortune Pharmacal Company Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02244865</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ovol Drops 40mg</name>
+      <labeller>Church &amp; Dwight Company, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00013617</dpd-id>
+      <started-marketing-on>1963-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength>40 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ovol for Gas 180 Mg Capsule</name>
+      <labeller>Church &amp; Dwight Company, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239298</dpd-id>
+      <started-marketing-on>1999-03-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>180 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ovol for Gas 180 Mg Tablet</name>
+      <labeller>Church &amp; Dwight Company, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02247127</dpd-id>
+      <started-marketing-on>2003-05-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength>180 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ovol for Gas 80 Mg Tablet</name>
+      <labeller>Church &amp; Dwight Company, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00292990</dpd-id>
+      <started-marketing-on>1974-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength>80 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ovol-95 Mg Capsules</name>
+      <labeller>Carter Horner Corp.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239297</dpd-id>
+      <started-marketing-on>1999-03-26</started-marketing-on>
+      <ended-marketing-on>2001-07-18</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength>95 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pediacol</name>
+      <labeller>Euro Pharm International Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02245510</dpd-id>
+      <started-marketing-on>2004-05-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength>40 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Phazyme</name>
+      <labeller>Preferreed Pharmaceuticals Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>68788-0758</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-02-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength>180 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>part332</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Phazyme</name>
+      <labeller>Medtech Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>63029-550</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength>180 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>part332</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Phazyme Cap 125mg</name>
+      <labeller>C.B. Fleet Company, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01932268</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>125 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Phazyme Cap 95mg</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01953761</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>2008-08-01</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength>95 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Phazyme Liquid</name>
+      <labeller>Reed &amp; Carnrick, Division Of Block Drug Company (Canada) Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02229892</dpd-id>
+      <started-marketing-on>1997-07-16</started-marketing-on>
+      <ended-marketing-on>2000-06-28</ended-marketing-on>
+      <dosage-form>Emulsion</dosage-form>
+      <strength>62.5 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rolaids Extra Strength Multi-symptom Tablets</name>
+      <labeller>Sanofi Consumer Health Inc Sanofi Sante Grand Public Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02247314</dpd-id>
+      <started-marketing-on>2004-09-01</started-marketing-on>
+      <ended-marketing-on>2015-07-24</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rolaids Ultra Strength Plus Gas</name>
+      <labeller>Sanofi Consumer Health Inc Sanofi Sante Grand Public Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02269171</dpd-id>
+      <started-marketing-on>2007-02-02</started-marketing-on>
+      <ended-marketing-on>2015-07-24</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Simethicone 125 mg</name>
+      <labeller>Olds Softgels Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02437740</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>125 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Simethicone 180 mg</name>
+      <labeller>Olds Softgels Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02437759</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>180 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Simethicone 180mg USP</name>
+      <labeller>Strides Pharma Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02247661</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>180 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Simethicone-odan 180mg Extra Strength</name>
+      <labeller>Odan Laboratories Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02374110</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength>180 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Simethicone-odan 80 mg</name>
+      <labeller>Odan Laboratories Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02374102</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength>80 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Tums Gas Relief 125 mg</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02256894</dpd-id>
+      <started-marketing-on>2004-10-01</started-marketing-on>
+      <ended-marketing-on>2008-08-01</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength>125 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Tums Gas Relief Strong 180 mg</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02256908</dpd-id>
+      <started-marketing-on>2004-10-01</started-marketing-on>
+      <ended-marketing-on>2008-08-01</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength>180 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Tums Ultra Strength Liquid Plus Anti-gas</name>
+      <labeller>Smithkline Beecham Consumer Healthcare, Division Of Smithkline Beecham Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230536</dpd-id>
+      <started-marketing-on>1997-04-17</started-marketing-on>
+      <ended-marketing-on>2001-07-31</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ultra Strength Gas Relief</name>
+      <labeller>Vita Health Products Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02244204</dpd-id>
+      <started-marketing-on>2001-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>180 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ultra Strength Gas Relief</name>
+      <labeller>Banner Pharmacaps</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02245145</dpd-id>
+      <started-marketing-on>2003-06-16</started-marketing-on>
+      <ended-marketing-on>2014-09-10</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength>180 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ultra Strength Gas Relief Liquid Gels</name>
+      <labeller>Accucaps Industries Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02454165</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>180 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ultra Strength Phazyme 180mg Softgels</name>
+      <labeller>C.B. Fleet Company, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237698</dpd-id>
+      <started-marketing-on>1998-10-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>180 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Vivascon Extra Strength</name>
+      <labeller>Viva Pharmaceutical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02436922</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength>125 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Gas Relief Ultra Strength</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Infants Relief Non-staining Formula</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Phazyme</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Phazyme Cap 125mg</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Diovol Plus AF - Tab</name>
+      <ingredients>Calcium carbonate + Simethicone + Magnesium Hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Diovol Plus AF-suspension</name>
+      <ingredients>Calcium carbonate + Simethicone + Magnesium Hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovol Drops 40mg</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Imodium Complete Chewable Tablets</name>
+      <ingredients>Loperamide + Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ultra Strength Phazyme 180mg Softgels</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ultra Strength Gas Relief</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Imodium Complete Caplets</name>
+      <ingredients>Loperamide + Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pediacol</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Infacol</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antacid Regular With Anti-gas</name>
+      <ingredients>Simethicone + Magnesium Hydroxide + Aluminum hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Little Tummys Gas Relief Drops</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gas Relief Tablets</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Phazyme Cap 95mg</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antacid Plus Antiflatulent - Alumina, Magnesia &amp; Simethicone Oral Suspension</name>
+      <ingredients>Simethicone + Magnesium Hydroxide + Aluminum hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Maalox Grf Tablets 80mg</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Extra Strength Maalox Grf Tablets 150mg</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Maalox Plus Suspension Extra Strength</name>
+      <ingredients>Simethicone + Magnesium Hydroxide + Aluminum hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Maalox Plus Extra Strength Tablets</name>
+      <ingredients>Simethicone + Magnesium Hydroxide + Aluminum hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Phazyme Liquid</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tums Ultra Strength Liquid Plus Anti-gas</name>
+      <ingredients>Calcium + Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovol-95 Mg Capsules</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gerber Gas Relief Drops</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gas Relief</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ultra Strength Gas Relief</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rolaids Extra Strength Multi-symptom Tablets</name>
+      <ingredients>Calcium + Magnesium + Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Extra Strength Gas Relief</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tums Gas Relief 125 mg</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tums Gas Relief Strong 180 mg</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rolaids Ultra Strength Plus Gas</name>
+      <ingredients>Calcium carbonate + Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Magsil</name>
+      <ingredients>Simethicone + Magnesium Hydroxide + Aluminum hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Simethicone 180mg USP</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gas Relief Extra Strength</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gas Relief Ultra Strength</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antacid With Anti-gas Liquid Extra Strength Mint Flavour</name>
+      <ingredients>Simethicone + Magnesium Hydroxide + Aluminum hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Simethicone-odan 80 mg</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Simethicone-odan 180mg Extra Strength</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antacid &amp; Antigas</name>
+      <ingredients>Simethicone + Magnesium Hydroxide + Aluminum hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vivascon Extra Strength</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Simethicone 125 mg</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Simethicone 180 mg</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cancap Simethicone USP 180 Mg Soft Capsules</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gas-X Regular Strength</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Flat-eeze</name>
+      <ingredients>Simethicone + Activated charcoal</ingredients>
+    </mixture>
+    <mixture>
+      <name>Diovol Plus Suspension</name>
+      <ingredients>Simethicone + Magnesium Hydroxide + Aluminum hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antacid With Alumina, Magnesia Plus Simethicone Oral Suspension USP</name>
+      <ingredients>Simethicone + Magnesium Hydroxide + Aluminum hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antacid Plus Extra Strength</name>
+      <ingredients>Simethicone + Aluminum hydroxide + Aluminum hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gas X Thin Strips 62.5mg Simethicone</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gas X Ultra Strength</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ultra Strength Gas Relief Liquid Gels</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gas-X Extra Strength</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gas-X Super Extra Strength</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Maalox Advanced Extra Strength Antacid &amp; Antigas Chewable Tablets</name>
+      <ingredients>Calcium carbonate + Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Maalox Advanced Antacid &amp; Antigas</name>
+      <ingredients>Simethicone + Magnesium Hydroxide + Aluminum hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Maalox Advanced Extra Strength Antacid &amp; Antigas</name>
+      <ingredients>Simethicone + Magnesium Hydroxide + Aluminum hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gastrex</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Phazyme</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovol for Gas 80 Mg Tablet</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gelusil Antacid &amp; Anti-gas</name>
+      <ingredients>Simethicone + Magnesium Hydroxide + Aluminum hydroxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovol for Gas 180 Mg Capsule</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovol for Gas 180 Mg Tablet</name>
+      <ingredients>Simethicone</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Antifoaming Agents</category>
+      <mesh-id>D000934</mesh-id>
+    </category>
+    <category>
+      <category>Biomedical and Dental Materials</category>
+      <mesh-id>D001697</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Dermatologic Agents</category>
+      <mesh-id>D003879</mesh-id>
+    </category>
+    <category>
+      <category>Dimethylpolysiloxanes</category>
+      <mesh-id>D004129</mesh-id>
+    </category>
+    <category>
+      <category>Emollients</category>
+      <mesh-id>D004643</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Macromolecular Substances</category>
+      <mesh-id>D046911</mesh-id>
+    </category>
+    <category>
+      <category>Manufactured Materials</category>
+      <mesh-id>D008420</mesh-id>
+    </category>
+    <category>
+      <category>Molecular Mechanisms of Pharmacological Action</category>
+      <mesh-id>D045504</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Organosilicon Compounds</category>
+      <mesh-id>D017646</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Polymers</category>
+      <mesh-id>D011108</mesh-id>
+    </category>
+    <category>
+      <category>Silicon Compounds</category>
+      <mesh-id>D017655</mesh-id>
+    </category>
+    <category>
+      <category>Silicones</category>
+      <mesh-id>D012828</mesh-id>
+    </category>
+    <category>
+      <category>Siloxanes</category>
+      <mesh-id>D012833</mesh-id>
+    </category>
+    <category>
+      <category>Specialty Uses of Chemicals</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+    <category>
+      <category>Surface-Active Agents</category>
+      <mesh-id>D013501</mesh-id>
+    </category>
+    <category>
+      <category>Technology, Industry, and Agriculture</category>
+      <mesh-id>D013676</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Liquid</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>166.0 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>150 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>125.0 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, chewable</form>
+      <route>Oral</route>
+      <strength>125 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>180.0 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, liquid filled</form>
+      <route>Oral</route>
+      <strength>180 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Strip</form>
+      <route>Oral</route>
+      <strength>62.5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>166 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, chewable</form>
+      <route>Oral</route>
+      <strength>42 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Oral</route>
+      <strength>40 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, chewable</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Oral</route>
+      <strength>40 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Oral</route>
+      <strength>20 mg/.3mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Oral</route>
+      <strength>20 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>80 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution / drops</form>
+      <route>Oral</route>
+      <strength>40 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>180 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, gelatin coated</form>
+      <route>Oral</route>
+      <strength>180 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>125 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>95 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Emulsion</form>
+      <route>Oral</route>
+      <strength>62.5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, chewable</form>
+      <route>Oral</route>
+      <strength>180 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, chewable</form>
+      <route>Oral</route>
+      <strength>80 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>180 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>125 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents>
+    <patent>
+      <number>6103260</number>
+      <country>United States</country>
+      <approved>1997-07-17</approved>
+      <expires>2017-07-17</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>719</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

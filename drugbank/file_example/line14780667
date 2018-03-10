@@ -1,0 +1,699 @@
+<drug type="biotech" created="2016-10-17" updated="2017-02-26">
+  <drugbank-id primary="true">DB11627</drugbank-id>
+  <drugbank-id>DB10308</drugbank-id>
+  <drugbank-id>DB10993</drugbank-id>
+  <name>Hepatitis B Vaccine (Recombinant)</name>
+  <description>Hepatitis B Vaccine is an ingredient in the EMA-withdrawn product Quintanrix. It is marketed in Canada as Engerix B. It is also a part of Twinrix (Hep A/Hep B vaccine) available also in Canada.&#13;
+The hepatitis B virus induces a severe form of viral hepatitis. Other causative agents are hepatitis A virus, and the non-A, non-B hepatitis viruses. Hepatitis D virus, a defective virus requiring the “keeper function” of the hepatitis B virus, occurs either as a co-infection or super-infection in a HBsAg carrier.&#13;
+&#13;
+Transmission of the virus occurs through percutaneous contact with contaminated blood, serum or plasma. Infection may also occur by the exposure of mucous surfaces, or intact or damaged skin to other body fluids such as saliva, mucosal secretions and semen.&#13;
+&#13;
+There is no specific treatment for hepatitis. The incubation period may be as long as 6 months, followed by a very complex clinical course of an acute or chronic nature, often leading to hospitalization.&#13;
+&#13;
+Viral hepatitis caused by hepatitis B virus is a major worldwide health problem, though the incidence and epidemiology vary widely among geographical areas and population subgroups.&#13;
+&#13;
+In Canada, the United States and Northern Europe, 4% to 6% of the population are infected during their lifetime (mostly young adults); between 5% and 10% of infections lead to persistent viremia (carrier state). Certain population subgroups in these areas, however, are at high risk (see Indications and Clinical Use).&#13;
+&#13;
+In Asia, infection often occurs early in life, leading to a hepatitis B marker prevalence of more than 70% in the general population and a carrier rate of up to 20%.&#13;
+&#13;
+It is estimated that the reservoir of persistent hepatitis B surface antigen carriers amounts to 350 million people worldwide. Carriers are at a high risk of developing chronic liver disease which may lead to cirrhosis or primary hepatocellular carcinoma. A significant reduction in the incidence of hepatocellular carcinoma has been observed in children aged 6 to14 years following a nationwide hepatitis B vaccination in Taiwan. This resulted from a significant decline in the prevalence of hepatitis B antigen, the persistence of which is an essential factor in the development of hepatocellular carcinoma.&#13;
+&#13;
+Vaccination against hepatitis B is expected in the long term to reduce the overall incidence of both hepatitis B and the chronic complications such as chronic active hepatitis and cirrhosis.</description>
+  <cas-number/>
+  <unii>IFJ010MNE4</unii>
+  <groups>
+    <group>approved</group>
+    <group>withdrawn</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Engerix-B Monograph </title>
+        <url>http://ca.gsk.com/media/590068/engerix-b.pdf</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Active immunization against hepatitis B virus infection.&#13;
+&#13;
+The vaccine will not protect against infection caused by hepatitis A and non-A non-B hepatitis viruses. As hepatitis D (caused by the delta agent) does not occur in the absence of hepatitis B infection or carrier state, it can be expected that hepatitis D will also be prevented by vaccination with hepatitis B virus vaccine.&#13;
+&#13;
+The vaccine can be administered at any age from birth onwards. It may be used to start a primary course of vaccination or as a booster dose. It may also be used to complete a primary course of vaccination started with plasma-derived or yeast-derived vaccines or as a booster dose in subjects who have previously received a primary course of vaccination with plasma-derived or yeast-derived vaccines.&#13;
+&#13;
+In areas of low prevalence of hepatitis B, vaccination is strongly recommended in subjects who are at increased risk of infection. These include the following groups:&#13;
+&#13;
+* Health professionals: physicians and surgeons; oral surgeons and dentists; nurses, dental nurses, dental hygienists, podiatrists; IV teams and operating room personnel; paramedical personnel in close contact with patients; staff in hemodialysis, nephrology, hepatology, hematology and oncology units; laboratory personnel handling blood and other clinical specimens; blood bank and plasma fractionation workers; pathologists and morgue attendants; cleaning staff who handle waste in hospitals; emergency and first aid workers; ambulance staff; dental, medical and nursing students.&#13;
+* Patients: patients receiving frequent blood transfusion or clotting factor concentrates, such as those in oncology units and those with thalassemia, sickle-cell anemia, cirrhosis, hemophilia, etc.; patients on hemodialysis; patients with type 2 diabetes.&#13;
+* Personnel and residents of institutions: persons with frequent and/or close contacts with high-risk groups; prisoners and prison staff; residents and staff of institutions for the developmentally challenged (those who are in contact with aggressive biting residents being at highest risk).&#13;
+* Persons at increased risk due to their sexual practices: males having sexual contact with other males; others with multiple sexual partners or with a recent history of sexually transmitted disease.&#13;
+* Persons who use injectable drugs illicitly.&#13;
+* Travellers to areas of high endemicity and their close contacts.&#13;
+* Household contacts of any of the above groups and of patients with acute or chronic hepatitis B infection.&#13;
+* Infants born of HBsAg-positive mothers.&#13;
+* Chronic Liver Disease (CLD): subjects with chronic liver disease; subjects at risk of developing CLD (e.g. Hepatitis C virus carriers, persons who abuse alcohol).&#13;
+* Others: police; fire fighters; armed forces personnel; morticians and embalmers; those who through their work or personal lifestyle may be exposed to the hepatitis B virus.&#13;
+* In areas of both low and high prevalence, vaccination should be offered to all young children and neonates at risk, as well as to adult high risk groups.</indication>
+  <pharmacodynamics>ENGERIX-B induces specific humoral antibodies against the surface antigen of hepatitis B virus (anti-HBs antibodies). An anti-HBs antibody titre above 10 IU/l correlates with protection to HBV infection.</pharmacodynamics>
+  <mechanism-of-action>ENGERIX®-B induces specific humoral antibodies against HBsAg (anti-HBs antibodies). It is generally accepted that an anti-HBs titre greater than 10 IU/L correlates with protection against hepatitis B virus infection. More than 90% of healthy adults, children and neonates developed protective anti-HBs titres one month after completing a&#13;
+primary vaccination schedule of ENGERIX®-B (hepatitis B vaccine (recombinant)).</mechanism-of-action>
+  <toxicity>Cases of overdose have been reported during post-marketing surveillance. Adverse  events reported following overdosage were similar to those reported with normal vaccine administration.</toxicity>
+  <metabolism>Evaluation of pharmacokinetic properties is not required for vaccines. </metabolism>
+  <absorption>Vaccine is intended for intramuscular injection. Evaluation of pharmacokinetic properties is not required for vaccines. </absorption>
+  <half-life>Evaluation of pharmacokinetic properties is not required for vaccines. </half-life>
+  <protein-binding>Evaluation of pharmacokinetic properties is not required for vaccines. </protein-binding>
+  <route-of-elimination>Evaluation of pharmacokinetic properties is not required for vaccines. </route-of-elimination>
+  <volume-of-distribution>Evaluation of pharmacokinetic properties is not required for vaccines. </volume-of-distribution>
+  <clearance>Evaluation of pharmacokinetic properties is not required for vaccines. </clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001979</drugbank-id>
+      <name>Hepatitis B virus subtype ADW HBSAG surface protein antigen</name>
+      <unii>XL4HLC6JH6</unii>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001978</drugbank-id>
+      <name>Hepatitis B virus subtype ADW2 HBSAG surface protein antigen</name>
+      <unii>9GCJ1L5D1P</unii>
+      <cas-number>351186-51-1</cas-number>
+      <inchikey/>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">HBSAG</synonym>
+    <synonym language="" coder="">Hepatitis B antigen</synonym>
+    <synonym language="" coder="">Hepatitis B surface antigen</synonym>
+    <synonym language="" coder="">Hepatitis B surface antigen</synonym>
+    <synonym language="" coder="">Hepatitis B Surface Antigen (rDNA)</synonym>
+    <synonym language="" coder="">Hepatitis B surface antigen (recombinant)</synonym>
+    <synonym language="" coder="">Hepatitis B surface antigen vaccine</synonym>
+    <synonym language="" coder="">Hepatitis B surface antigens</synonym>
+    <synonym language="" coder="">Hepatitis B Vaccine</synonym>
+    <synonym language="" coder="">Hepatitis B virus hbsag surface protein antigen</synonym>
+    <synonym language="" coder="">Hepatitis-B surface antigen</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Comvax</name>
+      <labeller>Merck Sharp &amp; Dohme Limited
+ </labeller>
+      <ndc-id/>
+      <ndc-product-code>0006-4898</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1996-10-02</started-marketing-on>
+      <ended-marketing-on>2016-11-18</ended-marketing-on>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103623</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Engerix B Inj Sus 20mcg/ml</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01919431</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength>20 mcg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Engerix-B</name>
+      <labeller>Dispensing Solutions, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>68258-3042</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-05-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength>20 ug/mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103239</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Engerix-B</name>
+      <labeller>Glaxo Smith Kline Biologicals Sa</labeller>
+      <ndc-id/>
+      <ndc-product-code>58160-820</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-04-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength>10 ug/.5mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103239</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Engerix-B</name>
+      <labeller>Glaxo Smith Kline Biologicals Sa</labeller>
+      <ndc-id/>
+      <ndc-product-code>58160-821</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength>20 ug/mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103239</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Engerix-B (pediatric Dose)</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02296454</dpd-id>
+      <started-marketing-on>2008-07-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength>10 mcg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pediarix</name>
+      <labeller>Glaxo Smith Kline Biologicals Sa</labeller>
+      <ndc-id/>
+      <ndc-product-code>58160-811</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-07-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103907</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Recombivax HB</name>
+      <labeller>Merck Sharp &amp; Dohme Limited
+ </labeller>
+      <ndc-id/>
+      <ndc-product-code>0006-4981</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-07-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength>5 ug/.5mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number>BLA101066</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Recombivax HB</name>
+      <labeller>Merck Sharp &amp; Dohme Limited
+ </labeller>
+      <ndc-id/>
+      <ndc-product-code>0006-4992</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-07-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength>40 ug/mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number>BLA101066</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Recombivax HB</name>
+      <labeller>Merck Sharp &amp; Dohme Limited
+ </labeller>
+      <ndc-id/>
+      <ndc-product-code>0006-4995</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-07-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength>10 ug/mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number>BLA101066</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Recombivax HB</name>
+      <labeller>Remedy Repack</labeller>
+      <ndc-id/>
+      <ndc-product-code>52125-837</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-02-20</started-marketing-on>
+      <ended-marketing-on>2016-03-31</ended-marketing-on>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength>10 ug/mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA101066</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Recombivax HB</name>
+      <labeller>Merck Sharp &amp; Dohme Limited
+ </labeller>
+      <ndc-id/>
+      <ndc-product-code>0006-4093</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-07-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength>5 ug/.5mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number>BLA101066</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Recombivax HB</name>
+      <labeller>Merck Sharp &amp; Dohme Limited
+ </labeller>
+      <ndc-id/>
+      <ndc-product-code>0006-4094</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-07-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength>10 ug/mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number>BLA101066</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Recombivax HB -(adult Dialysis-preservative Free)</name>
+      <labeller>Merck Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02245977</dpd-id>
+      <started-marketing-on>2002-10-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>40 mcg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Recombivax HB -(preservative Free)</name>
+      <labeller>Merck Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02243676</dpd-id>
+      <started-marketing-on>2001-04-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>10 mcg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Recombivax HB (adult Dialysis With Preservative)</name>
+      <labeller>Merck Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01934023</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>2005-09-17</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>40 mcg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Recombivax HB (with Preservative)</name>
+      <labeller>Merck Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00749486</dpd-id>
+      <started-marketing-on>1987-12-31</started-marketing-on>
+      <ended-marketing-on>2010-03-08</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>10 mcg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Twinrix</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230578</dpd-id>
+      <started-marketing-on>1997-09-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Twinrix</name>
+      <labeller>Glaxo Smith Kline Biologicals Sa</labeller>
+      <ndc-id/>
+      <ndc-product-code>58160-815</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-06-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103850</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Twinrix Junior</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237548</dpd-id>
+      <started-marketing-on>1998-11-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Recombivax HB</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Recombivax HB</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Comvax</name>
+      <ingredients>Haemophilus influenzae type b capsular polysaccharide meningococcal outer membrane protein conjugate antigen + Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Recombivax HB</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Recombivax HB</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Recombivax HB</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Recombivax HB</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Engerix-B</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pediarix</name>
+      <ingredients>Corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated) + Clostridium tetani toxoid antigen (formaldehyde inactivated) + Bordetella pertussis toxoid antigen (formaldehyde, glutaraldehyde inactivated) + Bordetella pertussis filamentous hemagglutinin antigen (formaldehyde inactivated) + Bordetella pertussis pertactin antigen (formaldehyde inactivated) + Hepatitis B Vaccine (Recombinant) + Poliovirus type 1 antigen (formaldehyde inactivated) + Poliovirus type 2 antigen (formaldehyde inactivated) + Poliovirus type 3 antigen (formaldehyde inactivated)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Twinrix</name>
+      <ingredients>Hepatitis A Vaccine + Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Engerix-B</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Engerix-B</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Engerix B Inj Sus 20mcg/ml</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Twinrix</name>
+      <ingredients>Hepatitis A Vaccine + Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Twinrix Junior</name>
+      <ingredients>Hepatitis A Vaccine + Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Recombivax HB -(preservative Free)</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Recombivax HB -(adult Dialysis-preservative Free)</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Engerix-B (pediatric Dose)</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Recombivax HB (adult Dialysis With Preservative)</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Recombivax HB (with Preservative)</name>
+      <ingredients>Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Antigens</category>
+      <mesh-id>D000941</mesh-id>
+    </category>
+    <category>
+      <category>Antigens, Viral</category>
+      <mesh-id>D000956</mesh-id>
+    </category>
+    <category>
+      <category>Biological Factors</category>
+      <mesh-id>D001685</mesh-id>
+    </category>
+    <category>
+      <category>Biological Products</category>
+      <mesh-id>D001688</mesh-id>
+    </category>
+    <category>
+      <category>Complex Mixtures</category>
+      <mesh-id>D045424</mesh-id>
+    </category>
+    <category>
+      <category>Hepatitis Antigens</category>
+      <mesh-id>D018963</mesh-id>
+    </category>
+    <category>
+      <category>Hepatitis B Antigens</category>
+      <mesh-id>D006511</mesh-id>
+    </category>
+    <category>
+      <category>Vaccines</category>
+      <mesh-id>D014612</mesh-id>
+    </category>
+    <category>
+      <category>Viral Hepatitis Vaccines</category>
+      <mesh-id>D014761</mesh-id>
+    </category>
+    <category>
+      <category>Viral Vaccines</category>
+      <mesh-id>D014765</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Hepatitis B virus</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, suspension</form>
+      <route>Intramuscular</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Intramuscular</route>
+      <strength>20 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, suspension</form>
+      <route>Intramuscular</route>
+      <strength>10 ug/.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, suspension</form>
+      <route>Intramuscular</route>
+      <strength>20 ug/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Intramuscular</route>
+      <strength>10 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, suspension</form>
+      <route>Intramuscular</route>
+      <strength>10 ug/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, suspension</form>
+      <route>Intramuscular; Subcutaneous</route>
+      <strength>10 ug/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, suspension</form>
+      <route>Intramuscular; Subcutaneous</route>
+      <strength>40 ug/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, suspension</form>
+      <route>Intramuscular; Subcutaneous</route>
+      <strength>5 ug/.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular</route>
+      <strength>40 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular</route>
+      <strength>10 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Intramuscular</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7746</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Hepatitis_B_vaccine</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>https://www.drugs.com/monograph/hepatitis-b-vaccine.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,497 @@
+<drug type="biotech" created="2016-04-06" updated="2016-08-17">
+  <drugbank-id primary="true">DB11569</drugbank-id>
+  <name>Ixekizumab</name>
+  <description>Ixekizumab is a humanized immunoglobulin G subclass 4 (IgG4) monoclonal antibody (mAb) against interleukin-17A (IL-17A) and prevents it from interacting with the IL-17A receptor. As IL-17A is a pro-inflammatory cytokine involved in inflammation and immune responses, blocking its effect is beneficial for use in inflammatory conditions. In particular, IL-17A has been found to be implicated in a variety of autoimmune diseases including Rheumatoid Arthritis and plaque psoriasis. &#13;
+&#13;
+Ixekizumab is produced by recombinant DNA technology in a recombinant mammalian cell line and purified using standard technology for bioprocessing. Ixekizumab is comprised of two identical light chain polypeptides of 219 amino acids each and two identical heavy chain polypeptides of 445 amino acids each, and has a molecular weight of 146,158 Daltons for the protein backbone of the molecule. It is indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy.</description>
+  <cas-number>1143503-69-8</cas-number>
+  <unii>BTY153760O</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>25748485</pubmed-id>
+        <citation>Dyring-Andersen B, Skov L, Zachariae C: Ixekizumab for treatment of psoriasis. Expert Rev Clin Immunol. 2015 Apr;11(4):435-42. doi: 10.1586/1744666X.2015.1023295. Epub 2015 Mar 8.</citation>
+      </article>
+      <article>
+        <pubmed-id>20131262</pubmed-id>
+        <citation>Genovese MC, Van den Bosch F, Roberson SA, Bojin S, Biagini IM, Ryan P, Sloan-Lancaster J: LY2439821, a humanized anti-interleukin-17 monoclonal antibody, in the treatment of patients with rheumatoid arthritis: A phase I randomized, double-blind, placebo-controlled, proof-of-concept study. Arthritis Rheum. 2010 Apr;62(4):929-39. doi: 10.1002/art.27334.</citation>
+      </article>
+      <article>
+        <pubmed-id>11920418</pubmed-id>
+        <citation>Bush KA, Farmer KM, Walker JS, Kirkham BW: Reduction of joint inflammation and bone erosion in rat adjuvant arthritis by treatment with interleukin-17 receptor IgG1 Fc fusion protein. Arthritis Rheum. 2002 Mar;46(3):802-5.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication> Ixekizumab is indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy. </indication>
+  <pharmacodynamics/>
+  <mechanism-of-action>Ixekizumab is a humanized immunoglobulin G subclass 4 (IgG4) monoclonal antibody (mAb) against interleukin-17A (IL-17A) and prevents it from interacting with the IL-17A receptor. As IL-17A is a pro-inflammatory cytokine involved in inflammation and immune responses, blocking its effect is beneficial for use in inflammatory conditions. In particular, IL-17A has been found to be implicated in a variety of autoimmune diseases including Rheumatoid Arthritis and plaque psoriasis. </mechanism-of-action>
+  <toxicity>The most common adverse reactions associated with Ixekizumab treatment are injection site reactions, upper respiratory tract infections, nausea, and tinea infections.</toxicity>
+  <metabolism>The metabolic pathway of ixekizumab has not been characterized. As a humanized IgG4 monoclonal antibody ixekizumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG.</metabolism>
+  <absorption>Following a single subcutaneous dose of 160 mg in subjects with plaque psoriasis, ixekizumab reached peak mean (±SD) serum concentrations (Cmax) of 16.2 ±6.6 mcg/mL by approximately 4 days post dose.</absorption>
+  <half-life>13 days</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution>The mean (geometric CV%) volume of distribution at steady-state was 7.11 L (29%) in subjects with plaque psoriasis.</volume-of-distribution>
+  <clearance>0.39 L/day </clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Taltz</name>
+      <labeller>Eli Lilly &amp; Co. Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02455102</dpd-id>
+      <started-marketing-on>2016-08-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>80 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Taltz</name>
+      <labeller>Eli Lilly &amp; Co. Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02455110</dpd-id>
+      <started-marketing-on>2016-08-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>80 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Taltz</name>
+      <labeller>Eli Lilly &amp; Co. Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0002-1445</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-03-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>80 mg/mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA125521</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Taltz</name>
+      <labeller>Eli Lilly &amp; Co. Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0002-7724</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-03-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>80 mg/mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA125521</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Taltz</name>
+      <ingredients>Ixekizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Taltz</name>
+      <ingredients>Ixekizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Taltz</name>
+      <ingredients>Ixekizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Taltz</name>
+      <ingredients>Ixekizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Taltz</name>
+      <ingredients>Ixekizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Taltz</name>
+      <ingredients>Ixekizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Taltz</name>
+      <ingredients>Ixekizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Taltz</name>
+      <ingredients>Ixekizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Taltz</name>
+      <ingredients>Ixekizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Taltz</name>
+      <ingredients>Ixekizumab</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies</category>
+      <mesh-id>D000906</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies, Monoclonal</category>
+      <mesh-id>D000911</mesh-id>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Globulins</category>
+      <mesh-id>D005916</mesh-id>
+    </category>
+    <category>
+      <category>Immunoglobulins</category>
+      <mesh-id>D007136</mesh-id>
+    </category>
+    <category>
+      <category>Immunoproteins</category>
+      <mesh-id>D007162</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Serum Globulins</category>
+      <mesh-id>D012712</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>80 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>80 mg/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>80 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB11569.pdf?1471376787</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB08879</drugbank-id>
+      <name>Belimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Ixekizumab is combined with Belimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04914</drugbank-id>
+      <name>G17DT</name>
+      <description>The therapeutic efficacy of G17DT can be decreased when used in combination with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05942</drugbank-id>
+      <name>GI-5005</name>
+      <description>The therapeutic efficacy of GI-5005 can be decreased when used in combination with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05322</drugbank-id>
+      <name>INGN 201</name>
+      <description>The therapeutic efficacy of INGN 201 can be decreased when used in combination with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05325</drugbank-id>
+      <name>INGN 225</name>
+      <description>The therapeutic efficacy of INGN 225 can be decreased when used in combination with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10283</drugbank-id>
+      <name>Rabies vaccine</name>
+      <description>The therapeutic efficacy of Rabies vaccine can be decreased when used in combination with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05374</drugbank-id>
+      <name>Rindopepimut</name>
+      <description>The therapeutic efficacy of CDX-110 can be decreased when used in combination with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05440</drugbank-id>
+      <name>SRP 299</name>
+      <description>The therapeutic efficacy of SRP 299 can be decreased when used in combination with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06584</drugbank-id>
+      <name>TG4010</name>
+      <description>The therapeutic efficacy of TG4010 can be decreased when used in combination with Ixekizumab.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;Heavy Chain Sequence
+QVQLVQSGAEVKKPGSSVKVSCKASGYSFTDYHIHWVRQAPGQGLEWMGVINPMYGTTDY
+NQRFKGRVTITADESTSTAYMELSSLRSEDTAVYYCARYDYFTGTGVYWGQGTLVTVSSA
+STKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSG
+LYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPPCPAPEFLGGPSVF
+LFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYR
+VVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKN
+QVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGN
+VFSCSVMHEALHNHYTQKSLSLSLG</sequence>
+    <sequence format="FASTA">&gt;Light Chain Sequence
+DIVMTQTPLSLSVTPGQPASISCRSSRSLVHSRGNTYLHWYLQKPGQSPQLLIYKVSNRF
+IGVPDRFSGSGSGTDFTLKISRVEAEDVGVYYCSQSTHLPFTFGQGTKLEIKRTVAAPSV
+FIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSL
+SSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>146158.0</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C6492H10012N1728O2028S46</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>22714</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D10071</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Ixekizumab</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1743034</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/taltz-drug.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>https://www.drugs.com/taltz.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0005863</id>
+      <name>Interleukin-17A</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antibody</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q16552" source="Swiss-Prot">
+    <name>Interleukin-17A</name>
+    <general-function>Cytokine receptor binding</general-function>
+    <specific-function>Induces stromal cells to produce proinflammatory and hematopoietic cytokines. Enhances the surface expression of ICAM1/intracellular adhesion molecule 1 in fibroblasts.</specific-function>
+    <gene-name>IL17A</gene-name>
+    <locus/>
+    <cellular-location>Secreted</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions>1-23</signal-regions>
+    <theoretical-pi/>
+    <molecular-weight>17503.92</molecular-weight>
+    <chromosome-location>6</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:5981</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q16552</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>IL17_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>CTLA-8</synonym>
+      <synonym>CTLA8</synonym>
+      <synonym>Cytotoxic T-lymphocyte-associated antigen 8</synonym>
+      <synonym>IL-17</synonym>
+      <synonym>IL17</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0013974|Interleukin-17A
+MTPGKTSLVSLLLLLSLEAIVKAGITIPRNPGCPNSEDKNFPRTVMVNLNIHNRNTNTNP
+KRSSDYYNRSTSPWNLHRNEDPERYPSVIWEAKCRHLGCINADGNVDYHMNSVPIQQEIL
+VLRREPPHCPNSFRLEKILVSVGCTCVTPIVHHVA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0013975|Interleukin-17A (IL17A)
+ATGACTCCTGGGAAGACCTCATTGGTGTCACTGCTACTGCTGCTGAGCCTGGAGGCCATA
+GTGAAGGCAGGAATCACAATCCCACGAAATCCAGGATGCCCAAATTCTGAGGACAAGAAC
+TTCCCCCGGACTGTGATGGTCAACCTGAACATCCATAACCGGAATACCAATACCAATCCC
+AAAAGGTCCTCAGATTACTACAACCGATCCACCTCACCTTGGAATCTCCACCGCAATGAG
+GACCCTGAGAGATATCCCTCTGTGATCTGGGAGGCAAAGTGCCGCCACTTGGGCTGCATC
+AACGCTGATGGGAACGTGGACTACCACATGAACTCTGTCCCCATCCAGCAAGAGATCCTG
+GTCCTGCGCAGGGAGCCTCCACACTGCCCCAACTCCTTCCGGCTGGAGAAGATACTGGTG
+TCCGTGGGCTGCACCTGTGTCACCCCGATTGTCCACCATGTGGCCTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF06083</identifier>
+        <name>IL17</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>external side of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular space</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>cytokine receptor binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>cytokine activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>inflammatory response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell-cell signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>fibroblast activation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cytokine production involved in inflammatory response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>apoptotic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of necrotic cell death</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell surface receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to amino acid</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to glucocorticoid stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>immune response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of osteoclast differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell death</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of interleukin-23 production</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to interleukin-1</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

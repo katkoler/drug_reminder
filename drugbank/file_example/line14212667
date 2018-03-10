@@ -1,0 +1,154 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-14">
+  <drugbank-id primary="true">DB09498</drugbank-id>
+  <name>Strontium chloride Sr-89</name>
+  <description>Strontium chloride Sr 89 is used to help relieve the bone pain that may occur with certain kinds of cancer. The radioactive strontium is taken up in the bone cancer area and gives off radiation that helps provide relief of pain.</description>
+  <cas-number/>
+  <unii>5R78837D4A</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>1379058</pubmed-id>
+        <citation>Fossa SD, Paus E, Lochoff M, Backe SM, Aas M: 89Strontium in bone metastases from hormone resistant prostate cancer: palliation effect and biochemical changes. Br J Cancer. 1992 Jul;66(1):177-80.</citation>
+      </article>
+      <article>
+        <pubmed-id>1717094</pubmed-id>
+        <citation>Laing AH, Ackery DM, Bayly RJ, Buchanan RB, Lewington VJ, McEwan AJ, Macleod PM, Zivanovic MA: Strontium-89 chloride for pain palliation in prostatic skeletal malignancy. Br J Radiol. 1991 Sep;64(765):816-22.</citation>
+      </article>
+      <article>
+        <pubmed-id>2477119</pubmed-id>
+        <citation>Montebello JF, Hartson-Eaton M: The palliation of osseous metastasis with 32P or 89Sr compared with external beam and hemibody irradiation: a historical perspective. Cancer Invest. 1989;7(2):139-60.</citation>
+      </article>
+      <article>
+        <pubmed-id>7684862</pubmed-id>
+        <citation>Ackery D, Yardley J: Radionuclide-targeted therapy for the management of metastatic bone pain. Semin Oncol. 1993 Jun;20(3 Suppl 2):27-31.</citation>
+      </article>
+      <article>
+        <pubmed-id>1613572</pubmed-id>
+        <citation>Breen SL, Powe JE, Porter AT: Dose estimation in strontium-89 radiotherapy of metastatic prostatic carcinoma. J Nucl Med. 1992 Jul;33(7):1316-23.</citation>
+      </article>
+      <article>
+        <pubmed-id>7684554</pubmed-id>
+        <citation>Hansen DV, Holmes ER, Catton G, Thorne DA, Chadwick DH, Schmutz DA: Strontium-89 therapy for painful osseous metastatic prostate and breast cancer. Am Fam Physician. 1993 Jun;47(8):1795-800.</citation>
+      </article>
+      <article>
+        <pubmed-id>1716935</pubmed-id>
+        <citation>Lewington VJ, McEwan AJ, Ackery DM, Bayly RJ, Keeling DH, Macleod PM, Porter AT, Zivanovic MA: A prospective, randomised double-blind crossover study to examine the efficacy of strontium-89 in pain palliation in patients with advanced prostate cancer metastatic to bone. Eur J Cancer. 1991;27(8):954-8.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>FDA label</title>
+        <url>http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/020134s012lbl.pdf</url>
+      </link>
+      <link>
+        <title>Daily med</title>
+        <url>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5444c028-3fcd-4b37-82e4-3cce0f53488a</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Strontium-89 Chloride Injection is indicated for the relief of bone pain in patients with painful skeletal metastases. The radioactive strontium is taken up in the bone cancer area and gives off radiation that helps provide relief of pain.</indication>
+  <pharmacodynamics>Following intravenous injection, soluble strontium compounds behave like their calcium analogs, clearing rapidly from the blood and selectively localizing in bone mineral. Uptake of strontium by bone occurs preferentially in sites of active osteogenesis; thus primary bone tumors and areas of metastatic involvement (blastic lesions) can accumulate significantly greater concentrations of strontium than surrounding normal bone.</pharmacodynamics>
+  <mechanism-of-action>Strontium-89 Chloride concentrates in areas of increased osteogenesis, not in marrow cells. Thus, reactive osteoid being formed at sites of primary bone tumors and metastases accumulate strontium to a much higher level than does surrounding normal bone. The retained strontium can deliver a radiation dose sufficiently large to produce a palliative effect. Due to the short range of the beta particles, the cells close to regions containing strontium will be preferentially irradiated. &#13;
+Strontium-89 Chloride is retained in metastatic bone lesions much longer than in normal bone, where turnover is about 14 days. In patients with extensive skeletal metastases, well over half of the injected dose is retained in the bones.</mechanism-of-action>
+  <toxicity>A single case of fatal septicemia following leukopenia has been reported during clinical trials.  Bone marrow depression leading to thrombocytopenia (unusual bleeding or bruising; black, tarry stools; blood in urine or stools; pinpoint red spots on skin), and leukopenia (cough or hoarseness; fever or chills; lower back or side pain; painful or difficult urination)</toxicity>
+  <metabolism/>
+  <absorption>Strontium chloride Sr 89, a calcium analog, follows the same biochemical pathways as calcium does in vivo and concentrates in areas of increased osteogenesis, not in marrow cells.</absorption>
+  <half-life>biological half-life of 14 days in normal bones, but retained much longer in metastatic bone lesions</half-life>
+  <protein-binding/>
+  <route-of-elimination>Excretion pathways are two-thirds urinary and one-third fecal in patients with bone metastases. Urinary excretion is higher in people without bone lesions. Urinary excretion is greatest in the first two days following injection.</route-of-elimination>
+  <volume-of-distribution/>
+  <clearance>Rapid</clearance>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Metastron</name>
+      <labeller>Medi Physics Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>17156-524</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1993-06-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>1 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020134</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Strontium Chloride SR-89</name>
+      <labeller>Bio Nucleonics Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>65909-089</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2003-01-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>1 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA075941</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Metastron</name>
+      <ingredients>Strontium chloride Sr-89</ingredients>
+    </mixture>
+    <mixture>
+      <name>Strontium Chloride SR-89</name>
+      <ingredients>Strontium chloride Sr-89</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>1 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>1 mCi/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

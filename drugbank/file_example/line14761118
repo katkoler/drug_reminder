@@ -1,0 +1,533 @@
+<drug type="small molecule" created="2016-05-06" updated="2016-08-17">
+  <drugbank-id primary="true">DB11591</drugbank-id>
+  <name>Bilastine</name>
+  <description>Bilastine is a novel new-generation antihistamine that is highly selective for the H1 histamine receptor, has a rapid onset and prolonged duration of action.</description>
+  <cas-number>202189-78-4</cas-number>
+  <unii>PA1123N395</unii>
+  <average-mass>463.622</average-mass>
+  <monoisotopic-mass>463.283492063</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>27110120</pubmed-id>
+        <citation>Wang XY, Lim-Jurado M, Prepageran N, Tantilipikorn P, Wang de Y: Treatment of allergic rhinitis and urticaria: a review of the newest antihistamine drug bilastine. Ther Clin Risk Manag. 2016 Apr 13;12:585-97. doi: 10.2147/TCRM.S105189. eCollection 2016.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism>Bilastine does not interact with the cytochrome P450 system and does not undergo significant metabolism in humans.</metabolism>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as benzimidazoles. These are organic compounds containing a benzene ring fused to an imidazole ring (five member ring containing a nitrogen atom, 4 carbon atoms, and two double bonds).</description>
+    <direct-parent>Benzimidazoles</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organoheterocyclic compounds</superclass>
+    <class>Benzimidazoles</class>
+    <subclass/>
+    <alternative-parent>Amino acids</alternative-parent>
+    <alternative-parent>Aralkylamines</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Dialkyl ethers</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>N-substituted imidazoles</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Phenethylamines</alternative-parent>
+    <alternative-parent>Phenylpropanes</alternative-parent>
+    <alternative-parent>Piperidines</alternative-parent>
+    <alternative-parent>Trialkylamines</alternative-parent>
+    <substituent>Amine</substituent>
+    <substituent>Amino acid</substituent>
+    <substituent>Amino acid or derivatives</substituent>
+    <substituent>Aralkylamine</substituent>
+    <substituent>Aromatic heteropolycyclic compound</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Azole</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Benzimidazole</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Dialkyl ether</substituent>
+    <substituent>Ether</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Imidazole</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>Monocyclic benzene moiety</substituent>
+    <substituent>N-substituted imidazole</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Phenethylamine</substituent>
+    <substituent>Phenylpropane</substituent>
+    <substituent>Piperidine</substituent>
+    <substituent>Tertiary aliphatic amine</substituent>
+    <substituent>Tertiary amine</substituent>
+  </classification>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Blexten</name>
+      <labeller>Aralez Pharmaceuticals Trading Dac</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02454130</dpd-id>
+      <started-marketing-on>2016-12-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength>20 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Bilaxten</name>
+      <company/>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Blexten</name>
+      <ingredients>Bilastine</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Antihistamines for Systemic Use</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 1-Ring</category>
+      <mesh-id>D006573</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 2-Ring</category>
+      <mesh-id>D006574</mesh-id>
+    </category>
+    <category>
+      <category>Respiratory System</category>
+      <mesh-id>D012137</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>20 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="R06AX29">
+      <level code="R06AX">Other antihistamines for systemic use</level>
+      <level code="R06A">ANTIHISTAMINES FOR SYSTEMIC USE</level>
+      <level code="R06">ANTIHISTAMINES FOR SYSTEMIC USE</level>
+      <level code="R">RESPIRATORY SYSTEM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>5.02</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-5.4</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>2.03e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>2.41</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>2-[4-(2-{4-[1-(2-ethoxyethyl)-1H-1,3-benzodiazol-2-yl]piperidin-1-yl}ethyl)phenyl]-2-methylpropanoic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>bilastine</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>463.622</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>463.283492063</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CCOCCN1C(=NC2=CC=CC=C12)C1CCN(CCC2=CC=C(C=C2)C(C)(C)C(O)=O)CC1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C28H37N3O3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C28H37N3O3/c1-4-34-20-19-31-25-8-6-5-7-24(25)29-26(31)22-14-17-30(18-15-22)16-13-21-9-11-23(12-10-21)28(2,3)27(32)33/h5-12,22H,4,13-20H2,1-3H3,(H,32,33)</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>ACCMWZWAEFYUGZ-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>67.59</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>135.58</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>54.94</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>10</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>4.06</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>9.43</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>22707</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Bilastine</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1742423</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000442</id>
+      <name>Histamine H1 receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>27110120</pubmed-id>
+            <citation>Wang XY, Lim-Jurado M, Prepageran N, Tantilipikorn P, Wang de Y: Treatment of allergic rhinitis and urticaria: a review of the newest antihistamine drug bilastine. Ther Clin Risk Manag. 2016 Apr 13;12:585-97. doi: 10.2147/TCRM.S105189. eCollection 2016.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P35367" source="Swiss-Prot">
+    <name>Histamine H1 receptor</name>
+    <general-function>Histamine receptor activity</general-function>
+    <specific-function>In peripheral tissues, the H1 subclass of histamine receptors mediates the contraction of smooth muscles, increase in capillary permeability due to contraction of terminal venules, and catecholamine release from adrenal medulla, as well as mediating neurotransmission in the central nervous system.</specific-function>
+    <gene-name>HRH1</gene-name>
+    <locus>3p25</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>30-52
+63-83
+102-123
+144-164
+190-210
+417-438
+451-470</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>9.58</theoretical-pi>
+    <molecular-weight>55783.61</molecular-weight>
+    <chromosome-location>3</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:5182</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>HRH1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>Z34897</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>510296</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>IUPHAR</resource>
+        <identifier>262</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>262</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P35367</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>HRH1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>H1R</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016092|Histamine H1 receptor
+MSLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTICLVTVGLNLLVLYAVRSERKLHT
+VGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPLCLFWLSMDYVASTASIFSVFI
+LCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKC
+ETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINRSLPSFSEIKLR
+PENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDREVDKL
+YCFPLDIVHMQAAAEGSSRDYVAVNRSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSR
+TDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFI
+MAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFK
+RILHIRS</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016093|Histamine H1 receptor (HRH1)
+ATGAGCCTCCCCAATTCCTCCTGCCTCTTAGAAGACAAGATGTGTGAGGGCAACAAGACC
+ACTATGGCCAGCCCCCAGCTGATGCCCCTGGTGGTGGTCCTGAGCACTATCTGCTTGGTC
+ACAGTAGGGCTCAACCTGCTGGTGCTGTATGCCGTACGGAGTGAGCGGAAGCTCCACACT
+GTGGGGAACCTGTACATCGTCAGCCTCTCGGTGGCGGACTTGATCGTGGGTGCCGTCGTC
+ATGCCTATGAACATCCTCTACCTGCTCATGTCCAAGTGGTCACTGGGCCGTCCTCTCTGC
+CTCTTTTGGCTTTCCATGGACTATGTGGCCAGCACAGCGTCCATTTTCAGTGTCTTCATC
+CTGTGCATTGATCGCTACCGCTCTGTCCAGCAGCCCCTCAGGTACCTTAAGTATCGTACC
+AAGACCCGAGCCTCGGCCACCATTCTGGGGGCCTGGTTTCTCTCTTTTCTGTGGGTTATT
+CCCATTCTAGGCTGGAATCACTTCATGCAGCAGACCTCGGTGCGCCGAGAGGACAAGTGT
+GAGACAGACTTCTATGATGTCACCTGGTTCAAGGTCATGACTGCCATCATCAACTTCTAC
+CTGCCCACCTTGCTCATGCTCTGGTTCTATGCCAAGATCTACAAGGCCGTACGACAACAC
+TGCCAGCACCGGGAGCTCATCAATAGGTCCCTCCCTTCCTTCTCAGAAATTAAGCTGAGG
+CCAGAGAACCCCAAGGGGGATGCCAAGAAACCAGGGAAGGAGTCTCCCTGGGAGGTTCTG
+AAAAGGAAGCCAAAAGATGCTGGTGGTGGATCTGTCTTGAAGTCACCATCCCAAACCCCC
+AAGGAGATGAAATCCCCAGTTGTCTTCAGCCAAGAGGATGATAGAGAAGTAGACAAACTC
+TACTGCTTTCCACTTGATATTGTGCACATGCAGGCTGCGGCAGAGGGGAGTAGCAGGGAC
+TATGTAGCCGTCAACCGGAGCCATGGCCAGCTCAAGACAGATGAGCAGGGCCTGAACACA
+CATGGGGCCAGCGAGATATCAGAGGATCAGATGTTAGGTGATAGCCAATCCTTCTCTCGA
+ACGGACTCAGATACCACCACAGAGACAGCACCAGGCAAAGGCAAATTGAGGAGTGGGTCT
+AACACAGGCCTGGATTACATCAAGTTTACTTGGAAGAGGCTCCGCTCGCATTCAAGACAG
+TATGTATCTGGGTTGCACATGAACCGCGAAAGGAAGGCCGCCAAACAGTTGGGTTTTATC
+ATGGCAGCCTTCATCCTCTGCTGGATCCCTTATTTCATCTTCTTCATGGTCATTGCCTTC
+TGCAAGAACTGTTGCAATGAACATTTGCACATGTTCACCATCTGGCTGGGCTACATCAAC
+TCCACACTGAACCCCCTCATCTACCCCTTGTGCAATGAGAACTTCAAGAAGACATTCAAG
+AGAATTCTGCATATTCGCTCCTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00001</identifier>
+        <name>7tm_1</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>histamine binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>G-protein coupled receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>histamine receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>G-protein coupled receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>eosinophil chemotaxis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sensory perception of chemical stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>inositol phosphate-mediated signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>phospholipase C-activating G-protein coupled receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>modulation of synaptic transmission</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of vasoconstriction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>memory</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of synaptic plasticity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>inflammatory response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>visual learning</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of vasoconstriction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of inositol trisphosphate biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to histamine</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of vascular permeability</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,3324 @@
+<drug type="small molecule" created="2015-11-30" updated="2016-08-17">
+  <drugbank-id primary="true">DB09477</drugbank-id>
+  <name>Enalaprilat</name>
+  <description>Enalaprilat is the active metabolite of the orally available pro-drug, enalapril. Used in the treatment of hypertension, enalapril is an ACE inhibitor that prevents Angiotensin Converting Enzyme (ACE) from transforming angiotensin I into angiotensin II. As angiotensin II is responsible for vasoconstriction and sodium reabsorption in the proximal tubule of the kidney, down-regulation of this protein results in reduced blood pressure and blood fluid volume. Enalaprilat was originally created to overcome the limitations of the first ACE inhibitor, captopril, which had numerous side effects and left a metallic taste in the mouth. Removal of the problematic thiol group from captopril resulted in enalaprilat, which was then modified further with an ester to create the orally available pro-drug enalapril.&#13;
+&#13;
+Enalaprilat is poorly orally available and is therefore only available as an intravenous injection for the treatment of hypertension when oral therapy is not possible. </description>
+  <cas-number>76420-72-9</cas-number>
+  <unii>GV0O7ES0R3</unii>
+  <average-mass>384.429</average-mass>
+  <monoisotopic-mass>384.18965125</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>6301792</pubmed-id>
+        <citation>Ulm EH: Enalapril maleate (MK-421), a potent, nonsulfhydryl angiotensin-converting enzyme inhibitor: absorption, disposition, and metabolism in man. Drug Metab Rev. 1983;14(1):99-110.</citation>
+      </article>
+      <article>
+        <pubmed-id>6099737</pubmed-id>
+        <citation>Davies RO, Gomez HJ, Irvin JD, Walker JF: An overview of the clinical pharmacology of enalapril. Br J Clin Pharmacol. 1984;18 Suppl 2:215S-229S.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Enalaprilat injection is indicated for the treatment of hypertension when oral therapy is not practical.</indication>
+  <pharmacodynamics>Enalaprilat injection results in the reduction of both supine and standing systolic and diastolic blood pressure, usually with no orthostatic component. Symptomatic postural hypotension is therefore infrequent, although it might be anticipated in volume-depleted patients. The onset of action usually occurs within fifteen minutes of administration with the maximum effect occurring within one to four hours. The abrupt withdrawal of enalaprilat has not been associated with a rapid increase in blood pressure.&#13;
+The duration of hemodynamic effects appears to be dose-related. However, for the recommended dose, the duration of action in most patients is approximately six hours.&#13;
+Following administration of enalapril, there is an increase in renal blood flow; glomerular filtration rate is usually unchanged. The effects appear to be similar in patients with renovascular hypertension.</pharmacodynamics>
+  <mechanism-of-action>Enalaprilat is the active metabolite of the orally available pro-drug, enalapril. Used in the treatment of hypertension, enalapril is an ACE inhibitor that prevents Angiotensin Converting Enzyme (ACE) from transforming angiotensin I into angiotensin II. As angiotensin II is responsible for vasoconstriction and sodium reabsorption in the proximal tubule of the kidney, down-regulation of this protein results in reduced blood pressure and blood fluid volume</mechanism-of-action>
+  <toxicity>Adverse experiences occurring in 0.5 to 1.0 percent of patients in controlled clinical trials included: myocardial infarction, fatigue, dizziness, fever, rash and constipation.&#13;
+Angioedema has also been reported in patients receiving enalaprilat, with an incidence higher in black than in non-black patients. Angioedema associated with laryngeal edema may be fatal. If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with enalaprilat should be discontinued and appropriate therapy instituted immediately . &#13;
+&#13;
+Rarer adverse effects that are less likely, but should be monitored for, include development of anaphylaxis, hypotension, agranulocytosis, hepatic failure, hyperkalemia, and persistent cough. &#13;
+&#13;
+Furthermore, ACE inhibitors should be avoided during pregnancy as they can cause fetal and neonatal morbidity and death. When pregnancy is detected, ACE inhibitors should be discontinued as soon as possible. Use during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.</toxicity>
+  <metabolism>Both enalapril and enalaprilat undergo renal excretion without further metabolism. </metabolism>
+  <absorption>Enalaprilat is poorly absorbed following oral administration, and is therefore only available as an intravenous injection.</absorption>
+  <half-life>11 hr</half-life>
+  <protein-binding>Enalaprilat is approximately 50% bound to plasma proteins. (Davies, et al. 1984)</protein-binding>
+  <route-of-elimination>Excretion of enalaprilat is primarily renal with more than 90 percent of an administered dose recovered in the urine as unchanged drug within 24 hours.</route-of-elimination>
+  <volume-of-distribution/>
+  <clearance>The disposition of enalaprilat in patients with renal insufficiency is similar to that in patients with normal renal function until the glomerular filtration rate is 30 mL/min or less. Renal clearance was 158 ± 47 ml/min.</clearance>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as dipeptides. These are organic compounds containing a sequence of exactly two alpha-amino acids joined by a peptide bond.</description>
+    <direct-parent>Dipeptides</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic acids and derivatives</superclass>
+    <class>Carboxylic acids and derivatives</class>
+    <subclass>Amino acids, peptides, and analogues</subclass>
+    <alternative-parent>Alpha amino acid amides</alternative-parent>
+    <alternative-parent>Amino acids</alternative-parent>
+    <alternative-parent>Aralkylamines</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Benzene and substituted derivatives</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Dialkylamines</alternative-parent>
+    <alternative-parent>Dicarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>L-alpha-amino acids</alternative-parent>
+    <alternative-parent>N-acyl-L-alpha-amino acids</alternative-parent>
+    <alternative-parent>N-acylpyrrolidines</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Proline and derivatives</alternative-parent>
+    <alternative-parent>Pyrrolidine carboxylic acids</alternative-parent>
+    <alternative-parent>Tertiary carboxylic acid amides</alternative-parent>
+    <substituent>Alpha-amino acid</substituent>
+    <substituent>Alpha-amino acid amide</substituent>
+    <substituent>Alpha-amino acid or derivatives</substituent>
+    <substituent>Alpha-dipeptide</substituent>
+    <substituent>Amine</substituent>
+    <substituent>Amino acid</substituent>
+    <substituent>Amino acid or derivatives</substituent>
+    <substituent>Aralkylamine</substituent>
+    <substituent>Aromatic heteromonocyclic compound</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxamide group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Dicarboxylic acid or derivatives</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>L-alpha-amino acid</substituent>
+    <substituent>Monocyclic benzene moiety</substituent>
+    <substituent>N-acyl-alpha amino acid or derivatives</substituent>
+    <substituent>N-acyl-alpha-amino acid</substituent>
+    <substituent>N-acyl-l-alpha-amino acid</substituent>
+    <substituent>N-acylpyrrolidine</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organoheterocyclic compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Proline or derivatives</substituent>
+    <substituent>Pyrrolidine</substituent>
+    <substituent>Pyrrolidine carboxylic acid</substituent>
+    <substituent>Pyrrolidine carboxylic acid or derivatives</substituent>
+    <substituent>Secondary aliphatic amine</substituent>
+    <substituent>Secondary amine</substituent>
+    <substituent>Tertiary carboxylic acid amide</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001927</drugbank-id>
+      <name>enalaprilat maleate</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">enalaprilat dihydrate</synonym>
+    <synonym language="" coder="">enalaprilat hydrate</synonym>
+    <synonym language="" coder="">enalprilate hydrate</synonym>
+    <synonym language="" coder="IUPAC">N-[(1S)-1-carboxy-3-phenylpropyl]-L-alanyl-L-proline—water (1/2)</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Enalaprilat</name>
+      <labeller>Teva Parenteral Medicines, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0703-8401</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2005-10-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>1.25 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA075578</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enalaprilat</name>
+      <labeller>Teva Parenteral Medicines, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0703-8411</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2005-10-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>1.25 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA075578</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enalaprilat</name>
+      <labeller>West Ward Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>0143-9786</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-12-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>2.5 mg/2mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA078687</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enalaprilat</name>
+      <labeller>West Ward Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>0143-9787</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-12-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>1.25 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA078687</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enalaprilat</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-2122</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-08-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>1.25 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA075458</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enalaprilat</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>55154-0355</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-08-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>1.25 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA075634</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enalaprilat Injection USP</name>
+      <labeller>Sterimax Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02388499</dpd-id>
+      <started-marketing-on>2012-09-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>1.25 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Vasotec IV</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01923846</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>1.25 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Enalaprilat</name>
+      <ingredients>Enalaprilat</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enalaprilat</name>
+      <ingredients>Enalaprilat</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enalaprilat</name>
+      <ingredients>Enalaprilat</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enalaprilat</name>
+      <ingredients>Enalaprilat</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enalaprilat</name>
+      <ingredients>Enalaprilat</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enalaprilat</name>
+      <ingredients>Enalaprilat</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasotec IV</name>
+      <ingredients>Enalaprilat</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enalaprilat Injection USP</name>
+      <ingredients>Enalaprilat</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Angiotensin-Converting Enzyme Inhibitors</category>
+      <mesh-id>D000806</mesh-id>
+    </category>
+    <category>
+      <category>Antihypertensive Agents</category>
+      <mesh-id>D000959</mesh-id>
+    </category>
+    <category>
+      <category>Cardiovascular Agents</category>
+      <mesh-id>D002317</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Dipeptides</category>
+      <mesh-id>D004151</mesh-id>
+    </category>
+    <category>
+      <category>Enalapril</category>
+      <mesh-id>D004656</mesh-id>
+    </category>
+    <category>
+      <category>Enzyme Inhibitors</category>
+      <mesh-id>D004791</mesh-id>
+    </category>
+    <category>
+      <category>Hypotensive Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Molecular Mechanisms of Pharmacological Action</category>
+      <mesh-id>D045504</mesh-id>
+    </category>
+    <category>
+      <category>Oligopeptides</category>
+      <mesh-id>D009842</mesh-id>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Protease Inhibitors</category>
+      <mesh-id>D011480</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>1.25 mg/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>2.5 mg/2mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>1.25 mg/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>1.25 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB09477.pdf?1470952578</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB08550</drugbank-id>
+      <name>7,8-DICHLORO-1,2,3,4-TETRAHYDROISOQUINOLINE</name>
+      <description>7,8-DICHLORO-1,2,3,4-TETRAHYDROISOQUINOLINE may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01048</drugbank-id>
+      <name>Abacavir</name>
+      <description>The serum concentration of Abacavir can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01193</drugbank-id>
+      <name>Acebutolol</name>
+      <description>Acebutolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06736</drugbank-id>
+      <name>Aceclofenac</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Aceclofenac.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00819</drugbank-id>
+      <name>Acetazolamide</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Acetazolamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12618</drugbank-id>
+      <name>Acetovanillone</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Acetovanillone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00945</drugbank-id>
+      <name>Acetylsalicylic acid</name>
+      <description>Acetylsalicylic acid may decrease the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00210</drugbank-id>
+      <name>Adapalene</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Adapalene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00041</drugbank-id>
+      <name>Aldesleukin</name>
+      <description>The risk or severity of adverse effects can be increased when Aldesleukin is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00346</drugbank-id>
+      <name>Alfuzosin</name>
+      <description>The serum concentration of Alfuzosin can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09026</drugbank-id>
+      <name>Aliskiren</name>
+      <description>Aliskiren may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00437</drugbank-id>
+      <name>Allopurinol</name>
+      <description>The risk of a hypersensitivity reaction to Allopurinol is increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06203</drugbank-id>
+      <name>Alogliptin</name>
+      <description>The risk or severity of adverse effects can be increased when Alogliptin is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00404</drugbank-id>
+      <name>Alprazolam</name>
+      <description>The serum concentration of Alprazolam can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00866</drugbank-id>
+      <name>Alprenolol</name>
+      <description>Alprenolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06403</drugbank-id>
+      <name>Ambrisentan</name>
+      <description>Enalaprilat may increase the hypotensive activities of Ambrisentan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13141</drugbank-id>
+      <name>Ambroxol acefyllinate</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01143</drugbank-id>
+      <name>Amifostine</name>
+      <description>Enalaprilat may increase the hypotensive activities of Amifostine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00594</drugbank-id>
+      <name>Amiloride</name>
+      <description>Amiloride may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04836</drugbank-id>
+      <name>Amineptine</name>
+      <description>The serum concentration of Amineptine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01223</drugbank-id>
+      <name>Aminophylline</name>
+      <description>The serum concentration of Aminophylline can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00233</drugbank-id>
+      <name>Aminosalicylic Acid</name>
+      <description>Aminosalicylic Acid may decrease the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01118</drugbank-id>
+      <name>Amiodarone</name>
+      <description>The risk or severity of adverse effects can be increased when Amiodarone is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00321</drugbank-id>
+      <name>Amitriptyline</name>
+      <description>The serum concentration of Amitriptyline can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00381</drugbank-id>
+      <name>Amlodipine</name>
+      <description>Amlodipine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01351</drugbank-id>
+      <name>Amobarbital</name>
+      <description>Amobarbital may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00681</drugbank-id>
+      <name>Amphotericin B</name>
+      <description>The risk or severity of adverse effects can be increased when Amphotericin B is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01612</drugbank-id>
+      <name>Amyl Nitrite</name>
+      <description>The risk or severity of adverse effects can be increased when Amyl Nitrite is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11785</drugbank-id>
+      <name>Anisodamine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Anisodamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01435</drugbank-id>
+      <name>Antipyrine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Antipyrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00714</drugbank-id>
+      <name>Apomorphine</name>
+      <description>The risk or severity of adverse effects can be increased when Apomorphine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00964</drugbank-id>
+      <name>Apraclonidine</name>
+      <description>The risk or severity of adverse effects can be increased when Apraclonidine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05676</drugbank-id>
+      <name>Apremilast</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Apremilast.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06692</drugbank-id>
+      <name>Aprotinin</name>
+      <description>Aprotinin may decrease the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00407</drugbank-id>
+      <name>Ardeparin</name>
+      <description>Ardeparin may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01238</drugbank-id>
+      <name>Aripiprazole</name>
+      <description>Aripiprazole may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09204</drugbank-id>
+      <name>Arotinolol</name>
+      <description>The risk or severity of adverse effects can be increased when Arotinolol is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01169</drugbank-id>
+      <name>Arsenic trioxide</name>
+      <description>The risk or severity of adverse effects can be increased when Arsenic trioxide is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00335</drugbank-id>
+      <name>Atenolol</name>
+      <description>Atenolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01076</drugbank-id>
+      <name>Atorvastatin</name>
+      <description>The serum concentration of Atorvastatin can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07402</drugbank-id>
+      <name>Azapropazone</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Azapropazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00993</drugbank-id>
+      <name>Azathioprine</name>
+      <description>Enalaprilat may increase the myelosuppressive activities of Azathioprine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00972</drugbank-id>
+      <name>Azelastine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Azelastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08822</drugbank-id>
+      <name>Azilsartan medoxomil</name>
+      <description>The risk or severity of adverse effects can be increased when Azilsartan medoxomil is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01014</drugbank-id>
+      <name>Balsalazide</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Balsalazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09001</drugbank-id>
+      <name>Barbexaclone</name>
+      <description>Barbexaclone may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01483</drugbank-id>
+      <name>Barbital</name>
+      <description>Barbital may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09227</drugbank-id>
+      <name>Barnidipine</name>
+      <description>The risk or severity of adverse effects can be increased when Barnidipine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09258</drugbank-id>
+      <name>Bemiparin</name>
+      <description>Bemiparin may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00542</drugbank-id>
+      <name>Benazepril</name>
+      <description>Benazepril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00436</drugbank-id>
+      <name>Bendroflumethiazide</name>
+      <description>Bendroflumethiazide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09246</drugbank-id>
+      <name>Benmoxin</name>
+      <description>Benmoxin may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04812</drugbank-id>
+      <name>Benoxaprofen</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Benoxaprofen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01244</drugbank-id>
+      <name>Bepridil</name>
+      <description>Bepridil may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00195</drugbank-id>
+      <name>Betaxolol</name>
+      <description>Betaxolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00217</drugbank-id>
+      <name>Bethanidine</name>
+      <description>Bethanidine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12480</drugbank-id>
+      <name>Betulinic Acid</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Betulinic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00905</drugbank-id>
+      <name>Bimatoprost</name>
+      <description>Bimatoprost may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00612</drugbank-id>
+      <name>Bisoprolol</name>
+      <description>Bisoprolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08873</drugbank-id>
+      <name>Boceprevir</name>
+      <description>The serum concentration of Enalaprilat can be decreased when it is combined with Boceprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00188</drugbank-id>
+      <name>Bortezomib</name>
+      <description>The risk or severity of adverse effects can be increased when Bortezomib is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00559</drugbank-id>
+      <name>Bosentan</name>
+      <description>Bosentan may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01158</drugbank-id>
+      <name>Bretylium</name>
+      <description>Bretylium may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00484</drugbank-id>
+      <name>Brimonidine</name>
+      <description>Brimonidine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00484</drugbank-id>
+      <name>Brimonidine</name>
+      <description>Brimonidine may increase the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00963</drugbank-id>
+      <name>Bromfenac</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Bromfenac.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01200</drugbank-id>
+      <name>Bromocriptine</name>
+      <description>The serum concentration of Bromocriptine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12160</drugbank-id>
+      <name>Bucillamine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Bucillamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00887</drugbank-id>
+      <name>Bumetanide</name>
+      <description>Bumetanide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00297</drugbank-id>
+      <name>Bupivacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Bupivacaine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08808</drugbank-id>
+      <name>Bupranolol</name>
+      <description>Bupranolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00248</drugbank-id>
+      <name>Cabergoline</name>
+      <description>The serum concentration of Cabergoline can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08907</drugbank-id>
+      <name>Canagliflozin</name>
+      <description>Canagliflozin may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00796</drugbank-id>
+      <name>Candesartan</name>
+      <description>The risk or severity of adverse effects can be increased when Candesartan is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00616</drugbank-id>
+      <name>Candoxatril</name>
+      <description>Candoxatril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01197</drugbank-id>
+      <name>Captopril</name>
+      <description>Captopril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The metabolism of Enalaprilat can be increased when combined with Carbamazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01282</drugbank-id>
+      <name>Carbetocin</name>
+      <description>The risk or severity of adverse effects can be increased when Carbetocin is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09254</drugbank-id>
+      <name>Caroxazone</name>
+      <description>Caroxazone may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00821</drugbank-id>
+      <name>Carprofen</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Carprofen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00521</drugbank-id>
+      <name>Carteolol</name>
+      <description>Carteolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01136</drugbank-id>
+      <name>Carvedilol</name>
+      <description>Carvedilol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01816</drugbank-id>
+      <name>Castanospermine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Castanospermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00482</drugbank-id>
+      <name>Celecoxib</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Celecoxib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04846</drugbank-id>
+      <name>Celiprolol</name>
+      <description>Celiprolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09261</drugbank-id>
+      <name>Certoparin</name>
+      <description>Certoparin may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00608</drugbank-id>
+      <name>Chloroquine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Chloroquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00880</drugbank-id>
+      <name>Chlorothiazide</name>
+      <description>Chlorothiazide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00269</drugbank-id>
+      <name>Chlorotrianisene</name>
+      <description>The serum concentration of Chlorotrianisene can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00477</drugbank-id>
+      <name>Chlorpromazine</name>
+      <description>The risk or severity of adverse effects can be increased when Chlorpromazine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00310</drugbank-id>
+      <name>Chlorthalidone</name>
+      <description>Chlorthalidone may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01340</drugbank-id>
+      <name>Cilazapril</name>
+      <description>Cilazapril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09232</drugbank-id>
+      <name>Cilnidipine</name>
+      <description>The risk or severity of adverse effects can be increased when Cilnidipine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00537</drugbank-id>
+      <name>Ciprofloxacin</name>
+      <description>Enalaprilat may increase the arrhythmogenic activities of Ciprofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00604</drugbank-id>
+      <name>Cisapride</name>
+      <description>The serum concentration of Cisapride can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01211</drugbank-id>
+      <name>Clarithromycin</name>
+      <description>The therapeutic efficacy of Clarithromycin can be decreased when used in combination with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04920</drugbank-id>
+      <name>Clevidipine</name>
+      <description>The risk or severity of adverse effects can be increased when Clevidipine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00631</drugbank-id>
+      <name>Clofarabine</name>
+      <description>The risk or severity of adverse effects can be increased when Clofarabine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01242</drugbank-id>
+      <name>Clomipramine</name>
+      <description>The serum concentration of Clomipramine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00575</drugbank-id>
+      <name>Clonidine</name>
+      <description>Clonidine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09218</drugbank-id>
+      <name>Clonixin</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Clonixin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00363</drugbank-id>
+      <name>Clozapine</name>
+      <description>The risk or severity of adverse effects can be increased when Clozapine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00872</drugbank-id>
+      <name>Conivaptan</name>
+      <description>The risk or severity of adverse effects can be increased when Conivaptan is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00286</drugbank-id>
+      <name>Conjugated Equine Estrogens</name>
+      <description>The serum concentration of Conjugated Equine Estrogens can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00785</drugbank-id>
+      <name>Cryptenamine</name>
+      <description>Cryptenamine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11672</drugbank-id>
+      <name>Curcumin</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Curcumin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00924</drugbank-id>
+      <name>Cyclobenzaprine</name>
+      <description>The serum concentration of Cyclobenzaprine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Cyclophosphamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00091</drugbank-id>
+      <name>Cyclosporine</name>
+      <description>The serum concentration of Cyclosporine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00606</drugbank-id>
+      <name>Cyclothiazide</name>
+      <description>Cyclothiazide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08921</drugbank-id>
+      <name>D-Limonene</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with D-Limonene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06779</drugbank-id>
+      <name>Dalteparin</name>
+      <description>Dalteparin may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06292</drugbank-id>
+      <name>Dapagliflozin</name>
+      <description>The risk or severity of adverse effects can be increased when Dapagliflozin is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04884</drugbank-id>
+      <name>Dapoxetine</name>
+      <description>Dapoxetine may increase the orthostatic hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04840</drugbank-id>
+      <name>Debrisoquin</name>
+      <description>Debrisoquin may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00705</drugbank-id>
+      <name>Delavirdine</name>
+      <description>The serum concentration of Delavirdine can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06251</drugbank-id>
+      <name>dersalazine</name>
+      <description>dersalazine may decrease the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01089</drugbank-id>
+      <name>Deserpidine</name>
+      <description>Enalaprilat may increase the hypotensive activities of Deserpidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01189</drugbank-id>
+      <name>Desflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Desflurane is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01151</drugbank-id>
+      <name>Desipramine</name>
+      <description>The serum concentration of Desipramine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00633</drugbank-id>
+      <name>Dexmedetomidine</name>
+      <description>The risk or severity of adverse effects can be increased when Dexmedetomidine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01119</drugbank-id>
+      <name>Diazoxide</name>
+      <description>Diazoxide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00586</drugbank-id>
+      <name>Diclofenac</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Diclofenac.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01144</drugbank-id>
+      <name>Diclofenamide</name>
+      <description>The risk or severity of adverse effects can be increased when Diclofenamide is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00890</drugbank-id>
+      <name>Dienestrol</name>
+      <description>The serum concentration of Dienestrol can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00255</drugbank-id>
+      <name>Diethylstilbestrol</name>
+      <description>The serum concentration of Diethylstilbestrol can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00861</drugbank-id>
+      <name>Diflunisal</name>
+      <description>Diflunisal may decrease the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00390</drugbank-id>
+      <name>Digoxin</name>
+      <description>The serum concentration of Digoxin can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12945</drugbank-id>
+      <name>Dihydralazine</name>
+      <description>Enalaprilat may increase the hypotensive activities of Dihydralazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00320</drugbank-id>
+      <name>Dihydroergotamine</name>
+      <description>The serum concentration of Dihydroergotamine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00343</drugbank-id>
+      <name>Diltiazem</name>
+      <description>The metabolism of Diltiazem can be decreased when combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09077</drugbank-id>
+      <name>Dinutuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Dinutuximab is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00975</drugbank-id>
+      <name>Dipyridamole</name>
+      <description>The risk or severity of adverse effects can be increased when Dipyridamole is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00869</drugbank-id>
+      <name>Dorzolamide</name>
+      <description>Dorzolamide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09167</drugbank-id>
+      <name>Dosulepin</name>
+      <description>The serum concentration of Dosulepin can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00590</drugbank-id>
+      <name>Doxazosin</name>
+      <description>Doxazosin may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01142</drugbank-id>
+      <name>Doxepin</name>
+      <description>The serum concentration of Doxepin can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01395</drugbank-id>
+      <name>Drospirenone</name>
+      <description>Enalaprilat may increase the hyperkalemic activities of Drospirenone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09215</drugbank-id>
+      <name>Droxicam</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Droxicam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00476</drugbank-id>
+      <name>Duloxetine</name>
+      <description>Enalaprilat may increase the orthostatic hypotensive activities of Duloxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11952</drugbank-id>
+      <name>Duvelisib</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Duvelisib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00651</drugbank-id>
+      <name>Dyphylline</name>
+      <description>The serum concentration of Dyphylline can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11687</drugbank-id>
+      <name>E6201</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with E6201.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12610</drugbank-id>
+      <name>Ebselen</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Ebselen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09235</drugbank-id>
+      <name>Efonidipine</name>
+      <description>Efonidipine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09038</drugbank-id>
+      <name>Empagliflozin</name>
+      <description>The risk or severity of adverse effects can be increased when Empagliflozin is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00584</drugbank-id>
+      <name>Enalapril</name>
+      <description>Enalapril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00109</drugbank-id>
+      <name>Enfuvirtide</name>
+      <description>The serum concentration of Enfuvirtide can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01225</drugbank-id>
+      <name>Enoxaparin</name>
+      <description>Enoxaparin may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08991</drugbank-id>
+      <name>Epirizole</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Epirizole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00700</drugbank-id>
+      <name>Eplerenone</name>
+      <description>Eplerenone may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01240</drugbank-id>
+      <name>Epoprostenol</name>
+      <description>Epoprostenol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00876</drugbank-id>
+      <name>Eprosartan</name>
+      <description>The risk or severity of adverse effects can be increased when Eprosartan is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01049</drugbank-id>
+      <name>Ergoloid mesylate</name>
+      <description>The serum concentration of Ergoloid mesylate can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01253</drugbank-id>
+      <name>Ergonovine</name>
+      <description>The serum concentration of Ergonovine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00696</drugbank-id>
+      <name>Ergotamine</name>
+      <description>The serum concentration of Ergotamine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06678</drugbank-id>
+      <name>Esmirtazapine</name>
+      <description>The serum concentration of Esmirtazapine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00187</drugbank-id>
+      <name>Esmolol</name>
+      <description>The risk or severity of adverse effects can be increased when Esmolol is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00783</drugbank-id>
+      <name>Estradiol</name>
+      <description>The serum concentration of Estradiol can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01196</drugbank-id>
+      <name>Estramustine</name>
+      <description>The serum concentration of Estramustine can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09381</drugbank-id>
+      <name>Estrogens, esterified</name>
+      <description>The serum concentration of Estrogens, esterified can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04574</drugbank-id>
+      <name>Estrone sulfate</name>
+      <description>The serum concentration of Estrone sulfate can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00903</drugbank-id>
+      <name>Etacrynic acid</name>
+      <description>Etacrynic acid may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00005</drugbank-id>
+      <name>Etanercept</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Etanercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00977</drugbank-id>
+      <name>Ethinyl Estradiol</name>
+      <description>The serum concentration of Ethinyl Estradiol can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00749</drugbank-id>
+      <name>Etodolac</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Etodolac.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08984</drugbank-id>
+      <name>Etofenamate</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Etofenamate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01628</drugbank-id>
+      <name>Etoricoxib</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Etoricoxib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06414</drugbank-id>
+      <name>Etravirine</name>
+      <description>The serum concentration of Etravirine can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11358</drugbank-id>
+      <name>Evening primrose oil</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Evening primrose oil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01590</drugbank-id>
+      <name>Everolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Everolimus is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06246</drugbank-id>
+      <name>exisulind</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with exisulind.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01023</drugbank-id>
+      <name>Felodipine</name>
+      <description>Felodipine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08981</drugbank-id>
+      <name>Fenbufen</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Fenbufen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00800</drugbank-id>
+      <name>Fenoldopam</name>
+      <description>Fenoldopam may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00573</drugbank-id>
+      <name>Fenoprofen</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Fenoprofen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09279</drugbank-id>
+      <name>Fimasartan</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Fimasartan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08976</drugbank-id>
+      <name>Floctafenine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Floctafenine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11518</drugbank-id>
+      <name>Flunixin</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Flunixin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00712</drugbank-id>
+      <name>Flurbiprofen</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Flurbiprofen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01342</drugbank-id>
+      <name>Forasartan</name>
+      <description>The risk or severity of adverse effects can be increased when Forasartan is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00492</drugbank-id>
+      <name>Fosinopril</name>
+      <description>Fosinopril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00614</drugbank-id>
+      <name>Furazolidone</name>
+      <description>Furazolidone may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00695</drugbank-id>
+      <name>Furosemide</name>
+      <description>Furosemide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10532</drugbank-id>
+      <name>Garlic</name>
+      <description>The serum concentration of Enalaprilat can be decreased when it is combined with Garlic.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00629</drugbank-id>
+      <name>Guanabenz</name>
+      <description>Guanabenz may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00226</drugbank-id>
+      <name>Guanadrel</name>
+      <description>Guanadrel may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01170</drugbank-id>
+      <name>Guanethidine</name>
+      <description>Guanethidine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01018</drugbank-id>
+      <name>Guanfacine</name>
+      <description>Guanfacine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01159</drugbank-id>
+      <name>Halothane</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Halothane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>Heparin may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08960</drugbank-id>
+      <name>Hexamethonium</name>
+      <description>Hexamethonium may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07931</drugbank-id>
+      <name>Hexestrol</name>
+      <description>The serum concentration of Hexestrol can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01355</drugbank-id>
+      <name>Hexobarbital</name>
+      <description>Hexobarbital may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12779</drugbank-id>
+      <name>Higenamine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Higenamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05767</drugbank-id>
+      <name>HMPL-004</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with HMPL-004.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09243</drugbank-id>
+      <name>Hydracarbazine</name>
+      <description>Hydracarbazine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01275</drugbank-id>
+      <name>Hydralazine</name>
+      <description>Hydralazine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00999</drugbank-id>
+      <name>Hydrochlorothiazide</name>
+      <description>Hydrochlorothiazide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00774</drugbank-id>
+      <name>Hydroflumethiazide</name>
+      <description>Hydroflumethiazide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01050</drugbank-id>
+      <name>Ibuprofen</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Ibuprofen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08955</drugbank-id>
+      <name>Ibuproxam</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Ibuproxam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06196</drugbank-id>
+      <name>Icatibant</name>
+      <description>Icatibant may decrease the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01088</drugbank-id>
+      <name>Iloprost</name>
+      <description>Iloprost may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11783</drugbank-id>
+      <name>Imidapril</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Imidapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00458</drugbank-id>
+      <name>Imipramine</name>
+      <description>The serum concentration of Imipramine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00808</drugbank-id>
+      <name>Indapamide</name>
+      <description>Indapamide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08952</drugbank-id>
+      <name>Indenolol</name>
+      <description>Indenolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00328</drugbank-id>
+      <name>Indomethacin</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Indomethacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08951</drugbank-id>
+      <name>Indoprofen</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Indoprofen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08950</drugbank-id>
+      <name>Indoramin</name>
+      <description>Indoramin may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09247</drugbank-id>
+      <name>Iproclozide</name>
+      <description>Iproclozide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04818</drugbank-id>
+      <name>Iproniazid</name>
+      <description>Iproniazid may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01029</drugbank-id>
+      <name>Irbesartan</name>
+      <description>The risk or severity of adverse effects can be increased when Irbesartan is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01592</drugbank-id>
+      <name>Iron</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Iron.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00893</drugbank-id>
+      <name>Iron Dextran</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Iron Dextran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01247</drugbank-id>
+      <name>Isocarboxazid</name>
+      <description>Isocarboxazid may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00753</drugbank-id>
+      <name>Isoflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Isoflurane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00883</drugbank-id>
+      <name>Isosorbide Dinitrate</name>
+      <description>The risk or severity of adverse effects can be increased when Isosorbide Dinitrate is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01020</drugbank-id>
+      <name>Isosorbide Mononitrate</name>
+      <description>The risk or severity of adverse effects can be increased when Isosorbide Mononitrate is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08942</drugbank-id>
+      <name>Isoxicam</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Isoxicam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08941</drugbank-id>
+      <name>Isoxsuprine</name>
+      <description>The risk or severity of adverse effects can be increased when Isoxsuprine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00270</drugbank-id>
+      <name>Isradipine</name>
+      <description>Isradipine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08940</drugbank-id>
+      <name>Kebuzone</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Kebuzone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12465</drugbank-id>
+      <name>Ketanserin</name>
+      <description>Enalaprilat may increase the hypotensive activities of Ketanserin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01009</drugbank-id>
+      <name>Ketoprofen</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Ketoprofen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00465</drugbank-id>
+      <name>Ketorolac</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Ketorolac.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00598</drugbank-id>
+      <name>Labetalol</name>
+      <description>Labetalol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09236</drugbank-id>
+      <name>Lacidipine</name>
+      <description>Lacidipine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06792</drugbank-id>
+      <name>Lanthanum carbonate</name>
+      <description>The serum concentration of Enalaprilat can be decreased when it is combined with Lanthanum carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00654</drugbank-id>
+      <name>Latanoprost</name>
+      <description>Latanoprost may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01097</drugbank-id>
+      <name>Leflunomide</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Leflunomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00528</drugbank-id>
+      <name>Lercanidipine</name>
+      <description>Lercanidipine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01210</drugbank-id>
+      <name>Levobunolol</name>
+      <description>The risk or severity of adverse effects can be increased when Levobunolol is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01002</drugbank-id>
+      <name>Levobupivacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Levobupivacaine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01235</drugbank-id>
+      <name>Levodopa</name>
+      <description>Enalaprilat may increase the orthostatic hypotensive activities of Levodopa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00922</drugbank-id>
+      <name>Levosimendan</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Levosimendan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08882</drugbank-id>
+      <name>Linagliptin</name>
+      <description>The risk or severity of adverse effects can be increased when Linagliptin is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00722</drugbank-id>
+      <name>Lisinopril</name>
+      <description>Lisinopril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12406</drugbank-id>
+      <name>Lisofylline</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Lisofylline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01356</drugbank-id>
+      <name>Lithium</name>
+      <description>The serum concentration of Lithium can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04948</drugbank-id>
+      <name>Lofexidine</name>
+      <description>Lofexidine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06725</drugbank-id>
+      <name>Lornoxicam</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Lornoxicam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00678</drugbank-id>
+      <name>Losartan</name>
+      <description>The risk or severity of adverse effects can be increased when Losartan is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00227</drugbank-id>
+      <name>Lovastatin</name>
+      <description>The serum concentration of Lovastatin can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09212</drugbank-id>
+      <name>Loxoprofen</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Loxoprofen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01283</drugbank-id>
+      <name>Lumiracoxib</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Lumiracoxib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08932</drugbank-id>
+      <name>Macitentan</name>
+      <description>Enalaprilat may increase the hypotensive activities of Macitentan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01397</drugbank-id>
+      <name>Magnesium salicylate</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Magnesium salicylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09238</drugbank-id>
+      <name>Manidipine</name>
+      <description>Manidipine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00742</drugbank-id>
+      <name>Mannitol</name>
+      <description>The risk or severity of adverse effects can be increased when Mannitol is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00179</drugbank-id>
+      <name>Masoprocol</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Masoprocol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09248</drugbank-id>
+      <name>Mebanazine</name>
+      <description>Mebanazine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00657</drugbank-id>
+      <name>Mecamylamine</name>
+      <description>Mecamylamine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00939</drugbank-id>
+      <name>Meclofenamic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Meclofenamic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00784</drugbank-id>
+      <name>Mefenamic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Mefenamic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00814</drugbank-id>
+      <name>Meloxicam</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Meloxicam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00244</drugbank-id>
+      <name>Mesalazine</name>
+      <description>Mesalazine may decrease the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01357</drugbank-id>
+      <name>Mestranol</name>
+      <description>The serum concentration of Mestranol can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04817</drugbank-id>
+      <name>Metamizole</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Metamizole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13143</drugbank-id>
+      <name>Methallenestril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00703</drugbank-id>
+      <name>Methazolamide</name>
+      <description>The risk or severity of adverse effects can be increased when Methazolamide is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00474</drugbank-id>
+      <name>Methohexital</name>
+      <description>Methohexital may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00232</drugbank-id>
+      <name>Methyclothiazide</name>
+      <description>Methyclothiazide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00968</drugbank-id>
+      <name>Methyldopa</name>
+      <description>Methyldopa may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09241</drugbank-id>
+      <name>Methylene blue</name>
+      <description>Methylene blue may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00422</drugbank-id>
+      <name>Methylphenidate</name>
+      <description>Methylphenidate may decrease the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00849</drugbank-id>
+      <name>Methylphenobarbital</name>
+      <description>Methylphenobarbital may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01214</drugbank-id>
+      <name>Metipranolol</name>
+      <description>Metipranolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00524</drugbank-id>
+      <name>Metolazone</name>
+      <description>Metolazone may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00264</drugbank-id>
+      <name>Metoprolol</name>
+      <description>Metoprolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00765</drugbank-id>
+      <name>Metyrosine</name>
+      <description>Enalaprilat may increase the hypotensive activities of Metyrosine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01388</drugbank-id>
+      <name>Mibefradil</name>
+      <description>Mibefradil may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00683</drugbank-id>
+      <name>Midazolam</name>
+      <description>The serum concentration of Midazolam can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00805</drugbank-id>
+      <name>Minaprine</name>
+      <description>Minaprine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00350</drugbank-id>
+      <name>Minoxidil</name>
+      <description>Minoxidil may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00370</drugbank-id>
+      <name>Mirtazapine</name>
+      <description>The serum concentration of Mirtazapine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12617</drugbank-id>
+      <name>Mizoribine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Mizoribine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01171</drugbank-id>
+      <name>Moclobemide</name>
+      <description>Moclobemide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00691</drugbank-id>
+      <name>Moexipril</name>
+      <description>Moexipril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09282</drugbank-id>
+      <name>Molsidomine</name>
+      <description>Molsidomine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00295</drugbank-id>
+      <name>Morphine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Morphine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09242</drugbank-id>
+      <name>Moxonidine</name>
+      <description>Moxonidine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00688</drugbank-id>
+      <name>Mycophenolate mofetil</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Mycophenolate mofetil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01024</drugbank-id>
+      <name>Mycophenolic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Mycophenolic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00486</drugbank-id>
+      <name>Nabilone</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Nabilone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00461</drugbank-id>
+      <name>Nabumetone</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Nabumetone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01203</drugbank-id>
+      <name>Nadolol</name>
+      <description>Nadolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08813</drugbank-id>
+      <name>Nadroparin</name>
+      <description>Nadroparin may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12598</drugbank-id>
+      <name>Nafamostat</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Nafamostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00735</drugbank-id>
+      <name>Naftifine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Naftifine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12092</drugbank-id>
+      <name>Naftopidil</name>
+      <description>Enalaprilat may increase the hypotensive activities of Naftopidil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00788</drugbank-id>
+      <name>Naproxen</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Naproxen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05822</drugbank-id>
+      <name>NCX 4016</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with NCX 4016.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04861</drugbank-id>
+      <name>Nebivolol</name>
+      <description>Nebivolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01149</drugbank-id>
+      <name>Nefazodone</name>
+      <description>The serum concentration of Nefazodone can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06802</drugbank-id>
+      <name>Nepafenac</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Nepafenac.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04899</drugbank-id>
+      <name>Nesiritide</name>
+      <description>The risk or severity of adverse effects can be increased when Nesiritide is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04820</drugbank-id>
+      <name>Nialamide</name>
+      <description>Nialamide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00622</drugbank-id>
+      <name>Nicardipine</name>
+      <description>Nicardipine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09220</drugbank-id>
+      <name>Nicorandil</name>
+      <description>Nicorandil may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01115</drugbank-id>
+      <name>Nifedipine</name>
+      <description>The risk or severity of adverse effects can be increased when Nifedipine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04552</drugbank-id>
+      <name>Niflumic Acid</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Niflumic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09239</drugbank-id>
+      <name>Niguldipine</name>
+      <description>Niguldipine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06712</drugbank-id>
+      <name>Nilvadipine</name>
+      <description>Nilvadipine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04743</drugbank-id>
+      <name>Nimesulide</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Nimesulide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00393</drugbank-id>
+      <name>Nimodipine</name>
+      <description>Nimodipine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00401</drugbank-id>
+      <name>Nisoldipine</name>
+      <description>Nisoldipine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01054</drugbank-id>
+      <name>Nitrendipine</name>
+      <description>Nitrendipine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00435</drugbank-id>
+      <name>Nitric Oxide</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Nitric Oxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12445</drugbank-id>
+      <name>Nitroaspirin</name>
+      <description>Nitroaspirin may decrease the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00727</drugbank-id>
+      <name>Nitroglycerin</name>
+      <description>The risk or severity of adverse effects can be increased when Nitroglycerin is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00325</drugbank-id>
+      <name>Nitroprusside</name>
+      <description>Nitroprusside may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00540</drugbank-id>
+      <name>Nortriptyline</name>
+      <description>The serum concentration of Nortriptyline can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>Enalaprilat may increase the hypotensive activities of Obinutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09249</drugbank-id>
+      <name>Octamoxin</name>
+      <description>Octamoxin may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00275</drugbank-id>
+      <name>Olmesartan</name>
+      <description>The risk or severity of adverse effects can be increased when Olmesartan is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00768</drugbank-id>
+      <name>Olopatadine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Olopatadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01250</drugbank-id>
+      <name>Olsalazine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Olsalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00886</drugbank-id>
+      <name>Omapatrilat</name>
+      <description>Omapatrilat may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12930</drugbank-id>
+      <name>Opipramol</name>
+      <description>The serum concentration of Opipramol can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11444</drugbank-id>
+      <name>Orgotein</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Orgotein.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00991</drugbank-id>
+      <name>Oxaprozin</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Oxaprozin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01580</drugbank-id>
+      <name>Oxprenolol</name>
+      <description>Oxprenolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03585</drugbank-id>
+      <name>Oxyphenbutazone</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Oxyphenbutazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01229</drugbank-id>
+      <name>Paclitaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Paclitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01113</drugbank-id>
+      <name>Papaverine</name>
+      <description>The risk or severity of adverse effects can be increased when Papaverine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08439</drugbank-id>
+      <name>Parecoxib</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Parecoxib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01626</drugbank-id>
+      <name>Pargyline</name>
+      <description>Pargyline may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09260</drugbank-id>
+      <name>Parnaparin</name>
+      <description>Parnaparin may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01359</drugbank-id>
+      <name>Penbutolol</name>
+      <description>Penbutolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00312</drugbank-id>
+      <name>Pentobarbital</name>
+      <description>Pentobarbital may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01090</drugbank-id>
+      <name>Pentolinium</name>
+      <description>Pentolinium may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00806</drugbank-id>
+      <name>Pentoxifylline</name>
+      <description>Pentoxifylline may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00790</drugbank-id>
+      <name>Perindopril</name>
+      <description>Perindopril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00454</drugbank-id>
+      <name>Pethidine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Pethidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00780</drugbank-id>
+      <name>Phenelzine</name>
+      <description>Phenelzine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09250</drugbank-id>
+      <name>Pheniprazine</name>
+      <description>Pheniprazine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01174</drugbank-id>
+      <name>Phenobarbital</name>
+      <description>Phenobarbital may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00925</drugbank-id>
+      <name>Phenoxybenzamine</name>
+      <description>Phenoxybenzamine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09251</drugbank-id>
+      <name>Phenoxypropazine</name>
+      <description>Phenoxypropazine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00692</drugbank-id>
+      <name>Phentolamine</name>
+      <description>Phentolamine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00812</drugbank-id>
+      <name>Phenylbutazone</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Phenylbutazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00337</drugbank-id>
+      <name>Pimecrolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Pimecrolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01100</drugbank-id>
+      <name>Pimozide</name>
+      <description>The serum concentration of Pimozide can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06762</drugbank-id>
+      <name>Pinacidil</name>
+      <description>Pinacidil may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00960</drugbank-id>
+      <name>Pindolol</name>
+      <description>Pindolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09286</drugbank-id>
+      <name>Pipamperone</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Pipamperone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02925</drugbank-id>
+      <name>Piretanide</name>
+      <description>Piretanide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04951</drugbank-id>
+      <name>Pirfenidone</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Pirfenidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09244</drugbank-id>
+      <name>Pirlindole</name>
+      <description>Pirlindole may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00554</drugbank-id>
+      <name>Piroxicam</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Piroxicam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09252</drugbank-id>
+      <name>Pivhydrazine</name>
+      <description>Pivhydrazine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01324</drugbank-id>
+      <name>Polythiazide</name>
+      <description>Polythiazide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00413</drugbank-id>
+      <name>Pramipexole</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Pramipexole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00457</drugbank-id>
+      <name>Prazosin</name>
+      <description>Prazosin may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00230</drugbank-id>
+      <name>Pregabalin</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Pregabalin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00794</drugbank-id>
+      <name>Primidone</name>
+      <description>Primidone may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09288</drugbank-id>
+      <name>Propacetamol</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Propacetamol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00818</drugbank-id>
+      <name>Propofol</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Propofol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00571</drugbank-id>
+      <name>Propranolol</name>
+      <description>Propranolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00344</drugbank-id>
+      <name>Protriptyline</name>
+      <description>The serum concentration of Protriptyline can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05173</drugbank-id>
+      <name>PTC299</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with PTC299.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01224</drugbank-id>
+      <name>Quetiapine</name>
+      <description>The risk or severity of adverse effects can be increased when Quetiapine is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00881</drugbank-id>
+      <name>Quinapril</name>
+      <description>Quinapril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01325</drugbank-id>
+      <name>Quinethazone</name>
+      <description>Quinethazone may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00468</drugbank-id>
+      <name>Quinine</name>
+      <description>Quinine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00178</drugbank-id>
+      <name>Ramipril</name>
+      <description>Ramipril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01367</drugbank-id>
+      <name>Rasagiline</name>
+      <description>Rasagiline may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00899</drugbank-id>
+      <name>Remifentanil</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Remifentanil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00212</drugbank-id>
+      <name>Remikiren</name>
+      <description>Remikiren may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01180</drugbank-id>
+      <name>Rescinnamine</name>
+      <description>Enalaprilat may increase the hypotensive activities of Rescinnamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00206</drugbank-id>
+      <name>Reserpine</name>
+      <description>Reserpine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02709</drugbank-id>
+      <name>Resveratrol</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Resveratrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09259</drugbank-id>
+      <name>Reviparin</name>
+      <description>Reviparin may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11738</drugbank-id>
+      <name>Rilmenidine</name>
+      <description>Enalaprilat may increase the hypotensive activities of Rilmenidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08931</drugbank-id>
+      <name>Riociguat</name>
+      <description>The serum concentration of Riociguat can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00734</drugbank-id>
+      <name>Risperidone</name>
+      <description>Enalaprilat may increase the hypotensive activities of Risperidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00073</drugbank-id>
+      <name>Rituximab</name>
+      <description>Enalaprilat may increase the hypotensive activities of Rituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00533</drugbank-id>
+      <name>Rofecoxib</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Rofecoxib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00268</drugbank-id>
+      <name>Ropinirole</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Ropinirole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00296</drugbank-id>
+      <name>Ropivacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Ropivacaine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01098</drugbank-id>
+      <name>Rosuvastatin</name>
+      <description>The serum concentration of Rosuvastatin can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05271</drugbank-id>
+      <name>Rotigotine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Rotigotine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09292</drugbank-id>
+      <name>Sacubitril</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Sacubitril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09253</drugbank-id>
+      <name>Safrazine</name>
+      <description>Safrazine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08797</drugbank-id>
+      <name>Salicylamide</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Salicylamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00936</drugbank-id>
+      <name>Salicylic acid</name>
+      <description>Salicylic acid may decrease the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01399</drugbank-id>
+      <name>Salsalate</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Salsalate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01347</drugbank-id>
+      <name>Saprisartan</name>
+      <description>The risk or severity of adverse effects can be increased when Saprisartan is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06763</drugbank-id>
+      <name>Saralasin</name>
+      <description>The risk or severity of adverse effects can be increased when Saralasin is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06335</drugbank-id>
+      <name>Saxagliptin</name>
+      <description>The risk or severity of adverse effects can be increased when Saxagliptin is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00418</drugbank-id>
+      <name>Secobarbital</name>
+      <description>Secobarbital may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01037</drugbank-id>
+      <name>Selegiline</name>
+      <description>Selegiline may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11362</drugbank-id>
+      <name>Selexipag</name>
+      <description>Enalaprilat may increase the hypotensive activities of Selexipag.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06739</drugbank-id>
+      <name>Seratrodast</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Seratrodast.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01236</drugbank-id>
+      <name>Sevoflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Sevoflurane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00203</drugbank-id>
+      <name>Sildenafil</name>
+      <description>The serum concentration of Sildenafil can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06290</drugbank-id>
+      <name>Simeprevir</name>
+      <description>The serum concentration of Simeprevir can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00641</drugbank-id>
+      <name>Simvastatin</name>
+      <description>The serum concentration of Simvastatin can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00877</drugbank-id>
+      <name>Sirolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Sirolimus is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01261</drugbank-id>
+      <name>Sitagliptin</name>
+      <description>The risk or severity of adverse effects can be increased when Sitagliptin is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06268</drugbank-id>
+      <name>Sitaxentan</name>
+      <description>Enalaprilat may increase the hypotensive activities of Sitaxentan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09276</drugbank-id>
+      <name>Sodium aurothiomalate</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Sodium aurothiomalate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09112</drugbank-id>
+      <name>Sodium Nitrite</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Sodium Nitrite.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00489</drugbank-id>
+      <name>Sotalol</name>
+      <description>The risk or severity of adverse effects can be increased when Sotalol is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01348</drugbank-id>
+      <name>Spirapril</name>
+      <description>Spirapril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00421</drugbank-id>
+      <name>Spironolactone</name>
+      <description>Spironolactone may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05073</drugbank-id>
+      <name>SRT501</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with SRT501.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01323</drugbank-id>
+      <name>St. John's Wort</name>
+      <description>The metabolism of Enalaprilat can be increased when combined with St. John&amp;#39;s Wort.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00086</drugbank-id>
+      <name>Streptokinase</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Streptokinase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00708</drugbank-id>
+      <name>Sufentanil</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Sufentanil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00795</drugbank-id>
+      <name>Sulfasalazine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Sulfasalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00605</drugbank-id>
+      <name>Sulindac</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Sulindac.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00870</drugbank-id>
+      <name>Suprofen</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Suprofen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09317</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, A</name>
+      <description>The serum concentration of Synthetic Conjugated Estrogens, A can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00864</drugbank-id>
+      <name>Tacrolimus</name>
+      <description>The metabolism of Tacrolimus can be decreased when combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00820</drugbank-id>
+      <name>Tadalafil</name>
+      <description>Tadalafil may increase the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00706</drugbank-id>
+      <name>Tamsulosin</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Tamsulosin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01349</drugbank-id>
+      <name>Tasosartan</name>
+      <description>The risk or severity of adverse effects can be increased when Tasosartan is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00966</drugbank-id>
+      <name>Telmisartan</name>
+      <description>The risk or severity of adverse effects can be increased when Telmisartan is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08836</drugbank-id>
+      <name>Temocapril</name>
+      <description>Temocapril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06287</drugbank-id>
+      <name>Temsirolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Temsirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00469</drugbank-id>
+      <name>Tenoxicam</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Tenoxicam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11466</drugbank-id>
+      <name>Tepoxalin</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Tepoxalin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01162</drugbank-id>
+      <name>Terazosin</name>
+      <description>The risk or severity of adverse effects can be increased when Terazosin is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08880</drugbank-id>
+      <name>Teriflunomide</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Teriflunomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02638</drugbank-id>
+      <name>Terlipressin</name>
+      <description>Terlipressin may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01041</drugbank-id>
+      <name>Thalidomide</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Thalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00277</drugbank-id>
+      <name>Theophylline</name>
+      <description>The serum concentration of Theophylline can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01154</drugbank-id>
+      <name>Thiamylal</name>
+      <description>Thiamylal may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00599</drugbank-id>
+      <name>Thiopental</name>
+      <description>Thiopental may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00679</drugbank-id>
+      <name>Thioridazine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Thioridazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09289</drugbank-id>
+      <name>Tianeptine</name>
+      <description>The serum concentration of Tianeptine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01600</drugbank-id>
+      <name>Tiaprofenic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Tiaprofenic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09070</drugbank-id>
+      <name>Tibolone</name>
+      <description>Tibolone may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04831</drugbank-id>
+      <name>Ticrynafen</name>
+      <description>Ticrynafen may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00373</drugbank-id>
+      <name>Timolol</name>
+      <description>Timolol may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13001</drugbank-id>
+      <name>Tinoridine</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Tinoridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06822</drugbank-id>
+      <name>Tinzaparin</name>
+      <description>Tinzaparin may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00932</drugbank-id>
+      <name>Tipranavir</name>
+      <description>The serum concentration of Enalaprilat can be decreased when it is combined with Tipranavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00697</drugbank-id>
+      <name>Tizanidine</name>
+      <description>Tizanidine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00797</drugbank-id>
+      <name>Tolazoline</name>
+      <description>Tolazoline may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00323</drugbank-id>
+      <name>Tolcapone</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Tolcapone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09216</drugbank-id>
+      <name>Tolfenamic Acid</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Tolfenamic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00500</drugbank-id>
+      <name>Tolmetin</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Tolmetin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09245</drugbank-id>
+      <name>Toloxatone</name>
+      <description>Toloxatone may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06212</drugbank-id>
+      <name>Tolvaptan</name>
+      <description>Tolvaptan may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00214</drugbank-id>
+      <name>Torasemide</name>
+      <description>Torasemide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00519</drugbank-id>
+      <name>Trandolapril</name>
+      <description>Trandolapril may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07615</drugbank-id>
+      <name>Tranilast</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Tranilast.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02665</drugbank-id>
+      <name>Trans-2-Phenylcyclopropylamine</name>
+      <description>Trans-2-Phenylcyclopropylamine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00752</drugbank-id>
+      <name>Tranylcypromine</name>
+      <description>Tranylcypromine may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00287</drugbank-id>
+      <name>Travoprost</name>
+      <description>Travoprost may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00374</drugbank-id>
+      <name>Treprostinil</name>
+      <description>Treprostinil may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00755</drugbank-id>
+      <name>Tretinoin</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Tretinoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00384</drugbank-id>
+      <name>Triamterene</name>
+      <description>Triamterene may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00897</drugbank-id>
+      <name>Triazolam</name>
+      <description>The serum concentration of Triazolam can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01021</drugbank-id>
+      <name>Trichlormethiazide</name>
+      <description>Trichlormethiazide may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09206</drugbank-id>
+      <name>Trimazosin</name>
+      <description>Trimazosin may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01116</drugbank-id>
+      <name>Trimethaphan</name>
+      <description>Trimethaphan may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00440</drugbank-id>
+      <name>Trimethoprim</name>
+      <description>Trimethoprim may increase the hyperkalemic activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00726</drugbank-id>
+      <name>Trimipramine</name>
+      <description>The serum concentration of Trimipramine can be increased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01401</drugbank-id>
+      <name>Trisalicylate-choline</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Trisalicylate-choline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06267</drugbank-id>
+      <name>Udenafil</name>
+      <description>Udenafil may increase the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06826</drugbank-id>
+      <name>Unoprostone</name>
+      <description>Unoprostone may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00580</drugbank-id>
+      <name>Valdecoxib</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Valdecoxib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00313</drugbank-id>
+      <name>Valproic Acid</name>
+      <description>The serum concentration of Valproic Acid can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00177</drugbank-id>
+      <name>Valsartan</name>
+      <description>The risk or severity of adverse effects can be increased when Valsartan is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00862</drugbank-id>
+      <name>Vardenafil</name>
+      <description>Vardenafil may increase the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00661</drugbank-id>
+      <name>Verapamil</name>
+      <description>The metabolism of Verapamil can be decreased when combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04876</drugbank-id>
+      <name>Vildagliptin</name>
+      <description>The risk or severity of adverse effects can be increased when Vildagliptin is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12131</drugbank-id>
+      <name>Vinpocetine</name>
+      <description>Enalaprilat may increase the hypotensive activities of Vinpocetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06694</drugbank-id>
+      <name>Xylometazoline</name>
+      <description>Xylometazoline may increase the hypotensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01392</drugbank-id>
+      <name>Yohimbine</name>
+      <description>Yohimbine may decrease the antihypertensive activities of Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06737</drugbank-id>
+      <name>Zaltoprofen</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Zaltoprofen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00495</drugbank-id>
+      <name>Zidovudine</name>
+      <description>The serum concentration of Zidovudine can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00744</drugbank-id>
+      <name>Zileuton</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Zileuton.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04828</drugbank-id>
+      <name>Zomepirac</name>
+      <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Zomepirac.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-0.09</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-2.6</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>8.76e-01 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-1.1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(2S)-1-[(2S)-2-{[(1S)-1-carboxy-3-phenylpropyl]amino}propanoyl]pyrrolidine-2-carboxylic acid dihydrate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>enalaprilat dihydrate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>384.429</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>384.18965125</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>O.O.[H][C@@](C)(N[C@@]([H])(CCC1=CC=CC=C1)C(O)=O)C(=O)N1CCC[C@@]1([H])C(O)=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C18H28N2O7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C18H24N2O5.2H2O/c1-12(16(21)20-11-5-8-15(20)18(24)25)19-14(17(22)23)10-9-13-6-3-2-4-7-13;;/h2-4,6-7,12,14-15,19H,5,8-11H2,1H3,(H,22,23)(H,24,25);2*1H2/t12-,14-,15-;;/m0../s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>MZYVOFLIPYDBGD-MLZQUWKJSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>106.94</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>90.06</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>35.82</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>8</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>3.13</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>7.83</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>1776</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>59877</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D03769</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Enalaprilat</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL577</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/enalaprilat-drug.htm</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000221</id>
+      <name>Angiotensin-converting enzyme</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P12821" source="Swiss-Prot">
+    <name>Angiotensin-converting enzyme</name>
+    <general-function>Zinc ion binding</general-function>
+    <specific-function>Converts angiotensin I to angiotensin II by release of the terminal His-Leu, this results in an increase of the vasoconstrictor activity of angiotensin. Also able to inactivate bradykinin, a potent vasodilator. Has also a glycosidase activity which releases GPI-anchored proteins from the membrane by cleaving the mannose linkage in the GPI moiety.</specific-function>
+    <gene-name>ACE</gene-name>
+    <locus>17q23.3</locus>
+    <cellular-location>Secreted</cellular-location>
+    <transmembrane-regions>1257-1277</transmembrane-regions>
+    <signal-regions>1-29</signal-regions>
+    <theoretical-pi>6.36</theoretical-pi>
+    <molecular-weight>149713.675</molecular-weight>
+    <chromosome-location>17</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2707</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>ACE</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>J04144</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>178286</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1613</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P12821</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>ACE_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>3.2.1.-</synonym>
+      <synonym>ACE</synonym>
+      <synonym>DCP</synonym>
+      <synonym>DCP1</synonym>
+      <synonym>Dipeptidyl carboxypeptidase I</synonym>
+      <synonym>Kininase II</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000441|Angiotensin-converting enzyme
+MGAASGRRGPGLLLPLPLLLLLPPQPALALDPGLQPGNFSADEAGAQLFAQSYNSSAEQV
+LFQSVAASWAHDTNITAENARRQEEAALLSQEFAEAWGQKAKELYEPIWQNFTDPQLRRI
+IGAVRTLGSANLPLAKRQQYNALLSNMSRIYSTAKVCLPNKTATCWSLDPDLTNILASSR
+SYAMLLFAWEGWHNAAGIPLKPLYEDFTALSNEAYKQDGFTDTGAYWRSWYNSPTFEDDL
+EHLYQQLEPLYLNLHAFVRRALHRRYGDRYINLRGPIPAHLLGDMWAQSWENIYDMVVPF
+PDKPNLDVTSTMLQQGWNATHMFRVAEEFFTSLELSPMPPEFWEGSMLEKPADGREVVCH
+ASAWDFYNRKDFRIKQCTRVTMDQLSTVHHEMGHIQYYLQYKDLPVSLRRGANPGFHEAI
+GDVLALSVSTPEHLHKIGLLDRVTNDTESDINYLLKMALEKIAFLPFGYLVDQWRWGVFS
+GRTPPSRYNFDWWYLRTKYQGICPPVTRNETHFDAGAKFHVPNVTPYIRYFVSFVLQFQF
+HEALCKEAGYEGPLHQCDIYRSTKAGAKLRKVLQAGSSRPWQEVLKDMVGLDALDAQPLL
+KYFQPVTQWLQEQNQQNGEVLGWPEYQWHPPLPDNYPEGIDLVTDEAEASKFVEEYDRTS
+QVVWNEYAEANWNYNTNITTETSKILLQKNMQIANHTLKYGTQARKFDVNQLQNTTIKRI
+IKKVQDLERAALPAQELEEYNKILLDMETTYSVATVCHPNGSCLQLEPDLTNVMATSRKY
+EDLLWAWEGWRDKAGRAILQFYPKYVELINQAARLNGYVDAGDSWRSMYETPSLEQDLER
+LFQELQPLYLNLHAYVRRALHRHYGAQHINLEGPIPAHLLGNMWAQTWSNIYDLVVPFPS
+APSMDTTEAMLKQGWTPRRMFKEADDFFTSLGLLPVPPEFWNKSMLEKPTDGREVVCHAS
+AWDFYNGKDFRIKQCTTVNLEDLVVAHHEMGHIQYFMQYKDLPVALREGANPGFHEAIGD
+VLALSVSTPKHLHSLNLLSSEGGSDEHDINFLMKMALDKIAFIPFSYLVDQWRWRVFDGS
+ITKENYNQEWWSLRLKYQGLCPPVPRTQGDFDPGAKFHIPSSVPYIRYFVSFIIQFQFHE
+ALCQAAGHTGPLHKCDIYQSKEAGQRLATAMKLGFSRPWPEAMQLITGQPNMSASAMLSY
+FKPLLDWLRTENELHGEKLGWPQYNWTPNSARSEGPLPDSGRVSFLGLDLDAQQARVGQW
+LLLFLGIALLVATLGLSQRLFSIRHRSLHRHSHGPQFGSEVELRHS</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0018929|Angiotensin-converting enzyme (ACE)
+ATGGGGGCCGCCTCGGGCCGCCGGGGGCCGGGGCTGCTGCTGCCGCTGCCGCTGCTGTTG
+CTGCTGCCGCCGCAGCCCGCCCTGGCGTTGGACCCCGGGCTGCAGCCCGGCAACTTTTCT
+GCTGACGAGGCCGGGGCGCAGCTCTTCGCGCAGAGCTACAACTCCAGCGCCGAACAGGTG
+CTGTTCCAGAGCGTGGCCGCCAGCTGGGCGCACGACACCAACATCACCGCGGAGAATGCA
+AGGCGCCAGGAGGAAGCAGCCCTGCTCAGCCAGGAGTTTGCGGAGGCCTGGGGCCAGAAG
+GCCAAGGAGCTGTATGAACCGATCTGGCAGAACTTCACGGACCCGCAGCTGCGCAGGATC
+ATCGGAGCTGTGCGCACCCTGGGCTCTGCCAACCTGCCCCTGGCTAAGCGGCAGCAGTAC
+AACGCCCTGCTAAGCAACATGAGCAGGATCTACTCCACCGCCAAGGTCTGCCTCCCCAAC
+AAGACTGCCACCTGCTGGTCCCTGGACCCAGATCTCACCAACATCCTGGCTTCCTCGCGA
+AGCTACGCCATGCTCCTGTTTGCCTGGGAGGGCTGGCACAACGCTGCGGGCATCCCGCTG
+AAACCGCTGTACGAGGATTTCACTGCCCTCAGCAATGAAGCCTACAAGCAGGACGGCTTC
+ACAGACACGGGGGCCTACTGGCGCTCCTGGTACAACTCCCCCACCTTCGAGGACGATCTG
+GAACACCTCTACCAACAGCTAGAGCCCCTCTACCTGAACCTCCATGCCTTCGTCCGCCGC
+GCACTGCATCGCCGATACGGAGACAGATACATCAACCTCAGGGGACCCATCCCTGCTCAT
+CTGCTGGGAGACATGTGGGCCCAGAGCTGGGAAAACATCTACGACATGGTGGTGCCTTTC
+CCAGACAAGCCCAACCTCGATGTCACCAGTACTATGCTGCAGCAGGGCTGGAACGCCACG
+CACATGTTCCGGGTGGCAGAGGAGTTCTTCACCTCCCTGGAGCTCTCCCCCATGCCTCCC
+GAGTTCTGGGAAGGGTCGATGCTGGAGAAGCCGGCCGACGGGCGGGAAGTGGTGTGCCAC
+GCCTCGGCTTGGGACTTCTACAACAGGAAAGACTTCAGGATCAAGCAGTGCACACGGGTC
+ACGATGGACCAGCTCTCCACAGTGCACCATGAGATGGGCCATATACAGTACTACCTGCAG
+TACAAGGATCTGCCCGTCTCCCTGCGTCGGGGGGCCAACCCCGGCTTCCATGAGGCCATT
+GGGGACGTGCTGGCGCTCTCGGTCTCCACTCCTGAACATCTGCACAAAATCGGCCTGCTG
+GACCGTGTCACCAATGACACGGAAAGTGACATCAATTACTTGCTAAAAATGGCACTGGAA
+AAAATTGCCTTCCTGCCCTTTGGCTACTTGGTGGACCAGTGGCGCTGGGGGGTCTTTAGT
+GGGCGTACCCCCCCTTCCCGCTACAACTTCGACTGGTGGTATCTTCGAACCAAGTATCAG
+GGGATCTGTCCTCCTGTTACCCGAAACGAAACCCACTTTGATGCTGGAGCTAAGTTTCAT
+GTTCCAAATGTGACACCATACATCAGGTACTTTGTGAGTTTTGTCCTGCAGTTCCAGTTC
+CATGAAGCCCTGTGCAAGGAGGCAGGCTATGAGGGCCCACTGCACCAGTGTGACATCTAC
+CGGTCCACCAAGGCAGGGGCCAAGCTCCGGAAGGTGCTGCAGGCTGGCTCCTCCAGGCCC
+TGGCAGGAGGTGCTGAAGGACATGGTCGGCTTAGATGCCCTGGATGCCCAGCCGCTGCTC
+AAGTACTTCCAGCCAGTCACCCAGTGGCTGCAGGAGCAGAACCAGCAGAACGGCGAGGTC
+CTGGGCTGGCCCGAGTACCAGTGGCACCCGCCGTTGCCTGACAACTACCCGGAGGGCATA
+GACCTGGTGACTGATGAGGCTGAGGCCAGCAAGTTTGTGGAGGAATATGACCGGACATCC
+CAGGTGGTGTGGAACGAGTATGCCGAGGCCAACTGGAACTACAACACCAACATCACCACA
+GAGACCAGCAAGATTCTGCTGCAGAAGAACATGCAAATAGCCAACCACACCCTGAAGTAC
+GGCACCCAGGCCAGGAAGTTTGATGTGAACCAGTTGCAGAACACCACTATCAAGCGGATC
+ATAAAGAAGGTTCAGGACCTAGAACGGGCAGCACTGCCTGCCCAGGAGCTGGAGGAGTAC
+AACAAGATCCTGTTGGATATGGAAACCACCTACAGCGTGGCCACTGTGTGCCACCCGAAT
+GGCAGCTGCCTGCAGCTCGAGCCAGATCTGACGAATGTGATGGCCACGTCCCGGAAATAT
+GAAGACCTGTTATGGGCATGGGAGGGCTGGCGAGACAAGGCGGGGAGAGCCATCCTCCAG
+TTTTACCCGAAATACGTGGAACTCATCAACCAGGCTGCCCGGCTCAATGGCTATGTAGAT
+GCAGGGGACTCGTGGAGGTCTATGTACGAGACACCATCCCTGGAGCAAGACCTGGAGCGG
+CTCTTCCAGGAGCTGCAGCCACTCTACCTCAACCTGCATGCCTACGTGCGCCGGGCCCTG
+CACCGTCACTACGGGGCCCAGCACATCAACCTGGAGGGGCCCATTCCTGCTCACCTGCTG
+GGGAACATGTGGGCGCAGACCTGGTCCAACATCTATGACTTGGTGGTGCCCTTCCCTTCA
+GCCCCCTCGATGGACACCACAGAGGCTATGCTAAAGCAGGGCTGGACGCCCAGGAGGATG
+TTTAAGGAGGCTGATGATTTCTTCACCTCCCTGGGGCTGCTGCCCGTGCCTCCTGAGTTC
+TGGAACAAGTCGATGCTGGAGAAGCCAACCGACGGGCGGGAGGTGGTCTGCCACGCCTCG
+GCCTGGGACTTCTACAACGGCAAGGACTTCCGGATCAAGCAGTGCACCACCGTGAACTTG
+GAGGACCTGGTGGTGGCCCACCACGAAATGGGCCACATCCAGTATTTCATGCAGTACAAA
+GACTTACCTGTGGCCTTGAGGGAGGGTGCCAACCCCGGCTTCCATGAGGCCATTGGGGAC
+GTGCTAGCCCTCTCAGTGTCTACGCCCAAGCACCTGCACAGTCTCAACCTGCTGAGCAGT
+GAGGGTGGCAGCGACGAGCATGACATCAACTTTCTGATGAAGATGGCCCTTGACAAGATC
+GCCTTTATCCCCTTCAGCTACCTCGTCGATCAGTGGCGCTGGAGGGTATTTGATGGAAGC
+ATCACCAAGGAGAACTATAACCAGGAGTGGTGGAGCCTCAGGCTGAAGTACCAGGGCCTC
+TGCCCCCCAGTGCCCAGGACTCAAGGTGACTTTGACCCAGGGGCCAAGTTCCACATTCCT
+TCTAGCGTGCCTTACATCAGGTACTTTGTCAGCTTCATCATCCAGTTCCAGTTCCACGAG
+GCACTGTGCCAGGCAGCTGGCCACACGGGCCCCCTGCACAAGTGTGACATCTACCAGTCC
+AAGGAGGCCGGGCAGCGCCTGGCGACCGCCATGAAGCTGGGCTTCAGTAGGCCGTGGCCG
+GAAGCCATGCAGCTGATCACGGGCCAGCCCAACATGAGCGCCTCGGCCATGTTGAGCTAC
+TTCAAGCCGCTGCTGGACTGGCTCCGCACGGAGAACGAGCTGCATGGGGAGAAGCTGGGC
+TGGCCGCAGTACAACTGGACGCCGAACTCCGCTCGCTCAGAAGGGCCCCTCCCAGACAGC
+GGCCGCGTCAGCTTCCTGGGCCTGGACCTGGATGCGCAGCAGGCCCGCGTGGGCCAGTGG
+CTGCTGCTCTTCCTGGGCATCGCCCTGCTGGTAGCCACCCTGGGCCTCAGCCAGCGGCTC
+TTCAGCATCCGCCACCGCAGCCTCCACCGGCACTCCCACGGGCCCCAGTTCGGCTCCGAG
+GTGGAGCTGAGACACTCCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF01401</identifier>
+        <name>Peptidase_M2</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular space</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>lysosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular region</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>external side of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>exopeptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>peptidyl-dipeptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>carboxypeptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>bradykinin receptor binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>mitogen-activated protein kinase kinase binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>tripeptidyl-peptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>drug binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>chloride ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>actin binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>zinc ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>endopeptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>mitogen-activated protein kinase binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>metallopeptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>blood vessel remodeling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular protein metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of smooth muscle cell migration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>arachidonic acid secretion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hematopoietic stem cell differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>antigen processing and presentation of peptide antigen via MHC class I</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>kidney development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of protein tyrosine kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of systemic arterial blood pressure by renin-angiotensin</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>peptide catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell proliferation in bone marrow</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of vasodilation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>angiotensin catabolic process in blood</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of vasoconstriction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>mononuclear cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of gap junction assembly</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>angiotensin maturation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hormone catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of peptidyl-cysteine S-nitrosylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>beta-amyloid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heart contraction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of peptidyl-tyrosine autophosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of blood pressure</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of hematopoietic stem cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of angiotensin metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>spermatogenesis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>neutrophil mediated immunity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of renal output by angiotensin</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

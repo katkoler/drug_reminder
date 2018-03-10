@@ -1,0 +1,456 @@
+<drug type="biotech" created="2015-11-30" updated="2016-12-08">
+  <drugbank-id primary="true">DB09456</drugbank-id>
+  <name>Insulin Beef</name>
+  <description/>
+  <cas-number>11070-73-8</cas-number>
+  <unii>576O9IZ534</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001721</drugbank-id>
+      <name>Insulin suspension isophane beef</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001722</drugbank-id>
+      <name>Insulin suspension isophane purified beef</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001728</drugbank-id>
+      <name>Insulin suspension protamine zinc purified beef</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001723</drugbank-id>
+      <name>Insulin zinc suspension beef</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001724</drugbank-id>
+      <name>Insulin zinc suspension extended beef</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001725</drugbank-id>
+      <name>Insulin zinc suspension extended purified beef</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001726</drugbank-id>
+      <name>Insulin zinc suspension prompt beef</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001727</drugbank-id>
+      <name>Insulin zinc suspension purified beef</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">Insulin (beef)</synonym>
+    <synonym language="" coder="">Insulin bovine</synonym>
+    <synonym language="" coder="">Insulin purified beef</synonym>
+  </synonyms>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP1A2 Inducers</category>
+      <mesh-id>D065694</mesh-id>
+    </category>
+    <category>
+      <category>Drugs Used in Diabetes</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Insulins and Analogues</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Insulins and Analogues for Injection, Intermediate- or Long-Acting Combined With Fast-Acting</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes>
+    <atc-code code="A10AE02">
+      <level code="A10AE">Insulins and analogues for injection, long-acting</level>
+      <level code="A10A">INSULINS AND ANALOGUES</level>
+      <level code="A10">DRUGS USED IN DIABETES</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+    <atc-code code="A10AC02">
+      <level code="A10AC">Insulins and analogues for injection, intermediate-acting</level>
+      <level code="A10A">INSULINS AND ANALOGUES</level>
+      <level code="A10">DRUGS USED IN DIABETES</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+    <atc-code code="A10AB02">
+      <level code="A10AB">Insulins and analogues for injection, fast-acting</level>
+      <level code="A10A">INSULINS AND ANALOGUES</level>
+      <level code="A10">DRUGS USED IN DIABETES</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+    <atc-code code="A10AD02">
+      <level code="A10AD">Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting</level>
+      <level code="A10A">INSULINS AND ANALOGUES</level>
+      <level code="A10">DRUGS USED IN DIABETES</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C254H377N65O75S6</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0002433</id>
+      <name>Cytochrome P450 1A2</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inducer</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>Drug Interactions: Cytochrome P450 Drug Interaction Table</title>
+            <url>http://medicine.iupui.edu/clinpharm/ddis/table.asp</url>
+          </link>
+        </links>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P05177" source="Swiss-Prot">
+    <name>Cytochrome P450 1A2</name>
+    <general-function>Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</general-function>
+    <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It oxidizes a variety of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. Most active in catalyzing 2-hydroxylation. Caffeine is metabolized primarily by cytochrome CYP1A2 in the liver through an initial N3-demethylation. Also acts in the metabolism of aflatoxin B1 and acetaminophen. Participates in the bioactivation of carcinogenic aromatic and heterocyclic amines. Catalizes the N-hydroxylation of heterocyclic amines and the O-deethylation of phenacetin.</specific-function>
+    <gene-name>CYP1A2</gene-name>
+    <locus>15q24</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>9.43</theoretical-pi>
+    <molecular-weight>58293.76</molecular-weight>
+    <chromosome-location>15</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2596</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP1A2</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>Z00036</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1319</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P05177</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP1A2_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.14.14.1</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYPIA2</synonym>
+      <synonym>Cytochrome P(3)450</synonym>
+      <synonym>Cytochrome P450 4</synonym>
+      <synonym>Cytochrome P450-P3</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004778|Cytochrome P450 1A2
+MALSQSVPFSATELLLASAIFCLVFWVLKGLRPRVPKGLKSPPEPWGWPLLGHVLTLGKN
+PHLALSRMSQRYGDVLQIRIGSTPVLVLSRLDTIRQALVRQGDDFKGRPDLYTSTLITDG
+QSLTFSTDSGPVWAARRRLAQNALNTFSIASDPASSSSCYLEEHVSKEAKALISRLQELM
+AGPGHFDPYNQVVVSVANVIGAMCFGQHFPESSDEMLSLVKNTHEFVETASSGNPLDFFP
+ILRYLPNPALQRFKAFNQRFLWFLQKTVQEHYQDFDKNSVRDITGALFKHSKKGPRASGN
+LIPQEKIVNLVNDIFGAGFDTVTTAISWSLMYLVTKPEIQRKIQKELDTVIGRERRPRLS
+DRPQLPYLEAFILETFRHSSFLPFTIPHSTTRDTTLNGFYIPKKCCVFVNQWQVNHDPEL
+WEDPSEFRPERFLTADGTAINKPLSEKMMLFGMGKRRCIGEVLAKWEIFLFLAILLQQLE
+FSVPPGVKVDLTPIYGLTMKHARCEHVQARRFSIN</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0011742|Cytochrome P450 1A2 (CYP1A2)
+ATGGCATTGTCCCAGTCTGTTCCCTTCTCGGCCACAGAGCTTCTCCTGGCCTCTGCCATC
+TTCTGCCTGGTATTCTGGGTGCTCAAGGGTTTGAGGCCTCGGGTCCCCAAAGGCCTGAAA
+AGTCCACCAGAGCCATGGGGCTGGCCCTTGCTCGGGCATGTGCTGACCCTGGGGAAGAAC
+CCGCACCTGGCACTGTCAAGGATGAGCCAGCGCTACGGGGACGTCCTGCAGATCCGCATT
+GGCTCCACGCCCGTGCTGGTGCTGAGCCGCCTGGACACCATCCGGCAGGCCCTGGTGCGG
+CAGGGCGACGATTTCAAGGGCCGGCCTGACCTCTACACCTCCACCCTCATCACTGATGGC
+CAGAGCTTGACCTTCAGCACAGACTCTGGACCGGTGTGGGCTGCCCGCCGGCGCCTGGCC
+CAGAATGCCCTCAACACCTTCTCCATCGCCTCTGACCCAGCTTCCTCATCCTCCTGCTAC
+CTGGAGGAGCATGTGAGCAAGGAGGCTAAGGCCCTGATCAGCAGGTTGCAGGAGCTGATG
+GCAGGGCCTGGGCACTTCGACCCTTACAATCAGGTGGTGGTGTCAGTGGCCAACGTCATT
+GGTGCCATGTGCTTCGGACAGCACTTCCCTGAGAGTAGCGATGAGATGCTCAGCCTCGTG
+AAGAACACTCATGAGTTCGTGGAGACTGCCTCCTCCGGGAACCCCCTGGACTTCTTCCCC
+ATCCTTCGCTACCTGCCTAACCCTGCCCTGCAGAGGTTCAAGGCCTTCAACCAGAGGTTC
+CTGTGGTTCCTGCAGAAAACAGTCCAGGAGCACTATCAGGACTTTGACAAGAACAGTGTC
+CGGGACATCACGGGTGCCCTGTTCAAGCACAGCAAGAAGGGGCCTAGAGCCAGCGGCAAC
+CTCATCCCACAGGAGAAGATTGTCAACCTTGTCAATGACATCTTTGGAGCAGGATTTGAC
+ACAGTCACCACAGCCATCTCCTGGAGCCTCATGTACCTTGTGACCAAGCCTGAGATACAG
+AGGAAGATCCAGAAGGAGCTGGACACTGTGATTGGCAGGGAGCGGCGGCCCCGGCTCTCT
+GACAGACCCCAGCTGCCCTACTTGGAGGCCTTCATCCTGGAGACCTTCCGACACTCCTCC
+TTCTTGCCCTTCACCATCCCCCACAGCACAACAAGGGACACAACGCTGAATGGCTTCTAC
+ATCCCCAAGAAATGCTGTGTCTTCGTAAACCAGTGGCAGGTCAACCATGACCCAGAGCTG
+TGGGAGGACCCCTCTGAGTTCCGGCCTGAGCGGTTCCTCACCGCCGATGGCACTGCCATT
+AACAAGCCCTTGAGTGAGAAGATGATGCTGTTTGGCATGGGCAAGCGCCGGTGTATCGGG
+GAAGTCCTGGCCAAGTGGGAGATCTTCCTCTTCCTGGCCATCCTGCTACAGCAACTGGAG
+TTCAGCGTGCCGCCGGGCGTGAAAGTCGACCTGACCCCCATCTACGGGCTGACCATGAAG
+CACGCCCGCTGTGAACATGTCCAGGCGCGGCTGCGCTTCTCCATCAATTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>caffeine oxidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enzyme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>demethylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>electron carrier activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>omega-hydroxylase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to lipopolysaccharide</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monocarboxylic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative deethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to immobilization stress</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>toxin biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>arachidonic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to cadmium ion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to estradiol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>porphyrin-containing compound metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>dibenzo-p-dioxin metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>lung development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>methylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>post-embryonic development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>epoxygenase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heterocycle metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hydrogen peroxide biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular respiration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of gene expression</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

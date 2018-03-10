@@ -1,0 +1,2243 @@
+<drug type="biotech" created="2016-05-20" updated="2017-03-31">
+  <drugbank-id primary="true">DB11598</drugbank-id>
+  <name>Antithrombin III human</name>
+  <description>A plasma alpha 2 glycoprotein that accounts for the major antithrombin activity of normal plasma and also inhibits several other enzymes. It is a member of the serpin superfamily.</description>
+  <cas-number>9000-94-6</cas-number>
+  <unii>T0LTO7L82X</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>8871458</pubmed-id>
+        <citation>Cavenagh JD, Colvin BT: Guidelines for the management of thrombophilia. Department of Haematology, The Royal London Hospital, Whitechapel, London, UK. Postgrad Med J. 1996 Feb;72(844):87-94.</citation>
+      </article>
+      <article>
+        <pubmed-id>1502714</pubmed-id>
+        <citation>Menache D, Grossman BJ, Jackson CM: Antithrombin III: physiology, deficiency, and replacement therapy. Transfusion. 1992 Jul-Aug;32(6):580-8.</citation>
+      </article>
+      <article>
+        <pubmed-id>17515857</pubmed-id>
+        <citation>Aibiki M, Fukuoka N, Nishiyama T, Maekawa S, Shirakawa Y: Differences in antithrombin III activities by administration method in critical patients with disseminated intravascular coagulation: a pharmacokinetic study. Shock. 2007 Aug;28(2):141-7.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>FDA label</title>
+        <url>https://www.fda.gov/downloads/BiologicsBloodVaccines/BloodBloodProducts/ApprovedProducts/LicensedProductsBLAs/FractionatedPlasmaProducts/UCM134045.pdf</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Antithrombin III human is a human antithrombin (AT) indicated in patients with hereditary antithrombin deficiency for the treatment and prevention of thromboembolism and prevention of peri-operative and peri-partum thromboembolism</indication>
+  <pharmacodynamics>Hereditary AT deficiency causes an increased risk of venous thromboembolism (VTE). During high-risk situations such as surgery or trauma or for pregnant women, during the peri-partum period, the risk of development of VTEs as compared to the normal population in these situations is increased by a factor 10 to 50. In hereditary antithrombin deficient patients ATryn restores (normalize) plasma AT activity levels during peri-operative and peri-partum periods. </pharmacodynamics>
+  <mechanism-of-action>Antithrombin, an alpha2-glycoprotein of molecular weight 58,000, is normally present in human plasma at a concentration of approximately 12.5 mg/dL and is the major plasma inhibitor of thrombin. Inactivation of thrombin by AT occurs by formation of a covalent bond resulting in an inactive 1:1 stoichiometric complex between the two, involving an interaction of the active serine of thrombin and an arginine reactive site on AT. AT is also capable of inactivating other components of the coagulation cascade including factors IXa, Xa, XIa, and XIIa, as well as plasmin. The neutralization rate of serine proteases by AT proceeds slowly in the absence of heparin, but is greatly accelerated in the presence of heparin. As the therapeutic antithrombotic effect of heparin is mediated by AT, heparin in vivo is ineffective in the absence or near absence of AT.&#13;
+After administration, Antithrombin III human temporarily replaces the missing AT in patients with hereditary antithrombin deficiency.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption>Therapeutic target plasma concentrations in patients with congenital antithrombin III deficiency range from 80–120% of values in healthy adults. At plasma concentrations ≤70% of normal, increased thrombin generation. Supraphysiologic plasma concentrations (e.g., 150–200% of normal) have increased bleeding risk in patients with sepsis and disseminated intravascular coagulation, not known whether supraphysiologic concentrations increase bleeding risk in patients with congenital antithrombin III deficiency.</absorption>
+  <half-life>2.5 - 3.8 hs</half-life>
+  <protein-binding/>
+  <route-of-elimination>Complexes of antithrombin III with thrombin or other proteinases cleared principally by liver and excreted in urine.</route-of-elimination>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Antithrombin III (human)</synonym>
+    <synonym language="" coder="">Antithrombin III human plasma-derived</synonym>
+    <synonym language="" coder="">Antithrombin III, human</synonym>
+    <synonym language="" coder="">Antithrombin III,human</synonym>
+    <synonym language="" coder="">AT-III</synonym>
+    <synonym language="" coder="">Heparin cofactor B</synonym>
+    <synonym language="" coder="">Thrombate III</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Antithrombin III Immuno</name>
+      <labeller>Baxter Ag</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237812</dpd-id>
+      <started-marketing-on>1999-07-05</started-marketing-on>
+      <ended-marketing-on>2011-10-07</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antithrombin III Nf</name>
+      <labeller>Baxalta Canada Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237811</dpd-id>
+      <started-marketing-on>1999-07-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antithrombin III Nf</name>
+      <labeller>Baxalta Canada Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237810</dpd-id>
+      <started-marketing-on>1999-07-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Thrombate III</name>
+      <labeller>Grifols Therapeutics Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02189143</dpd-id>
+      <started-marketing-on>1996-11-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>1000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Thrombate III</name>
+      <labeller>Grifols Therapeutics Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02189135</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>500 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Thrombate III</name>
+      <labeller>Grifols</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-602</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1991-12-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA103196</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Thrombate III</name>
+      <labeller>Grifols</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-603</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1991-12-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA103196</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Thrombate III</name>
+      <labeller>Grifols</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-604</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1991-12-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA103196</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Thrombate III Pws IV 1000iu/vial</name>
+      <labeller>Miles Inc.   Pharmaceutical Division</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02020572</dpd-id>
+      <started-marketing-on>1995-12-31</started-marketing-on>
+      <ended-marketing-on>1998-09-25</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>1000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Thrombate III Pws IV 500iu/vial</name>
+      <labeller>Miles Inc.   Pharmaceutical Division</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02020580</dpd-id>
+      <started-marketing-on>1995-12-31</started-marketing-on>
+      <ended-marketing-on>1998-09-25</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>500 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Thrombate III</name>
+      <ingredients>Antithrombin III human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antithrombin III Nf</name>
+      <ingredients>Antithrombin III human + Water</ingredients>
+    </mixture>
+    <mixture>
+      <name>Thrombate III Pws IV 500iu/vial</name>
+      <ingredients>Antithrombin III human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Thrombate III Pws IV 1000iu/vial</name>
+      <ingredients>Antithrombin III human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antithrombin III Immuno</name>
+      <ingredients>Antithrombin III human + Water</ingredients>
+    </mixture>
+    <mixture>
+      <name>Thrombate III</name>
+      <ingredients>Antithrombin III human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antithrombin III Nf</name>
+      <ingredients>Antithrombin III human + Water</ingredients>
+    </mixture>
+    <mixture>
+      <name>Thrombate III</name>
+      <ingredients>Antithrombin III human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Thrombate III</name>
+      <ingredients>Antithrombin III human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Thrombate III</name>
+      <ingredients>Antithrombin III human</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Alpha-Globulins</category>
+      <mesh-id>D000510</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Anticoagulants</category>
+      <mesh-id>D000925</mesh-id>
+    </category>
+    <category>
+      <category>Antithrombin Proteins</category>
+      <mesh-id>D058833</mesh-id>
+    </category>
+    <category>
+      <category>Antithrombins</category>
+      <mesh-id>D000991</mesh-id>
+    </category>
+    <category>
+      <category>Biological Factors</category>
+      <mesh-id>D001685</mesh-id>
+    </category>
+    <category>
+      <category>Blood Coagulation Factor Inhibitors</category>
+      <mesh-id>D019774</mesh-id>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Enzyme Inhibitors</category>
+      <mesh-id>D004791</mesh-id>
+    </category>
+    <category>
+      <category>Globulins</category>
+      <mesh-id>D005916</mesh-id>
+    </category>
+    <category>
+      <category>Glycosaminoglycans</category>
+      <mesh-id>D006025</mesh-id>
+    </category>
+    <category>
+      <category>Hematologic Agents</category>
+      <mesh-id>D006401</mesh-id>
+    </category>
+    <category>
+      <category>Molecular Mechanisms of Pharmacological Action</category>
+      <mesh-id>D045504</mesh-id>
+    </category>
+    <category>
+      <category>Oligosaccharides</category>
+      <mesh-id>D009844</mesh-id>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Polysaccharides</category>
+      <mesh-id>D011134</mesh-id>
+    </category>
+    <category>
+      <category>Protease Inhibitors</category>
+      <mesh-id>D011480</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Serine Proteinase Inhibitors</category>
+      <mesh-id>D015842</mesh-id>
+    </category>
+    <category>
+      <category>Serpins</category>
+      <mesh-id>D015843</mesh-id>
+    </category>
+    <category>
+      <category>Serum Globulins</category>
+      <mesh-id>D012712</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>500 unit</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB01048</drugbank-id>
+      <name>Abacavir</name>
+      <description>The serum concentration of Abacavir can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>Abciximab may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06736</drugbank-id>
+      <name>Aceclofenac</name>
+      <description>Aceclofenac may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>Acenocoumarol may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12618</drugbank-id>
+      <name>Acetovanillone</name>
+      <description>Acetovanillone may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00945</drugbank-id>
+      <name>Acetylsalicylic acid</name>
+      <description>Acetylsalicylic acid may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00210</drugbank-id>
+      <name>Adapalene</name>
+      <description>Adapalene may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00346</drugbank-id>
+      <name>Alfuzosin</name>
+      <description>The serum concentration of Alfuzosin can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01431</drugbank-id>
+      <name>Allylestrenol</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Allylestrenol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00404</drugbank-id>
+      <name>Alprazolam</name>
+      <description>The serum concentration of Alprazolam can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00770</drugbank-id>
+      <name>Alprostadil</name>
+      <description>Alprostadil may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00009</drugbank-id>
+      <name>Alteplase</name>
+      <description>Alteplase may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11372</drugbank-id>
+      <name>Altrenogest</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Altrenogest.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06081</drugbank-id>
+      <name>ALX-0081</name>
+      <description>ALX-0081 may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13141</drugbank-id>
+      <name>Ambroxol acefyllinate</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04836</drugbank-id>
+      <name>Amineptine</name>
+      <description>The serum concentration of Amineptine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01223</drugbank-id>
+      <name>Aminophylline</name>
+      <description>The serum concentration of Aminophylline can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00233</drugbank-id>
+      <name>Aminosalicylic Acid</name>
+      <description>Aminosalicylic Acid may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00321</drugbank-id>
+      <name>Amitriptyline</name>
+      <description>The serum concentration of Amitriptyline can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00261</drugbank-id>
+      <name>Anagrelide</name>
+      <description>Anagrelide may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05099</drugbank-id>
+      <name>Ancrod</name>
+      <description>Ancrod may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11785</drugbank-id>
+      <name>Anisodamine</name>
+      <description>Anisodamine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00029</drugbank-id>
+      <name>Anistreplase</name>
+      <description>Anistreplase may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01435</drugbank-id>
+      <name>Antipyrine</name>
+      <description>Antipyrine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06605</drugbank-id>
+      <name>Apixaban</name>
+      <description>Apixaban may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05676</drugbank-id>
+      <name>Apremilast</name>
+      <description>Apremilast may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00407</drugbank-id>
+      <name>Ardeparin</name>
+      <description>Ardeparin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00278</drugbank-id>
+      <name>Argatroban</name>
+      <description>Argatroban may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06543</drugbank-id>
+      <name>Astaxanthin</name>
+      <description>Astaxanthin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01076</drugbank-id>
+      <name>Atorvastatin</name>
+      <description>The serum concentration of Atorvastatin can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07402</drugbank-id>
+      <name>Azapropazone</name>
+      <description>Azapropazone may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00972</drugbank-id>
+      <name>Azelastine</name>
+      <description>Azelastine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01014</drugbank-id>
+      <name>Balsalazide</name>
+      <description>Balsalazide may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09005</drugbank-id>
+      <name>Batroxobin</name>
+      <description>Batroxobin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06401</drugbank-id>
+      <name>Bazedoxifene</name>
+      <description>Bazedoxifene may decrease the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00102</drugbank-id>
+      <name>Becaplermin</name>
+      <description>Becaplermin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09258</drugbank-id>
+      <name>Bemiparin</name>
+      <description>Bemiparin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04812</drugbank-id>
+      <name>Benoxaprofen</name>
+      <description>Benoxaprofen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05229</drugbank-id>
+      <name>Beraprost</name>
+      <description>Beraprost may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12480</drugbank-id>
+      <name>Betulinic Acid</name>
+      <description>Betulinic Acid may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00006</drugbank-id>
+      <name>Bivalirudin</name>
+      <description>Bivalirudin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08873</drugbank-id>
+      <name>Boceprevir</name>
+      <description>The serum concentration of Antithrombin III human can be decreased when it is combined with Boceprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00963</drugbank-id>
+      <name>Bromfenac</name>
+      <description>Bromfenac may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01200</drugbank-id>
+      <name>Bromocriptine</name>
+      <description>The serum concentration of Bromocriptine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12160</drugbank-id>
+      <name>Bucillamine</name>
+      <description>Bucillamine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12749</drugbank-id>
+      <name>Butylphthalide</name>
+      <description>Butylphthalide may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00248</drugbank-id>
+      <name>Cabergoline</name>
+      <description>The serum concentration of Cabergoline can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06441</drugbank-id>
+      <name>Cangrelor</name>
+      <description>Cangrelor may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The metabolism of Antithrombin III human can be increased when combined with Carbamazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00821</drugbank-id>
+      <name>Carprofen</name>
+      <description>Carprofen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01816</drugbank-id>
+      <name>Castanospermine</name>
+      <description>Castanospermine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00482</drugbank-id>
+      <name>Celecoxib</name>
+      <description>Celecoxib may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09261</drugbank-id>
+      <name>Certoparin</name>
+      <description>Certoparin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00608</drugbank-id>
+      <name>Chloroquine</name>
+      <description>Chloroquine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00269</drugbank-id>
+      <name>Chlorotrianisene</name>
+      <description>The serum concentration of Chlorotrianisene can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01166</drugbank-id>
+      <name>Cilostazol</name>
+      <description>Cilostazol may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00604</drugbank-id>
+      <name>Cisapride</name>
+      <description>The serum concentration of Cisapride can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04272</drugbank-id>
+      <name>Citric Acid</name>
+      <description>Citric Acid may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01211</drugbank-id>
+      <name>Clarithromycin</name>
+      <description>The therapeutic efficacy of Clarithromycin can be decreased when used in combination with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01242</drugbank-id>
+      <name>Clomipramine</name>
+      <description>The serum concentration of Clomipramine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09218</drugbank-id>
+      <name>Clonixin</name>
+      <description>Clonixin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00758</drugbank-id>
+      <name>Clopidogrel</name>
+      <description>Clopidogrel may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11249</drugbank-id>
+      <name>Collagenase</name>
+      <description>The risk or severity of adverse effects can be increased when Antithrombin III human is combined with Collagenase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00286</drugbank-id>
+      <name>Conjugated Equine Estrogens</name>
+      <description>The serum concentration of Conjugated Equine Estrogens can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11672</drugbank-id>
+      <name>Curcumin</name>
+      <description>Curcumin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00924</drugbank-id>
+      <name>Cyclobenzaprine</name>
+      <description>The serum concentration of Cyclobenzaprine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>The risk or severity of adverse effects can be increased when Antithrombin III human is combined with Cyclophosphamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00091</drugbank-id>
+      <name>Cyclosporine</name>
+      <description>The serum concentration of Cyclosporine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08921</drugbank-id>
+      <name>D-Limonene</name>
+      <description>D-Limonene may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06695</drugbank-id>
+      <name>Dabigatran etexilate</name>
+      <description>Dabigatran etexilate may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06779</drugbank-id>
+      <name>Dalteparin</name>
+      <description>Dalteparin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06754</drugbank-id>
+      <name>Danaparoid</name>
+      <description>Danaparoid may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>Dasatinib may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01609</drugbank-id>
+      <name>Deferasirox</name>
+      <description>The risk or severity of adverse effects can be increased when Antithrombin III human is combined with Deferasirox.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04932</drugbank-id>
+      <name>Defibrotide</name>
+      <description>Defibrotide may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00705</drugbank-id>
+      <name>Delavirdine</name>
+      <description>The serum concentration of Delavirdine can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03619</drugbank-id>
+      <name>Deoxycholic Acid</name>
+      <description>The risk or severity of adverse effects can be increased when Antithrombin III human is combined with Deoxycholic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06251</drugbank-id>
+      <name>dersalazine</name>
+      <description>dersalazine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01151</drugbank-id>
+      <name>Desipramine</name>
+      <description>The serum concentration of Desipramine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11095</drugbank-id>
+      <name>Desirudin</name>
+      <description>Desirudin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04925</drugbank-id>
+      <name>Desmoteplase</name>
+      <description>Desmoteplase may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00304</drugbank-id>
+      <name>Desogestrel</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Desogestrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09255</drugbank-id>
+      <name>Dextran</name>
+      <description>Dextran may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11122</drugbank-id>
+      <name>Dextran 40</name>
+      <description>Dextran 40 may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11076</drugbank-id>
+      <name>Dextran 70</name>
+      <description>Dextran 70 may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11241</drugbank-id>
+      <name>Dextran 75</name>
+      <description>Dextran 75 may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00586</drugbank-id>
+      <name>Diclofenac</name>
+      <description>Diclofenac may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00266</drugbank-id>
+      <name>Dicoumarol</name>
+      <description>Dicoumarol may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00890</drugbank-id>
+      <name>Dienestrol</name>
+      <description>The serum concentration of Dienestrol can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09123</drugbank-id>
+      <name>Dienogest</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Dienogest.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00255</drugbank-id>
+      <name>Diethylstilbestrol</name>
+      <description>The serum concentration of Diethylstilbestrol can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00861</drugbank-id>
+      <name>Diflunisal</name>
+      <description>Diflunisal may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00390</drugbank-id>
+      <name>Digoxin</name>
+      <description>The serum concentration of Digoxin can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00320</drugbank-id>
+      <name>Dihydroergotamine</name>
+      <description>The serum concentration of Dihydroergotamine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00343</drugbank-id>
+      <name>Diltiazem</name>
+      <description>The metabolism of Diltiazem can be decreased when combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00975</drugbank-id>
+      <name>Dipyridamole</name>
+      <description>Dipyridamole may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08994</drugbank-id>
+      <name>Ditazole</name>
+      <description>Ditazole may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09167</drugbank-id>
+      <name>Dosulepin</name>
+      <description>The serum concentration of Dosulepin can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01142</drugbank-id>
+      <name>Doxepin</name>
+      <description>The serum concentration of Doxepin can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01395</drugbank-id>
+      <name>Drospirenone</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Drospirenone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00055</drugbank-id>
+      <name>Drotrecogin alfa</name>
+      <description>Drotrecogin alfa may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09215</drugbank-id>
+      <name>Droxicam</name>
+      <description>Droxicam may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11952</drugbank-id>
+      <name>Duvelisib</name>
+      <description>Duvelisib may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00378</drugbank-id>
+      <name>Dydrogesterone</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Dydrogesterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00651</drugbank-id>
+      <name>Dyphylline</name>
+      <description>The serum concentration of Dyphylline can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11687</drugbank-id>
+      <name>E6201</name>
+      <description>E6201 may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12610</drugbank-id>
+      <name>Ebselen</name>
+      <description>Ebselen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00974</drugbank-id>
+      <name>Edetic Acid</name>
+      <description>Edetic Acid may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09075</drugbank-id>
+      <name>Edoxaban</name>
+      <description>Edoxaban may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00109</drugbank-id>
+      <name>Enfuvirtide</name>
+      <description>The serum concentration of Enfuvirtide can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01225</drugbank-id>
+      <name>Enoxaparin</name>
+      <description>Enoxaparin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00751</drugbank-id>
+      <name>Epinastine</name>
+      <description>Epinastine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08991</drugbank-id>
+      <name>Epirizole</name>
+      <description>Epirizole may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06392</drugbank-id>
+      <name>eplivanserine</name>
+      <description>eplivanserine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01240</drugbank-id>
+      <name>Epoprostenol</name>
+      <description>Epoprostenol may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00063</drugbank-id>
+      <name>Eptifibatide</name>
+      <description>Eptifibatide may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01049</drugbank-id>
+      <name>Ergoloid mesylate</name>
+      <description>The serum concentration of Ergoloid mesylate can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01253</drugbank-id>
+      <name>Ergonovine</name>
+      <description>The serum concentration of Ergonovine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00696</drugbank-id>
+      <name>Ergotamine</name>
+      <description>The serum concentration of Ergotamine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06678</drugbank-id>
+      <name>Esmirtazapine</name>
+      <description>The serum concentration of Esmirtazapine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00783</drugbank-id>
+      <name>Estradiol</name>
+      <description>The serum concentration of Estradiol can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01196</drugbank-id>
+      <name>Estramustine</name>
+      <description>The serum concentration of Estramustine can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04573</drugbank-id>
+      <name>Estriol</name>
+      <description>Estriol may decrease the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09381</drugbank-id>
+      <name>Estrogens, esterified</name>
+      <description>The serum concentration of Estrogens, esterified can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>Estrone may decrease the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04574</drugbank-id>
+      <name>Estrone sulfate</name>
+      <description>The serum concentration of Estrone sulfate can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00005</drugbank-id>
+      <name>Etanercept</name>
+      <description>Etanercept may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00977</drugbank-id>
+      <name>Ethinyl Estradiol</name>
+      <description>The serum concentration of Ethinyl Estradiol can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08794</drugbank-id>
+      <name>Ethyl biscoumacetate</name>
+      <description>Ethyl biscoumacetate may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00823</drugbank-id>
+      <name>Ethynodiol diacetate</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Ethynodiol diacetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00749</drugbank-id>
+      <name>Etodolac</name>
+      <description>Etodolac may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08984</drugbank-id>
+      <name>Etofenamate</name>
+      <description>Etofenamate may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00294</drugbank-id>
+      <name>Etonogestrel</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Etonogestrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01628</drugbank-id>
+      <name>Etoricoxib</name>
+      <description>Etoricoxib may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06414</drugbank-id>
+      <name>Etravirine</name>
+      <description>The serum concentration of Etravirine can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11358</drugbank-id>
+      <name>Evening primrose oil</name>
+      <description>Evening primrose oil may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06246</drugbank-id>
+      <name>exisulind</name>
+      <description>exisulind may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08981</drugbank-id>
+      <name>Fenbufen</name>
+      <description>Fenbufen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00573</drugbank-id>
+      <name>Fenoprofen</name>
+      <description>Fenoprofen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08977</drugbank-id>
+      <name>Fibrinolysin</name>
+      <description>Fibrinolysin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08976</drugbank-id>
+      <name>Floctafenine</name>
+      <description>Floctafenine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13136</drugbank-id>
+      <name>Fluindione</name>
+      <description>Antithrombin III human may increase the anticoagulant activities of Fluindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11518</drugbank-id>
+      <name>Flunixin</name>
+      <description>Flunixin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00712</drugbank-id>
+      <name>Flurbiprofen</name>
+      <description>Flurbiprofen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11728</drugbank-id>
+      <name>Fondaparinux</name>
+      <description>Antithrombin III human may increase the anticoagulant activities of Fondaparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00569</drugbank-id>
+      <name>Fondaparinux sodium</name>
+      <description>Fondaparinux sodium may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12831</drugbank-id>
+      <name>Gabexate</name>
+      <description>Antithrombin III human may increase the anticoagulant activities of Gabexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10532</drugbank-id>
+      <name>Garlic</name>
+      <description>The serum concentration of Antithrombin III human can be decreased when it is combined with Garlic.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01645</drugbank-id>
+      <name>Genistein</name>
+      <description>Genistein may decrease the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06730</drugbank-id>
+      <name>Gestodene</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Gestodene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11619</drugbank-id>
+      <name>Gestrinone</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03404</drugbank-id>
+      <name>Hemin</name>
+      <description>Hemin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>Heparin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07931</drugbank-id>
+      <name>Hexestrol</name>
+      <description>The serum concentration of Hexestrol can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12779</drugbank-id>
+      <name>Higenamine</name>
+      <description>Higenamine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05767</drugbank-id>
+      <name>HMPL-004</name>
+      <description>HMPL-004 may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06789</drugbank-id>
+      <name>Hydroxyprogesterone caproate</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Hydroxyprogesterone caproate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00078</drugbank-id>
+      <name>Ibritumomab tiuxetan</name>
+      <description>The risk or severity of adverse effects can be increased when Antithrombin III human is combined with Ibritumomab tiuxetan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09053</drugbank-id>
+      <name>Ibrutinib</name>
+      <description>The risk or severity of adverse effects can be increased when Ibrutinib is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05266</drugbank-id>
+      <name>Ibudilast</name>
+      <description>Ibudilast may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01050</drugbank-id>
+      <name>Ibuprofen</name>
+      <description>Ibuprofen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08955</drugbank-id>
+      <name>Ibuproxam</name>
+      <description>Ibuproxam may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06196</drugbank-id>
+      <name>Icatibant</name>
+      <description>Icatibant may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08887</drugbank-id>
+      <name>Icosapent ethyl</name>
+      <description>Icosapent ethyl may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06406</drugbank-id>
+      <name>idraparinux</name>
+      <description>Antithrombin III human may increase the anticoagulant activities of idraparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08954</drugbank-id>
+      <name>Ifenprodil</name>
+      <description>Ifenprodil may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01088</drugbank-id>
+      <name>Iloprost</name>
+      <description>Iloprost may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00458</drugbank-id>
+      <name>Imipramine</name>
+      <description>The serum concentration of Imipramine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12545</drugbank-id>
+      <name>Indobufen</name>
+      <description>Indobufen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00328</drugbank-id>
+      <name>Indomethacin</name>
+      <description>Indomethacin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08951</drugbank-id>
+      <name>Indoprofen</name>
+      <description>Indoprofen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08942</drugbank-id>
+      <name>Isoxicam</name>
+      <description>Isoxicam may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12017</drugbank-id>
+      <name>KCT-0809</name>
+      <description>Kct 0809 may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08940</drugbank-id>
+      <name>Kebuzone</name>
+      <description>Kebuzone may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12465</drugbank-id>
+      <name>Ketanserin</name>
+      <description>Ketanserin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01009</drugbank-id>
+      <name>Ketoprofen</name>
+      <description>Ketoprofen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00465</drugbank-id>
+      <name>Ketorolac</name>
+      <description>Ketorolac may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01097</drugbank-id>
+      <name>Leflunomide</name>
+      <description>Leflunomide may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00001</drugbank-id>
+      <name>Lepirudin</name>
+      <description>Lepirudin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00367</drugbank-id>
+      <name>Levonorgestrel</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Levonorgestrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09211</drugbank-id>
+      <name>Limaprost</name>
+      <description>The risk or severity of adverse effects can be increased when Limaprost is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12406</drugbank-id>
+      <name>Lisofylline</name>
+      <description>Lisofylline may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06725</drugbank-id>
+      <name>Lornoxicam</name>
+      <description>Lornoxicam may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00227</drugbank-id>
+      <name>Lovastatin</name>
+      <description>The serum concentration of Lovastatin can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09212</drugbank-id>
+      <name>Loxoprofen</name>
+      <description>Loxoprofen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01283</drugbank-id>
+      <name>Lumiracoxib</name>
+      <description>Lumiracoxib may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12474</drugbank-id>
+      <name>Lynestrenol</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Lynestrenol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01397</drugbank-id>
+      <name>Magnesium salicylate</name>
+      <description>Magnesium salicylate may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00179</drugbank-id>
+      <name>Masoprocol</name>
+      <description>Masoprocol may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00939</drugbank-id>
+      <name>Meclofenamic acid</name>
+      <description>Meclofenamic acid may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09124</drugbank-id>
+      <name>Medrogestone</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Medrogestone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00603</drugbank-id>
+      <name>Medroxyprogesterone acetate</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Medroxyprogesterone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00784</drugbank-id>
+      <name>Mefenamic acid</name>
+      <description>Mefenamic acid may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00351</drugbank-id>
+      <name>Megestrol acetate</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Megestrol acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00814</drugbank-id>
+      <name>Meloxicam</name>
+      <description>Meloxicam may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00244</drugbank-id>
+      <name>Mesalazine</name>
+      <description>Mesalazine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01357</drugbank-id>
+      <name>Mestranol</name>
+      <description>The serum concentration of Mestranol can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04817</drugbank-id>
+      <name>Metamizole</name>
+      <description>Metamizole may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13143</drugbank-id>
+      <name>Methallenestril</name>
+      <description>The serum concentration of Methallenestril can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00683</drugbank-id>
+      <name>Midazolam</name>
+      <description>The serum concentration of Midazolam can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00235</drugbank-id>
+      <name>Milrinone</name>
+      <description>Milrinone may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00370</drugbank-id>
+      <name>Mirtazapine</name>
+      <description>The serum concentration of Mirtazapine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12617</drugbank-id>
+      <name>Mizoribine</name>
+      <description>Mizoribine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00688</drugbank-id>
+      <name>Mycophenolate mofetil</name>
+      <description>Mycophenolate mofetil may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01024</drugbank-id>
+      <name>Mycophenolic acid</name>
+      <description>Mycophenolic acid may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00461</drugbank-id>
+      <name>Nabumetone</name>
+      <description>Nabumetone may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08813</drugbank-id>
+      <name>Nadroparin</name>
+      <description>Nadroparin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12598</drugbank-id>
+      <name>Nafamostat</name>
+      <description>Nafamostat may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00735</drugbank-id>
+      <name>Naftifine</name>
+      <description>Naftifine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12092</drugbank-id>
+      <name>Naftopidil</name>
+      <description>Naftopidil may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00788</drugbank-id>
+      <name>Naproxen</name>
+      <description>Naproxen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05822</drugbank-id>
+      <name>NCX 4016</name>
+      <description>NCX 4016 may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01149</drugbank-id>
+      <name>Nefazodone</name>
+      <description>The serum concentration of Nefazodone can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06802</drugbank-id>
+      <name>Nepafenac</name>
+      <description>Nepafenac may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04552</drugbank-id>
+      <name>Niflumic Acid</name>
+      <description>Niflumic Acid may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04743</drugbank-id>
+      <name>Nimesulide</name>
+      <description>Nimesulide may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09079</drugbank-id>
+      <name>Nintedanib</name>
+      <description>The risk or severity of adverse effects can be increased when Antithrombin III human is combined with Nintedanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12445</drugbank-id>
+      <name>Nitroaspirin</name>
+      <description>Nitroaspirin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11636</drugbank-id>
+      <name>Nomegestrol</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Nomegestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00717</drugbank-id>
+      <name>Norethisterone</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Norethisterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00540</drugbank-id>
+      <name>Nortriptyline</name>
+      <description>The serum concentration of Nortriptyline can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Antithrombin III human is combined with Obinutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00768</drugbank-id>
+      <name>Olopatadine</name>
+      <description>Olopatadine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01250</drugbank-id>
+      <name>Olsalazine</name>
+      <description>Olsalazine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04865</drugbank-id>
+      <name>Omacetaxine mepesuccinate</name>
+      <description>The risk or severity of adverse effects can be increased when Antithrombin III human is combined with Omacetaxine mepesuccinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11133</drugbank-id>
+      <name>Omega-3 fatty acids</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12930</drugbank-id>
+      <name>Opipramol</name>
+      <description>The serum concentration of Opipramol can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11444</drugbank-id>
+      <name>Orgotein</name>
+      <description>Orgotein may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06635</drugbank-id>
+      <name>Otamixaban</name>
+      <description>Otamixaban may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00991</drugbank-id>
+      <name>Oxaprozin</name>
+      <description>Oxaprozin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03585</drugbank-id>
+      <name>Oxyphenbutazone</name>
+      <description>Oxyphenbutazone may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08439</drugbank-id>
+      <name>Parecoxib</name>
+      <description>Parecoxib may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09260</drugbank-id>
+      <name>Parnaparin</name>
+      <description>Parnaparin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00686</drugbank-id>
+      <name>Pentosan Polysulfate</name>
+      <description>Pentosan Polysulfate may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00806</drugbank-id>
+      <name>Pentoxifylline</name>
+      <description>Pentoxifylline may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00454</drugbank-id>
+      <name>Pethidine</name>
+      <description>The risk or severity of adverse effects can be increased when Antithrombin III human is combined with Pethidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00498</drugbank-id>
+      <name>Phenindione</name>
+      <description>Phenindione may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00946</drugbank-id>
+      <name>Phenprocoumon</name>
+      <description>Phenprocoumon may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00812</drugbank-id>
+      <name>Phenylbutazone</name>
+      <description>Phenylbutazone may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00337</drugbank-id>
+      <name>Pimecrolimus</name>
+      <description>Pimecrolimus may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01100</drugbank-id>
+      <name>Pimozide</name>
+      <description>The serum concentration of Pimozide can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04951</drugbank-id>
+      <name>Pirfenidone</name>
+      <description>Pirfenidone may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00554</drugbank-id>
+      <name>Piroxicam</name>
+      <description>Piroxicam may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05254</drugbank-id>
+      <name>Plasmin</name>
+      <description>Plasmin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09369</drugbank-id>
+      <name>Polyestradiol phosphate</name>
+      <description>Polyestradiol phosphate may decrease the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06209</drugbank-id>
+      <name>Prasugrel</name>
+      <description>Prasugrel may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00396</drugbank-id>
+      <name>Progesterone</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Progesterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12487</drugbank-id>
+      <name>Promestriene</name>
+      <description>Promestriene may decrease the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09288</drugbank-id>
+      <name>Propacetamol</name>
+      <description>Propacetamol may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11312</drugbank-id>
+      <name>Protein C</name>
+      <description>Protein C may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13149</drugbank-id>
+      <name>Protein S human</name>
+      <description>Antithrombin III human may increase the anticoagulant activities of Protein S human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11268</drugbank-id>
+      <name>Protocatechualdehyde</name>
+      <description>Protocatechualdehyde may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00344</drugbank-id>
+      <name>Protriptyline</name>
+      <description>The serum concentration of Protriptyline can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05173</drugbank-id>
+      <name>PTC299</name>
+      <description>PTC299 may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04575</drugbank-id>
+      <name>Quinestrol</name>
+      <description>Quinestrol may decrease the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13036</drugbank-id>
+      <name>Ramatroban</name>
+      <description>Ramatroban may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02709</drugbank-id>
+      <name>Resveratrol</name>
+      <description>Resveratrol may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00015</drugbank-id>
+      <name>Reteplase</name>
+      <description>Reteplase may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09259</drugbank-id>
+      <name>Reviparin</name>
+      <description>Reviparin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01207</drugbank-id>
+      <name>Ridogrel</name>
+      <description>Ridogrel may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08931</drugbank-id>
+      <name>Riociguat</name>
+      <description>The serum concentration of Riociguat can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06228</drugbank-id>
+      <name>Rivaroxaban</name>
+      <description>Antithrombin III human may increase the anticoagulant activities of Rivaroxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00533</drugbank-id>
+      <name>Rofecoxib</name>
+      <description>Rofecoxib may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00412</drugbank-id>
+      <name>Rosiglitazone</name>
+      <description>Rosiglitazone may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01098</drugbank-id>
+      <name>Rosuvastatin</name>
+      <description>The serum concentration of Rosuvastatin can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11674</drugbank-id>
+      <name>S Equol</name>
+      <description>S Equol may decrease the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08797</drugbank-id>
+      <name>Salicylamide</name>
+      <description>Salicylamide may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00936</drugbank-id>
+      <name>Salicylic acid</name>
+      <description>Salicylic acid may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01399</drugbank-id>
+      <name>Salsalate</name>
+      <description>Salsalate may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05692</drugbank-id>
+      <name>SCH-530348</name>
+      <description>SCH-530348 may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12179</drugbank-id>
+      <name>Secoisolariciresinol</name>
+      <description>Secoisolariciresinol may decrease the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11362</drugbank-id>
+      <name>Selexipag</name>
+      <description>Selexipag may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06739</drugbank-id>
+      <name>Seratrodast</name>
+      <description>Seratrodast may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01236</drugbank-id>
+      <name>Sevoflurane</name>
+      <description>Sevoflurane may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00203</drugbank-id>
+      <name>Sildenafil</name>
+      <description>The serum concentration of Sildenafil can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06290</drugbank-id>
+      <name>Simeprevir</name>
+      <description>The serum concentration of Simeprevir can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00641</drugbank-id>
+      <name>Simvastatin</name>
+      <description>The serum concentration of Simvastatin can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05073</drugbank-id>
+      <name>SRT501</name>
+      <description>SRT501 may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01323</drugbank-id>
+      <name>St. John's Wort</name>
+      <description>The metabolism of Antithrombin III human can be increased when combined with St. John&amp;#39;s Wort.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00086</drugbank-id>
+      <name>Streptokinase</name>
+      <description>Streptokinase may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06206</drugbank-id>
+      <name>Sugammadex</name>
+      <description>Sugammadex may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00795</drugbank-id>
+      <name>Sulfasalazine</name>
+      <description>Sulfasalazine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00605</drugbank-id>
+      <name>Sulindac</name>
+      <description>Sulindac may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06271</drugbank-id>
+      <name>Sulodexide</name>
+      <description>Sulodexide may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00870</drugbank-id>
+      <name>Suprofen</name>
+      <description>Suprofen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09317</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, A</name>
+      <description>The serum concentration of Synthetic Conjugated Estrogens, A can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09318</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, B</name>
+      <description>Synthetic Conjugated Estrogens, B may decrease the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00864</drugbank-id>
+      <name>Tacrolimus</name>
+      <description>The metabolism of Tacrolimus can be decreased when combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06287</drugbank-id>
+      <name>Temsirolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Antithrombin III human is combined with Temsirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00031</drugbank-id>
+      <name>Tenecteplase</name>
+      <description>Tenecteplase may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00469</drugbank-id>
+      <name>Tenoxicam</name>
+      <description>Tenoxicam may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11466</drugbank-id>
+      <name>Tepoxalin</name>
+      <description>Tepoxalin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08880</drugbank-id>
+      <name>Teriflunomide</name>
+      <description>Teriflunomide may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04905</drugbank-id>
+      <name>Tesmilifene</name>
+      <description>Tesmilifene may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00277</drugbank-id>
+      <name>Theophylline</name>
+      <description>The serum concentration of Theophylline can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09289</drugbank-id>
+      <name>Tianeptine</name>
+      <description>The serum concentration of Tianeptine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01600</drugbank-id>
+      <name>Tiaprofenic acid</name>
+      <description>Tiaprofenic acid may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09070</drugbank-id>
+      <name>Tibolone</name>
+      <description>Tibolone may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08816</drugbank-id>
+      <name>Ticagrelor</name>
+      <description>Ticagrelor may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00208</drugbank-id>
+      <name>Ticlopidine</name>
+      <description>Ticlopidine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13001</drugbank-id>
+      <name>Tinoridine</name>
+      <description>Tinoridine may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06822</drugbank-id>
+      <name>Tinzaparin</name>
+      <description>Tinzaparin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00932</drugbank-id>
+      <name>Tipranavir</name>
+      <description>The serum concentration of Antithrombin III human can be decreased when it is combined with Tipranavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00775</drugbank-id>
+      <name>Tirofiban</name>
+      <description>Tirofiban may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09216</drugbank-id>
+      <name>Tolfenamic Acid</name>
+      <description>Tolfenamic Acid may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00500</drugbank-id>
+      <name>Tolmetin</name>
+      <description>Tolmetin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00081</drugbank-id>
+      <name>Tositumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Antithrombin III human is combined with Tositumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07615</drugbank-id>
+      <name>Tranilast</name>
+      <description>Tranilast may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09283</drugbank-id>
+      <name>Trapidil</name>
+      <description>Trapidil may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00374</drugbank-id>
+      <name>Treprostinil</name>
+      <description>Treprostinil may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00897</drugbank-id>
+      <name>Triazolam</name>
+      <description>The serum concentration of Triazolam can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08814</drugbank-id>
+      <name>Triflusal</name>
+      <description>Triflusal may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00726</drugbank-id>
+      <name>Trimipramine</name>
+      <description>The serum concentration of Trimipramine can be increased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01401</drugbank-id>
+      <name>Trisalicylate-choline</name>
+      <description>Trisalicylate-choline may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00013</drugbank-id>
+      <name>Urokinase</name>
+      <description>Urokinase may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00580</drugbank-id>
+      <name>Valdecoxib</name>
+      <description>Valdecoxib may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00313</drugbank-id>
+      <name>Valproic Acid</name>
+      <description>The serum concentration of Valproic Acid can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00661</drugbank-id>
+      <name>Verapamil</name>
+      <description>The metabolism of Verapamil can be decreased when combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00163</drugbank-id>
+      <name>Vitamin E</name>
+      <description>Vitamin E may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09030</drugbank-id>
+      <name>Vorapaxar</name>
+      <description>The risk or severity of adverse effects can be increased when Vorapaxar is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>Warfarin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04898</drugbank-id>
+      <name>Ximelagatran</name>
+      <description>Ximelagatran may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12289</drugbank-id>
+      <name>YM150</name>
+      <description>Antithrombin III human may increase the anticoagulant activities of Ym150.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06737</drugbank-id>
+      <name>Zaltoprofen</name>
+      <description>Zaltoprofen may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11478</drugbank-id>
+      <name>Zeranol</name>
+      <description>Zeranol may decrease the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00495</drugbank-id>
+      <name>Zidovudine</name>
+      <description>The serum concentration of Zidovudine can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00744</drugbank-id>
+      <name>Zileuton</name>
+      <description>Zileuton may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04828</drugbank-id>
+      <name>Zomepirac</name>
+      <description>Zomepirac may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>733</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000280</id>
+      <name>Antithrombin-III</name>
+      <organism>Human</organism>
+      <actions/>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P01008" source="Swiss-Prot">
+    <name>Antithrombin-III</name>
+    <general-function>Serine-type endopeptidase inhibitor activity</general-function>
+    <specific-function>Most important serine protease inhibitor in plasma that regulates the blood coagulation cascade. AT-III inhibits thrombin, matriptase-3/TMPRSS7, as well as factors IXa, Xa and XIa. Its inhibitory activity is greatly enhanced in the presence of heparin.</specific-function>
+    <gene-name>SERPINC1</gene-name>
+    <locus>1q23-q25.1</locus>
+    <cellular-location>Secreted</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions>1-32</signal-regions>
+    <theoretical-pi>6.68</theoretical-pi>
+    <molecular-weight>52601.935</molecular-weight>
+    <chromosome-location>1</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:775</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>SERPINC1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M21642</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>179161</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>2632</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P01008</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>ANT3_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>AT3</synonym>
+      <synonym>ATIII</synonym>
+      <synonym>Serpin C1</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016052|Antithrombin-III
+MYSNVIGTVTSGKRKVYLLSLLLIGFWDCVTCHGSPVDICTAKPRDIPMNPMCIYRSPEK
+KATEDEGSEQKIPEATNRRVWELSKANSRFATTFYQHLADSKNDNDNIFLSPLSISTAFA
+MTKLGACNDTLQQLMEVFKFDTISEKTSDQIHFFFAKLNCRLYRKANKSSKLVSANRLFG
+DKSLTFNETYQDISELVYGAKLQPLDFKENAEQSRAAINKWVSNKTEGRITDVIPSEAIN
+ELTVLVLVNTIYFKGLWKSKFSPENTRKELFYKADGESCSASMMYQEGKFRYRRVAEGTQ
+VLELPFKGDDITMVLILPKPEKSLAKVEKELTPEVLQEWLDELEEMMLVVHMPRFRIEDG
+FSLKEQLQDMGLVDLFSPEKSKLPGIVAEGRDDLYVSDAFHKAFLEVNEEGSEAAASTAV
+VIAGRSLNPNRVTFKANRPFLVFIREVPLNTIIFMGRVANPCVK</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016053|Antithrombin-III (SERPINC1)
+ATGTATTCCAATGTGATAGGAACTGTAACCTCTGGAAAAAGGAAGGTTTATCTTTTGTCC
+TTGCTGCTCATTGGCTTCTGGGACTGCGTGACCTGTCACGGGAGCCCTGTGGACATCTGC
+ACAGCCAAGCCGCGGGACATTCCCATGAATCCCATGTGCATTTACCGCTCCCCGGAGAAG
+AAGGCAACTGAGGATGAGGGCTCAGAACAGAAGATCCCGGAGGCCACCAACCGGCGTGTC
+TGGGAACTGTCCAAGGCCAATTCCCGCTTTGCTACCACTTTCTATCAGCACCTGGCAGAT
+TCCAAGAATGACAATGATAACATTTTCCTGTCACCCCTGAGTATCTCCACGGCTTTTGCT
+ATGACCAAGCTGGGTGCCTGTAATGACACCCTCCAGCAACTGATGGAGGTATTTAAGTTT
+GACACCATATCTGAGAAAACATCTGATCAGATCCACTTCTTCTTTGCCAAACTGAACTGC
+CGACTCTATCGAAAAGCCAACAAATCCTCCAAGTTAGTATCAGCCAATCGCCTTTTTGGA
+GACAAATCCCTTACCTTCAATGAGACCTACCAGGACATCAGTGAGTTGGTATATGGAGCC
+AAGCTCCAGCCCCTGGACTTCAAGGAAAATGCAGAGCAATCCAGAGCGGCCATCAACAAA
+TGGGTGTCCAATAAGACCGAAGGCCGAATCACCGATGTCATTCCCTCGGAAGCCATCAAT
+GAGCTCACTGTTCTGGTGCTGGTTAACACCATTTACTTCAAGGGCCTGTGGAAGTCAAAG
+TTCAGCCCTGAGAACACAAGGAAGGAACTGTTCTACAAGGCTGATGGAGAGTCGTGTTCA
+GCATCTATGATGTACCAGGAAGGCAAGTTCCGTTATCGGCGCGTGGCTGAAGGCACCCAG
+GTGCTTGAGTTGCCCTTCAAAGGTGATGACATCACCATGGTCCTCATCTTGCCCAAGCCT
+GAGAAGAGCCTGGCCAAGGTAGAGAAGGAACTCACCCCAGAGGTGCTGCAAGAGTGGCTG
+GATGAATTGGAGGAGATGATGCTGGTGGTCCACATGCCCCGCTTCCGCATTGAGGACGGC
+TTCAGTTTGAAGGAGCAGCTGCAAGACATGGGCCTTGTCGATCTGTTCAGCCCTGAAAAG
+TCCAAACTCCCAGGTATTGTTGCAGAAGGCCGAGATGACCTCTATGTCTCAGATGCATTC
+CATAAGGCATTTCTTGAGGTAAATGAAGAAGGCAGTGAAGCAGCTGCAAGTACCGCTGTT
+GTGATTGCTGGCCGTTCGCTAAACCCCAACAGGGTGACTTTCAAGGCCAACAGGCCTTTC
+CTGGTTTTTATAAGAGAAGTTCCTCTGAACACTATTATCTTCATGGGCAGAGTAGCCAAC
+CCTTGTGTTAAGTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00079</identifier>
+        <name>Serpin</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>blood microparticle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular region</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular space</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protease binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heparin binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>serine-type endopeptidase inhibitor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of inflammatory response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of endopeptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to nutrient</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>blood coagulation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of blood coagulation, intrinsic pathway</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

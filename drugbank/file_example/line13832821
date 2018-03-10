@@ -1,0 +1,750 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-13">
+  <drugbank-id primary="true">DB09459</drugbank-id>
+  <name>Tartaric acid</name>
+  <description>Tartaric acid is a white crystalline organic acid that occurs naturally in many plants, most notably in grapes.Tartaric is an alpha-hydroxy-carboxylic acid, is diprotic and aldaric in acid characteristics, and is a dihydroxyl derivative of succinic acid.</description>
+  <cas-number/>
+  <unii>W4888I119H</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>891842</pubmed-id>
+        <citation>Chasseaud LF, Down WH, Kirkpatrick D: Absorption and biotransformation of L(+)-tartaric acid in rats. Experientia. 1977 Aug 15;33(8):998-9.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Pubchem</title>
+        <url>https://pubchem.ncbi.nlm.nih.gov/compound/444305#section=Pharmacology-and-Biochemistry</url>
+      </link>
+      <link>
+        <title>Wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Tartaric_acid</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Tartaric Acid is primarily indicated in conditions like Antiscorbutic, Antiseptic.</indication>
+  <pharmacodynamics> Tartaric acid is used to generate carbon dioxide through interaction with sodium bicarbonate following oral administration. Carbon dioxide extends the stomach and provides a negative contrast medium during double contrast radiography. In high doses, this agent acts as a muscle toxin by inhibiting the production of malic acid, which could cause paralysis and maybe death.&#13;
+</pharmacodynamics>
+  <mechanism-of-action/>
+  <toxicity>Routes of Entry: Inhalation. Ingestion.&#13;
+&#13;
+Toxicity to Animals:&#13;
+Lowest Published Lethal Dose:&#13;
+LDL [Rat - Route: oral; Dose: 7500 mg/kg&#13;
+LDL [Rabbit] - Route: Oral; Dose: 5000 mg/kg&#13;
+LDL [Dog] - Rout: Oral; Dose: 5000 mg/kg&#13;
+Lethal Dose/Conc 50% kill:&#13;
+LD50 [Mouse] - Route: Intravenous; Dose: 485 mg/kg&#13;
+&#13;
+Other Toxic Effects on Humans:&#13;
+Acute Potential Health Effects:&#13;
+Skin: Causes skin irritation&#13;
+Eyes: Causes eye irritation&#13;
+Inhalation: Causes respiratory tract irritation&#13;
+Ingestion: Causes gastrointestinal tract irritation with nausea, vomiting and diarrhea. May affect kidneys (kidney&#13;
+damage), blood, and behavior (convulsions, somnolence), and respiration.&#13;
+Chronic Potential Health Effects:&#13;
+Ingestion: Repeated or prolonged ingestion may cause lesions of the mouth, gastric ulcers, gastrointestinal&#13;
+hyperacidity, and symptoms similar to those of metal fume fever - flu-like condition with fever, chills, sweats,&#13;
+nausea, vomiting, muscle aches, pains, and weakness.&#13;
+Skin: Repeated or prolonged skin contact may cause skin ulcerations or lesions.&#13;
+</toxicity>
+  <metabolism>Most tartarate that is consumed by humans is metabolized by bacteria in the gastrointestinal tract , primarily in the large instestine.</metabolism>
+  <absorption>Oral or parenteral doses of monosodium 14C-L(+)-tartrate (400 mg/kg) are rapidly excreted by rats and a proportion completely metabolized to CO2. The oral dose was well-absorbed.</absorption>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination>Only about 15-20% of consumed tartaric acid is secreted in the urine unchanged.</route-of-elimination>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Baros Effervescent Granules</name>
+      <labeller>Tyco Healthcare</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00776580</dpd-id>
+      <started-marketing-on>1988-12-31</started-marketing-on>
+      <ended-marketing-on>2010-01-07</ended-marketing-on>
+      <dosage-form>Granule, effervescent</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Bicaruvas</name>
+      <labeller>Prosana Distribuciones, S.A. De C.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code>69728-0001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-04-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bicaruvas</name>
+      <labeller>Prosana Distribuciones, S.A. De C.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code>69728-0002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-04-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bicaruvas</name>
+      <labeller>Prosana Distribuciones, S.A. De C.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code>69728-0003</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-04-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Brioschi Childrens Effervescent Antacid</name>
+      <labeller>Brioschi, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>52567-125</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-04-27</started-marketing-on>
+      <ended-marketing-on>2016-04-05</ended-marketing-on>
+      <dosage-form>Granule, effervescent</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Brioschi Effervescent Antacid</name>
+      <labeller>Brioschi, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>52567-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-09-20</started-marketing-on>
+      <ended-marketing-on>2016-04-05</ended-marketing-on>
+      <dosage-form>Granule, effervescent</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>E-Z-gas 2 Granules</name>
+      <labeller>Therapex Division De E Z Em Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01990047</dpd-id>
+      <started-marketing-on>1985-12-31</started-marketing-on>
+      <ended-marketing-on>2000-04-13</ended-marketing-on>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gingera Effervescent Antacid</name>
+      <labeller>Brioschi, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>52567-124</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-04-29</started-marketing-on>
+      <ended-marketing-on>2016-04-05</ended-marketing-on>
+      <dosage-form>Granule, effervescent</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Unik Zoru Pwr</name>
+      <labeller>Therapex Division De E Z Em Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00514594</dpd-id>
+      <started-marketing-on>1981-12-31</started-marketing-on>
+      <ended-marketing-on>2000-08-01</ended-marketing-on>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Unik Zoru Tab</name>
+      <labeller>Therapex Division De E Z Em Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00514586</dpd-id>
+      <started-marketing-on>1981-12-31</started-marketing-on>
+      <ended-marketing-on>2004-06-10</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Urasal Granules</name>
+      <labeller>Axxess Pharma Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00116866</dpd-id>
+      <started-marketing-on>1951-12-31</started-marketing-on>
+      <ended-marketing-on>2011-07-22</ended-marketing-on>
+      <dosage-form>Granule, effervescent</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Brioschi Effervescent Antacid</name>
+      <ingredients>Sodium bicarbonate + Tartaric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gingera Effervescent Antacid</name>
+      <ingredients>Sodium bicarbonate + Tartaric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Brioschi Childrens Effervescent Antacid</name>
+      <ingredients>Sodium bicarbonate + Tartaric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Bicaruvas</name>
+      <ingredients>Tartaric acid + Calcium carbonate + Citric Acid + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Bicaruvas</name>
+      <ingredients>Tartaric acid + Calcium carbonate + Citric Acid + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>E-Z-gas 2 Granules</name>
+      <ingredients>Tartaric acid + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Unik Zoru Tab</name>
+      <ingredients>Tartaric acid + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Unik Zoru Pwr</name>
+      <ingredients>Tartaric acid + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Baros Effervescent Granules</name>
+      <ingredients>Tartaric acid + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Bicaruvas</name>
+      <ingredients>Tartaric acid + Calcium carbonate + Citric Acid + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Urasal Granules</name>
+      <ingredients>Tartaric acid + Hexamethylenetetramine + Sodium bicarbonate</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acids, Acyclic</category>
+      <mesh-id>D000144</mesh-id>
+    </category>
+    <category>
+      <category>Aluminum</category>
+      <mesh-id>D000535</mesh-id>
+    </category>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>Carboxylic Acids</category>
+      <mesh-id>D002264</mesh-id>
+    </category>
+    <category>
+      <category>Dicarboxylic Acids</category>
+      <mesh-id>D003998</mesh-id>
+    </category>
+    <category>
+      <category>Hydroxy Acids</category>
+      <mesh-id>D006880</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Sugar Acids</category>
+      <mesh-id>D013400</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Granule, effervescent</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>6674</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0001242</id>
+      <name>Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1</name>
+      <organism>Human</organism>
+      <actions>
+        <action>catalytic activity</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>UniProt</title>
+            <url>http://www.uniprot.org/uniprot/Q9P2W7</url>
+          </link>
+        </links>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q9P2W7" source="Swiss-Prot">
+    <name>Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1</name>
+    <general-function>Udp-galactose:beta-n-acetylglucosamine beta-1,3-galactosyltransferase activity</general-function>
+    <specific-function>Involved in the biosynthesis of L2/HNK-1 carbohydrate epitope on glycoproteins. Can also play a role in glycosaminoglycan biosynthesis. Substrates include asialo-orosomucoid (ASOR), asialo-fetuin, and asialo-neural cell adhesion molecule. Requires sphingomyelin for activity: stearoyl-sphingomyelin was the most effective, followed by palmitoyl-sphingomyelin and lignoceroyl-sphingomyelin. Activity was demonstrated only for sphingomyelin with a saturated fatty acid and not for that with an unsaturated fatty acid, regardless of the length of the acyl group (By similarity).</specific-function>
+    <gene-name>B3GAT1</gene-name>
+    <locus>11q25</locus>
+    <cellular-location>Golgi apparatus membrane</cellular-location>
+    <transmembrane-regions>7-27</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>10.13</theoretical-pi>
+    <molecular-weight>38255.675</molecular-weight>
+    <chromosome-location>11</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:921</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>B3GAT1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>AB029396</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>8051678</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9P2W7</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>B3GA1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>2.4.1.135</synonym>
+      <synonym>Beta-1,3-glucuronyltransferase 1</synonym>
+      <synonym>GlcAT-P</synonym>
+      <synonym>GLCATP</synonym>
+      <synonym>GlcUAT-P</synonym>
+      <synonym>Glucuronosyltransferase P</synonym>
+      <synonym>UDP-GlcUA:glycoprotein beta-1,3-glucuronyltransferase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010865|Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1
+MPKRRDILAIVLIVLPWTLLITVWHQSTLAPLLAVHKDEGSDPRRETPPGADPREYCTSD
+RDIVEVVRTEYVYTRPPPWSDTLPTIHVVTPTYSRPVQKAELTRMANTLLHVPNLHWLVV
+EDAPRRTPLTARLLRDTGLNYTHLHVETPRNYKLRGDARDPRIPRGTMQRNLALRWLRET
+FPRNSSQPGVVYFADDDNTYSLELFEEMRSTRRVSVWPVAFVGGLRYEAPRVNGAGKVVG
+WKTVFDPHRPFAIDMAGFAVNLRLILQRSQAYFKLRGVKGGYQESSLLRELVTLNDLEPK
+AANCTKILVWHTRTEKPVLVNEGKKGFTDPSVEI</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0010866|Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1 (B3GAT1)
+ATGCCGAAGAGACGGGACATCCTAGCGATCGTCCTCATCGTGCTGCCCTGGACTCTGCTC
+ATCACTGTCTGGCACCAGAGCACCCTCGCACCCCTGCTCGCGGTACATAAGGATGAGGGC
+AGTGACCCCCGACGCGAAACGCCGCCCGGCGCCGACCCCAGGGAGTACTGCACGTCTGAC
+CGCGACATCGTGGAGGTGGTGCGCACCGAGTACGTGTACACGCGGCCCCCGCCATGGTCC
+GACACGCTGCCCACCATCCACGTGGTGACGCCCACCTACAGCCGCCCGGTGCAGAAGGCC
+GAGCTGACGCGCATGGCCAACACGCTGCTGCACGTGCCCAACCTCCACTGGCTGGTGGTG
+GAGGATGCGCCGCGCCGGACGCCGCTGACCGCGCGCCTGCTGCGCGACACCGGCCTCAAC
+TACACGCACCTGCACGTGGAGACGCCCCGCAACTACAAGCTGCGCGGAGACGCCCGCGAC
+CCACGCATCCCGCGGGGCACCATGCAGCGCAACCTGGCCCTGCGCTGGCTGCGCGAGACC
+TTCCCGCGCAACTCCAGCCAGCCTGGCGTGGTCTACTTCGCCGACGACGACAACACCTAC
+AGCCTGGAGCTCTTCGAAGAGATGCGCAGCACCAGGAGGGTGTCCGTGTGGCCCGTCGCC
+TTCGTGGGTGGCCTGCGGTACGAGGCCCCACGGGTGAACGGGGCAGGGAAGGTGGTCGGC
+TGGAAGACGGTGTTTGACCCCCACCGGCCATTTGCAATAGACATGGCTGGATTTGCCGTC
+AACCTGCGGCTCATTCTGCAGCGAAGCCAGGCCTACTTCAAGCTGCGAGGTGTGAAGGGA
+GGCTACCAGGAAAGCAGCCTCCTTCGAGAACTTGTCACCCTCAACGACCTGGAGCCCAAG
+GCAGCCAACTGCACCAAGATCCTGGTGTGGCACACACGGACAGAGAAGCCAGTGCTGGTG
+AATGAGGGCAAGAAGGGCTTCACTGACCCCTCGGTGGAGATCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF03360</identifier>
+        <name>Glyco_transf_43</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>Golgi membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>metal ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>UDP-galactose</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>chondroitin sulfate proteoglycan biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>carbohydrate metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein glycosylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glycosaminoglycan metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>chondroitin sulfate metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+    <enzyme position="2">
+      <id>BE0002503</id>
+      <name>Hypoxia-inducible factor 1-alpha inhibitor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>catalytic activity</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>UniProt</title>
+            <url>http://www.uniprot.org/uniprot/Q9NWT6</url>
+          </link>
+          <link>
+            <title>HMDB</title>
+            <url>http://www.hmdb.ca/metabolites/HMDB29878</url>
+          </link>
+        </links>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q9NWT6" source="Swiss-Prot">
+    <name>Hypoxia-inducible factor 1-alpha inhibitor</name>
+    <general-function>Zinc ion binding</general-function>
+    <specific-function>Hydroxylates HIF-1 alpha at 'Asp-803' in the C-terminal transactivation domain (CAD). Functions as an oxygen sensor and, under normoxic conditions, the hydroxylation prevents interaction of HIF-1 with transcriptional coactivators including Cbp/p300-interacting transactivator. Involved in transcriptional repression through interaction with HIF1A, VHL and histone deacetylases. Hydroxylates specific Asn residues within ankyrin repeat domains (ARD) of NFKB1, NFKBIA, NOTCH1, ASB4, PPP1R12A and several other ARD-containing proteins. Also hydroxylates Asp and His residues within ARDs of ANK1 and TNKS2, respectively. Negatively regulates NOTCH1 activity, accelerating myogenic differentiation. Positively regulates ASB4 activity, promoting vascular differentiation.</specific-function>
+    <gene-name>HIF1AN</gene-name>
+    <locus>10q24</locus>
+    <cellular-location>Nucleus</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>5.28</theoretical-pi>
+    <molecular-weight>40285.25</molecular-weight>
+    <chromosome-location>10</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:17113</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>HIF1AN</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>AF395830</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9NWT6</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>HIF1N_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.14.11.30</synonym>
+      <synonym>Factor inhibiting HIF-1</synonym>
+      <synonym>FIH-1</synonym>
+      <synonym>FIH1</synonym>
+      <synonym>Hypoxia-inducible factor asparagine hydroxylase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0019293|Hypoxia-inducible factor 1-alpha inhibitor
+MAATAAEAVASGSGEPREEAGALGPAWDESQLRSYSFPTRPIPRLSQSDPRAEELIENEE
+PVVLTDTNLVYPALKWDLEYLQENIGNGDFSVYSASTHKFLYYDEKKMANFQNFKPRSNR
+EEMKFHEFVEKLQDIQQRGGEERLYLQQTLNDTVGRKIVMDFLGFNWNWINKQQGKRGWG
+QLTSNLLLIGMEGNVTPAHYDEQQNFFAQIKGYKRCILFPPDQFECLYPYPVHHPCDRQS
+QVDFDNPDYERFPNFQNVVGYETVVGPGDVLYIPMYWWHHIESLLNGGITITVNFWYKGA
+PTPKRIEYPLKAHQKVAIMRNIEKMLGEALGNPQEVGPLLNTMIKGRYN</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0019294|Hypoxia-inducible factor 1-alpha inhibitor (HIF1AN)
+ATGGCGGCGACAGCGGCGGAGGCTGTGGCCTCTGGCTCTGGAGAGCCCCGGGAGGAGGCT
+GGAGCCCTCGGCCCCGCCTGGGATGAATCCCAGTTGCGCAGTTATAGCTTCCCGACTAGG
+CCCATTCCGCGTCTGAGTCAGAGCGACCCCCGGGCAGAGGAGCTTATTGAGAATGAGGAG
+CCTGTGGTGCTGACCGACACAAATCTTGTGTATCCTGCCCTGAAATGGGACCTTGAATAC
+CTGCAAGAGAATATTGGCAATGGAGACTTCTCTGTGTACAGTGCCAGCACCCACAAGTTC
+TTGTACTATGATGAGAAGAAGATGGCCAATTTCCAGAACTTTAAGCCGAGGTCCAACAGG
+GAAGAAATGAAATTTCATGAGTTCGTTGAGAAACTGCAGGATATACAGCAGCGAGGAGGG
+GAAGAGAGGTTGTATCTGCAGCAAACGCTCAATGACACTGTGGGCAGGAAGATTGTCATG
+GACTTCTTAGGTTTTAACTGGAACTGGATTAATAAGCAACAGGGAAAGCGTGGCTGGGGG
+CAGCTTACCTCTAACCTGCTGCTCATTGGCATGGAAGGAAATGTGACACCTGCTCACTAT
+GATGAGCAGCAGAACTTTTTTGCTCAGATAAAAGGTTACAAACGATGCATCTTATTCCCT
+CCGGATCAGTTCGAGTGCCTCTACCCATACCCTGTTCATCACCCATGTGACAGACAGAGC
+CAGGTGGACTTTGACAATCCCGACTACGAGAGGTTCCCTAATTTCCAAAATGTGGTTGGT
+TACGAAACAGTGGTTGGCCCTGGTGATGTTCTTTACATCCCAATGTACTGGTGGCATCAC
+ATAGAGTCATTACTAAATGGGGGGATTACCATCACTGTGAACTTCTGGTATAAGGGGGCT
+CCCACCCCTAAGAGAATTGAATATCCTCTCAAAGCTCATCAGAAAGTGGCCATAATGAGA
+AACATTGAGAAGATGCTTGGAGAGGCCTTGGGGAACCCACAAGAGGTGGGGCCCTTGTTG
+AACACAATGATCAAGGGCCGATACAACTAG</gene-sequence>
+    <pfams>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>perinuclear region of cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen sensor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ankyrin repeat binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>cofactor binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>carboxylic acid binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>peptidyl-asparagine 3-dioxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>zinc ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>peptidyl-histidine dioxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>NF-kappaB binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein homodimerization activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>Notch binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to hypoxia</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>peptidyl-aspartic acid hydroxylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transcription, DNA-templated</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of vasculogenesis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of myoblast differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>peptidyl-asparagine hydroxylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of transcription from RNA polymerase II promoter in response to hypoxia</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>peptidyl-histidine hydroxylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of Notch signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of transcription from RNA polymerase II promoter in response to hypoxia</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

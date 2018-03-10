@@ -1,0 +1,197 @@
+<drug type="small molecule" created="2017-01-20" updated="2017-01-28">
+  <drugbank-id primary="true">DB13165</drugbank-id>
+  <name>Ripasudil</name>
+  <description>Ripasudil is used for the treatment of glaucoma and ocular hypertension. It was approved in Japan in September, 2014.</description>
+  <cas-number>223645-67-8</cas-number>
+  <unii>11978226XX</unii>
+  <average-mass>323.39</average-mass>
+  <monoisotopic-mass>323.110376169</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as isoquinolines and derivatives. These are aromatic polycyclic compounds containing an isoquinoline moiety, which consists of a benzene ring fused to a pyridine ring and forming benzo[c]pyridine.</description>
+    <direct-parent>Isoquinolines and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organoheterocyclic compounds</superclass>
+    <class>Isoquinolines and derivatives</class>
+    <subclass/>
+    <alternative-parent>1,4-diazepanes</alternative-parent>
+    <alternative-parent>Aryl fluorides</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Benzenoids</alternative-parent>
+    <alternative-parent>Dialkylamines</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organofluorides</alternative-parent>
+    <alternative-parent>Organosulfonamides</alternative-parent>
+    <alternative-parent>Pyridines and derivatives</alternative-parent>
+    <alternative-parent>Sulfonyls</alternative-parent>
+    <substituent>1,4-diazepane</substituent>
+    <substituent>Amine</substituent>
+    <substituent>Aromatic heteropolycyclic compound</substituent>
+    <substituent>Aryl fluoride</substituent>
+    <substituent>Aryl halide</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Diazepane</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Isoquinoline</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organic sulfonic acid or derivatives</substituent>
+    <substituent>Organofluoride</substituent>
+    <substituent>Organohalogen compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organosulfonic acid amide</substituent>
+    <substituent>Organosulfonic acid or derivatives</substituent>
+    <substituent>Organosulfur compound</substituent>
+    <substituent>Pyridine</substituent>
+    <substituent>Secondary aliphatic amine</substituent>
+    <substituent>Secondary amine</substituent>
+    <substituent>Sulfonyl</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT002191</drugbank-id>
+      <name>Ripasudil hydrochloride dihydrate</name>
+      <unii>016TTR32QF</unii>
+      <cas-number>887375-67-9</cas-number>
+      <inchikey>CMDJNMACGABCKQ-XVSRHIFFSA-N</inchikey>
+      <average-mass>395.87</average-mass>
+      <monoisotopic-mass>395.1081833</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms/>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amides</category>
+      <mesh-id>D000577</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 2-Ring</category>
+      <mesh-id>D006574</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>rho-Associated Kinases, antagonists &amp; inhibitors</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Sulfones</category>
+      <mesh-id>D013450</mesh-id>
+    </category>
+    <category>
+      <category>Sulfur Compounds</category>
+      <mesh-id>D013457</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>0.72</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>3.00e-01 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>323.39</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>323.110376169</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>C[C@H]1CNCCCN1S(=O)(=O)C1=C2C(F)=CN=CC2=CC=C1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C15H18FN3O2S</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C15H18FN3O2S/c1-11-8-17-6-3-7-19(11)22(20,21)14-5-2-4-12-9-18-10-13(16)15(12)14/h2,4-5,9-11,17H,3,6-8H2,1H3/t11-/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>QSKQVZWVLOIIEV-NSHDSACASA-N</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Ripasudil</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL3426621</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,206 @@
+<drug type="small molecule" created="2015-11-30" updated="2016-08-17">
+  <drugbank-id primary="true">DB09563</drugbank-id>
+  <name>Choline C-11</name>
+  <description/>
+  <cas-number/>
+  <unii>M4AS4XGD4Q</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Choline C 11</name>
+      <labeller>Washington University School Of Medicine</labeller>
+      <ndc-id/>
+      <ndc-product-code>75913-311</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-06-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>33.1 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA208413</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Choline C 11</name>
+      <labeller>University Of Texas Md Anderson Cancer Center</labeller>
+      <ndc-id/>
+      <ndc-product-code>60215-110</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-10-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>33.1 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA205690</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Choline C 11</name>
+      <labeller>Mayo Clinic</labeller>
+      <ndc-id/>
+      <ndc-product-code>52670-556</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-09-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>33.1 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA203155</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Choline C 11</name>
+      <labeller>Global Isotopes, Llc D/B/A Zevacor Molecular</labeller>
+      <ndc-id/>
+      <ndc-product-code>69126-004</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>4 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA206319</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Choline C 11</name>
+      <labeller>University Of Texas Md Anderson Cancer Center</labeller>
+      <ndc-id/>
+      <ndc-product-code>60215-111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-10-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>100 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA205690</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Choline C 11</name>
+      <labeller>Precision Nuclear Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>52768-300</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-06-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>33.1 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Choline C 11</name>
+      <ingredients>Choline C-11</ingredients>
+    </mixture>
+    <mixture>
+      <name>Choline C 11</name>
+      <ingredients>Choline C-11</ingredients>
+    </mixture>
+    <mixture>
+      <name>Choline C 11</name>
+      <ingredients>Choline C-11</ingredients>
+    </mixture>
+    <mixture>
+      <name>Choline C 11</name>
+      <ingredients>Choline C-11</ingredients>
+    </mixture>
+    <mixture>
+      <name>Choline C 11</name>
+      <ingredients>Choline C-11</ingredients>
+    </mixture>
+    <mixture>
+      <name>Choline C 11</name>
+      <ingredients>Choline C-11</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>100 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>33.1 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>4 mCi/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,357 @@
+<drug type="small molecule" created="2016-06-01" updated="2016-12-08">
+  <drugbank-id primary="true">DB11602</drugbank-id>
+  <name>Hydroxyethyl cellulose</name>
+  <description/>
+  <cas-number>9004-62-0</cas-number>
+  <unii>X70SE62ZAR</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001904</drugbank-id>
+      <name>Hydroxyethyl cellulose (100 MPa.s at 2%)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001905</drugbank-id>
+      <name>Hydroxyethyl cellulose (140 MPa.s at 5%)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001906</drugbank-id>
+      <name>Hydroxyethyl cellulose (1500 MPa.s at 1%)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001907</drugbank-id>
+      <name>Hydroxyethyl cellulose (1800 MPa.s at 2%)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001908</drugbank-id>
+      <name>Hydroxyethyl cellulose (2000 MPa.s at 1%)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001909</drugbank-id>
+      <name>Hydroxyethyl cellulose (280 MPa.s at 2%)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001910</drugbank-id>
+      <name>Hydroxyethyl cellulose (280 MPa.s at 5%)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001911</drugbank-id>
+      <name>Hydroxyethyl cellulose (3000 MPa.s at 1%)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001912</drugbank-id>
+      <name>Hydroxyethyl cellulose (40 MPa.s at 2%)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001913</drugbank-id>
+      <name>Hydroxyethyl cellulose (4000 MPa.s at 1%)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001914</drugbank-id>
+      <name>Hydroxyethyl cellulose (5000 MPa.s at 1%)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001915</drugbank-id>
+      <name>Hydroxyethyl cellulose (5500 MPa.s at 2%)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001916</drugbank-id>
+      <name>Hydroxyethyl cellulose (6500 MPa.s at 2%)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">2-Hydroxyethyl cellulose ether</synonym>
+    <synonym language="" coder="">Cellulose hydroxyethyl ether</synonym>
+    <synonym language="" coder="">Cellulose hydroxyethylate</synonym>
+    <synonym language="" coder="">hydroxyethylcellulose</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Dionephrine  0.12% Liq</name>
+      <labeller>Dioptic Pharmaceuticals Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02026473</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Odan-atropine</name>
+      <labeller>Odan Laboratories Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00622907</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rohto Hydra</name>
+      <labeller>The Mentholatum Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>10742-8148</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-01-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>6 mg/mL</strength>
+      <route>Ophthalmic</route>
+      <fda-application-number>part349</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rohto Hydra</name>
+      <labeller>Rohto Pharmaceutical Co. Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>66613-8148</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-01-03</started-marketing-on>
+      <ended-marketing-on>2016-11-04</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>6 mg/mL</strength>
+      <route>Ophthalmic</route>
+      <fda-application-number>part349</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rohto Hydra</name>
+      <labeller>Rohto Mentholatum (Vietnam) Co. Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>75977-8148</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-03-15</started-marketing-on>
+      <ended-marketing-on>2016-12-09</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>6 mg/mL</strength>
+      <route>Ophthalmic</route>
+      <fda-application-number>part349</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Cellosize</name>
+      <company/>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Rohto Hydra</name>
+      <ingredients>Hydroxyethyl cellulose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rohto Hydra</name>
+      <ingredients>Hydroxyethyl cellulose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rohto Hydra</name>
+      <ingredients>Hydroxyethyl cellulose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dionephrine  0.12% Liq</name>
+      <ingredients>Phenylephrine + Hydroxyethyl cellulose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Odan-atropine</name>
+      <ingredients>Hydroxyethyl cellulose + Atropine</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Biomedical and Dental Materials</category>
+      <mesh-id>D001697</mesh-id>
+    </category>
+    <category>
+      <category>Biopolymers</category>
+      <mesh-id>D001704</mesh-id>
+    </category>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Glucans</category>
+      <mesh-id>D005936</mesh-id>
+    </category>
+    <category>
+      <category>Macromolecular Substances</category>
+      <mesh-id>D046911</mesh-id>
+    </category>
+    <category>
+      <category>Manufactured Materials</category>
+      <mesh-id>D008420</mesh-id>
+    </category>
+    <category>
+      <category>Ophthalmic Solutions</category>
+      <mesh-id>D009883</mesh-id>
+    </category>
+    <category>
+      <category>Polymers</category>
+      <mesh-id>D011108</mesh-id>
+    </category>
+    <category>
+      <category>Polysaccharides</category>
+      <mesh-id>D011134</mesh-id>
+    </category>
+    <category>
+      <category>Saliva, Artificial</category>
+      <mesh-id>D012464</mesh-id>
+    </category>
+    <category>
+      <category>Specialty Uses of Chemicals</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+    <category>
+      <category>Technology, Industry, and Agriculture</category>
+      <mesh-id>D013676</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Liquid</form>
+      <route>Ophthalmic</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution / drops</form>
+      <route>Ophthalmic</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Ophthalmic</route>
+      <strength>6 mg/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>3977</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>85249</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D04474</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Hydroxyethyl_cellulose</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

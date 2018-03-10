@@ -1,0 +1,862 @@
+<drug type="biotech" created="2015-11-30" updated="2017-04-01">
+  <drugbank-id primary="true">DB09564</drugbank-id>
+  <name>Insulin Degludec</name>
+  <description>Insulin Degludec is an ultra-long-acting insulin analogue used for glycemic control in Diabetes Mellitus. Insulin and its analogues lower blood glucose levels by stimulating peripheral glucose uptake and by preventing hepatic glucose production. Compared to endogenous insulin, this product has an added hexadecanedioic acid to lysine at the B29 position which allows for the formation of multi-hexamers. When injected subcutaneously, these multi-hexamers form a drug depot store from which monomers are slowly and continuously absorbed into the circulation. As a result, Insulin Degludec has a protracted time action profile due to the delayed absorption from subcutaneous tissue depots into the systemic circulation. Compared to available long-acting analogues such as insulin glargine and insulin detemir, which have a duration of action of 20-24 hours, insulin degludec provides a consistent level of basal insulin over 42 hours with a low peak:trough ratio. Limitations of shorter acting analogues include more frequent dosing and less stable pharmacokinetics, which may negatively impact patient adherence and glucose control, particularly nocturnal control.&#13;
+&#13;
+Insulin Degludec was approved by the FDA in September 2015 as the product Tresiba, for use in providing glycemic control to adults with diabetes mellitus.</description>
+  <cas-number>844439-96-9</cas-number>
+  <unii>54Q18076QB</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>22521072</pubmed-id>
+        <citation>Garber AJ, King AB, Del Prato S, Sreenan S, Balci MK, Munoz-Torres M, Rosenstock J, Endahl LA, Francisco AM, Hollander P: Insulin degludec, an ultra-longacting basal insulin, versus insulin glargine in basal-bolus treatment with mealtime insulin aspart in type 2 diabetes (BEGIN Basal-Bolus Type 2): a phase 3, randomised, open-label, treat-to-target non-inferiority trial. Lancet. 2012 Apr 21;379(9825):1498-507. doi: 10.1016/S0140-6736(12)60205-0.</citation>
+      </article>
+      <article>
+        <pubmed-id>22826637</pubmed-id>
+        <citation>Wang F, Surh J, Kaur M: Insulin degludec as an ultralong-acting basal insulin once a day: a systematic review. Diabetes Metab Syndr Obes. 2012;5:191-204. doi: 10.2147/DMSO.S21979. Epub 2012 Jul 5.</citation>
+      </article>
+      <article>
+        <pubmed-id>25179915</pubmed-id>
+        <citation>Haahr H, Heise T: A review of the pharmacological properties of insulin degludec and their clinical relevance. Clin Pharmacokinet. 2014 Sep;53(9):787-800. doi: 10.1007/s40262-014-0165-y.</citation>
+      </article>
+      <article>
+        <pubmed-id>22485010</pubmed-id>
+        <citation>Jonassen I, Havelund S, Hoeg-Jensen T, Steensgaard DB, Wahlund PO, Ribel U: Design of the novel protraction mechanism of insulin degludec, an ultra-long-acting basal insulin. Pharm Res. 2012 Aug;29(8):2104-14. doi: 10.1007/s11095-012-0739-z. Epub 2012 Apr  7.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Insulin degludec is indicated to improve glycemic control in adults with diabetes mellitus.</indication>
+  <pharmacodynamics/>
+  <mechanism-of-action>Insulin and its analogues lower blood glucose levels by stimulating peripheral glucose uptake and by preventing hepatic glucose production. Compared to endogenous insulin, Insulin Degludec has an added hexadecanedioic acid to lysine at the B29 position which allows for the formation of multi-hexamers in subcutaneous tissues. When injected subcutaneously, these multi-hexamers form a drug depot store that slowly release. As a result, Insulin Degludec has a protracted time action profile due to the delayed absorption from subcutaneous tissue depots into the systemic circulation</mechanism-of-action>
+  <toxicity>Observe for signs and symptoms of hypoglycemia, hypokalemia, and fluid retention and heart failure with concomitant use of Thiazolidinediones.&#13;
+Pregnancy Category C</toxicity>
+  <metabolism>All insulin degludec metabolites are inactive.</metabolism>
+  <absorption>In patients with type 1 diabetes, after 8 days of once daily subcutaneous dosing with 0.4 U/kg, maximum degludec concentrations of 4472 pmol/L were attained at a median of 9 hours (tmax). After the first dose of, median onset of appearance was around one hour. The glucose lowering effect lasted at least 42 hours after the last of 8 once-daily injections. Insulin degludec concentration reach steady state levels after 3-4 days.</absorption>
+  <half-life>The half-life after subcutaneous administration is determined primarily by the rate of absorption from the subcutaneous tissue. On average, the half-life at steady state is approximately 25 hours independent of dose.</half-life>
+  <protein-binding>The affinity of insulin degludec to serum albumin corresponds to a plasma protein binding of &gt;99% in human plasma.</protein-binding>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance>0.03 L/kg</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Tresiba</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-2550</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-09-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>200 U/mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>NDA203314</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Tresiba</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-2660</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-09-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>100 U/mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>NDA203314</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Xultophy 100/3.6</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-2911</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-11-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number>NDA208583</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xultophy</name>
+      <ingredients>Insulin Degludec + Liraglutide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xultophy</name>
+      <ingredients>Insulin Degludec + Liraglutide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xultophy</name>
+      <ingredients>Insulin Degludec + Liraglutide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xultophy  Pre-filled Pen</name>
+      <ingredients>Insulin Degludec + Liraglutide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tresiba</name>
+      <ingredients>Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xultophy 100/3.6</name>
+      <ingredients>Insulin Degludec + Liraglutide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ryzodeg</name>
+      <ingredients>Insulin Aspart + Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ryzodeg</name>
+      <ingredients>Insulin Aspart + Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ryzodeg</name>
+      <ingredients>Insulin Aspart + Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ryzodeg</name>
+      <ingredients>Insulin Aspart + Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ryzodeg</name>
+      <ingredients>Insulin Aspart + Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ryzodeg</name>
+      <ingredients>Insulin Aspart + Insulin Degludec</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ryzodeg</name>
+      <ingredients>Insulin Aspart + Insulin Degludec</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Drugs Used in Diabetes</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Hormones</category>
+      <mesh-id>D006728</mesh-id>
+    </category>
+    <category>
+      <category>Hormones, Hormone Substitutes, and Hormone Antagonists</category>
+      <mesh-id>D006730</mesh-id>
+    </category>
+    <category>
+      <category>Insulins</category>
+      <mesh-id>D061385</mesh-id>
+    </category>
+    <category>
+      <category>Insulins and Analogues</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Insulins and Analogues for Injection, Long-Acting</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Pancreatic Hormones</category>
+      <mesh-id>D010187</mesh-id>
+    </category>
+    <category>
+      <category>Peptide Hormones</category>
+      <mesh-id>D036361</mesh-id>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>100 U/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>200 U/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="A10AE56">
+      <level code="A10AE">Insulins and analogues for injection, long-acting</level>
+      <level code="A10A">INSULINS AND ANALOGUES</level>
+      <level code="A10">DRUGS USED IN DIABETES</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+    <atc-code code="A10AD06">
+      <level code="A10AD">Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting</level>
+      <level code="A10A">INSULINS AND ANALOGUES</level>
+      <level code="A10">DRUGS USED IN DIABETES</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+    <atc-code code="A10AE06">
+      <level code="A10AE">Insulins and analogues for injection, long-acting</level>
+      <level code="A10A">INSULINS AND ANALOGUES</level>
+      <level code="A10">DRUGS USED IN DIABETES</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB09564.pdf?1472680200</fda-label>
+  <patents>
+    <patent>
+      <number>5866538</number>
+      <country>United States</country>
+      <approved>1997-06-20</approved>
+      <expires>2017-06-20</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>6899699</number>
+      <country>United States</country>
+      <approved>2002-01-02</approved>
+      <expires>2022-01-02</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>7615532</number>
+      <country>United States</country>
+      <approved>2005-05-25</approved>
+      <expires>2025-05-25</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>7686786</number>
+      <country>United States</country>
+      <approved>2006-08-03</approved>
+      <expires>2026-08-03</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8672898</number>
+      <country>United States</country>
+      <approved>2002-01-02</approved>
+      <expires>2022-01-02</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8684969</number>
+      <country>United States</country>
+      <approved>2005-10-20</approved>
+      <expires>2025-10-20</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8920383</number>
+      <country>United States</country>
+      <approved>2006-07-17</approved>
+      <expires>2026-07-17</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9108002</number>
+      <country>United States</country>
+      <approved>2006-01-20</approved>
+      <expires>2026-01-20</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9132239</number>
+      <country>United States</country>
+      <approved>2012-02-01</approved>
+      <expires>2032-02-01</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences>
+    <sequence format="FASTA">&gt;A Chain
+FVNQHLCGSHLVEALYLVCGERGFFYTPK</sequence>
+    <sequence format="FASTA">&gt;B Chain
+GIVEQCCTSICSLYQLENYCN</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>6103.97</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C274H411N65O81S6</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D09727</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Insulin_degludec</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2107869</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/tresiba-drug.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>https://www.drugs.com/ppa/insulin-degludec.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000033</id>
+      <name>Insulin receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>ligand</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P06213" source="Swiss-Prot">
+    <name>Insulin receptor</name>
+    <general-function>Receptor signaling protein tyrosine kinase activity</general-function>
+    <specific-function>Receptor tyrosine kinase which mediates the pleiotropic actions of insulin. Binding of insulin leads to phosphorylation of several intracellular substrates, including, insulin receptor substrates (IRS1, 2, 3, 4), SHC, GAB1, CBL and other signaling intermediates. Each of these phosphorylated proteins serve as docking proteins for other signaling proteins that contain Src-homology-2 domains (SH2 domain) that specifically recognize different phosphotyrosines residues, including the p85 regulatory subunit of PI3K and SHP2. Phosphorylation of IRSs proteins lead to the activation of two main signaling pathways: the PI3K-AKT/PKB pathway, which is responsible for most of the metabolic actions of insulin, and the Ras-MAPK pathway, which regulates expression of some genes and cooperates with the PI3K pathway to control cell growth and differentiation. Binding of the SH2 domains of PI3K to phosphotyrosines on IRS1 leads to the activation of PI3K and the generation of phosphatidylinositol-(3, 4, 5)-triphosphate (PIP3), a lipid second messenger, which activates several PIP3-dependent serine/threonine kinases, such as PDPK1 and subsequently AKT/PKB. The net effect of this pathway is to produce a translocation of the glucose transporter SLC2A4/GLUT4 from cytoplasmic vesicles to the cell membrane to facilitate glucose transport. Moreover, upon insulin stimulation, activated AKT/PKB is responsible for: anti-apoptotic effect of insulin by inducing phosphorylation of BAD; regulates the expression of gluconeogenic and lipogenic enzymes by controlling the activity of the winged helix or forkhead (FOX) class of transcription factors. Another pathway regulated by PI3K-AKT/PKB activation is mTORC1 signaling pathway which regulates cell growth and metabolism and integrates signals from insulin. AKT mediates insulin-stimulated protein synthesis by phosphorylating TSC2 thereby activating mTORC1 pathway. The Ras/RAF/MAP2K/MAPK pathway is mainly involved in mediating cell growth, survival and cellular differentiation of insulin. Phosphorylated IRS1 recruits GRB2/SOS complex, which triggers the activation of the Ras/RAF/MAP2K/MAPK pathway. In addition to binding insulin, the insulin receptor can bind insulin-like growth factors (IGFI and IGFII). Isoform Short has a higher affinity for IGFII binding. When present in a hybrid receptor with IGF1R, binds IGF1. PubMed:12138094 shows that hybrid receptors composed of IGF1R and INSR isoform Long are activated with a high affinity by IGF1, with low affinity by IGF2 and not significantly activated by insulin, and that hybrid receptors composed of IGF1R and INSR isoform Short are activated by IGF1, IGF2 and insulin. In contrast, PubMed:16831875 shows that hybrid receptors composed of IGF1R and INSR isoform Long and hybrid receptors composed of IGF1R and INSR isoform Short have similar binding characteristics, both bind IGF1 and have a low affinity for insulin.</specific-function>
+    <gene-name>INSR</gene-name>
+    <locus>19p13.3-p13.2</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>957-979</transmembrane-regions>
+    <signal-regions>1-27</signal-regions>
+    <theoretical-pi>6.18</theoretical-pi>
+    <molecular-weight>156331.465</molecular-weight>
+    <chromosome-location>19</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:6091</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>INSR</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M10051</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>307070</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1800</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P06213</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>INSR_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>2.7.10.1</synonym>
+      <synonym>IR</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0036940|Insulin receptor
+MATGGRRGAAAAPLLVAVAALLLGAAGHLYPGEVCPGMDIRNNLTRLHELENCSVIEGHL
+QILLMFKTRPEDFRDLSFPKLIMITDYLLLFRVYGLESLKDLFPNLTVIRGSRLFFNYAL
+VIFEMVHLKELGLYNLMNITRGSVRIEKNNELCYLATIDWSRILDSVEDNYIVLNKDDNE
+ECGDICPGTAKGKTNCPATVINGQFVERCWTHSHCQKVCPTICKSHGCTAEGLCCHSECL
+GNCSQPDDPTKCVACRNFYLDGRCVETCPPPYYHFQDWRCVNFSFCQDLHHKCKNSRRQG
+CHQYVIHNNKCIPECPSGYTMNSSNLLCTPCLGPCPKVCHLLEGEKTIDSVTSAQELRGC
+TVINGSLIINIRGGNNLAAELEANLGLIEEISGYLKIRRSYALVSLSFFRKLRLIRGETL
+EIGNYSFYALDNQNLRQLWDWSKHNLTITQGKLFFHYNPKLCLSEIHKMEEVSGTKGRQE
+RNDIALKTNGDQASCENELLKFSYIRTSFDKILLRWEPYWPPDFRDLLGFMLFYKEAPYQ
+NVTEFDGQDACGSNSWTVVDIDPPLRSNDPKSQNHPGWLMRGLKPWTQYAIFVKTLVTFS
+DERRTYGAKSDIIYVQTDATNPSVPLDPISVSNSSSQIILKWKPPSDPNGNITHYLVFWE
+RQAEDSELFELDYCLKGLKLPSRTWSPPFESEDSQKHNQSEYEDSAGECCSCPKTDSQIL
+KELEESSFRKTFEDYLHNVVFVPRKTSSGTGAEDPRPSRKRRSLGDVGNVTVAVPTVAAF
+PNTSSTSVPTSPEEHRPFEKVVNKESLVISGLRHFTGYRIELQACNQDTPEERCSVAAYV
+SARTMPEAKADDIVGPVTHEIFENNVVHLMWQEPKEPNGLIVLYEVSYRRYGDEELHLCV
+SRKHFALERGCRLRGLSPGNYSVRIRATSLAGNGSWTEPTYFYVTDYLDVPSNIAKIIIG
+PLIFVFLFSVVIGSIYLFLRKRQPDGPLGPLYASSNPEYLSASDVFPCSVYVPDEWEVSR
+EKITLLRELGQGSFGMVYEGNARDIIKGEAETRVAVKTVNESASLRERIEFLNEASVMKG
+FTCHHVVRLLGVVSKGQPTLVVMELMAHGDLKSYLRSLRPEAENNPGRPPPTLQEMIQMA
+AEIADGMAYLNAKKFVHRDLAARNCMVAHDFTVKIGDFGMTRDIYETDYYRKGGKGLLPV
+RWMAPESLKDGVFTTSSDMWSFGVVLWEITSLAEQPYQGLSNEQVLKFVMDGGYLDQPDN
+CPERVTDLMRMCWQFNPKMRPTFLEIVNLLKDDLHPSFPEVSFFHSEENKAPESEELEME
+FEDMENVPLDRSSHCQREEAGGRDGGSSLGFKRSYEEHIPYTHMNGGKKNGRILTLPRSN
+PS</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0020443|Insulin receptor (INSR)
+ATGGCCACCGGGGGCCGGCGGGGGGCGGCGGCCGCGCCGCTGCTGGTGGCGGTGGCCGCG
+CTGCTACTGGGCGCCGCGGGCCACCTGTACCCCGGAGAGGTGTGTCCCGGCATGGATATC
+CGGAACAACCTCACTAGGTTGCATGAGCTGGAGAATTGCTCTGTCATCGAAGGACACTTG
+CAGATACTCTTGATGTTCAAAACGAGGCCCGAAGATTTCCGAGACCTCAGTTTCCCCAAA
+CTCATCATGATCACTGATTACTTGCTGCTCTTCCGGGTCTATGGGCTCGAGAGCCTGAAG
+GACCTGTTCCCCAACCTCACGGTCATCCGGGGATCACGACTGTTCTTTAACTACGCGCTG
+GTCATCTTCGAGATGGTTCACCTCAAGGAACTCGGCCTCTACAACCTGATGAACATCACC
+CGGGGTTCTGTCCGCATCGAGAAGAACAATGAGCTCTGTTACTTGGCCACTATCGACTGG
+TCCCGTATCCTGGATTCCGTGGAGGATAATTACATCGTGTTGAACAAAGATGACAACGAG
+GAGTGTGGAGACATCTGTCCGGGTACCGCGAAGGGCAAGACCAACTGCCCCGCCACCGTC
+ATCAACGGGCAGTTTGTCGAACGATGTTGGACTCATAGTCACTGCCAGAAAGTTTGCCCG
+ACCATCTGTAAGTCACACGGCTGCACCGCCGAAGGCCTCTGTTGCCACAGCGAGTGCCTG
+GGCAACTGTTCTCAGCCCGACGACCCCACCAAGTGCGTGGCCTGCCGCAACTTCTACCTG
+GACGGCAGGTGTGTGGAGACCTGCCCGCCCCCGTACTACCACTTCCAGGACTGGCGCTGT
+GTGAACTTCAGCTTCTGCCAGGACCTGCACCACAAATGCAAGAACTCGCGGAGGCAGGGC
+TGCCACCAGTACGTCATTCACAACAACAAGTGCATCCCTGAGTGTCCCTCCGGGTACACG
+ATGAATTCCAGCAACTTGCTGTGCACCCCATGCCTGGGTCCCTGTCCCAAGGTGTGCCAC
+CTCCTAGAAGGCGAGAAGACCATCGACTCGGTGACGTCTGCCCAGGAGCTCCGAGGATGC
+ACCGTCATCAACGGGAGTCTGATCATCAACATTCGAGGAGGCAACAATCTGGCAGCTGAG
+CTAGAAGCCAACCTCGGCCTCATTGAAGAAATTTCAGGGTATCTAAAAATCCGCCGATCC
+TACGCTCTGGTGTCACTTTCCTTCTTCCGGAAGTTACGTCTGATTCGAGGAGAGACCTTG
+GAAATTGGGAACTACTCCTTCTATGCCTTGGACAACCAGAACCTAAGGCAGCTCTGGGAC
+TGGAGCAAACACAACCTCACCATCACTCAGGGGAAACTCTTCTTCCACTATAACCCCAAA
+CTCTGCTTGTCAGAAATCCACAAGATGGAAGAAGTTTCAGGAACCAAGGGGCGCCAGGAG
+AGAAACGACATTGCCCTGAAGACCAATGGGGACCAGGCATCCTGTGAAAATGAGTTACTT
+AAATTTTCTTACATTCGGACATCTTTTGACAAGATCTTGCTGAGATGGGAGCCGTACTGG
+CCCCCCGACTTCCGAGACCTCTTGGGGTTCATGCTGTTCTACAAAGAGGCCCCTTATCAG
+AATGTGACGGAGTTCGACGGGCAGGATGCGTGTGGTTCCAACAGTTGGACGGTGGTAGAC
+ATTGACCCACCCCTGAGGTCCAACGACCCCAAATCACAGAACCACCCAGGGTGGCTGATG
+CGGGGTCTCAAGCCCTGGACCCAGTATGCCATCTTTGTGAAGACCCTGGTCACCTTTTCG
+GATGAACGCCGGACCTATGGGGCCAAGAGTGACATCATTTATGTCCAGACAGATGCCACC
+AACCCCTCTGTGCCCCTGGATCCAATCTCAGTGTCTAACTCATCATCCCAGATTATTCTG
+AAGTGGAAACCACCCTCCGACCCCAATGGCAACATCACCCACTACCTGGTTTTCTGGGAG
+AGGCAGGCGGAAGACAGTGAGCTGTTCGAGCTGGATTATTGCCTCAAAGGGCTGAAGCTG
+CCCTCGAGGACCTGGTCTCCACCATTCGAGTCTGAAGATTCTCAGAAGCACAACCAGAGT
+GAGTATGAGGATTCGGCCGGCGAATGCTGCTCCTGTCCAAAGACAGACTCTCAGATCCTG
+AAGGAGCTGGAGGAGTCCTCGTTTAGGAAGACGTTTGAGGATTACCTGCACAACGTGGTT
+TTCGTCCCCAGAAAAACCTCTTCAGGCACTGGTGCCGAGGACCCTAGGCCATCTCGGAAA
+CGCAGGTCCCTTGGCGATGTTGGGAATGTGACGGTGGCCGTGCCCACGGTGGCAGCTTTC
+CCCAACACTTCCTCGACCAGCGTGCCCACGAGTCCGGAGGAGCACAGGCCTTTTGAGAAG
+GTGGTGAACAAGGAGTCGCTGGTCATCTCCGGCTTGCGACACTTCACGGGCTATCGCATC
+GAGCTGCAGGCTTGCAACCAGGACACCCCTGAGGAACGGTGCAGTGTGGCAGCCTACGTC
+AGTGCGAGGACCATGCCTGAAGCCAAGGCTGATGACATTGTTGGCCCTGTGACGCATGAA
+ATCTTTGAGAACAACGTCGTCCACTTGATGTGGCAGGAGCCGAAGGAGCCCAATGGTCTG
+ATCGTGCTGTATGAAGTGAGTTATCGGCGATATGGTGATGAGGAGCTGCATCTCTGCGTC
+TCCCGCAAGCACTTCGCTCTGGAACGGGGCTGCAGGCTGCGTGGGCTGTCACCGGGGAAC
+TACAGCGTGCGAATCCGGGCCACCTCCCTTGCGGGCAACGGCTCTTGGACGGAACCCACC
+TATTTCTACGTGACAGACTATTTAGACGTCCCGTCAAATATTGCAAAAATTATCATCGGC
+CCCCTCATCTTTGTCTTTCTCTTCAGTGTTGTGATTGGAAGTATTTATCTATTCCTGAGA
+AAGAGGCAGCCAGATGGGCCGCTGGGACCGCTTTACGCTTCTTCAAACCCTGAGTATCTC
+AGTGCCAGTGATGTGTTTCCATGCTCTGTGTACGTGCCGGACGAGTGGGAGGTGTCTCGA
+GAGAAGATCACCCTCCTTCGAGAGCTGGGGCAGGGCTCCTTCGGCATGGTGTATGAGGGC
+AATGCCAGGGACATCATCAAGGGTGAGGCAGAGACCCGCGTGGCGGTGAAGACGGTCAAC
+GAGTCAGCCAGTCTCCGAGAGCGGATTGAGTTCCTCAATGAGGCCTCGGTCATGAAGGGC
+TTCACCTGCCATCACGTGGTGCGCCTCCTGGGAGTGGTGTCCAAGGGCCAGCCCACGCTG
+GTGGTGATGGAGCTGATGGCTCACGGAGACCTGAAGAGCTACCTCCGTTCTCTGCGGCCA
+GAGGCTGAGAATAATCCTGGCCGCCCTCCCCCTACCCTTCAAGAGATGATTCAGATGGCG
+GCAGAGATTGCTGACGGGATGGCCTACCTGAACGCCAAGAAGTTTGTGCATCGGGACCTG
+GCAGCGAGAAACTGCATGGTCGCCCATGATTTTACTGTCAAAATTGGAGACTTTGGAATG
+ACCAGAGACATCTATGAAACGGATTACTACCGGAAAGGGGGCAAGGGTCTGCTCCCTGTA
+CGGTGGATGGCACCGGAGTCCCTGAAGGATGGGGTCTTCACCACTTCTTCTGACATGTGG
+TCCTTTGGCGTGGTCCTTTGGGAAATCACCAGCTTGGCAGAACAGCCTTACCAAGGCCTG
+TCTAATGAACAGGTGTTGAAATTTGTCATGGATGGAGGGTATCTGGATCAACCCGACAAC
+TGTCCAGAGAGAGTCACTGACCTCATGCGCATGTGCTGGCAATTCAACCCCAAGATGAGG
+CCAACCTTCCTGGAGATTGTCAACCTGCTCAAGGACGACCTGCACCCCAGCTTTCCAGAG
+GTGTCGTTCTTCCACAGCGAGGAGAACAAGGCTCCCGAGAGTGAGGAGCTGGAGATGGAG
+TTTGAGGACATGGAGAATGTGCCCCTGGACCGTTCCTCGCACTGTCAGAGGGAGGAGGCG
+GGGGGCCGGGATGGAGGGTCCTCGCTGGGTTTCAAGCGGAGCTACGAGGAACACATCCCT
+TACACACACATGAACGGAGGCAAGAAAAACGGGCGGATTCTGACCTTGCCTCGGTCCAAT
+CCTTCCTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF07714</identifier>
+        <name>Pkinase_Tyr</name>
+      </pfam>
+      <pfam>
+        <identifier>PF00041</identifier>
+        <name>fn3</name>
+      </pfam>
+      <pfam>
+        <identifier>PF00757</identifier>
+        <name>Furin-like</name>
+      </pfam>
+      <pfam>
+        <identifier>PF01030</identifier>
+        <name>Recep_L_domain</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endosome membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>insulin receptor complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>caveola</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>receptor complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>receptor signaling protein tyrosine kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>insulin receptor substrate binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>insulin-like growth factor I binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein tyrosine kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>insulin-like growth factor II binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>insulin binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATP binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>PTB domain binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>GTP binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>insulin-like growth factor receptor binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>insulin-activated receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>phosphatidylinositol 3-kinase binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of female gonad development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of DNA replication</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transformation of host cell by virus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to growth factor stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of glycogen biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>adrenal gland development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of embryonic development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>activation of protein kinase B activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cell migration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of developmental growth</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of mitotic nuclear division</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of transcription, DNA-templated</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein autophosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of nitric oxide biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>signal transduction by protein phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>activation of MAPK activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>carbohydrate metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heart morphogenesis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>insulin receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>activation of protein kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>male gonad development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>glucose homeostasis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>G-protein coupled receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of respiratory burst</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein heterotetramerization</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exocrine pancreas development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of MAPK cascade</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>peptidyl-tyrosine autophosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>epidermis development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>male sex determination</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>peptidyl-tyrosine phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of glycolytic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of protein phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of meiotic cell cycle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to insulin stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of protein kinase B signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of transcription, DNA-templated</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of glucose import</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

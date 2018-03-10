@@ -1,0 +1,336 @@
+<drug type="small molecule" created="2016-09-06" updated="2016-09-06">
+  <drugbank-id primary="true">DB11622</drugbank-id>
+  <name>Dehydrocholic acid</name>
+  <description/>
+  <cas-number>81-23-2</cas-number>
+  <unii>NH5000009I</unii>
+  <average-mass>402.531</average-mass>
+  <monoisotopic-mass>402.240624195</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>experimental</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as bile acids, alcohols and derivatives. These are organic compounds containing an alcohol or acid derivative of cholic acid.</description>
+    <direct-parent>Bile acids, alcohols and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Lipids and lipid-like molecules</superclass>
+    <class>Steroids and steroid derivatives</class>
+    <subclass>Bile acids, alcohols and derivatives</subclass>
+    <alternative-parent>3-oxo-5-beta-steroids</alternative-parent>
+    <alternative-parent>7-oxosteroids</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Cyclic ketones</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <substituent>12-oxosteroid</substituent>
+    <substituent>3-oxo-5-beta-steroid</substituent>
+    <substituent>3-oxosteroid</substituent>
+    <substituent>7-oxosteroid</substituent>
+    <substituent>Aliphatic homopolycyclic compound</substituent>
+    <substituent>Bile acid, alcohol, or derivatives</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Cyclic ketone</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Ketone</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Oxosteroid</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001944</drugbank-id>
+      <name>Dehydrocholate sodium</name>
+      <unii>W4193719XR</unii>
+      <cas-number>145-41-5</cas-number>
+      <inchikey>FKJIJBSJQSMPTI-CAOXKPNISA-M</inchikey>
+      <average-mass>424.513</average-mass>
+      <monoisotopic-mass>424.22256844</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">Dehydrocholate</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Dycholium Tablet 300mg</name>
+      <labeller>Rhone Poulenc Rorer</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01937812</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>1997-08-13</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>300 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Dycholium Tablet 300mg</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02162148</dpd-id>
+      <started-marketing-on>1996-09-06</started-marketing-on>
+      <ended-marketing-on>2016-08-02</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>300 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Dycholium Tablet 300mg</name>
+      <ingredients>Dehydrocholic acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dycholium Tablet 300mg</name>
+      <ingredients>Dehydrocholic acid</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Bile Acids and Salts</category>
+      <mesh-id>D001647</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Cholagogues and Choleretics</category>
+      <mesh-id>D002756</mesh-id>
+    </category>
+    <category>
+      <category>Cholanes</category>
+      <mesh-id>D002757</mesh-id>
+    </category>
+    <category>
+      <category>Cholic Acids</category>
+      <mesh-id>D002793</mesh-id>
+    </category>
+    <category>
+      <category>Gastrointestinal Agents</category>
+      <mesh-id>D005765</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Compounds</category>
+      <mesh-id>D011083</mesh-id>
+    </category>
+    <category>
+      <category>Steroids</category>
+      <mesh-id>D013256</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>300 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>3.37</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-4.8</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>7.05e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>3.64</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(4R)-4-[(1S,2S,7S,10R,11S,14R,15R)-2,15-dimethyl-5,9,16-trioxotetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadecan-14-yl]pentanoic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>dehydrocholic</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>402.531</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>402.240624195</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[H][C@@](C)(CCC(O)=O)[C@@]1([H])CC[C@@]2([H])[C@]3([H])C(=O)C[C@]4([H])CC(=O)CC[C@]4(C)[C@@]3([H])CC(=O)[C@]12C</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C24H34O5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C24H34O5/c1-13(4-7-21(28)29)16-5-6-17-22-18(12-20(27)24(16,17)3)23(2)9-8-15(25)10-14(23)11-19(22)26/h13-14,16-18,22H,4-12H2,1-3H3,(H,28,29)/t13-,14+,16-,17+,18+,22+,23+,24-/m1/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>OHXPGWPVLFPUSM-KLRNGDHRSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>88.51</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>108.01</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>44.99</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>4.35</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-7.1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7287</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL514446</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

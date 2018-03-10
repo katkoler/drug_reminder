@@ -1,0 +1,445 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-12">
+  <drugbank-id primary="true">DB09394</drugbank-id>
+  <name>Phosphoric acid</name>
+  <description>Phosphoric Acid is a colorless, odorless phosphorus-containing inorganic acid. Phosphoric acid is a sequestering agent which binds many divalent cations, including Fe++, Cu++, Ca++, and Mg++.</description>
+  <cas-number/>
+  <unii>E4GA8884NN</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Pubchem</title>
+        <url>https://pubchem.ncbi.nlm.nih.gov/compound/phosphoric_acid#section=Top</url>
+      </link>
+      <link>
+        <title>ChemIDplus</title>
+        <url>https://chem.nlm.nih.gov/chemidplus/rn/7664-38-2</url>
+      </link>
+      <link>
+        <title>inChem</title>
+        <url>http://www.inchem.org/documents/ukpids/ukpids/ukpid73.htm</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Phosphoric acid is used in dentistry and orthodontics as an etching solution, to clean and roughen the surfaces of teeth where dental appliances or fillings will be placed.</indication>
+  <pharmacodynamics>Transport of phosphate from the gut lumen is an active, energy-dependent process that is modified by several factors. ... Vitamin D stimulates phosphate absorption, an effect reported to precede its action on calcium ion transport.</pharmacodynamics>
+  <mechanism-of-action>Phosphate supplementation of the diet of rodents has been shown to lead to reduction in the incidence of dental caries and different phosphates have different powers in reducing the cariogenic potential of the carbohydrates in a diet. Phosphate supplements seem to exert their cariostatic effect on the tooth surface either directly during eating or by excretion in the saliva.</mechanism-of-action>
+  <toxicity>Man: LDLo, route unreported at 220mg/kg&#13;
+Rabbit: LD 50,  Route: Skin, Reported dose: 2740 mg /kg, Effects: Behavioral : somnolence ( general depressed activity), Excitement&#13;
+Rat: LC50, Route: inhalation, Reported dose: &gt;850 mg/m3/1h&#13;
+Rat: LD50, Route: oral, Reported dose: 1530 mg/kg, Effects: Kidney, ureter and bladder hematuria, Behavioral: somnolence (general depressed activity)</toxicity>
+  <metabolism/>
+  <absorption>Ortho phosphate is absorbed from, and to a limited extent secreted into, the gastrointestinal tract. </absorption>
+  <half-life>In infants with normal renal function the serum half-life of phosphate  following single oral or rectal overdose is 5-11 hours</half-life>
+  <protein-binding/>
+  <route-of-elimination> In adults, about two thirds of the ingested phosphate is absorbed, and that which is absorbed is almost entirely excreted into the urine.</route-of-elimination>
+  <volume-of-distribution>Absorbed phosphoric acid is distributed widely in the body as phosphate. Increased serum phosphate concentrations have been reported  rarely after phosphoric acid ingestion</volume-of-distribution>
+  <clearance>Absorbed phosphate is filtered at the glomerulus and partially  reabsorbed, with phosphate clearance 80 per cent of creatinine clearance.</clearance>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Aminosyn</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-4196</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-03-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017789</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Childrens Emetrol Dye Free Grape</name>
+      <labeller>Well Spring Pharmaceutical Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>65197-212</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-04-21</started-marketing-on>
+      <ended-marketing-on>2016-09-30</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Denti-care Acidulated Phosphate Fluoride</name>
+      <labeller>Ar Medicom Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239823</dpd-id>
+      <started-marketing-on>1999-11-26</started-marketing-on>
+      <ended-marketing-on>2008-08-04</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Dental</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Emetrol Cherry</name>
+      <labeller>Preferreed Pharmaceuticals Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>68788-9801</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-04-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Freamine III</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-9010</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1971-09-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA016822</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Hepatamine</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-9371</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1982-08-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA018676</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nupro Apf Topical Gel</name>
+      <labeller>Dentsply Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02050269</dpd-id>
+      <started-marketing-on>1995-12-31</started-marketing-on>
+      <ended-marketing-on>2008-06-20</ended-marketing-on>
+      <dosage-form>Gel</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Orthocheck</name>
+      <labeller>Pdt Image Inc. Dba Pro Dentec Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02231747</dpd-id>
+      <started-marketing-on>1998-12-01</started-marketing-on>
+      <ended-marketing-on>2003-06-27</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Dental; Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Select Brand Anti-nausea</name>
+      <labeller>Select Brands Distributors</labeller>
+      <ndc-id/>
+      <ndc-product-code>15127-291</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ziroxide Coarse Grit 1.23% Fluoride</name>
+      <labeller>Medicap Laboratories Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02046822</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>2004-07-13</ended-marketing-on>
+      <dosage-form>Paste</dosage-form>
+      <strength/>
+      <route>Dental</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ziroxide Coarse Paste 1.23% Fluoride</name>
+      <labeller>Medicap Laboratories Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02046873</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>2008-07-17</ended-marketing-on>
+      <dosage-form>Paste</dosage-form>
+      <strength/>
+      <route>Dental</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ziroxide Medium Fine Grit 1.23% Fluoride</name>
+      <labeller>Medicap Laboratories Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02046792</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>2004-07-13</ended-marketing-on>
+      <dosage-form>Paste</dosage-form>
+      <strength/>
+      <route>Dental</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ziroxide Medium Fine Paste 1.23% Fluoride</name>
+      <labeller>Medicap Laboratories Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02046881</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>2008-07-17</ended-marketing-on>
+      <dosage-form>Paste</dosage-form>
+      <strength/>
+      <route>Dental</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Select Brand Anti-nausea</name>
+      <ingredients>Sucrose + Phosphoric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Childrens Emetrol Dye Free Grape</name>
+      <ingredients>Sucrose + Phosphoric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Emetrol Cherry</name>
+      <ingredients>Sucrose + Phosphoric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nupro Apf Topical Gel</name>
+      <ingredients>Sodium fluoride + Phosphoric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Orthocheck</name>
+      <ingredients>Sodium fluoride + Phosphoric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Denti-care Acidulated Phosphate Fluoride</name>
+      <ingredients>Sodium fluoride + Phosphoric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ziroxide Medium Fine Grit 1.23% Fluoride</name>
+      <ingredients>Sodium fluoride + Phosphoric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ziroxide Coarse Grit 1.23% Fluoride</name>
+      <ingredients>Sodium fluoride + Phosphoric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ziroxide Coarse Paste 1.23% Fluoride</name>
+      <ingredients>Sodium fluoride + Phosphoric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ziroxide Medium Fine Paste 1.23% Fluoride</name>
+      <ingredients>Sodium fluoride + Phosphoric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Freamine III</name>
+      <ingredients>L-Isoleucine + L-Leucine + L-Lysine + L-Methionine + L-Phenylalanine + L-Threonine + L-Tryptophan + L-Valine + L-Alanine + L-Arginine + L-Histidine + L-Proline + L-Serine + Glycine + Cysteine hydrochloride + Phosphoric acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aminosyn</name>
+      <ingredients>L-Isoleucine + L-Leucine + L-Lysine + L-Methionine + L-Phenylalanine + L-Threonine + L-Tryptophan + L-Valine + L-Alanine + L-Arginine + L-Histidine + L-Proline + L-Serine + L-Tyrosine + Glycine + Sodium Chloride + Potassium + Phosphoric acid + Magnesium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Hepatamine</name>
+      <ingredients>L-Isoleucine + L-Leucine + L-Lysine + L-Methionine + L-Phenylalanine + L-Threonine + L-Tryptophan + L-Valine + L-Alanine + L-Arginine + L-Histidine + L-Proline + L-Serine + Glycine + Cysteine hydrochloride + Phosphoric acid</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acid Etching, Dental</category>
+      <mesh-id>D000134</mesh-id>
+    </category>
+    <category>
+      <category>Acids</category>
+      <mesh-id>D000143</mesh-id>
+    </category>
+    <category>
+      <category>Acids, Noncarboxylic</category>
+      <mesh-id>D000148</mesh-id>
+    </category>
+    <category>
+      <category>Biomedical and Dental Materials</category>
+      <mesh-id>D001697</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Dental Materials</category>
+      <mesh-id>D003764</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Manufactured Materials</category>
+      <mesh-id>D008420</mesh-id>
+    </category>
+    <category>
+      <category>Phosphorus Acids</category>
+      <mesh-id>D017976</mesh-id>
+    </category>
+    <category>
+      <category>Phosphorus Compounds</category>
+      <mesh-id>D017553</mesh-id>
+    </category>
+    <category>
+      <category>Specialty Uses of Chemicals</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+    <category>
+      <category>Technology, Industry, and Agriculture</category>
+      <mesh-id>D013676</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Liquid</form>
+      <route>Dental</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Gel</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Dental; Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Paste</form>
+      <route>Dental</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>761</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,111 @@
+<drug type="biotech" created="2015-12-03" updated="2016-11-18">
+  <drugbank-id primary="true">DB11330</drugbank-id>
+  <drugbank-id>DB09058</drugbank-id>
+  <name>Factor IX Complex (Human)</name>
+  <description>Factor IX Complex is a sterile, lyophilized concentrate composed of a number of Vitamin K-dependent clotting factors found in functioning human plasma. Also known as prothrombin complex concentrate, products containing this complex often include Factor IX (antihemophilic factor B), Factor II (prothrombin), Factor X (Stuart-Prower Factor), and low levels of Factor VII (proconvertin) derived from human plasma.  Many commercially available products also contain low levels of other antithrombotic proteins. For example, Kcentra (FDA) also contains the antithrombotic proteins C and S, while Bebulin VH (FDA) contains heparin. Coagulation factors are purified from pooled human plasma and subsequently sterilized and treated. &#13;
+&#13;
+Although Factor IX Complex products contain many different coagulation components, Factor IX  is the lead component for potency and efficacy, particularly when used for the treatment of bleeding associated with Hemophilia B (Factor IX deficiency).  As the product Kcentra, Factor IX Complex is also indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients experiencing acute major bleeding or requiring rapid reversal of therapy.</description>
+  <cas-number>37224-63-8</cas-number>
+  <unii/>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>26685667</pubmed-id>
+        <citation>Hedges A, Coons JC, Saul M, Smith RE: Clinical effectiveness and safety outcomes associated with prothrombin complex concentrates. J Thromb Thrombolysis. 2016 Jul;42(1):6-10. doi: 10.1007/s11239-015-1321-4.</citation>
+      </article>
+      <article>
+        <pubmed-id>27546767</pubmed-id>
+        <citation>Sin JH, Berger K, Lesch CA: Four-factor prothrombin complex concentrate for life-threatening bleeds or emergent surgery: A retrospective evaluation. J Crit Care. 2016 Jul 5;36:166-172. doi: 10.1016/j.jcrc.2016.06.024.</citation>
+      </article>
+      <article>
+        <pubmed-id>27488143</pubmed-id>
+        <citation>Chai-Adisaksopha C, Hillis C, Siegal DM, Movilla R, Heddle N, Iorio A, Crowther M: Prothrombin complex concentrates versus fresh frozen plasma for warfarin reversal. A systematic review and meta-analysis. Thromb Haemost. 2016 Aug 4;116(4).</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Factor IX Complex is indicated for the prevention and control of hemorrhagic episodes in hemophilia B patients. It is also indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients with acute major bleeding or who require rapid reversal of therapy. </indication>
+  <pharmacodynamics/>
+  <mechanism-of-action>Factor IX Complex is a sterile, lyophilized concentrate composed of a number of Vitamin K-dependent clotting factors found in functioning human plasma. Also known as prothrombin complex concentrate, products containing this complex often include Factor IX (antihemophilic factor B), Factor II (prothrombin), Factor X (Stuart-Prower Factor), and low levels of Factor VII (proconvertin) derived from human plasma.  Many commercially available products also contain low levels of other antithrombotic proteins. For example, Kcentra(FDA) also contains the antithrombotic proteins C and S, while Bebulin VH (FDA) contains heparin.&#13;
+&#13;
+This complex of coagulation factors helps replenish clotting factors that may have been lost through warfarin therapy or through a congenital abnormality such as Hemophilia B. </mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">4F-PCC</synonym>
+    <synonym language="" coder="">APCC</synonym>
+    <synonym language="" coder="">Coagulation factor IX, II, VII and X in combination</synonym>
+    <synonym language="" coder="">Factor IX Complex (Human)</synonym>
+    <synonym language="" coder="">Factor IX Fraction</synonym>
+    <synonym language="" coder="">PCC</synonym>
+    <synonym language="" coder="">Plasma Concentrate Factor IX</synonym>
+    <synonym language="" coder="">Prothrombin complex concentrate</synonym>
+    <synonym language="" coder="">Prothrombin complex concentrate (human)</synonym>
+  </synonyms>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB11330.pdf?1472573645</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Prothrombin_complex_concentrate</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2109098</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/profilnine-drug.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>https://www.drugs.com/monograph/factor-ix-human-factor-ix-complex-human.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,962 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-20">
+  <drugbank-id primary="true">DB09412</drugbank-id>
+  <name>Gallium citrate Ga-67</name>
+  <description>Gallium Citrate Ga 67 Injection is supplied in a 10 milliliter vial as an isotonic, sterile, non-pyrogenic solution.  It is a radioactive tracer to obtain images of a specific type of tissue, or disease state of tissue.</description>
+  <cas-number/>
+  <unii/>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>6988551</pubmed-id>
+        <citation>Hoffer P: Gallium: mechanisms. J Nucl Med. 1980 Mar;21(3):282-5.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Gallium-Mechanism article</title>
+        <url>http://jnm.snmjournals.org/content/21/3/282.full.pdf</url>
+      </link>
+      <link>
+        <title>Gallium citrate</title>
+        <url>http://www.nuclearonline.org/PI/Du%20Pont%20Ga-67%20Citrate%20doc.pdf</url>
+      </link>
+      <link>
+        <title>Drugs.com</title>
+        <url>https://www.drugs.com/pro/gallium-citrate-ga-67.html</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Gallium Citrate Ga 67 Injection may be useful to demonstrate the presence and extent of Hodgkin's disease, lymphoma, and bronchogenic carcinoma. Positive gallium Ga-67 uptake in the absence of prior symptoms warrants follow-up as an indication of a potential disease state. Gallium Citrate Ga 67 Injection may be useful as an aid in detecting some acute inflammatory lesions.</indication>
+  <pharmacodynamics>It has been reported in the scientific literature that following intravenous injection, the highest tissue concentration of gallium Ga-67 - other than tumors and sites of infection - is the renal cortex. After the first day, the maximum concentration shifts to bone and lymph nodes and after the first week, to liver and spleen. Gallium Ga-67 is excreted relatively slowly from the body. The average whole body retention is 65 percent after seven days, with 26 percent having been excreted in the urine and 9 percent in the stools.</pharmacodynamics>
+  <mechanism-of-action>Gallium Citrate Ga 67, with no carrier added, has been found to concentrate in certain viable primary and metastatic tumors as well as focal sites of infection. The body generally handles Ga3+ as though it were ferric iron (Fe-III), and thus the free isotope ion is bound (and concentrates) in areas of inflammation, such as an infection site, and also areas of rapid cell division. Ga-67 binds to transferrin, leukocyte lactoferrin, bacterial siderophores, inflammatory proteins, and cell-membranes in neutrophils, both living and dead. Lactoferrin is contained within leukocytes. Ga-67 may bind to lactoferrin and be transported to sites of inflammation, or binds to lactoferrin released during bacterial phagocytosis at infection sites (and remains due to binding with macrophage receptors). Ga-67 also attaches to the siderophore molecules of bacteria themselves, and for this reason can be used in leukopenic patients with bacterial infection (here it attaches directly to bacterial proteins, and leukocytes are not needed). Uptake is thought to be associated with a range of tumour properties including transferring receptors, anaerobic tumor metabolism and tumor perfusion and vascular permeability.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption>The body generally handles Ga3+ as though it were ferric iron (Fe-III). However, gallium can not be reduced in vivo. Therefore, ferric ion is easily reduced and interacts with protoporphyrin IX to form heme, gallium remains bound to iron-transport proteins and carrier molecules.</absorption>
+  <half-life>78.26 hours</half-life>
+  <protein-binding>Gallium binds to at least four iron-binding molecules: transferrin, lactoferrin, ferritin, and siderophores. Siderophores are  compounds of low molecular weight  that facilitate iron uptake by microorganisms. </protein-binding>
+  <route-of-elimination>no urinary excretion; elimination primarily via fecal excretion </route-of-elimination>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Gallium</name>
+      <labeller>Lantheus Medical Imaging</labeller>
+      <ndc-id/>
+      <ndc-product-code>11994-121</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1976-05-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>2 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017478</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gallium Citrate Ga-67</name>
+      <labeller>Mallinckrodt</labeller>
+      <ndc-id/>
+      <ndc-product-code>0019-9180</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-02-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA018058</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Gallium Citrate Ga-67</name>
+      <ingredients>Gallium citrate Ga-67</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gallium</name>
+      <ingredients>Gallium citrate Ga-67</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>2 mCi/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>2 mCi/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters>
+    <transporter position="1">
+      <id>BE0004850</id>
+      <name>Transferrin receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>Gallium-Mechanism article</title>
+            <url>http://jnm.snmjournals.org/content/21/3/282.full.pdf</url>
+          </link>
+        </links>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P02786" source="Swiss-Prot">
+    <name>Transferrin receptor protein 1</name>
+    <general-function>Virus receptor activity</general-function>
+    <specific-function>Cellular uptake of iron occurs via receptor-mediated endocytosis of ligand-occupied transferrin receptor into specialized endosomes. Endosomal acidification leads to iron release. The apotransferrin-receptor complex is then recycled to the cell surface with a return to neutral pH and the concomitant loss of affinity of apotransferrin for its receptor. Transferrin receptor is necessary for development of erythrocytes and the nervous system (By similarity). A second ligand, the heditary hemochromatosis protein HFE, competes for binding with transferrin for an overlapping C-terminal binding site.(Microbial infection) Acts as a receptor for new-world arenaviruses: Guanarito, Junin and Machupo virus.</specific-function>
+    <gene-name>TFRC</gene-name>
+    <locus/>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>68-88</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>84870.665</molecular-weight>
+    <chromosome-location>3</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:11763</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P02786</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>TFR1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>p90</synonym>
+      <synonym>T9</synonym>
+      <synonym>TR</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0008640|Transferrin receptor protein 1
+MMDQARSAFSNLFGGEPLSYTRFSLARQVDGDNSHVEMKLAVDEEENADNNTKANVTKPK
+RCSGSICYGTIAVIVFFLIGFMIGYLGYCKGVEPKTECERLAGTESPVREEPGEDFPAAR
+RLYWDDLKRKLSEKLDSTDFTGTIKLLNENSYVPREAGSQKDENLALYVENQFREFKLSK
+VWRDQHFVKIQVKDSAQNSVIIVDKNGRLVYLVENPGGYVAYSKAATVTGKLVHANFGTK
+KDFEDLYTPVNGSIVIVRAGKITFAEKVANAESLNAIGVLIYMDQTKFPIVNAELSFFGH
+AHLGTGDPYTPGFPSFNHTQFPPSRSSGLPNIPVQTISRAAAEKLFGNMEGDCPSDWKTD
+STCRMVTSESKNVKLTVSNVLKEIKILNIFGVIKGFVEPDHYVVVGAQRDAWGPGAAKSG
+VGTALLLKLAQMFSDMVLKDGFQPSRSIIFASWSAGDFGSVGATEWLEGYLSSLHLKAFT
+YINLDKAVLGTSNFKVSASPLLYTLIEKTMQNVKHPVTGQFLYQDSNWASKVEKLTLDNA
+AFPFLAYSGIPAVSFCFCEDTDYPYLGTTMDTYKELIERIPELNKVARAAAEVAGQFVIK
+LTHDVELNLDYERYNSQLLSFVRDLNQYRADIKEMGLSLQWLYSARGDFFRATSRLTTDF
+GNAEKTDRFVMKKLNDRVMRVEYHFLSPYVSPKESPFRHVFWGSGSHTLPALLENLKLRK
+QNNGAFNETLFRNQLALATWTIQGAANALSGDVWDIDNEF</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0017537|Transferrin receptor protein 1 (TFRC)
+ATGATGGATCAAGCTAGATCAGCATTCTCTAACTTGTTTGGTGGAGAACCATTGTCATAT
+ACCCGGTTCAGCCTGGCTCGGCAAGTAGATGGCGATAACAGTCATGTGGAGATGAAACTT
+GCTGTAGATGAAGAAGAAAATGCTGACAATAACACAAAGGCCAATGTCACAAAACCAAAA
+AGGTGTAGTGGAAGTATCTGCTATGGGACTATTGCTGTGATCGTCTTTTTCTTGATTGGA
+TTTATGATTGGCTACTTGGGCTATTGTAAAGGGGTAGAACCAAAAACTGAGTGTGAGAGA
+CTGGCAGGAACCGAGTCTCCAGTGAGGGAGGAGCCAGGAGAGGACTTCCCTGCAGCACGT
+CGCTTATATTGGGATGACCTGAAGAGAAAGTTGTCGGAGAAACTGGACAGCACAGACTTC
+ACCGGCACCATCAAGCTGCTGAATGAAAATTCATATGTCCCTCGTGAGGCTGGATCTCAA
+AAAGATGAAAATCTTGCGTTGTATGTTGAAAATCAATTTCGTGAATTTAAACTCAGCAAA
+GTCTGGCGTGATCAACATTTTGTTAAGATTCAGGTCAAAGACAGCGCTCAAAACTCGGTG
+ATCATAGTTGATAAGAACGGTAGACTTGTTTACCTGGTGGAGAATCCTGGGGGTTATGTG
+GCGTATAGTAAGGCTGCAACAGTTACTGGTAAACTGGTCCATGCTAATTTTGGTACTAAA
+AAAGATTTTGAGGATTTATACACTCCTGTGAATGGATCTATAGTGATTGTCAGAGCAGGG
+AAAATCACCTTTGCAGAAAAGGTTGCAAATGCTGAAAGCTTAAATGCAATTGGTGTGTTG
+ATATACATGGACCAGACTAAATTTCCCATTGTTAACGCAGAACTTTCATTCTTTGGACAT
+GCTCATCTGGGGACAGGTGACCCTTACACACCTGGATTCCCTTCCTTCAATCACACTCAG
+TTTCCACCATCTCGGTCATCAGGATTGCCTAATATACCTGTCCAGACAATCTCCAGAGCT
+GCTGCAGAAAAGCTGTTTGGGAATATGGAAGGAGACTGTCCCTCTGACTGGAAAACAGAC
+TCTACATGTAGGATGGTAACCTCAGAAAGCAAGAATGTGAAGCTCACTGTGAGCAATGTG
+CTGAAAGAGATAAAAATTCTTAACATCTTTGGAGTTATTAAAGGCTTTGTAGAACCAGAT
+CACTATGTTGTAGTTGGGGCCCAGAGAGATGCATGGGGCCCTGGAGCTGCAAAATCCGGT
+GTAGGCACAGCTCTCCTATTGAAACTTGCCCAGATGTTCTCAGATATGGTCTTAAAAGAT
+GGGTTTCAGCCCAGCAGAAGCATTATCTTTGCCAGTTGGAGTGCTGGAGACTTTGGATCG
+GTTGGTGCCACTGAATGGCTAGAGGGATACCTTTCGTCCCTGCATTTAAAGGCTTTCACT
+TATATTAATCTGGATAAAGCGGTTCTTGGTACCAGCAACTTCAAGGTTTCTGCCAGCCCA
+CTGTTGTATACGCTTATTGAGAAAACAATGCAAAATGTGAAGCATCCGGTTACTGGGCAA
+TTTCTATATCAGGACAGCAACTGGGCCAGCAAAGTTGAGAAACTCACTTTAGACAATGCT
+GCTTTCCCTTTCCTTGCATATTCTGGAATCCCAGCAGTTTCTTTCTGTTTTTGCGAGGAC
+ACAGATTATCCTTATTTGGGTACCACCATGGACACCTATAAGGAACTGATTGAGAGGATT
+CCTGAGTTGAACAAAGTGGCACGAGCAGCTGCAGAGGTCGCTGGTCAGTTCGTGATTAAA
+CTAACCCATGATGTTGAATTGAACCTGGACTATGAGAGGTACAACAGCCAACTGCTTTCA
+TTTGTGAGGGATCTGAACCAATACAGAGCAGACATAAAGGAAATGGGCCTGAGTTTACAG
+TGGCTGTATTCTGCTCGTGGAGACTTCTTCCGTGCTACTTCCAGACTAACAACAGATTTC
+GGGAATGCTGAGAAAACAGACAGATTTGTCATGAAGAAACTCAATGATCGTGTCATGAGA
+GTGGAGTATCACTTCCTCTCTCCCTACGTATCTCCAAAAGAGTCTCCTTTCCGACATGTC
+TTCTGGGGCTCCGGCTCTCACACGCTGCCAGCTTTACTGGAGAACTTGAAACTGCGTAAA
+CAAAATAACGGTGCTTTTAATGAAACGCTGTTCAGAAACCAGTTGGCTCTAGCTACTTGG
+ACTATTCAGGGAGCTGCAAATGCCCTCTCTGGTGACGTTTGGGACATTGACAATGAGTTT
+TAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF02225</identifier>
+        <name>PA</name>
+      </pfam>
+      <pfam>
+        <identifier>PF04389</identifier>
+        <name>Peptidase_M28</name>
+      </pfam>
+      <pfam>
+        <identifier>PF04253</identifier>
+        <name>TFR_dimer</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular space</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>melanosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell surface</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>recycling endosome membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>coated pit</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular vesicle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>HFE-transferrin receptor complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>basolateral plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>blood microparticle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>mitochondrion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>perinuclear region of cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>external side of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasmic membrane-bounded vesicle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular region</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>recycling endosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>identical protein binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>double-stranded RNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transferrin receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein homodimerization activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transferrin transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>poly(A) RNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glycoprotein binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>virus receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>osteoclast differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to drug</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of bone resorption</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to hypoxia</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to nutrient</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transferrin transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>aging</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to retinoic acid</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to manganese ion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to copper ion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>acute-phase response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>iron ion import</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to iron ion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular iron ion homeostasis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <polypeptide id="Q9UP52" source="Swiss-Prot">
+    <name>Transferrin receptor protein 2</name>
+    <general-function>Transferrin receptor activity</general-function>
+    <specific-function>Mediates cellular uptake of transferrin-bound iron in a non-iron dependent manner. May be involved in iron metabolism, hepatocyte function and erythrocyte differentiation.</specific-function>
+    <gene-name>TFR2</gene-name>
+    <locus/>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>84-104</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>88754.36</molecular-weight>
+    <chromosome-location>7</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:11762</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9UP52</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>TFR2_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>TfR2</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0008641|Transferrin receptor protein 2
+MERLWGLFQRAQQLSPRSSQTVYQRVEGPRKGHLEEEEEDGEEGAETLAHFCPMELRGPE
+PLGSRPRQPNLIPWAAAGRRAAPYLVLTALLIFTGAFLLGYVAFRGSCQACGDSVLVVSE
+DVNYEPDLDFHQGRLYWSDLQAMFLQFLGEGRLEDTIRQTSLRERVAGSAGMAALTQDIR
+AALSRQKLDHVWTDTHYVGLQFPDPAHPNTLHWVDEAGKVGEQLPLEDPDVYCPYSAIGN
+VTGELVYAHYGRPEDLQDLRARGVDPVGRLLLVRVGVISFAQKVTNAQDFGAQGVLIYPE
+PADFSQDPPKPSLSSQQAVYGHVHLGTGDPYTPGFPSFNQTQFPPVASSGLPSIPAQPIS
+ADIASRLLRKLKGPVAPQEWQGSLLGSPYHLGPGPRLRLVVNNHRTSTPINNIFGCIEGR
+SEPDHYVVIGAQRDAWGPGAAKSAVGTAILLELVRTFSSMVSNGFRPRRSLLFISWDGGD
+FGSVGSTEWLEGYLSVLHLKAVVYVSLDNAVLGDDKFHAKTSPLLTSLIESVLKQVDSPN
+HSGQTLYEQVVFTNPSWDAEVIRPLPMDSSAYSFTAFVGVPAVEFSFMEDDQAYPFLHTK
+EDTYENLHKVLQGRLPAVAQAVAQLAGQLLIRLSHDRLLPLDFGRYGDVVLRHIGNLNEF
+SGDLKARGLTLQWVYSARGDYIRAAEKLRQEIYSSEERDERLTRMYNVRIMRVEFYFLSQ
+YVSPADSPFRHIFMGRGDHTLGALLDHLRLLRSNSSGTPGATSSTGFQESRFRRQLALLT
+WTLQGAANALSGDVWNIDNNF</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0013326|Transferrin receptor protein 2 (TFR2)
+ATGGCCGCTCTGACTCAGGACATTCGCGCGGCGCTCTCCCGCCAGAAGCTGGACCACGTG
+TGGACCGACACGCACTACGTGGGGCTGCAATTCCCGGATCCGGCTCACCCCAACACCCTG
+CACTGGGTCGATGAGGCCGGGAAGGTCGGAGAGCAGCTGCCGCTGGAGGACCCTGACGTC
+TACTGCCCCTACAGCGCCATCGGCAACGTCACGGGAGAGCTGGTGTACGCCCACTACGGG
+CGGCCCGAAGACCTGCAGGACCTGCGGGCCAGGGGCGTGGATCCAGTGGGCCGCCTGCTG
+CTGGTGCGCGTGGGGGTGATCAGCTTCGCCCAGAAGGTGACCAATGCTCAGGACTTCGGG
+GCTCAAGGAGTGCTCATATACCCAGAGCCAGCGGACTTCTCCCAGGACCCACCCAAGCCA
+AGCCTGTCCAGCCAGCAGGCAGTGTATGGACATGTGCACCTGGGAACTGGAGACCCCTAC
+ACACCTGGCTTCCCTTCCTTCAATCAAACCCAGTTCCCTCCAGTTGCATCATCAGGCCTT
+CCCAGCATCCCAGCCCAGCCCATCAGTGCAGACATTGCCTCCCGCCTGCTGAGGAAGCTC
+AAAGGCCCTGTGGCCCCCCAAGAATGGCAGGGGAGCCTCCTAGGCTCCCCTTATCACCTG
+GGCCCCGGGCCACGACTGCGGCTAGTGGTCAACAATCACAGGACCTCCACCCCCATCAAC
+AACATCTTCGGCTGCATCGAAGGCCGCTCAGAGCCAGATCACTACGTTGTCATCGGGGCC
+CAGAGGGATGCATGGGGCCCAGGAGCAGCTAAATCCGCTGTGGGGACGGCTATACTCCTG
+GAGCTGGTGCGGACCTTTTCCTCCATGGTGAGCAACGGCTTCCGGCCCCGCAGAAGTCTC
+CTCTTCATCAGCTGGGACGGTGGTGACTTTGGAAGCGTGGGCTCCACGGAGTGGCTAGAA
+GGCTACCTCAGCGTGCTGCACCTCAAAGCCGTAGTGTACGTGAGCCTGGACAACGCAGTG
+CTGGGGGATGACAAGTTTCATGCCAAGACCAGCCCCCTTCTGACAAGTCTCATTGAGAGT
+GTCCTGAAGCAGGTGGATTCTCCCAACCACAGTGGGCAGACTCTCTATGAACAGGTGGTG
+TTCACCAATCCCAGCTGGGATGCTGAGGTGATCCGGCCCCTACCCATGGACAGCAGTGCC
+TATTCCTTCACGGCCTTTGTGGGAGTCCCTGCCGTCGAGTTCTCCTTTATGGAGGACGAC
+CAGGCCTACCCATTCCTGCACACAAAGGAGGACACTTATGAGAACCTGCATAAGGTGCTG
+CAAGGCCGCCTGCCCGCCGTGGCCCAGGCCGTGGCCCAGCTCGCAGGGCAGCTCCTCATC
+CGGCTCAGCCACGATCGCCTGCTGCCCCTCGACTTCGGCCGCTACGGGGACGTCGTCCTC
+AGGCACATCGGGAACCTCAACGAGTTCTCTGGGGACCTCAAGGCCCGCGGGCTGACCCTG
+CAGTGGGTGTACTCGGCGCGGGGGGACTACATCCGGGCGGCGGAAAAGCTGCGGCAGGAG
+ATCTACAGCTCGGAGGAGAGAGACGAGCGACTGACACGCATGTACAACGTGCGCATAATG
+CGGGTGGAGTTCTACTTCCTTTCCCAGTACGTGTCGCCAGCCGACTCCCCGTTCCGCCAC
+ATCTTCATGGGCCGTGGAGACCACACGCTGGGCGCCCTGCTGGACCACCTGCGGCTGCTG
+CGCTCCAACAGCTCCGGGACCCCCGGGGCCACCTCCTCCACTGGCTTCCAGGAGAGCCGT
+TTCCGGCGTCAGCTAGCCCTGCTCACCTGGACGCTGCAAGGGGCAGCCAATGCGCTTAGC
+GGGGATGTCTGGAACATTGATAACAACTTCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF02225</identifier>
+        <name>PA</name>
+      </pfam>
+      <pfam>
+        <identifier>PF04389</identifier>
+        <name>Peptidase_M28</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>HFE-transferrin receptor complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasmic vesicle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>external side of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transferrin receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glycoprotein binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>co-receptor binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>receptor-mediated endocytosis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>ferrous iron import into cell</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of endocytosis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to iron ion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of protein maturation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular iron ion homeostasis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of peptide hormone secretion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>iron ion homeostasis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transferrin transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>iron ion transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to iron ion</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="2">
+      <id>BE0007205</id>
+      <name>Lactoferrin</name>
+      <organism>Bos taurus</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>Gallium-Mechanism article</title>
+            <url>http://jnm.snmjournals.org/content/21/3/282.full.pdf</url>
+          </link>
+        </links>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q19KS1" source="TrEMBL">
+    <name>Lactoferrin</name>
+    <general-function/>
+    <specific-function/>
+    <gene-name/>
+    <locus/>
+    <cellular-location/>
+    <transmembrane-regions/>
+    <signal-regions>1-19</signal-regions>
+    <theoretical-pi/>
+    <molecular-weight>39208.975</molecular-weight>
+    <chromosome-location/>
+    <organism ncbi-taxonomy-id="9913">Bovine</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q19KS1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>Q19KS1_BOVIN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0015026|Lactoferrin
+MKLFVPALLSLGALGLCLAAPRKNVRWCTISQPEWFKCRRWQWRMKKLGAPSITCVRRAF
+ALECIRAIAEKKADAVTLDGGMVFEAGRDPYKLRPVAAEIYGTKESPQTHYYAVAVVKKG
+SNFQLDQLQGRKSCHTGLGRSAGWVIPMGILRPYLSWTESLEPLQGAVAKFFSASCVPCI
+DRQAYPNLCQLCKGEGENQCACSSREPYFGYSGAFKCLQDGAGDVAFVKETTVFENLPEK
+ADRDQYELLCLNNSRAPVDAFKECHLAQVPSHAVVARSVDGKEDLIWKLLSKAQEKFGKN
+KSRSFQLFGSPPGQRDLLFKDSALGFLRIPSKVDSALYLGSRYLTTLKNLRE</amino-acid-sequence>
+    <gene-sequence format="FASTA"/>
+    <pfams>
+      <pfam>
+        <identifier>PF00405</identifier>
+        <name>Transferrin</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular region</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="3">
+      <id>BE0000085</id>
+      <name>Ferritin light chain</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>Gallium-Mechanism article</title>
+            <url>http://jnm.snmjournals.org/content/21/3/282.full.pdf</url>
+          </link>
+        </links>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P02792" source="Swiss-Prot">
+    <name>Ferritin light chain</name>
+    <general-function>Iron ion binding</general-function>
+    <specific-function>Stores iron in a soluble, non-toxic, readily available form. Important for iron homeostasis. Iron is taken up in the ferrous form and deposited as ferric hydroxides after oxidation. Also plays a role in delivery of iron to cells. Mediates iron uptake in capsule cells of the developing kidney (By similarity).</specific-function>
+    <gene-name>FTL</gene-name>
+    <locus>19q13.3-q13.4</locus>
+    <cellular-location/>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>5.59</theoretical-pi>
+    <molecular-weight>20019.49</molecular-weight>
+    <chromosome-location>19</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:3999</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>FTL</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M11147</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>182514</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P02792</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>FRIL_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Ferritin L subunit</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0036948|Ferritin light chain
+MSSQIRQNYSTDVEAAVNSLVNLYLQASYTYLSLGFYFDRDDVALEGVSHFFRELAEEKR
+EGYERLLKMQNQRGGRALFQDIKKPAEDEWGKTPDAMKAAMALEKKLNQALLDLHALGSA
+RTDPHLCDFLETHFLDEEVKLIKKMGDHLTNLHRLGGPEAGLGEYLFERLTLKHD</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016009|Ferritin light chain (FTL)
+ATGAGCTCCCAGATTCGTCAGAATTATTCCACCGACGTGGAGGCAGCCGTCAACAGCCTG
+GTCAATTTGTACCTGCAGGCCTCCTACACCTACCTCTCTCTGGGCTTCTATTTCGACCGC
+GATGATGTGGCTCTGGAAGGCGTGAGCCACTTCTTCCGCGAATTGGCCGAGGAGAAGCGC
+GAGGGCTACGAGCGTCTCCTGAAGATGCAAAACCAGCGTGGCGGCCGCGCTCTCTTCCAG
+GACATCAAGAAGCCAGCTGAAGATGAGTGGGGTAAAACCCCAGACGCCATGAAAGCTGCC
+ATGGCCCTGGAGAAAAAGCTGAACCAGGCCCTTTTGGATCTTCATGCCCTGGGTTCTGCC
+CGCACGGACCCCCATCTCTGTGACTTCCTGGAGACTCACTTCCTAGATGAGGAAGTGAAG
+CTTATCAAGAAGATGGGTGACCACCTGACCAACCTCCACAGGCTGGGTGGCCCGGAGGCT
+GGGCTGGGCGAGTATCTCTTCGAAAGGCTCACTCTCAAGCACGACTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00210</identifier>
+        <name>Ferritin</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular ferritin complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>identical protein binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ferric iron binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>iron ion transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>receptor-mediated endocytosis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>membrane organization</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular iron ion homeostasis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>post-Golgi vesicle-mediated transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>iron ion homeostasis</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="4">
+      <id>BE0000399</id>
+      <name>Ferritin heavy chain</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>Gallium-Mechanism article</title>
+            <url>http://jnm.snmjournals.org/content/21/3/282.full.pdf</url>
+          </link>
+        </links>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P02794" source="Swiss-Prot">
+    <name>Ferritin heavy chain</name>
+    <general-function>Iron ion binding</general-function>
+    <specific-function>Stores iron in a soluble, non-toxic, readily available form. Important for iron homeostasis. Has ferroxidase activity. Iron is taken up in the ferrous form and deposited as ferric hydroxides after oxidation. Also plays a role in delivery of iron to cells. Mediates iron uptake in capsule cells of the developing kidney (By similarity).</specific-function>
+    <gene-name>FTH1</gene-name>
+    <locus>11q13</locus>
+    <cellular-location/>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>5.29</theoretical-pi>
+    <molecular-weight>21225.47</molecular-weight>
+    <chromosome-location>11</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:3976</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>FTH1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>X00318</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>28435</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P02794</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>FRIH_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.16.3.1</synonym>
+      <synonym>Cell proliferation-inducing gene 15 protein</synonym>
+      <synonym>Ferritin H subunit</synonym>
+      <synonym>FTH</synonym>
+      <synonym>FTHL6</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037008|Ferritin heavy chain
+MTTASTSQVRQNYHQDSEAAINRQINLELYASYVYLSMSYYFDRDDVALKNFAKYFLHQS
+HEEREHAEKLMKLQNQRGGRIFLQDIKKPDCDDWESGLNAMECALHLEKNVNQSLLELHK
+LATDKNDPHLCDFIETHYLNEQVKAIKELGDHVTNLRKMGAPESGLAEYLFDKHTLGDSD
+NES</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016083|Ferritin heavy chain (FTH1)
+ATGACGACCGCGTCCACCTCGCAGGTGCGCCAGAACTACCACCAGGACTCAGAGGCCGCC
+ATCAACCGCCAGATCAACCTGGAGCTCTACGCCTCCTACGTTTACCTGTCCATGTCTTAC
+TACTTTGACCGCGATGATGTGGCTTTGAAGAACTTTGCCAAATACTTTCTTCACCAATCT
+CATGAGGAGAGGGAACATGCTGAGAAACTGATGAAGCTGCAGAACCAACGAGGTGGCCGA
+ATCTTCCTTCAGGATATCAAGAAACCAGACTGTGATGACTGGGAGAGCGGGCTGAATGCA
+ATGGAGTGTGCATTACATTTGGAAAAAAATGTGAATCAGTCACTACTGGAACTGCACAAA
+CTGGCCACTGACAAAAATGACCCCCATTTGTGTGACTTCATTGAGACACATTACCTGAAT
+GAGCAGGTGAAAGCCATCAAAGAATTGGGTGACCACGTGACCAACTTGCGCAAGATGGGA
+GCGCCCGAATCTGGCTTGGCGGAATATCTCTTTGACAAGCACACCCTGGGAGACAGTGAT
+AATGAAAGCTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00210</identifier>
+        <name>Ferritin</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular ferritin complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ferric iron binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ferroxidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>immune response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>post-Golgi vesicle-mediated transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>receptor-mediated endocytosis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>membrane organization</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular iron ion homeostasis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of fibroblast proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>iron ion transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>intracellular sequestering of iron ion</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+  </transporters>
+</drug>

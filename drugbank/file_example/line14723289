@@ -1,0 +1,113 @@
+<drug type="small molecule" created="2015-12-03" updated="2016-12-08">
+  <drugbank-id primary="true">DB11194</drugbank-id>
+  <name>Pyruvate</name>
+  <description/>
+  <cas-number/>
+  <unii/>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001546</drugbank-id>
+      <name>Sodium pyruvate</name>
+      <unii>POD38AIF08</unii>
+      <cas-number>113-24-6</cas-number>
+      <inchikey>DAEPDZWVDSPTHF-UHFFFAOYSA-M</inchikey>
+      <average-mass>110.044</average-mass>
+      <monoisotopic-mass>109.99798824</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Rejuvesol</name>
+      <labeller>Citra Labs</labeller>
+      <ndc-id/>
+      <ndc-product-code>23731-7000</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-02-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Extracorporeal</route>
+      <fda-application-number>BN950522</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Rejuvesol</name>
+      <ingredients>Pyruvate + Inosine + Adenine + Sodium phosphates + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Carboxylic Acids</category>
+      <mesh-id>D002264</mesh-id>
+    </category>
+    <category>
+      <category>Keto Acids</category>
+      <mesh-id>D007651</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Pyruvates</category>
+      <mesh-id>D011773</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Solution</form>
+      <route>Extracorporeal</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

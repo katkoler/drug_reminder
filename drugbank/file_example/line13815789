@@ -1,0 +1,2327 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-02-28">
+  <drugbank-id primary="true">DB09396</drugbank-id>
+  <name>Propoxyphene napsylate</name>
+  <description>Propoxyphene is a centrally acting narcotic analgesic agent.</description>
+  <cas-number/>
+  <unii>38M219L1OJ</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>10690289</pubmed-id>
+        <citation>Ulens C, Daenens P, Tytgat J: Norpropoxyphene-induced cardiotoxicity is associated with changes in ion-selectivity and gating of HERG currents. Cardiovasc Res. 1999 Dec;44(3):568-78.</citation>
+      </article>
+      <article>
+        <pubmed-id>6249436</pubmed-id>
+        <citation>Tyers MB: A classification of opiate receptors that mediate antinociception in animals. Br J Pharmacol. 1980 Jul;69(3):503-12.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>FDA data</title>
+        <url>http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/Darvocet-N_July2009.pdf</url>
+      </link>
+      <link>
+        <title>Drug Information</title>
+        <url>http://www.rxlist.com/darvon-drug.htm</url>
+      </link>
+      <link>
+        <title>Drugs.com</title>
+        <url>https://www.drugs.com/propoxyphene.html</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Propoxyphene is a centrally acting opiate analgesic. It is indicated for the relief of mild to moderate pain</indication>
+  <pharmacodynamics>Propoxyphene, a synthetic opiate agonist, is structurally similar to methadone. Its general pharmacologic properties are those of the opiates as a group. It binds to the opiate receptors and leads to a decrease of the perception of pain stimuli. Propoxyphene possesses little to no antitussive activity and no antipyretic action. Norpropoxyphene (NP) is a major metabolite of propoxyphene (P), a relatively weak mu-opioid receptor agonist. Toxic blood concentrations ranging from 3 to 180 miromol/L have been reported and the accumulation of NP in cardiac tissue leads to naloxone-insensitive cardiotoxicity. </pharmacodynamics>
+  <mechanism-of-action>Propoxyphene acts as a weak agonist at OP1, OP2, and OP3 opiate receptors within the central nervous system (CNS). Propoxyphene primarily affects OP3 receptors, which are coupled with G-protein receptors and function as modulators, both positive and negative, of synaptic transmission via G-proteins that activate effector proteins. Binding of the opiate stimulates the exchange of GTP for GDP on the G-protein complex. As the effector system is adenylate cyclase and cAMP located at the inner surface of the plasma membrane, opioids decrease intracellular cAMP by inhibiting adenylate cyclase. Subsequently, the release of nociceptive neurotransmitters such as substance P, GABA, dopamine, acetylcholine, and noradrenaline is inhibited. Opioids such as propoxyphene also inhibit the release of vasopressin, somatostatin, insulin, and glucagon. Opioids close N-type voltage-operated calcium channels (OP2-receptor agonist) and open calcium-dependent inwardly rectifying potassium channels (OP3 and OP1 receptor agonist). This results in hyperpolarization and reduced neuronal excitability.&#13;
+</mechanism-of-action>
+  <toxicity>Risk of overdose may include respiratory depression and hypotension</toxicity>
+  <metabolism>Propoxyphene undergoes extensive first-pass metabolism by intestinal and hepatic enzymes. The major route of metabolism is CYP3A4 mediated N-demethylation to norpropoxyphene, which is excreted by the kidneys. Ring hydroxylation and glucuronide formation are minor metabolic pathways.</metabolism>
+  <absorption>Peak plasma concentrations of propoxyphene are reached in 2 to 2.5 h. After a 65-mg oral dose of propoxyphene hydrochloride, peak plasma levels of 0.05 to 0.1 μg/mL for propoxyphene and 0.1 to 0.2 μg/mL for norpropoxyphene (major metabolite) are achieved. Repeated doses of propoxyphene at 6 h intervals lead to increasing plasma concentrations, with a plateau after the ninth dose at 48 h. </absorption>
+  <half-life>6 to 12 hours</half-life>
+  <protein-binding>80% bound to proteins</protein-binding>
+  <route-of-elimination>In 48 h, approximately 20 to 25% of the administered dose of propoxyphene is excreted via the urine</route-of-elimination>
+  <volume-of-distribution>16 L/kg.</volume-of-distribution>
+  <clearance>The renal clearance rate of propoxyphene is 2.6 L/min. </clearance>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Darvon-N</name>
+      <labeller>Stat Rx USA</labeller>
+      <ndc-id/>
+      <ndc-product-code>16590-874</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-09-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength>100 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA016862</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Propoxyphene and Acetaminophen</name>
+      <labeller>Keltman Pharmaceuticals Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>68387-100</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA074843</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Propoxyphene and Acetaminophen</name>
+      <labeller>Altura Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>63874-201</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA074843</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <labeller>Red Pharm Drug, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>67296-0378</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-25</started-marketing-on>
+      <ended-marketing-on>2017-02-14</ended-marketing-on>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA074119</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <labeller>Amerincan Health Packaging</labeller>
+      <ndc-id/>
+      <ndc-product-code>68084-393</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-09-25</started-marketing-on>
+      <ended-marketing-on>2015-12-29</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA074843</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <labeller>Lake Erie Medical Dba Quality Care Produts Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>49999-767</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-01-25</started-marketing-on>
+      <ended-marketing-on>2016-12-16</ended-marketing-on>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA074119</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <labeller>Remedy Repack</labeller>
+      <ndc-id/>
+      <ndc-product-code>49349-159</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-02-15</started-marketing-on>
+      <ended-marketing-on>2016-10-13</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA075738</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <labeller>Apotheca, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>12634-537</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA074119</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <labeller>Rebel Distributors</labeller>
+      <ndc-id/>
+      <ndc-product-code>21695-280</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-12-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA074119</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <labeller>bryant ranch prepack</labeller>
+      <ndc-id/>
+      <ndc-product-code>63629-1344</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-04</started-marketing-on>
+      <ended-marketing-on>2016-12-21</ended-marketing-on>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA070145</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <labeller>Red Pharm Drug, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>67296-0104</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-06-08</started-marketing-on>
+      <ended-marketing-on>2017-02-11</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA075738</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <labeller>Red Pharm Drug, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>67296-0105</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA075738</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <ingredients>Propoxyphene napsylate + Acetaminophen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Darvon-N</name>
+      <ingredients>Propoxyphene napsylate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <ingredients>Propoxyphene napsylate + Acetaminophen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <ingredients>Propoxyphene napsylate + Acetaminophen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <ingredients>Propoxyphene napsylate + Acetaminophen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <ingredients>Propoxyphene napsylate + Acetaminophen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Propoxyphene and Acetaminophen</name>
+      <ingredients>Propoxyphene napsylate + Acetaminophen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <ingredients>Propoxyphene napsylate + Acetaminophen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <ingredients>Propoxyphene napsylate + Acetaminophen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <ingredients>Propoxyphene napsylate + Acetaminophen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Propoxyphene and Acetaminophen</name>
+      <ingredients>Propoxyphene napsylate + Acetaminophen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Propoxyphene Napsylate and Acetaminophen</name>
+      <ingredients>Acetaminophen + Propoxyphene napsylate</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acids, Acyclic</category>
+      <mesh-id>D000144</mesh-id>
+    </category>
+    <category>
+      <category>Carboxylic Acids</category>
+      <mesh-id>D002264</mesh-id>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP2C8 Inhibitors</category>
+      <mesh-id>D065687</mesh-id>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP2D6 Inhibitors</category>
+      <mesh-id>D065690</mesh-id>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP3A4 Substrates</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Fatty Acids</category>
+      <mesh-id>D005227</mesh-id>
+    </category>
+    <category>
+      <category>Fatty Acids, Volatile</category>
+      <mesh-id>D005232</mesh-id>
+    </category>
+    <category>
+      <category>Lipids</category>
+      <mesh-id>D008055</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Propionates</category>
+      <mesh-id>D011422</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Tablet, film coated</form>
+      <route>Oral</route>
+      <strength>100 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, film coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="2">
+      <id>BE0000770</id>
+      <name>Mu-type opioid receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>10690289</pubmed-id>
+            <citation>Ulens C, Daenens P, Tytgat J: Norpropoxyphene-induced cardiotoxicity is associated with changes in ion-selectivity and gating of HERG currents. Cardiovasc Res. 1999 Dec;44(3):568-78.</citation>
+          </article>
+          <article>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+          <article>
+            <pubmed-id>6249436</pubmed-id>
+            <citation>Tyers MB: A classification of opiate receptors that mediate antinociception in animals. Br J Pharmacol. 1980 Jul;69(3):503-12.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P35372" source="Swiss-Prot">
+    <name>Mu-type opioid receptor</name>
+    <general-function>Voltage-gated calcium channel activity</general-function>
+    <specific-function>Receptor for endogenous opioids such as beta-endorphin and endomorphin. Receptor for natural and synthetic opioids including morphine, heroin, DAMGO, fentanyl, etorphine, buprenorphin and methadone. Agonist binding to the receptor induces coupling to an inactive GDP-bound heterotrimeric G-protein complex and subsequent exchange of GDP for GTP in the G-protein alpha subunit leading to dissociation of the G-protein complex with the free GTP-bound G-protein alpha and the G-protein beta-gamma dimer activating downstream cellular effectors. The agonist- and cell type-specific activity is predominantly coupled to pertussis toxin-sensitive G(i) and G(o) G alpha proteins, GNAI1, GNAI2, GNAI3 and GNAO1 isoforms Alpha-1 and Alpha-2, and to a lesser extend to pertussis toxin-insensitive G alpha proteins GNAZ and GNA15. They mediate an array of downstream cellular responses, including inhibition of adenylate cyclase activity and both N-type and L-type calcium channels, activation of inward rectifying potassium channels, mitogen-activated protein kinase (MAPK), phospholipase C (PLC), phosphoinositide/protein kinase (PKC), phosphoinositide 3-kinase (PI3K) and regulation of NF-kappa-B. Also couples to adenylate cyclase stimulatory G alpha proteins. The selective temporal coupling to G-proteins and subsequent signaling can be regulated by RGSZ proteins, such as RGS9, RGS17 and RGS4. Phosphorylation by members of the GPRK subfamily of Ser/Thr protein kinases and association with beta-arrestins is involved in short-term receptor desensitization. Beta-arrestins associate with the GPRK-phosphorylated receptor and uncouple it from the G-protein thus terminating signal transduction. The phosphorylated receptor is internalized through endocytosis via clathrin-coated pits which involves beta-arrestins. The activation of the ERK pathway occurs either in a G-protein-dependent or a beta-arrestin-dependent manner and is regulated by agonist-specific receptor phosphorylation. Acts as a class A G-protein coupled receptor (GPCR) which dissociates from beta-arrestin at or near the plasma membrane and undergoes rapid recycling. Receptor down-regulation pathways are varying with the agonist and occur dependent or independent of G-protein coupling. Endogenous ligands induce rapid desensitization, endocytosis and recycling whereas morphine induces only low desensitization and endocytosis. Heterooligomerization with other GPCRs can modulate agonist binding, signaling and trafficking properties. Involved in neurogenesis. Isoform 12 couples to GNAS and is proposed to be involved in excitatory effects. Isoform 16 and isoform 17 do not bind agonists but may act through oligomerization with binding-competent OPRM1 isoforms and reduce their ligand binding activity.</specific-function>
+    <gene-name>OPRM1</gene-name>
+    <locus>6q24-q25</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>69-93
+107-131
+143-165
+186-207
+231-255
+284-307
+315-338</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>8.29</theoretical-pi>
+    <molecular-weight>44778.855</molecular-weight>
+    <chromosome-location>6</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:8156</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>OPRM1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>L25119</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>452073</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>IUPHAR</resource>
+        <identifier>319</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>319</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P35372</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>OPRM_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>hMOP</synonym>
+      <synonym>M-OR-1</synonym>
+      <synonym>MOP</synonym>
+      <synonym>MOR1</synonym>
+      <synonym>Mu opiate receptor</synonym>
+      <synonym>Mu opioid receptor</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001536|Mu-type opioid receptor
+MDSSAAPTNASNCTDALAYSSCSPAPSPGSWVNLSHLDGNLSDPCGPNRTDLGGRDSLCP
+PTGSPSMITAITIMALYSIVCVVGLFGNFLVMYVIVRYTKMKTATNIYIFNLALADALAT
+STLPFQSVNYLMGTWPFGTILCKIVISIDYYNMFTSIFTLCTMSVDRYIAVCHPVKALDF
+RTPRNAKIINVCNWILSSAIGLPVMFMATTKYRQGSIDCTLTFSHPTWYWENLLKICVFI
+FAFIMPVLIITVCYGLMILRLKSVRMLSGSKEKDRNLRRITRMVLVVVAVFIVCWTPIHI
+YVIIKALVTIPETTFQTVSWHFCIALGYTNSCLNPVLYAFLDENFKRCFREFCIPTSSNI
+EQQNSTRIRQNTRDHPSTANTVDRTNHQLENLEAETAPLP</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0021649|Mu-type opioid receptor (OPRM1)
+ATGGACAGCAGCGCTGCCCCCACGAACGCCAGCAATTGCACTGATGCCTTGGCGTACTCA
+AGTTGCTCCCCAGCACCCAGCCCCGGTTCCTGGGTCAACTTGTCCCACTTAGATGGCAAC
+CTGTCCGACCCATGCGGTCCGAACCGCACCGACCTGGGCGGGAGAGACAGCCTGTGCCCT
+CCGACCGGCAGTCCCTCCATGATCACGGCCATCACGATCATGGCCCTCTACTCCATCGTG
+TGCGTGGTGGGGCTCTTCGGAAACTTCCTGGTCATGTATGTGATTGTCAGATACACCAAG
+ATGAAGACTGCCACCAACATCTACATTTTCAACCTTGCTCTGGCAGATGCCTTAGCCACC
+AGTACCCTGCCCTTCCAGAGTGTGAATTACCTAATGGGAACATGGCCATTTGGAACCATC
+CTTTGCAAGATAGTGATCTCCATAGATTACTATAACATGTTCACCAGCATATTCACCCTC
+TGCACCATGAGTGTTGATCGATACATTGCAGTCTGCCACCCTGTCAAGGCCTTAGATTTC
+CGTACTCCCCGAAATGCCAAAATTATCAATGTCTGCAACTGGATCCTCTCTTCAGCCATT
+GGTCTTCCTGTAATGTTCATGGCTACAACAAAATACAGGCAAGGTTCCATAGATTGTACA
+CTAACATTCTCTCATCCAACCTGGTACTGGGAAAACCTGCTGAAGATCTGTGTTTTCATC
+TTCGCCTTCATTATGCCAGTGCTCATCATTACCGTGTGCTATGGACTGATGATCTTGCGC
+CTCAAGAGTGTCCGCATGCTCTCTGGCTCCAAAGAAAAGGACAGGAATCTTCGAAGGATC
+ACCAGGATGGTGCTGGTGGTGGTGGCTGTGTTCATCGTCTGCTGGACTCCCATTCACATT
+TACGTCATCATTAAAGCCTTGGTTACAATCCCAGAAACTACGTTCCAGACTGTTTCTTGG
+CACTTCTGCATTGCTCTAGGTTACACAAACAGCTGCCTCAACCCAGTCCTTTATGCATTT
+CTGGATGAAAACTTCAAACGATGCTTCAGAGAGTTCTGTATCCCAACCTCTTCCAACATT
+GAGCAACAAAACTCCACTCGAATTCGTCAGAACACTAGAGACCACCCCTCCACGGCCAAT
+ACAGTGGATAGAACTAATCATCAGCTAGAAAATCTGGAAGCAGAAACTGCTCCGTTGCCC
+TAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00001</identifier>
+        <name>7tm_1</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>Golgi apparatus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>neuron projection</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>G-protein alpha-subunit binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>G-protein beta-subunit binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>voltage-gated calcium channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>G-protein coupled receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>beta-endorphin receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>neuropeptide binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>morphine receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>opioid receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>synaptic transmission</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to morphine</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sensory perception of pain</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of nitric oxide biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sensory perception</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of Wnt protein secretion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of N-methyl-D-aspartate selective glutamate receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>calcium ion transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>adenylate cyclase-activating dopamine receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cytosolic calcium ion concentration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of adenylate cyclase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of nitric oxide biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of ERK1 and ERK2 cascade</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of neurogenesis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cAMP-mediated signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of cAMP-mediated signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>phospholipase C-activating G-protein coupled receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of cytosolic calcium ion concentration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to stress</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>locomotory behavior</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>behavioral response to ethanol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>neuropeptide signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+    <target position="3">
+      <id>BE0000632</id>
+      <name>Kappa-type opioid receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>6151117</pubmed-id>
+            <citation>Neil A: Affinities of some common opioid analgesics towards four binding sites in mouse brain. Naunyn Schmiedebergs Arch Pharmacol. 1984 Nov;328(1):24-9.</citation>
+          </article>
+          <article>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P41145" source="Swiss-Prot">
+    <name>Kappa-type opioid receptor</name>
+    <general-function>Opioid receptor activity</general-function>
+    <specific-function>G-protein coupled opioid receptor that functions as receptor for endogenous alpha-neoendorphins and dynorphins, but has low affinity for beta-endorphins. Also functions as receptor for various synthetic opioids and for the psychoactive diterpene salvinorin A. Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and modulates the activity of down-stream effectors, such as adenylate cyclase. Signaling leads to the inhibition of adenylate cyclase activity. Inhibits neurotransmitter release by reducing calcium ion currents and increasing potassium ion conductance. Plays a role in the perception of pain. Plays a role in mediating reduced physical activity upon treatment with synthetic opioids. Plays a role in the regulation of salivation in response to synthetic opioids. May play a role in arousal and regulation of autonomic and neuroendocrine functions.</specific-function>
+    <gene-name>OPRK1</gene-name>
+    <locus>8q11.2</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>58-85
+96-119
+133-154
+174-196
+223-247
+275-296
+312-333</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>7.79</theoretical-pi>
+    <molecular-weight>42644.665</molecular-weight>
+    <chromosome-location>8</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:8154</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>OPRK1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>U11053</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>532060</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>IUPHAR</resource>
+        <identifier>318</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>318</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P41145</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>OPRK_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>K-OR-1</synonym>
+      <synonym>OPRK</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001260|Kappa-type opioid receptor
+MDSPIQIFRGEPGPTCAPSACLPPNSSAWFPGWAEPDSNGSAGSEDAQLEPAHISPAIPV
+IITAVYSVVFVVGLVGNSLVMFVIIRYTKMKTATNIYIFNLALADALVTTTMPFQSTVYL
+MNSWPFGDVLCKIVISIDYYNMFTSIFTLTMMSVDRYIAVCHPVKALDFRTPLKAKIINI
+CIWLLSSSVGISAIVLGGTKVREDVDVIECSLQFPDDDYSWWDLFMKICVFIFAFVIPVL
+IIIVCYTLMILRLKSVRLLSGSREKDRNLRRITRLVLVVVAVFVVCWTPIHIFILVEALG
+STSHSTAALSSYYFCIALGYTNSSLNPILYAFLDENFKRCFRDFCFPLKMRMERQSTSRV
+RNTVQDPAYLRDIDGMNKPV</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0021645|Kappa-type opioid receptor (OPRK1)
+ATGGACTCCCCGATCCAGATCTTCCGCGGGGAGCCGGGCCCTACCTGCGCCCCGAGCGCC
+TGCCTGCCCCCCAACAGCAGCGCCTGGTTTCCCGGCTGGGCCGAGCCCGACAGCAACGGC
+AGCGCCGGCTCGGAGGACGCGCAGCTGGAGCCCGCGCACATCTCCCCGGCCATCCCGGTC
+ATCATCACGGCGGTCTACTCCGTAGTGTTCGTCGTGGGCTTGGTGGGCAACTCGCTGGTC
+ATGTTCGTGATCATCCGATACACAAAGATGAAGACAGCAACCAACATTTACATATTTAAC
+CTGGCTTTGGCAGATGCTTTAGTTACTACAACCATGCCCTTTCAGAGTACGGTCTACTTG
+ATGAATTCCTGGCCTTTTGGGGATGTGCTGTGCAAGATAGTAATTTCCATTGATTACTAC
+AACATGTTCACCAGCATCTTCACCTTGACCATGATGAGCGTGGACCGCTACATTGCCGTG
+TGCCACCCCGTGAAGGCTTTGGACTTCCGCACACCCTTGAAGGCAAAGATCATCAATATC
+TGCATCTGGCTGCTGTCGTCATCTGTTGGCATCTCTGCAATAGTCCTTGGAGGCACCAAA
+GTCAGGGAAGACGTCGATGTCATTGAGTGCTCCTTGCAGTTCCCAGATGATGACTACTCC
+TGGTGGGACCTCTTCATGAAGATCTGCGTCTTCATCTTTGCCTTCGTGATCCCTGTCCTC
+ATCATCATCGTCTGCTACACCCTGATGATCCTGCGTCTCAAGAGCGTCCGGCTCCTTTCT
+GGCTCCCGAGAGAAAGATCGCAACCTGCGTAGGATCACCAGACTGGTCCTGGTGGTGGTG
+GCAGTCTTCGTCGTCTGCTGGACTCCCATTCACATATTCATCCTGGTGGAGGCTCTGGGG
+AGCACCTCCCACAGCACAGCTGCTCTCTCCAGCTATTACTTCTGCATCGCCTTAGGCTAT
+ACCAACAGTAGCCTGAATCCCATTCTCTACGCCTTTCTTGATGAAAACTTCAAGCGGTGT
+TTCCGGGACTTCTGCTTTCCACTGAAGATGAGGATGGAGCGGCAGAGCACTAGCAGAGTC
+CGAAATACAGTTCAGGATCCTGCTTACCTGAGGGACATCGATGGGATGAATAAACCAGTA
+TGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00001</identifier>
+        <name>7tm_1</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>perikaryon</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>axon terminus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>dendrite</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>synapse</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>neuron projection</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>neuropeptide binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>dynorphin receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>opioid receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>behavioral response to cocaine</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to radiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>behavior</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sensory perception</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of luteinizing hormone secretion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sensory perception of pain</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>eating behavior</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of aerobic respiration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>opioid receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to lipopolysaccharide</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>estrous cycle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>adenylate cyclase-inhibiting opioid receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to insulin</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of energy homeostasis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of locomotion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>maternal behavior</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>immune response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of dopamine secretion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of saliva secretion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to ethanol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>defense response to virus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>phospholipase C-activating G-protein coupled receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of sensory perception of pain</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of p38MAPK cascade</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>locomotory behavior</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to morphine</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sensory perception of temperature stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>neuropeptide signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of potassium ion transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to acrylamide</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>synaptic transmission</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to estrogen</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+    <target position="4">
+      <id>BE0000420</id>
+      <name>Delta-type opioid receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>6151117</pubmed-id>
+            <citation>Neil A: Affinities of some common opioid analgesics towards four binding sites in mouse brain. Naunyn Schmiedebergs Arch Pharmacol. 1984 Nov;328(1):24-9.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P41143" source="Swiss-Prot">
+    <name>Delta-type opioid receptor</name>
+    <general-function>Opioid receptor activity</general-function>
+    <specific-function>G-protein coupled receptor that functions as receptor for endogenous enkephalins and for a subset of other opioids. Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and modulates the activity of down-stream effectors, such as adenylate cyclase. Signaling leads to the inhibition of adenylate cyclase activity. Inhibits neurotransmitter release by reducing calcium ion currents and increasing potassium ion conductance. Plays a role in the perception of pain and in opiate-mediated analgesia. Plays a role in developing analgesic tolerance to morphine.</specific-function>
+    <gene-name>OPRD1</gene-name>
+    <locus>1p36.1-p34.3</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>48-75
+86-110
+123-144
+164-186
+207-238
+262-284
+300-321</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>9.17</theoretical-pi>
+    <molecular-weight>40368.235</molecular-weight>
+    <chromosome-location>1</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:8153</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>OPRD1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>U07882</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>27545517</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>IUPHAR</resource>
+        <identifier>317</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>317</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P41143</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>OPRD_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>D-OR-1</synonym>
+      <synonym>OPRD</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010290|Delta-type opioid receptor
+MEPAPSAGAELQPPLFANASDAYPSACPSAGANASGPPGARSASSLALAIAITALYSAVC
+AVGLLGNVLVMFGIVRYTKMKTATNIYIFNLALADALATSTLPFQSAKYLMETWPFGELL
+CKAVLSIDYYNMFTSIFTLTMMSVDRYIAVCHPVKALDFRTPAKAKLINICIWVLASGVG
+VPIMVMAVTRPRDGAVVCMLQFPSPSWYWDTVTKICVFLFAFVVPILIITVCYGLMLLRL
+RSVRLLSGSKEKDRSLRRITRMVLVVVGAFVVCWAPIHIFVIVWTLVDIDRRDPLVVAAL
+HLCIALGYANSSLNPVLYAFLDENFKRCFRQLCRKPCGRPDPSSFSRAREATARERVTAC
+TPSDGPGGGAAA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0010291|Delta-type opioid receptor (OPRD1)
+ATGGAACCGGCCCCCTCCGCCGGCGCCGAGCTGCAGCCCCCGCTCTTCGCCAACGCCTCG
+GACGCCTACCCTAGCGCCTGCCCCAGCGCTGGCGCCAATGCGTCGGGGCCGCCAGGCGCG
+CGGAGCGCCTCGTCCCTCGCCCTGGCAATCGCCATCACCGCGCTCTACTCGGCCGTGTGC
+GCCGTGGGGCTGCTGGGCAACGTGCTTGTCATGTTCGGCATCGTCCGGTACACTAAGATG
+AAGACGGCCACCAACATCTACATCTTCAACCTGGCCTTAGCCGATGCGCTGGCCACCAGC
+ACGCTGCCTTTCCAGAGTGCCAAGTACCTGATGGAGACGTGGCCCTTCGGCGAGCTGCTC
+TGCAAGGCTGTGCTCTCCATCGACTACTACAATATGTTCACCAGCATCTTCACGCTCACC
+ATGATGAGTGTTGACCGCTACATCGCTGTCTGCCACCCTGTCAAGGCCCTGGACTTCCGC
+ACGCCTGCCAAGGCCAAGCTGATCAACATCTGTATCTGGGTCCTGGCCTCAGGCGTTGGC
+GTGCCCATCATGGTCATGGCTGTGACCCGTCCCCGGGACGGGGCAGTGGTGTGCATGCTC
+CAGTTCCCCAGCCCCAGCTGGTACTGGGACACGGTGACCAAGATCTGCGTGTTCCTCTTC
+GCCTTCGTGGTGCCCATCCTCATCATCACCGTGTGCTATGGCCTCATGCTGCTGCGCCTG
+CGCAGTGTGCGCCTGCTGTCGGGCTCCAAGGAGAAGGACCGCAGCCTGCGGCGCATCACG
+CGCATGGTGCTGGTGGTTGTGGGCGCCTTCGTGGTGTGTTGGGCGCCCATCCACATCTTC
+GTCATCGTCTGGACGCTGGTGGACATCGACCGGCGCGACCCGCTGGTGGTGGCTGCGCTG
+CACCTGTGCATCGCGCTGGGCTACGCCAATAGCAGCCTCAACCCCGTGCTCTACGCTTTC
+CTCGACGAGAACTTCAAGCGCTGCTTCCGCCAGCTCTGCCGCAAGCCCTGCGGCCGCCCA
+GACCCCAGCAGCTTCAGCCGCGCCCGCGAAGCCACGGCCCGCGAGCGTGTCACCGCCTGC
+ACCCCGTCCGATGGTCCCGGCGGTGGCGCTGCCGCCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00001</identifier>
+        <name>7tm_1</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>vesicle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intrinsic component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>axon terminus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>postsynaptic membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane raft</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>neuron projection</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>dendrite membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enkephalin receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>neuropeptide binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>opioid receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>neuropeptide signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>synaptic transmission</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of calcium ion transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to toxic substance</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>eating behavior</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to hypoxia</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of protein oligomerization</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of peptidyl-serine phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of mitochondrial membrane potential</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>opioid receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of gene expression</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of CREB transcription factor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>G-protein coupled receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of sensory perception of pain</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein import into nucleus, translocation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>phospholipase C-activating G-protein coupled receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to growth factor stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>immune response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>adult locomotory behavior</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0002638</id>
+      <name>Cytochrome P450 3A4</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>19934256</pubmed-id>
+            <citation>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. doi: 10.1093/nar/gkp970.  Epub 2009 Nov 24.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P08684" source="Swiss-Prot">
+    <name>Cytochrome P450 3A4</name>
+    <general-function>Vitamin d3 25-hydroxylase activity</general-function>
+    <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It performs a variety of oxidation reactions (e.g. caffeine 8-oxidation, omeprazole sulphoxidation, midazolam 1'-hydroxylation and midazolam 4-hydroxylation) of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. Acts as a 1,8-cineole 2-exo-monooxygenase. The enzyme also hydroxylates etoposide (PubMed:11159812). Catalyzes 4-beta-hydroxylation of cholesterol. May catalyze 25-hydroxylation of cholesterol in vitro (PubMed:21576599).</specific-function>
+    <gene-name>CYP3A4</gene-name>
+    <locus>7q21.1</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions>2-22</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>8.25</theoretical-pi>
+    <molecular-weight>57342.67</molecular-weight>
+    <chromosome-location>7</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2637</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP3A4</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M18907</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1337</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P08684</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP3A4_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1,8-cineole 2-exo-monooxygenase</synonym>
+      <synonym>1.14.13.-</synonym>
+      <synonym>Albendazole monooxygenase</synonym>
+      <synonym>Albendazole sulfoxidase</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYP3A3</synonym>
+      <synonym>CYPIIIA3</synonym>
+      <synonym>CYPIIIA4</synonym>
+      <synonym>Cytochrome P450 3A3</synonym>
+      <synonym>Cytochrome P450 HLp</synonym>
+      <synonym>Cytochrome P450 NF-25</synonym>
+      <synonym>Cytochrome P450-PCN1</synonym>
+      <synonym>Nifedipine oxidase</synonym>
+      <synonym>Quinine 3-monooxygenase</synonym>
+      <synonym>Taurochenodeoxycholate 6-alpha-hydroxylase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0021936|Cytochrome P450 3A4
+MALIPDLAMETWLLLAVSLVLLYLYGTHSHGLFKKLGIPGPTPLPFLGNILSYHKGFCMF
+DMECHKKYGKVWGFYDGQQPVLAITDPDMIKTVLVKECYSVFTNRRPFGPVGFMKSAISI
+AEDEEWKRLRSLLSPTFTSGKLKEMVPIIAQYGDVLVRNLRREAETGKPVTLKDVFGAYS
+MDVITSTSFGVNIDSLNNPQDPFVENTKKLLRFDFLDPFFLSITVFPFLIPILEVLNICV
+FPREVTNFLRKSVKRMKESRLEDTQKHRVDFLQLMIDSQNSKETESHKALSDLELVAQSI
+IFIFAGYETTSSVLSFIMYELATHPDVQQKLQEEIDAVLPNKAPPTYDTVLQMEYLDMVV
+NETLRLFPIAMRLERVCKKDVEINGMFIPKGVVVMIPSYALHRDPKYWTEPEKFLPERFS
+KKNKDNIDPYIYTPFGSGPRNCIGMRFALMNMKLALIRVLQNFSFKPCKETQIPLKLSLG
+GLLQPEKPVVLKVESRDGTVSGA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0021937|Cytochrome P450 3A4 (CYP3A4)
+ATGGCTCTCATCCCAGACTTGGCCATGGAAACCTGGCTTCTCCTGGCTGTCAGCCTGGTG
+CTCCTCTATCTATATGGAACCCATTCACATGGACTTTTTAAGAAGCTTGGAATTCCAGGG
+CCCACACCTCTGCCTTTTTTGGGAAATATTTTGTCCTACCATAAGGGCTTTTGTATGTTT
+GACATGGAATGTCATAAAAAGTATGGAAAAGTGTGGGGCTTTTATGATGGTCAACAGCCT
+GTGCTGGCTATCACAGATCCTGACATGATCAAAACAGTGCTAGTGAAAGAATGTTATTCT
+GTCTTCACAAACCGGAGGCCTTTTGGTCCAGTGGGATTTATGAAAAGTGCCATCTCTATA
+GCTGAGGATGAAGAATGGAAGAGATTACGATCATTGCTGTCTCCAACCTTCACCAGTGGA
+AAACTCAAGGAGATGGTCCCTATCATTGCCCAGTATGGAGATGTGTTGGTGAGAAATCTG
+AGGCGGGAAGCAGAGACAGGCAAGCCTGTCACCTTGAAAGACGTCTTTGGGGCCTACAGC
+ATGGATGTGATCACTAGCACATCATTTGGAGTGAACATCGACTCTCTCAACAATCCACAA
+GACCCCTTTGTGGAAAACACCAAGAAGCTTTTAAGATTTGATTTTTTGGATCCATTCTTT
+CTCTCAATAATCTTTCCATTCCTCATCCCAATTCTTGAAGTATTAAATATCTGTGTGTTT
+CCAAGAGAAGTTACAAATTTTTTAAGAAAATCTGTAAAAAGGATGAAAGAAAGTCGCCTC
+GAAGATACACAAAAGCACCGAGTGGATTTCCTTCAGCTGATGATTGACTCTCAGAATTCA
+AAAGAAACTGAGTCCCACAAAGCTCTGTCCGATCTGGAGCTCGTGGCCCAATCAATTATC
+TTTATTTTTGCTGGCTATGAAACCACGAGCAGTGTTCTCTCCTTCATTATGTATGAACTG
+GCCACTCACCCTGATGTCCAGCAGAAACTGCAGGAGGAAATTGATGCAGTTTTACCCAAT
+AAGGCACCACCCACCTATGATACTGTGCTACAGATGGAGTATCTTGACATGGTGGTGAAT
+GAAACGCTCAGATTATTCCCAATTGCTATGAGACTTGAGAGGGTCTGCAAAAAAGATGTT
+GAGATCAATGGGATGTTCATTCCCAAAGGGGTGGTGGTGATGATTCCAAGCTATGCTCTT
+CACCGTGACCCAAAGTACTGGACAGAGCCTGAGAAGTTCCTCCCTGAAAGATTCAGCAAG
+AAGAACAAGGACAACATAGATCCTTACATATACACACCCTTTGGAAGTGGACCCAGAAAC
+TGCATTGGCATGAGGTTTGCTCTCATGAACATGAAACTTGCTCTAATCAGAGTCCTTCAG
+AACTTCTCCTTCAAACCTTGTAAAGAAACACAGATCCCCCTGAAATTAAGCTTAGGAGGA
+CTTCTTCAACCAGAAAAACCCGTTGTTCTAAAGGTTGAGTCAAGGGATGGCACCGTAAGT
+GGAGCCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>vitamin D 24-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enzyme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>testosterone 6-beta-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>vitamin D3 25-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>albendazole monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>caffeine oxidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>quinine 3-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>taurochenodeoxycholate 6alpha-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>androgen metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>calcitriol biosynthetic process from calciol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>vitamin D metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>lipid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heterocycle metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+    <enzyme position="5">
+      <id>BE0002363</id>
+      <name>Cytochrome P450 2D6</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>19934256</pubmed-id>
+            <citation>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. doi: 10.1093/nar/gkp970.  Epub 2009 Nov 24.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P10635" source="Swiss-Prot">
+    <name>Cytochrome P450 2D6</name>
+    <general-function>Steroid hydroxylase activity</general-function>
+    <specific-function>Responsible for the metabolism of many drugs and environmental chemicals that it oxidizes. It is involved in the metabolism of drugs such as antiarrhythmics, adrenoceptor antagonists, and tricyclic antidepressants.</specific-function>
+    <gene-name>CYP2D6</gene-name>
+    <locus>22q13.1</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>7.26</theoretical-pi>
+    <molecular-weight>55768.94</molecular-weight>
+    <chromosome-location>22</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2625</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP2D6</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M20403</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>181350</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1329</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P10635</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP2D6_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.14.14.1</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYP2DL1</synonym>
+      <synonym>CYPIID6</synonym>
+      <synonym>Cytochrome P450-DB1</synonym>
+      <synonym>Debrisoquine 4-hydroxylase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004641|Cytochrome P450 2D6
+MGLEALVPLAVIVAIFLLLVDLMHRRQRWAARYPPGPLPLPGLGNLLHVDFQNTPYCFDQ
+LRRRFGDVFSLQLAWTPVVVLNGLAAVREALVTHGEDTADRPPVPITQILGFGPRSQGVF
+LARYGPAWREQRRFSVSTLRNLGLGKKSLEQWVTEEAACLCAAFANHSGRPFRPNGLLDK
+AVSNVIASLTCGRRFEYDDPRFLRLLDLAQEGLKEESGFLREVLNAVPVLLHIPALAGKV
+LRFQKAFLTQLDELLTEHRMTWDPAQPPRDLTEAFLAEMEKAKGNPESSFNDENLRIVVA
+DLFSAGMVTTSTTLAWGLLLMILHPDVQRRVQQEIDDVIGQVRRPEMGDQAHMPYTTAVI
+HEVQRFGDIVPLGVTHMTSRDIEVQGFRIPKGTTLITNLSSVLKDEAVWEKPFRFHPEHF
+LDAQGHFVKPEAFLPFSAGRRACLGEPLARMELFLFFTSLLQHFSFSVPTGQPRPSHHGV
+FAFLVSPSPYELCAVPR</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0019275|Cytochrome P450 2D6 (CYP2D6)
+ATGGGGCTAGAAGCACTGGTGCCCCTGGCCGTGATAGTGGCCATCTTCCTGCTCCTGGTG
+GACCTGATGCACCGGCGCCAACGCTGGGCTGCACGCTACCCACCAGGCCCCCTGCCACTG
+CCCGGGCTGGGCAACCTGCTGCATGTGGACTTCCAGAACACACCATACTGCTTCGACCAG
+TTGCGGCGCCGCTTCGGGGACGTGTTCAGCCTGCAGCTGGCCTGGACGCCGGTGGTCGTG
+CTCAATGGGCTGGCGGCCGTGCGCGAGGCGCTGGTGACCCACGGCGAGGACACCGCCGAC
+CGCCCGCCTGTGCCCATCACCCAGATCCTGGGTTTCGGGCCGCGTTCCCAAGGGGTGTTC
+CTGGCGCGCTATGGGCCCGCGTGGCGCGAGCAGAGGCGCTTCTCCGTGTCCACCTTGCGC
+AACTTGGGCCTGGGCAAGAAGTCGCTGGAGCAGTGGGTGACCGAGGAGGCCGCCTGCCTT
+TGTGCCGCCTTCGCCAACCACTCCGGACGCCCCTTTCGCCCCAACGGTCTCTTGGACAAA
+GCCGTGAGCAACGTGATCGCCTCCCTCACCTGCGGGCGCCGCTTCGAGTACGACGACCCT
+CGCTTCCTCAGGCTGCTGGACCTAGCTCAGGAGGGACTGAAGGAGGAGTCGGGCTTTCTG
+CGCGAGGTGCTGAATGCTGTCCCCGTCCTCCTGCATATCCCAGCGCTGGCTGGCAAGGTC
+CTACGCTTCCAAAAGGCTTTCCTGACCCAGCTGGATGAGCTGCTAACTGAGCACAGGATG
+ACCTGGGACCCAGCCCAGCCCCCCCGAGACCTGACTGAGGCCTTCCTGGCAGAGATGGAG
+AAGGCCAAGGGGAACCCTGAGAGCAGCTTCAATGATGAGAACCTGCGCATAGTGGTGGCT
+GACCTGTTCTCTGCCGGGATGGTGACCACCTCGACCACGCTGGCCTGGGGCCTCCTGCTC
+ATGATCCTACATCCGGATGTGCAGCGCCGTGTCCAACAGGAGATCGACGACGTGATAGGG
+CAGGTGCGGCGACCAGAGATGGGTGACCAGGCTCACATGCCCTACACCACTGCCGTGATT
+CATGAGGTGCAGCGCTTTGGGGACATCGTCCCCCTGGGTGTGACCCATATGACATCCCGT
+GACATCGAAGTACAGGGCTTCCGCATCCCTAAGGGAACGACACTCATCACCAACCTGTCA
+TCGGTGCTGAAGGATGAGGCCGTCTGGGAGAAGCCCTTCCGCTTCCACCCCGAACACTTC
+CTGGATGCCCAGGGCCACTTTGTGAAGCCGGAGGCCTTCCTGCCTTTCTCAGCAGGCCGC
+CGTGCATGCCTCGGGGAGCCCCTGGCCCGCATGGAGCTCTTCCTCTTCTTCACCTCCCTG
+CTGCAGCACTTCAGCTTCTCGGTGCCCACTGGACAGCCCCGGCCCAGCCACCATGGTGTC
+TTTGCTTTCCTGGTGAGCCCATCCCCCTATGAGCTTTGTGCTGTGCCCCGCTAG</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>mitochondrion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>drug binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>arachidonic acid epoxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>coumarin metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>isoquinoline alkaloid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of cellular organofluorine metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heterocycle metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>arachidonic acid metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+    <enzyme position="6">
+      <id>BE0002887</id>
+      <name>Cytochrome P450 2C8</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>19934256</pubmed-id>
+            <citation>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. doi: 10.1093/nar/gkp970.  Epub 2009 Nov 24.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P10632" source="Swiss-Prot">
+    <name>Cytochrome P450 2C8</name>
+    <general-function>Steroid hydroxylase activity</general-function>
+    <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It oxidizes a variety of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. In the epoxidation of arachidonic acid it generates only 14,15- and 11,12-cis-epoxyeicosatrienoic acids. It is the principal enzyme responsible for the metabolism the anti-cancer drug paclitaxel (taxol).</specific-function>
+    <gene-name>CYP2C8</gene-name>
+    <locus>10q23.33</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>8.62</theoretical-pi>
+    <molecular-weight>55824.275</molecular-weight>
+    <chromosome-location>10</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2622</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP2C8</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M17397</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1325</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P10632</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP2C8_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.14.14.1</synonym>
+      <synonym>CYPIIC8</synonym>
+      <synonym>Cytochrome P450 form 1</synonym>
+      <synonym>Cytochrome P450 IIC2</synonym>
+      <synonym>Cytochrome P450 MP-12</synonym>
+      <synonym>Cytochrome P450 MP-20</synonym>
+      <synonym>S-mephenytoin 4-hydroxylase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0005650|Cytochrome P450 2C8
+MEPFVVLVLCLSFMLLFSLWRQSCRRRKLPPGPTPLPIIGNMLQIDVKDICKSFTNFSKV
+YGPVFTVYFGMNPIVVFHGYEAVKEALIDNGEEFSGRGNSPISQRITKGLGIISSNGKRW
+KEIRRFSLTTLRNFGMGKRSIEDRVQEEAHCLVEELRKTKASPCDPTFILGCAPCNVICS
+VVFQKRFDYKDQNFLTLMKRFNENFRILNSPWIQVCNNFPLLIDCFPGTHNKVLKNVALT
+RSYIREKVKEHQASLDVNNPRDFIDCFLIKMEQEKDNQKSEFNIENLVGTVADLFVAGTE
+TTSTTLRYGLLLLLKHPEVTAKVQEEIDHVIGRHRSPCMQDRSHMPYTDAVVHEIQRYSD
+LVPTGVPHAVTTDTKFRNYLIPKGTTIMALLTSVLHDDKEFPNPNIFDPGHFLDKNGNFK
+KSDYFMPFSAGKRICAGEGLARMELFLFLTTILQNFNLKSVDDLKNLNTTAVTKGIVSLP
+PSYQICFIPV</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0021338|Cytochrome P450 2C8 (CYP2C8)
+ATGGAACCTTTTGTGGTCCTGGTGCTGTGTCTCTCTTTTATGCTTCTCTTTTCACTCTGG
+AGACAGAGCTGTAGGAGAAGGAAGCTCCCTCCTGGCCCCACTCCTCTTCCTATTATTGGA
+AATATGCTACAGATAGATGTTAAGGACATCTGCAAATCTTTCACCAATTTCTCAAAAGTC
+TATGGTCCTGTGTTCACCGTGTATTTTGGCATGAATCCCATAGTGGTGTTTCATGGATAT
+GAGGCAGTGAAGGAAGCCCTGATTGATAATGGAGAGGAGTTTTCTGGAAGAGGCAATTCC
+CCAATATCTCAAAGAATTACTAAAGGACTTGGAATCATTTCCAGCAATGGAAAGAGATGG
+AAGGAGATCCGGCGTTTCTCCCTCACAACCTTGCGGAATTTTGGGATGGGGAAGAGGAGC
+ATTGAGGACCGTGTTCAAGAGGAAGCTCACTGCCTTGTGGAGGAGTTGAGAAAAACCAAG
+GCTTCACCCTGTGATCCCACTTTCATCCTGGGCTGTGCTCCCTGCAATGTGATCTGCTCC
+GTTGTTTTCCAGAAACGATTTGATTATAAAGATCAGAATTTTCTCACCCTGATGAAAAGA
+TTCAATGAAAACTTCAGGATTCTGAACTCCCCATGGATCCAGGTCTGCAATAATTTCCCT
+CTACTCATTGATTGTTTCCCAGGAACTCACAACAAAGTGCTTAAAAATGTTGCTCTTACA
+CGAAGTTACATTAGGGAGAAAGTAAAAGAACACCAAGCATCACTGGATGTTAACAATCCT
+CGGGACTTTATCGATTGCTTCCTGATCAAAATGGAGCAGGAAAAGGACAACCAAAAGTCA
+GAATTCAATATTGAAAACTTGGTTGGCACTGTAGCTGATCTATTTGTTGCTGGAACAGAG
+ACAACAAGCACCACTCTGAGATATGGACTCCTGCTCCTGCTGAAGCACCCAGAGGTCACA
+GCTAAAGTCCAGGAAGAGATTGATCATGTAATTGGCAGACACAGGAGCCCCTGCATGCAG
+GATAGGAGCCACATGCCTTACACTGATGCTGTAGTGCACGAGATCCAGAGATACAGTGAC
+CTTGTCCCCACCGGTGTGCCCCATGCAGTGACCACTGATACTAAGTTCAGAAACTACCTC
+ATCCCCAAGGGCACAACCATAATGGCATTACTGACTTCCGTGCTACATGATGACAAAGAA
+TTTCCTAATCCAAATATCTTTGACCCTGGCCACTTTCTAGATAAGAATGGCAACTTTAAG
+AAAAGTGACTACTTCATGCCTTTCTCAGCAGGAAAACGAATTTGTGCAGGAGAAGGACTT
+GCCCGCATGGAGCTATTTTTATTTCTAACCACAATTTTACAGAACTTTAACCTGAAATCT
+GTTGATGATTTAAAGAACCTCAATACTACTGCAGTTACCAAAGGGATTGTTTCTCTGCCA
+CCCTCATACCAGATCTGCTTCATCCCTGTCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>caffeine oxidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>arachidonic acid epoxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>omega-hydroxylase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>organic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>arachidonic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>epoxygenase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+    <enzyme position="7">
+      <id>BE0002793</id>
+      <name>Cytochrome P450 2C9</name>
+      <organism>Human</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>19934256</pubmed-id>
+            <citation>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. doi: 10.1093/nar/gkp970.  Epub 2009 Nov 24.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P11712" source="Swiss-Prot">
+    <name>Cytochrome P450 2C9</name>
+    <general-function>Steroid hydroxylase activity</general-function>
+    <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It oxidizes a variety of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. This enzyme contributes to the wide pharmacokinetics variability of the metabolism of drugs such as S-warfarin, diclofenac, phenytoin, tolbutamide and losartan.</specific-function>
+    <gene-name>CYP2C9</gene-name>
+    <locus>10q24</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>7.99</theoretical-pi>
+    <molecular-weight>55627.365</molecular-weight>
+    <chromosome-location>10</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2623</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP2C9</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>AY341248</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1326</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P11712</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP2C9_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>(R)-limonene 6-monooxygenase</synonym>
+      <synonym>(S)-limonene 6-monooxygenase</synonym>
+      <synonym>(S)-limonene 7-monooxygenase</synonym>
+      <synonym>1.14.13.-</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYP2C10</synonym>
+      <synonym>CYPIIC9</synonym>
+      <synonym>Cytochrome P-450MP</synonym>
+      <synonym>Cytochrome P450 MP-4</synonym>
+      <synonym>Cytochrome P450 MP-8</synonym>
+      <synonym>Cytochrome P450 PB-1</synonym>
+      <synonym>S-mephenytoin 4-hydroxylase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0005471|Cytochrome P450 2C9
+MDSLVVLVLCLSCLLLLSLWRQSSGRGKLPPGPTPLPVIGNILQIGIKDISKSLTNLSKV
+YGPVFTLYFGLKPIVVLHGYEAVKEALIDLGEEFSGRGIFPLAERANRGFGIVFSNGKKW
+KEIRRFSLMTLRNFGMGKRSIEDRVQEEARCLVEELRKTKASPCDPTFILGCAPCNVICS
+IIFHKRFDYKDQQFLNLMEKLNENIKILSSPWIQICNNFSPIIDYFPGTHNKLLKNVAFM
+KSYILEKVKEHQESMDMNNPQDFIDCFLMKMEKEKHNQPSEFTIESLENTAVDLFGAGTE
+TTSTTLRYALLLLLKHPEVTAKVQEEIERVIGRNRSPCMQDRSHMPYTDAVVHEVQRYID
+LLPTSLPHAVTCDIKFRNYLIPKGTTILISLTSVLHDNKEFPNPEMFDPHHFLDEGGNFK
+KSKYFMPFSAGKRICVGEALAGMELFLFLTSILQNFNLKSLVDPKNLDTTPVVNGFASVP
+PFYQLCFIPV</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016893|Cytochrome P450 2C9 (CYP2C9)
+ATGGATTCTCTTGTGGTCCTTGTGCTCTGTCTCTCATGTTTGCTTCTCCTTTCACTCTGG
+AGACAGAGCTCTGGGAGAGGAAAACTCCCTCCTGGCCCCACTCCTCTCCCAGTGATTGGA
+AATATCCTACAGATAGGTATTAAGGACATCAGCAAATCCTTAACCAATCTCTCAAAGGTC
+TATGGCCCTGTGTTCACTCTGTATTTTGGCCTGAAACCCATAGTGGTGCTGCATGGATAT
+GAAGCAGTGAAGGAAGCCCTGATTGATCTTGGAGAGGAGTTTTCTGGAAGAGGCATTTTC
+CCACTGGCTGAAAGAGCTAACAGAGGATTTGGAATTGTTTTCAGCAATGGAAAGAAATGG
+AAGGAGATCCGGCGTTTCTCCCTCATGACGCTGCGGAATTTTGGGATGGGGAAGAGGAGC
+ATTGAGGACCGTGTTCAAGAGGAAGCCCGCTGCCTTGTGGAGGAGTTGAGAAAAACCAAG
+GCCTCACCCTGTGATCCCACTTTCATCCTGGGCTGTGCTCCCTGCAATGTGATCTGCTCC
+ATTATTTTCCATAAACGTTTTGATTATAAAGATCAGCAATTTCTTAACTTAATGGAAAAG
+TTGAATGAAAACATCAAGATTTTGAGCAGCCCCTGGATCCAGATCTGCAATAATTTTTCT
+CCTATCATTGATTACTTCCCGGGAACTCACAACAAATTACTTAAAAACGTTGCTTTTATG
+AAAAGTTATATTTTGGAAAAAGTAAAAGAACACCAAGAATCAATGGACATGAACAACCCT
+CAGGACTTTATTGATTGCTTCCTGATGAAAATGGAGAAGGAAAAGCACAACCAACCATCT
+GAATTTACTATTGAAAGCTTGGAAAACACTGCAGTTGACTTGTTTGGAGCTGGGACAGAG
+ACGACAAGCACAACCCTGAGATATGCTCTCCTTCTCCTGCTGAAGCACCCAGAGGTCACA
+GCTAAAGTCCAGGAAGAGATTGAACGTGTGATTGGCAGAAACCGGAGCCCCTGCATGCAA
+GACAGGAGCCACATGCCCTACACAGATGCTGTGGTGCACGAGGTCCAGAGATACATTGAC
+CTTCTCCCCACCAGCCTGCCCCATGCAGTGACCTGTGACATTAAATTCAGAAACTATCTC
+ATTCCCAAGGGCACAACCATATTAATTTCCCTGACTTCTGTGCTACATGACAACAAAGAA
+TTTCCCAACCCAGAGATGTTTGACCCTCATCACTTTCTGGATGAAGGTGGCAATTTTAAG
+AAAAGTAAATACTTCATGCCTTTCTCAGCAGGAAAACGGATTTGTGTGGGAGAAGCCCTG
+GCCGGCATGGAGCTGTTTTTATTCCTGACCTCCATTTTACAGAACTTTAACCTGAAATCT
+CTGGTTGACCCAAAGAACCTTGACACCACTCCAGTTGTCAATGGATTTGCCTCTGTGCCG
+CCCTTCTACCAGCTGTGCTTCATTCCTGTCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>(R)-limonene 6-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>(S)-limonene 6-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>(S)-limonene 7-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>caffeine oxidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>drug binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>arachidonic acid epoxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>epoxygenase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monocarboxylic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular amide metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>urea metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>omega-hydroxylase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>arachidonic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+    <enzyme position="8">
+      <id>BE0003612</id>
+      <name>Cytochrome P450 3A7</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>19934256</pubmed-id>
+            <citation>Preissner S, Kroll K, Dunkel M, Senger C, Goldsobel G, Kuzman D, Guenther S, Winnenburg R, Schroeder M, Preissner R: SuperCYP: a comprehensive database on Cytochrome P450 enzymes including a tool for analysis of CYP-drug interactions. Nucleic Acids Res. 2010 Jan;38(Database issue):D237-43. doi: 10.1093/nar/gkp970.  Epub 2009 Nov 24.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P24462" source="Swiss-Prot">
+    <name>Cytochrome P450 3A7</name>
+    <general-function>Oxygen binding</general-function>
+    <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It oxidizes a variety of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics.</specific-function>
+    <gene-name>CYP3A7</gene-name>
+    <locus>7q21-q22.1</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>9.59</theoretical-pi>
+    <molecular-weight>57525.03</molecular-weight>
+    <chromosome-location>7</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2640</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>D00408</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>220149</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P24462</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP3A7_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.14.14.1</synonym>
+      <synonym>CYPIIIA7</synonym>
+      <synonym>Cytochrome P450-HFLA</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0006949|Cytochrome P450 3A7
+MDLIPNLAVETWLLLAVSLILLYLYGTRTHGLFKKLGIPGPTPLPFLGNALSFRKGYWTF
+DMECYKKYRKVWGIYDCQQPMLAITDPDMIKTVLVKECYSVFTNRRPFGPVGFMKNAISI
+AEDEEWKRIRSLLSPTFTSGKLKEMVPIIAQYGDVLVRNLRREAETGKPVTLKHVFGAYS
+MDVITSTSFGVSIDSLNNPQDPFVENTKKLLRFNPLDPFVLSIKVFPFLTPILEALNITV
+FPRKVISFLTKSVKQIKEGRLKETQKHRVDFLQLMIDSQNSKDSETHKALSDLELMAQSI
+IFIFAGYETTSSVLSFIIYELATHPDVQQKVQKEIDTVLPNKAPPTYDTVLQLEYLDMVV
+NETLRLFPVAMRLERVCKKDVEINGMFIPKGVVVMIPSYVLHHDPKYWREPEKFLPERFS
+KKNKDNIDPYIYTPFGSGPRNCIGMRFALVNMKLALVRVLQNFSFKPCKETQIPLKLRFG
+GLLLTEKPIVLKAESRDETVSGA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0019448|Cytochrome P450 3A7 (CYP3A7)
+ATGGATCTCATCCCAAACTTGGCCGTGGAAACCTGGCTTCTCCTGGCTGTCAGCCTGATA
+CTCCTCTATCTATATGGAACCCGTACACATGGACTTTTTAAGAAGCTTGGAATTCCAGGG
+CCCACACCTCTGCCTTTTTTGGGAAATGCTTTGTCCTTCCGTAAGGGCTATTGGACGTTT
+GACATGGAATGTTATAAAAAGTATAGAAAAGTCTGGGGTATTTATGACTGTCAACAGCCT
+ATGCTGGCTATCACAGATCCCGACATGATCAAAACAGTGCTAGTGAAAGAATGTTATTCT
+GTCTTCACAAACCGGAGGCCTTTCGGGCCAGTGGGATTTATGAAAAATGCCATCTCTATA
+GCTGAGGATGAAGAATGGAAGAGAATACGATCATTGCTGTCTCCAACATTCACCAGCGGA
+AAACTCAAGGAGATGGTCCCTATCATTGCCCAGTATGGAGATGTGTTGGTGAGAAATCTG
+AGGCGGGAAGCAGAGACAGGCAAGCCTGTCACCTTGAAACACGTCTTTGGGGCCTACAGC
+ATGGATGTGATCACTAGCACATCATTTGGAGTGAGCATCGACTCTCTCAACAATCCACAA
+GACCCCTTTGTGGAAAACACCAAGAAGCTTTTAAGATTTAATCCATTAGATCCATTCGTT
+CTCTCAATAAAAGTCTTTCCATTCCTTACCCCAATTCTTGAAGCATTAAATATCACTGTG
+TTTCCAAGAAAAGTTATAAGTTTTCTAACAAAATCTGTAAAACAGATAAAAGAAGGTCGC
+CTCAAAGAGACACAAAAGCACCGAGTGGATTTCCTTCAGCTGATGATTGACTCTCAGAAT
+TCAAAAGACTCTGAGACCCACAAAGCTCTGTCTGATCTGGAGCTCATGGCCCAATCAATT
+ATCTTTATTTTTGCTGGCTATGAAACCACGAGCAGTGTTCTCTCCTTCATTATATATGAA
+CTGGCCACTCACCCTGATGTCCAGCAGAAAGTGCAGAAGGAAATTGATACAGTTTTACCC
+AATAAGGCACCACCCACCTATGATACTGTGCTACAGTTGGAGTATCTTGACATGGTGGTG
+AATGAAACACTCAGATTATTCCCAGTTGCTATGAGACTTGAGAGGGTCTGCAAAAAAGAT
+GTTGAAATCAATGGGATGTTTATTCCCAAAGGGGTGGTGGTGATGATTCCAAGCTATGTT
+CTTCATCATGACCCAAAGTACTGGACAGAGCCTGAGAAGTTCCTCCCTGAAAGGTTCAGT
+AAAAAGAACAAGGACAACATAGATCCTTACATATACACACCCTTTGGAAGTGGACCCAGA
+AACTGCATTGGCATGAGGTTTGCTCTCGTGAACATGAAACTTGCTCTAGTCAGAGTCCTT
+CAGAACTTCTCCTTCAAACCTTGTAAAGAAACACAGATCCCCCTGAAATTACGCTTTGGA
+GGACTTCTTCTAACAGAAAAACCCATTGTTCTAAAGGCTGAGTCAAGGGATGAGACCTTT
+GTAGATATGGAGCCCATTCACATGGACTTTTTAAGAAGCTTGGCATTCCAGGGCCCACAC
+CTCTGCTTTTTTTGGGAACTACTTTGTCCTACCATCAGATCCCGCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

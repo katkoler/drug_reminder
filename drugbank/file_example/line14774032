@@ -1,0 +1,1442 @@
+<drug type="small molecule" created="2016-08-25" updated="2016-08-25">
+  <drugbank-id primary="true">DB11616</drugbank-id>
+  <name>Pirarubicin</name>
+  <description/>
+  <cas-number>72496-41-4</cas-number>
+  <unii>D58G680W0G</unii>
+  <average-mass>627.643</average-mass>
+  <monoisotopic-mass>627.231575635</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as anthracyclines. These are polyketides containing a tetracenequinone ring structure with a sugar attached by glycosidic linkage.</description>
+    <direct-parent>Anthracyclines</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Phenylpropanoids and polyketides</superclass>
+    <class>Anthracyclines</class>
+    <subclass/>
+    <alternative-parent>Acetals</alternative-parent>
+    <alternative-parent>Alkyl aryl ethers</alternative-parent>
+    <alternative-parent>Alpha-hydroxy ketones</alternative-parent>
+    <alternative-parent>Aminoglycosides</alternative-parent>
+    <alternative-parent>Anisoles</alternative-parent>
+    <alternative-parent>Anthraquinones</alternative-parent>
+    <alternative-parent>Aryl ketones</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Monoalkylamines</alternative-parent>
+    <alternative-parent>Monosaccharides</alternative-parent>
+    <alternative-parent>O-glycosyl compounds</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Oxacyclic compounds</alternative-parent>
+    <alternative-parent>Oxanes</alternative-parent>
+    <alternative-parent>Phenols</alternative-parent>
+    <alternative-parent>Polyols</alternative-parent>
+    <alternative-parent>Primary alcohols</alternative-parent>
+    <alternative-parent>Tertiary alcohols</alternative-parent>
+    <alternative-parent>Tetracenequinones</alternative-parent>
+    <alternative-parent>Tetralins</alternative-parent>
+    <alternative-parent>Vinylogous acids</alternative-parent>
+    <substituent>1,4-anthraquinone</substituent>
+    <substituent>9,10-anthraquinone</substituent>
+    <substituent>Acetal</substituent>
+    <substituent>Alcohol</substituent>
+    <substituent>Alkyl aryl ether</substituent>
+    <substituent>Alpha-hydroxy ketone</substituent>
+    <substituent>Amine</substituent>
+    <substituent>Amino saccharide</substituent>
+    <substituent>Aminoglycoside core</substituent>
+    <substituent>Anisole</substituent>
+    <substituent>Anthracene</substituent>
+    <substituent>Anthracycline</substituent>
+    <substituent>Anthracyclinone-skeleton</substituent>
+    <substituent>Aromatic heteropolycyclic compound</substituent>
+    <substituent>Aryl ketone</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Ether</substituent>
+    <substituent>Glycosyl compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Ketone</substituent>
+    <substituent>Monosaccharide</substituent>
+    <substituent>O-glycosyl compound</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organoheterocyclic compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Oxacycle</substituent>
+    <substituent>Oxane</substituent>
+    <substituent>Phenol</substituent>
+    <substituent>Phenol ether</substituent>
+    <substituent>Polyol</substituent>
+    <substituent>Primary alcohol</substituent>
+    <substituent>Primary aliphatic amine</substituent>
+    <substituent>Primary amine</substituent>
+    <substituent>Tertiary alcohol</substituent>
+    <substituent>Tetracenequinone</substituent>
+    <substituent>Tetralin</substituent>
+    <substituent>Vinylogous acid</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001933</drugbank-id>
+      <name>Pirarubicin hydrochloride</name>
+      <unii>E7V83174BE</unii>
+      <cas-number>95343-20-7</cas-number>
+      <inchikey>ZPHYPKKFSHAVOE-YZIXBPQXSA-N</inchikey>
+      <average-mass>664.1</average-mass>
+      <monoisotopic-mass>663.2082534</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">Adriamycin, tetrahydropyranyl</synonym>
+    <synonym language="" coder="">Theprubicin</synonym>
+    <synonym language="" coder="">THP-Adm</synonym>
+    <synonym language="" coder="">THP-Doxorubicin</synonym>
+  </synonyms>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Aminoglycosides</category>
+      <mesh-id>D000617</mesh-id>
+    </category>
+    <category>
+      <category>Anthracyclines</category>
+      <mesh-id>D018943</mesh-id>
+    </category>
+    <category>
+      <category>Anthracyclines and Related Substances</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Antineoplastic Agents</category>
+      <mesh-id>D000970</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic and Immunomodulating Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Cytotoxic Antibiotics and Related Substances</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Daunorubicin</category>
+      <mesh-id>D003630</mesh-id>
+    </category>
+    <category>
+      <category>Glycosides</category>
+      <mesh-id>D006027</mesh-id>
+    </category>
+    <category>
+      <category>Hydrocarbons</category>
+      <mesh-id>D006838</mesh-id>
+    </category>
+    <category>
+      <category>Hydrocarbons, Aromatic</category>
+      <mesh-id>D006841</mesh-id>
+    </category>
+    <category>
+      <category>Hydrocarbons, Cyclic</category>
+      <mesh-id>D006844</mesh-id>
+    </category>
+    <category>
+      <category>Immunosuppressive Agents</category>
+      <mesh-id>D007166</mesh-id>
+    </category>
+    <category>
+      <category>Naphthacenes</category>
+      <mesh-id>D009279</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Compounds</category>
+      <mesh-id>D011083</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Hydrocarbons, Aromatic</category>
+      <mesh-id>D011084</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes>
+    <atc-code code="L01DB08">
+      <level code="L01DB">Anthracyclines and related substances</level>
+      <level code="L01D">CYTOTOXIC ANTIBIOTICS AND RELATED SUBSTANCES</level>
+      <level code="L01">ANTINEOPLASTIC AGENTS</level>
+      <level code="L">ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB06736</drugbank-id>
+      <name>Aceclofenac</name>
+      <description>Aceclofenac may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12618</drugbank-id>
+      <name>Acetovanillone</name>
+      <description>Acetovanillone may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00511</drugbank-id>
+      <name>Acetyldigitoxin</name>
+      <description>Acetyldigitoxin may decrease the cardiotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00945</drugbank-id>
+      <name>Acetylsalicylic acid</name>
+      <description>Acetylsalicylic acid may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00210</drugbank-id>
+      <name>Adapalene</name>
+      <description>Adapalene may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00630</drugbank-id>
+      <name>Alendronic acid</name>
+      <description>Pirarubicin may increase the hypocalcemic activities of Alendronic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01163</drugbank-id>
+      <name>Amdinocillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Amdinocillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01060</drugbank-id>
+      <name>Amoxicillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Amoxicillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00681</drugbank-id>
+      <name>Amphotericin B</name>
+      <description>Amphotericin B may increase the nephrotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00415</drugbank-id>
+      <name>Ampicillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Ampicillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11785</drugbank-id>
+      <name>Anisodamine</name>
+      <description>Anisodamine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01435</drugbank-id>
+      <name>Antipyrine</name>
+      <description>Antipyrine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05676</drugbank-id>
+      <name>Apremilast</name>
+      <description>Apremilast may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00732</drugbank-id>
+      <name>Atracurium besylate</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Atracurium besylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07402</drugbank-id>
+      <name>Azapropazone</name>
+      <description>Azapropazone may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00972</drugbank-id>
+      <name>Azelastine</name>
+      <description>Azelastine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08795</drugbank-id>
+      <name>Azidocillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Azidocillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01061</drugbank-id>
+      <name>Azlocillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Azlocillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01602</drugbank-id>
+      <name>Bacampicillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Bacampicillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01014</drugbank-id>
+      <name>Balsalazide</name>
+      <description>Balsalazide may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12768</drugbank-id>
+      <name>BCG</name>
+      <description>The therapeutic efficacy of Bcg can be decreased when used in combination with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04812</drugbank-id>
+      <name>Benoxaprofen</name>
+      <description>Benoxaprofen may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09323</drugbank-id>
+      <name>Benzathine benzylpenicillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Benzathine benzylpenicillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01053</drugbank-id>
+      <name>Benzylpenicillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Benzylpenicillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11612</drugbank-id>
+      <name>Benzylpenicillin Potassium</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Benzylpenicillin Potassium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00895</drugbank-id>
+      <name>Benzylpenicilloyl Polylysine</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Benzylpenicilloyl Polylysine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12480</drugbank-id>
+      <name>Betulinic Acid</name>
+      <description>Betulinic Acid may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00112</drugbank-id>
+      <name>Bevacizumab</name>
+      <description>Bevacizumab may increase the cardiotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00083</drugbank-id>
+      <name>Botulinum Toxin Type A</name>
+      <description>Pirarubicin may increase the neuromuscular blocking activities of Botulinum Toxin Type A.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00042</drugbank-id>
+      <name>Botulinum Toxin Type B</name>
+      <description>Pirarubicin may increase the neuromuscular blocking activities of Botulinum Toxin Type B.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00963</drugbank-id>
+      <name>Bromfenac</name>
+      <description>Bromfenac may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12160</drugbank-id>
+      <name>Bucillamine</name>
+      <description>Bucillamine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00887</drugbank-id>
+      <name>Bumetanide</name>
+      <description>The risk or severity of adverse effects can be increased when Bumetanide is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06772</drugbank-id>
+      <name>Cabazitaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Cabazitaxel is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00314</drugbank-id>
+      <name>Capreomycin</name>
+      <description>Capreomycin may increase the neuromuscular blocking activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00578</drugbank-id>
+      <name>Carbenicillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Carbenicillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00958</drugbank-id>
+      <name>Carboplatin</name>
+      <description>Pirarubicin may increase the ototoxic activities of Carboplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09319</drugbank-id>
+      <name>Carindacillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Carindacillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00821</drugbank-id>
+      <name>Carprofen</name>
+      <description>Carprofen may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01816</drugbank-id>
+      <name>Castanospermine</name>
+      <description>Castanospermine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00482</drugbank-id>
+      <name>Celecoxib</name>
+      <description>Celecoxib may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00608</drugbank-id>
+      <name>Chloroquine</name>
+      <description>Chloroquine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00565</drugbank-id>
+      <name>Cisatracurium besylate</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Cisatracurium besylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00515</drugbank-id>
+      <name>Cisplatin</name>
+      <description>Cisplatin may increase the nephrotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00720</drugbank-id>
+      <name>Clodronate</name>
+      <description>Pirarubicin may increase the hypocalcemic activities of Clodronate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09218</drugbank-id>
+      <name>Clonixin</name>
+      <description>Clonixin may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01147</drugbank-id>
+      <name>Cloxacillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Cloxacillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01111</drugbank-id>
+      <name>Colistimethate</name>
+      <description>Pirarubicin may increase the nephrotoxic activities of Colistimethate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11672</drugbank-id>
+      <name>Curcumin</name>
+      <description>Curcumin may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01000</drugbank-id>
+      <name>Cyclacillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Cyclacillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>Cyclophosphamide may increase the cardiotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00091</drugbank-id>
+      <name>Cyclosporine</name>
+      <description>Pirarubicin may increase the nephrotoxic activities of Cyclosporine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08921</drugbank-id>
+      <name>D-Limonene</name>
+      <description>D-Limonene may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01245</drugbank-id>
+      <name>Decamethonium</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Decamethonium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06643</drugbank-id>
+      <name>Denosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Denosumab is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01078</drugbank-id>
+      <name>Deslanoside</name>
+      <description>Deslanoside may decrease the cardiotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00586</drugbank-id>
+      <name>Diclofenac</name>
+      <description>Diclofenac may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00485</drugbank-id>
+      <name>Dicloxacillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Dicloxacillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00861</drugbank-id>
+      <name>Diflunisal</name>
+      <description>Diflunisal may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01396</drugbank-id>
+      <name>Digitoxin</name>
+      <description>Digitoxin may decrease the cardiotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00390</drugbank-id>
+      <name>Digoxin</name>
+      <description>Digoxin may decrease the cardiotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01248</drugbank-id>
+      <name>Docetaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Docetaxel is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02852</drugbank-id>
+      <name>Domoic Acid</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Domoic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01135</drugbank-id>
+      <name>Doxacurium chloride</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Doxacurium chloride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09215</drugbank-id>
+      <name>Droxicam</name>
+      <description>Droxicam may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11952</drugbank-id>
+      <name>Duvelisib</name>
+      <description>Duvelisib may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11687</drugbank-id>
+      <name>E6201</name>
+      <description>E6201 may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12610</drugbank-id>
+      <name>Ebselen</name>
+      <description>Ebselen may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08991</drugbank-id>
+      <name>Epirizole</name>
+      <description>Epirizole may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00903</drugbank-id>
+      <name>Etacrynic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Etacrynic acid is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00005</drugbank-id>
+      <name>Etanercept</name>
+      <description>Etanercept may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01077</drugbank-id>
+      <name>Etidronic acid</name>
+      <description>Pirarubicin may increase the hypocalcemic activities of Etidronic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00749</drugbank-id>
+      <name>Etodolac</name>
+      <description>Etodolac may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08984</drugbank-id>
+      <name>Etofenamate</name>
+      <description>Etofenamate may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01628</drugbank-id>
+      <name>Etoricoxib</name>
+      <description>Etoricoxib may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11358</drugbank-id>
+      <name>Evening primrose oil</name>
+      <description>Evening primrose oil may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06246</drugbank-id>
+      <name>exisulind</name>
+      <description>exisulind may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08981</drugbank-id>
+      <name>Fenbufen</name>
+      <description>Fenbufen may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00573</drugbank-id>
+      <name>Fenoprofen</name>
+      <description>Fenoprofen may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08868</drugbank-id>
+      <name>Fingolimod</name>
+      <description>Pirarubicin may increase the immunosuppressive activities of Fingolimod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08976</drugbank-id>
+      <name>Floctafenine</name>
+      <description>Floctafenine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00301</drugbank-id>
+      <name>Flucloxacillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Flucloxacillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11518</drugbank-id>
+      <name>Flunixin</name>
+      <description>Flunixin may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00712</drugbank-id>
+      <name>Flurbiprofen</name>
+      <description>Flurbiprofen may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00529</drugbank-id>
+      <name>Foscarnet</name>
+      <description>Foscarnet may increase the nephrotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00695</drugbank-id>
+      <name>Furosemide</name>
+      <description>The risk or severity of adverse effects can be increased when Furosemide is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04914</drugbank-id>
+      <name>G17DT</name>
+      <description>The risk or severity of adverse effects can be increased when Pirarubicin is combined with G17DT.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00483</drugbank-id>
+      <name>Gallamine Triethiodide</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Gallamine Triethiodide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05942</drugbank-id>
+      <name>GI-5005</name>
+      <description>The risk or severity of adverse effects can be increased when Pirarubicin is combined with GI-5005.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12779</drugbank-id>
+      <name>Higenamine</name>
+      <description>Higenamine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05767</drugbank-id>
+      <name>HMPL-004</name>
+      <description>HMPL-004 may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00710</drugbank-id>
+      <name>Ibandronate</name>
+      <description>Pirarubicin may increase the hypocalcemic activities of Ibandronate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01050</drugbank-id>
+      <name>Ibuprofen</name>
+      <description>Ibuprofen may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08955</drugbank-id>
+      <name>Ibuproxam</name>
+      <description>Ibuproxam may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06196</drugbank-id>
+      <name>Icatibant</name>
+      <description>Icatibant may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00328</drugbank-id>
+      <name>Indomethacin</name>
+      <description>Indomethacin may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08951</drugbank-id>
+      <name>Indoprofen</name>
+      <description>Indoprofen may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05322</drugbank-id>
+      <name>INGN 201</name>
+      <description>The risk or severity of adverse effects can be increased when Pirarubicin is combined with INGN 201.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05325</drugbank-id>
+      <name>INGN 225</name>
+      <description>The risk or severity of adverse effects can be increased when Pirarubicin is combined with INGN 225.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08942</drugbank-id>
+      <name>Isoxicam</name>
+      <description>Isoxicam may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08940</drugbank-id>
+      <name>Kebuzone</name>
+      <description>Kebuzone may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01009</drugbank-id>
+      <name>Ketoprofen</name>
+      <description>Ketoprofen may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00465</drugbank-id>
+      <name>Ketorolac</name>
+      <description>Ketorolac may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01097</drugbank-id>
+      <name>Leflunomide</name>
+      <description>The risk or severity of adverse effects can be increased when Pirarubicin is combined with Leflunomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12406</drugbank-id>
+      <name>Lisofylline</name>
+      <description>Lisofylline may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06725</drugbank-id>
+      <name>Lornoxicam</name>
+      <description>Lornoxicam may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09212</drugbank-id>
+      <name>Loxoprofen</name>
+      <description>Loxoprofen may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01283</drugbank-id>
+      <name>Lumiracoxib</name>
+      <description>Lumiracoxib may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01397</drugbank-id>
+      <name>Magnesium salicylate</name>
+      <description>Magnesium salicylate may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00742</drugbank-id>
+      <name>Mannitol</name>
+      <description>Mannitol may increase the nephrotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00179</drugbank-id>
+      <name>Masoprocol</name>
+      <description>Masoprocol may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00657</drugbank-id>
+      <name>Mecamylamine</name>
+      <description>Pirarubicin may increase the neuromuscular blocking activities of Mecamylamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00939</drugbank-id>
+      <name>Meclofenamic acid</name>
+      <description>Meclofenamic acid may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00784</drugbank-id>
+      <name>Mefenamic acid</name>
+      <description>Mefenamic acid may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00814</drugbank-id>
+      <name>Meloxicam</name>
+      <description>Meloxicam may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00244</drugbank-id>
+      <name>Mesalazine</name>
+      <description>Mesalazine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04817</drugbank-id>
+      <name>Metamizole</name>
+      <description>Metamizole may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01603</drugbank-id>
+      <name>Meticillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Meticillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01336</drugbank-id>
+      <name>Metocurine</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Metocurine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00416</drugbank-id>
+      <name>Metocurine Iodide</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Metocurine Iodide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00948</drugbank-id>
+      <name>Mezlocillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Mezlocillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01226</drugbank-id>
+      <name>Mivacurium</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Mivacurium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12617</drugbank-id>
+      <name>Mizoribine</name>
+      <description>Mizoribine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00688</drugbank-id>
+      <name>Mycophenolate mofetil</name>
+      <description>Mycophenolate mofetil may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01024</drugbank-id>
+      <name>Mycophenolic acid</name>
+      <description>Mycophenolic acid may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00461</drugbank-id>
+      <name>Nabumetone</name>
+      <description>Nabumetone may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12598</drugbank-id>
+      <name>Nafamostat</name>
+      <description>Nafamostat may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00607</drugbank-id>
+      <name>Nafcillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Nafcillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00735</drugbank-id>
+      <name>Naftifine</name>
+      <description>Naftifine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00788</drugbank-id>
+      <name>Naproxen</name>
+      <description>Naproxen may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00108</drugbank-id>
+      <name>Natalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pirarubicin is combined with Natalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05822</drugbank-id>
+      <name>NCX 4016</name>
+      <description>NCX 4016 may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12989</drugbank-id>
+      <name>Neosaxitoxin</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Neosaxitoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06802</drugbank-id>
+      <name>Nepafenac</name>
+      <description>Nepafenac may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04552</drugbank-id>
+      <name>Niflumic Acid</name>
+      <description>Niflumic Acid may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04743</drugbank-id>
+      <name>Nimesulide</name>
+      <description>Nimesulide may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12445</drugbank-id>
+      <name>Nitroaspirin</name>
+      <description>Nitroaspirin may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12843</drugbank-id>
+      <name>Oleandrin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00768</drugbank-id>
+      <name>Olopatadine</name>
+      <description>Olopatadine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01250</drugbank-id>
+      <name>Olsalazine</name>
+      <description>Olsalazine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11444</drugbank-id>
+      <name>Orgotein</name>
+      <description>Orgotein may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01092</drugbank-id>
+      <name>Ouabain</name>
+      <description>Ouabain may decrease the cardiotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00713</drugbank-id>
+      <name>Oxacillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Oxacillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00991</drugbank-id>
+      <name>Oxaprozin</name>
+      <description>Oxaprozin may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03585</drugbank-id>
+      <name>Oxyphenbutazone</name>
+      <description>Oxyphenbutazone may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01229</drugbank-id>
+      <name>Paclitaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Paclitaxel is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00282</drugbank-id>
+      <name>Pamidronate</name>
+      <description>Pirarubicin may increase the hypocalcemic activities of Pamidronate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01337</drugbank-id>
+      <name>Pancuronium</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Pancuronium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08439</drugbank-id>
+      <name>Parecoxib</name>
+      <description>Parecoxib may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00417</drugbank-id>
+      <name>Phenoxymethylpenicillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Phenoxymethylpenicillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00812</drugbank-id>
+      <name>Phenylbutazone</name>
+      <description>Phenylbutazone may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00337</drugbank-id>
+      <name>Pimecrolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Pimecrolimus is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01338</drugbank-id>
+      <name>Pipecuronium</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Pipecuronium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00319</drugbank-id>
+      <name>Piperacillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Piperacillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02925</drugbank-id>
+      <name>Piretanide</name>
+      <description>The risk or severity of adverse effects can be increased when Piretanide is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04951</drugbank-id>
+      <name>Pirfenidone</name>
+      <description>Pirfenidone may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00554</drugbank-id>
+      <name>Piroxicam</name>
+      <description>Piroxicam may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01604</drugbank-id>
+      <name>Pivampicillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Pivampicillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01605</drugbank-id>
+      <name>Pivmecillinam</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Pivmecillinam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09320</drugbank-id>
+      <name>Procaine benzylpenicillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Procaine benzylpenicillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09288</drugbank-id>
+      <name>Propacetamol</name>
+      <description>Propacetamol may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05173</drugbank-id>
+      <name>PTC299</name>
+      <description>PTC299 may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11156</drugbank-id>
+      <name>Pyrantel</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Pyrantel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10283</drugbank-id>
+      <name>Rabies vaccine</name>
+      <description>The risk or severity of adverse effects can be increased when Pirarubicin is combined with Rabies vaccine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10283</drugbank-id>
+      <name>Rabies vaccine</name>
+      <description>The therapeutic efficacy of Rabies vaccine can be decreased when used in combination with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04834</drugbank-id>
+      <name>Rapacuronium</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Rapacuronium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02709</drugbank-id>
+      <name>Resveratrol</name>
+      <description>Resveratrol may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05374</drugbank-id>
+      <name>Rindopepimut</name>
+      <description>The risk or severity of adverse effects can be increased when Pirarubicin is combined with CDX-110.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00884</drugbank-id>
+      <name>Risedronate</name>
+      <description>Pirarubicin may increase the hypocalcemic activities of Risedronate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00728</drugbank-id>
+      <name>Rocuronium</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Rocuronium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00533</drugbank-id>
+      <name>Rofecoxib</name>
+      <description>Rofecoxib may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01656</drugbank-id>
+      <name>Roflumilast</name>
+      <description>Roflumilast may increase the immunosuppressive activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08797</drugbank-id>
+      <name>Salicylamide</name>
+      <description>Salicylamide may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00936</drugbank-id>
+      <name>Salicylic acid</name>
+      <description>Salicylic acid may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01399</drugbank-id>
+      <name>Salsalate</name>
+      <description>Salsalate may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06739</drugbank-id>
+      <name>Seratrodast</name>
+      <description>Seratrodast may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06688</drugbank-id>
+      <name>Sipuleucel-T</name>
+      <description>The therapeutic efficacy of Sipuleucel-T can be decreased when used in combination with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05440</drugbank-id>
+      <name>SRP 299</name>
+      <description>The risk or severity of adverse effects can be increased when Pirarubicin is combined with SRP 299.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05073</drugbank-id>
+      <name>SRT501</name>
+      <description>SRT501 may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00202</drugbank-id>
+      <name>Succinylcholine</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Succinylcholine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09324</drugbank-id>
+      <name>Sulbactam</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Sulbactam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00795</drugbank-id>
+      <name>Sulfasalazine</name>
+      <description>Sulfasalazine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00605</drugbank-id>
+      <name>Sulindac</name>
+      <description>Sulindac may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12127</drugbank-id>
+      <name>Sultamicillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Sultamicillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00870</drugbank-id>
+      <name>Suprofen</name>
+      <description>Suprofen may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00864</drugbank-id>
+      <name>Tacrolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Tacrolimus is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01606</drugbank-id>
+      <name>Tazobactam</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Tazobactam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09411</drugbank-id>
+      <name>Technetium tc 99m etidronate</name>
+      <description>Pirarubicin may increase the hypocalcemic activities of Technetium tc 99m etidronate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09138</drugbank-id>
+      <name>Technetium Tc-99m Medronate</name>
+      <description>Pirarubicin may increase the hypocalcemic activities of Technetium Tc-99m Medronate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00300</drugbank-id>
+      <name>Tenofovir</name>
+      <description>The serum concentration of Pirarubicin can be increased when it is combined with Tenofovir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00469</drugbank-id>
+      <name>Tenoxicam</name>
+      <description>Tenoxicam may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11466</drugbank-id>
+      <name>Tepoxalin</name>
+      <description>Tepoxalin may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08880</drugbank-id>
+      <name>Teriflunomide</name>
+      <description>Teriflunomide may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06584</drugbank-id>
+      <name>TG4010</name>
+      <description>The risk or severity of adverse effects can be increased when Pirarubicin is combined with TG4010.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01600</drugbank-id>
+      <name>Tiaprofenic acid</name>
+      <description>Tiaprofenic acid may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01607</drugbank-id>
+      <name>Ticarcillin</name>
+      <description>The serum concentration of Pirarubicin can be decreased when it is combined with Ticarcillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01133</drugbank-id>
+      <name>Tiludronic acid</name>
+      <description>Pirarubicin may increase the hypocalcemic activities of Tiludronate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13001</drugbank-id>
+      <name>Tinoridine</name>
+      <description>Tinoridine may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08895</drugbank-id>
+      <name>Tofacitinib</name>
+      <description>Pirarubicin may increase the immunosuppressive activities of Tofacitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09216</drugbank-id>
+      <name>Tolfenamic Acid</name>
+      <description>Tolfenamic Acid may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00500</drugbank-id>
+      <name>Tolmetin</name>
+      <description>Tolmetin may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00214</drugbank-id>
+      <name>Torasemide</name>
+      <description>The risk or severity of adverse effects can be increased when Torasemide is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07615</drugbank-id>
+      <name>Tranilast</name>
+      <description>Tranilast may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00072</drugbank-id>
+      <name>Trastuzumab</name>
+      <description>Trastuzumab may increase the cardiotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01401</drugbank-id>
+      <name>Trisalicylate-choline</name>
+      <description>Trisalicylate-choline may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01199</drugbank-id>
+      <name>Tubocurarine</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Tubocurarine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00580</drugbank-id>
+      <name>Valdecoxib</name>
+      <description>Valdecoxib may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00512</drugbank-id>
+      <name>Vancomycin</name>
+      <description>Vancomycin may increase the nephrotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01339</drugbank-id>
+      <name>Vecuronium</name>
+      <description>Pirarubicin may increase the respiratory depressant activities of Vecuronium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06737</drugbank-id>
+      <name>Zaltoprofen</name>
+      <description>Zaltoprofen may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00744</drugbank-id>
+      <name>Zileuton</name>
+      <description>Zileuton may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00399</drugbank-id>
+      <name>Zoledronic acid</name>
+      <description>Pirarubicin may increase the hypocalcemic activities of Zoledronic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04828</drugbank-id>
+      <name>Zomepirac</name>
+      <description>Zomepirac may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>2.06</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-3.3</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>3.01e-01 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>2.05</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(8S,10S)-10-{[(2R,4S,5S,6S)-4-amino-6-methyl-5-[(2R)-oxan-2-yloxy]oxan-2-yl]oxy}-6,8,11-trihydroxy-8-(2-hydroxyacetyl)-1-methoxy-5,7,8,9,10,12-hexahydrotetracene-5,12-dione</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>(8S,10S)-10-{[(2R,4S,5S,6S)-4-amino-6-methyl-5-[(2R)-oxan-2-yloxy]oxan-2-yl]oxy}-6,8,11-trihydroxy-8-(2-hydroxyacetyl)-1-methoxy-9,10-dihydro-7H-tetracene-5,12-dione</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>627.643</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>627.231575635</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[H][C@]1(N)C[C@]([H])(O[C@@]2([H])C[C@@](O)(CC3=C(O)C4=C(C(O)=C23)C(=O)C2=C(C=CC=C2OC)C4=O)C(=O)CO)O[C@@]([H])(C)[C@@]1([H])O[C@]1([H])CCCCO1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C32H37NO12</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C32H37NO12/c1-14-31(45-21-8-3-4-9-42-21)17(33)10-22(43-14)44-19-12-32(40,20(35)13-34)11-16-24(19)30(39)26-25(28(16)37)27(36)15-6-5-7-18(41-2)23(15)29(26)38/h5-7,14,17,19,21-22,31,34,37,39-40H,3-4,8-13,33H2,1-2H3/t14-,17-,19-,21+,22-,31+,32-/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>KMSKQZKKOZQFFG-YXRRJAAWSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>204.3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>157.38</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>64.85</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>13</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>7.99</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>9.09</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D01885</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Pirarubicin</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1398373</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

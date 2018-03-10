@@ -1,0 +1,1993 @@
+<drug type="small molecule" created="2016-10-20" updated="2017-02-28">
+  <drugbank-id primary="true">DB12332</drugbank-id>
+  <name>Rucaparib</name>
+  <description>Rucaparib is a poly (ADP-ribose) polymerase (PARP) inhibitor approved (accelerated ) in December 2016 for the treatment of patients with deleterious BRCA mutation (germline and/or somatic) associated advanced ovarian cancer who have been treated with two or more chemotherapies.</description>
+  <cas-number>283173-50-2</cas-number>
+  <unii>8237F3U7EH</unii>
+  <average-mass>323.371</average-mass>
+  <monoisotopic-mass>323.143390375</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>27515310</pubmed-id>
+        <citation>Nile DL, Rae C, Hyndman IJ, Gaze MN, Mairs RJ: An evaluation in vitro of PARP-1 inhibitors, rucaparib and olaparib, as radiosensitisers for the treatment of neuroblastoma. BMC Cancer. 2016 Aug 11;16:621. doi: 10.1186/s12885-016-2656-8.</citation>
+      </article>
+      <article>
+        <pubmed-id>27087632</pubmed-id>
+        <citation>Jenner ZB, Sood AK, Coleman RL: Evaluation of rucaparib and companion diagnostics in the PARP inhibitor landscape for recurrent ovarian cancer therapy. Future Oncol. 2016 Jun;12(12):1439-56. doi: 10.2217/fon-2016-0002. Epub 2016 Apr  18.</citation>
+      </article>
+      <article>
+        <pubmed-id>27002934</pubmed-id>
+        <citation>Drew Y, Ledermann J, Hall G, Rea D, Glasspool R, Highley M, Jayson G, Sludden J, Murray J, Jamieson D, Halford S, Acton G, Backholer Z, Mangano R, Boddy A, Curtin N, Plummer R: Phase 2 multicentre trial investigating intermittent and continuous dosing schedules of the poly(ADP-ribose) polymerase inhibitor rucaparib in germline BRCA mutation carriers with advanced ovarian and breast cancer. Br J Cancer. 2016 Mar 29;114(7):723-30. doi: 10.1038/bjc.2016.41. Epub 2016 Mar 22.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>CENTER FOR DRUG EVALUATION AND RESEARCH </title>
+        <url>http://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/209115Orig1s000MultiDisciplineR.pdf</url>
+      </link>
+      <link>
+        <title>Daily med.</title>
+        <url>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6d46c03-bb1d-417b-b8e5-3bffe352fe29</url>
+      </link>
+      <link>
+        <title>FDA Label</title>
+        <url>http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/209115s000lbl.pdf</url>
+      </link>
+      <link>
+        <title>wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Rucaparib</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>treatment of ovarian cancer, specifically those with alterations in BRCA1 and BRCA2 genes in the tumor tissue of ovarian cancer.&#13;
+&#13;
+ </indication>
+  <pharmacodynamics>Cardiac Electrophysiology: The effect of multiple doses of rucaparib on QTc interval was evaluated in an open-label single-arm study in 56 patients with solid tumors who were administered continuous doses of rucaparib ranging from 40 mg once daily (0.03 times the approved recommended dosage) to 840 mg twice daily (1.4 times the approved recommended dosage). The mean QTcF increase from baseline (90% confidence interval [CI]) in population pharmacokinetics estimated 95% percentile Cmax (3019 ng/mL) at steady state of 600 mg rucaparib twice daily was 14.9 msec (11.1-18.7 msec)</pharmacodynamics>
+  <mechanism-of-action>Rucaparib is an inhibitor of poly (ADP-ribose) polymerase (PARP) enzymes, including PARP-1, PARP-2, and PARP-3, which play a role in DNA repair. In vitro studies have shown that rucaparib-induced cytotoxicity may involve inhibition of PARP enzymatic activity and increased formation of PARP-DNA complexes resulting in DNA damage, apoptosis, and cell death. Increased rucaparib-induced cytotoxicity was observed in tumor cell lines with deficiencies in BRCA1/2 and other DNA repair genes. Rucaparib has been shown to decrease tumor growth in mouse xenograft models of human&#13;
+cancer with or without deficiencies in BRCA. &#13;
+Rucaparib sensitise cancer cells to X-radiation or (131)I-meta-iodobenzylguanidine treatment. It is likely that the mechanism of radiosensitisation entails the accumulation of unrepaired radiation-induced DNA damage. The administration of PARP-1 inhibitors and (131)I-meta-iodobenzylguanidine to high risk neuroblastoma patients would be beneficial</mechanism-of-action>
+  <toxicity>Not Available</toxicity>
+  <metabolism>In vitro, rucaparib was metabolized primarily by CYP2D6 and to a lesser extent by CYP1A2 and CYP3A4. </metabolism>
+  <absorption>The median T max was 1.9 hours at the approved recommended dosage. The mean absolute bioavailability of rucaparib immediate-release tablet was 36% with a range from 30% to 45%.&#13;
+Following a high-fat meal, the Cmax was increased by 20% and AUC 0-24h was increased by 38%, and T max was delayed by 2.5 hours, as compared to dosing under fasted conditions</absorption>
+  <half-life>The mean terminal T 1/2 of rucaparib was 17 to 19 hours, following a single oral dose of 600 mg rucaparib. </half-life>
+  <protein-binding>70% </protein-binding>
+  <route-of-elimination>Fecal excretion was the major route of elimination, accounting for ≥ 79% of the total dose.</route-of-elimination>
+  <volume-of-distribution>Rucaparib had a steady-state volume of distribution of 113 L to 262 L following a single intravenous dose of 12 mg to 40 mg rucaparib.</volume-of-distribution>
+  <clearance>The apparent clearance ranged from 15.3 to 79.2 L/hour, following continuous 600 mg rucaparib orally twice daily. &#13;
+The clearance ranged from 13.9 to 18.4 L/hour, following a single intravenous dose of rucaparib 12 mg to 40 mg. </clearance>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as 2-phenylindoles. These are indoles substituted at the 2-position with a phenyl group.</description>
+    <direct-parent>2-phenylindoles</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organoheterocyclic compounds</superclass>
+    <class>Indoles and derivatives</class>
+    <subclass>Indoles</subclass>
+    <alternative-parent>3-alkylindoles</alternative-parent>
+    <alternative-parent>Amino acids and derivatives</alternative-parent>
+    <alternative-parent>Aralkylamines</alternative-parent>
+    <alternative-parent>Aryl fluorides</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Azepines</alternative-parent>
+    <alternative-parent>Benzazepines</alternative-parent>
+    <alternative-parent>Benzylamines</alternative-parent>
+    <alternative-parent>Dialkylamines</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Lactams</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organofluorides</alternative-parent>
+    <alternative-parent>Organooxygen compounds</alternative-parent>
+    <alternative-parent>Organopnictogen compounds</alternative-parent>
+    <alternative-parent>Phenylmethylamines</alternative-parent>
+    <alternative-parent>Phenylpyrroles</alternative-parent>
+    <alternative-parent>Secondary carboxylic acid amides</alternative-parent>
+    <substituent>2-phenylindole</substituent>
+    <substituent>2-phenylpyrrole</substituent>
+    <substituent>3-alkylindole</substituent>
+    <substituent>Amine</substituent>
+    <substituent>Amino acid or derivatives</substituent>
+    <substituent>Aralkylamine</substituent>
+    <substituent>Aromatic heteropolycyclic compound</substituent>
+    <substituent>Aryl fluoride</substituent>
+    <substituent>Aryl halide</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Azepine</substituent>
+    <substituent>Benzazepine</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Benzylamine</substituent>
+    <substituent>Carboxamide group</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Lactam</substituent>
+    <substituent>Monocyclic benzene moiety</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organofluoride</substituent>
+    <substituent>Organohalogen compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Organopnictogen compound</substituent>
+    <substituent>Phenylmethylamine</substituent>
+    <substituent>Pyrrole</substituent>
+    <substituent>Secondary aliphatic amine</substituent>
+    <substituent>Secondary amine</substituent>
+    <substituent>Secondary carboxylic acid amide</substituent>
+    <substituent>Substituted pyrrole</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001982</drugbank-id>
+      <name>Rucaparib camsylate</name>
+      <unii/>
+      <cas-number>1859053-21-6</cas-number>
+      <inchikey>INBJJAFXHQQSRW-STOWLHSFSA-N</inchikey>
+      <average-mass>555.67</average-mass>
+      <monoisotopic-mass>555.220320544</monoisotopic-mass>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001983</drugbank-id>
+      <name>Rucaparib phosphate</name>
+      <unii>H3M9955244</unii>
+      <cas-number>459868-92-9</cas-number>
+      <inchikey>FCCGJTKEKXUBFZ-UHFFFAOYSA-N</inchikey>
+      <average-mass>421.365</average-mass>
+      <monoisotopic-mass>421.120285949</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Rubraca</name>
+      <labeller>Clovis Oncology, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>69660-201</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-12-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength>200 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA209115</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rubraca</name>
+      <labeller>Clovis Oncology, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>69660-203</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-12-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength>300 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA209115</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Rubraca</name>
+      <ingredients>Rucaparib</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rubraca</name>
+      <ingredients>Rucaparib</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Antineoplastic Agents</category>
+      <mesh-id>D000970</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP1A2 Substrates</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP2D6 Substrates</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP3A4 Substrates</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Enzyme Inhibitors</category>
+      <mesh-id>D004791</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 2-Ring</category>
+      <mesh-id>D006574</mesh-id>
+    </category>
+    <category>
+      <category>Molecular Mechanisms of Pharmacological Action</category>
+      <mesh-id>D045504</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Poly(ADP-ribose) Polymerase Inhibitors</category>
+      <mesh-id>D000067856</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Tablet, film coated</form>
+      <route>Oral</route>
+      <strength>200 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, film coated</form>
+      <route>Oral</route>
+      <strength>300 mg/1</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00511</drugbank-id>
+      <name>Acetyldigitoxin</name>
+      <description>Acetyldigitoxin may decrease the cardiotoxic activities of Rucaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00112</drugbank-id>
+      <name>Bevacizumab</name>
+      <description>Bevacizumab may increase the cardiotoxic activities of Rucaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06772</drugbank-id>
+      <name>Cabazitaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Cabazitaxel is combined with Rucaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>Cyclophosphamide may increase the cardiotoxic activities of Rucaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01078</drugbank-id>
+      <name>Deslanoside</name>
+      <description>Deslanoside may decrease the cardiotoxic activities of Rucaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01396</drugbank-id>
+      <name>Digitoxin</name>
+      <description>Digitoxin may decrease the cardiotoxic activities of Rucaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00390</drugbank-id>
+      <name>Digoxin</name>
+      <description>Digoxin may decrease the cardiotoxic activities of Rucaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01248</drugbank-id>
+      <name>Docetaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Docetaxel is combined with Rucaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12843</drugbank-id>
+      <name>Oleandrin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Rucaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01092</drugbank-id>
+      <name>Ouabain</name>
+      <description>Ouabain may decrease the cardiotoxic activities of Rucaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01229</drugbank-id>
+      <name>Paclitaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Paclitaxel is combined with Rucaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00072</drugbank-id>
+      <name>Trastuzumab</name>
+      <description>Trastuzumab may increase the cardiotoxic activities of Rucaparib.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>2.39</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-4.5</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.14e-02 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>2.45</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>6-fluoro-2-{4-[(methylamino)methyl]phenyl}-3,10-diazatricyclo[6.4.1.0^{4,13}]trideca-1,4,6,8(13)-tetraen-9-one</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>6-fluoro-2-{4-[(methylamino)methyl]phenyl}-3,10-diazatricyclo[6.4.1.0^{4,13}]trideca-1,4,6,8(13)-tetraen-9-one</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>323.371</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>323.143390375</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CNCC1=CC=C(C=C1)C1=C2CCNC(=O)C3=C2C(N1)=CC(F)=C3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C19H18FN3O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C19H18FN3O/c1-21-10-11-2-4-12(5-3-11)18-14-6-7-22-19(24)15-8-13(20)9-16(23-18)17(14)15/h2-5,8-9,21,23H,6-7,10H2,1H3,(H,22,24)</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>HMABYWSNWIZPAG-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>56.92</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>92.91</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>35.19</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>13.16</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>9.32</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D10079</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Rucaparib</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0001717</id>
+      <name>Poly [ADP-ribose] polymerase 1</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P09874" source="Swiss-Prot">
+    <name>Poly [ADP-ribose] polymerase 1</name>
+    <general-function>Zinc ion binding</general-function>
+    <specific-function>Involved in the base excision repair (BER) pathway, by catalyzing the poly(ADP-ribosyl)ation of a limited number of acceptor proteins involved in chromatin architecture and in DNA metabolism. This modification follows DNA damages and appears as an obligatory step in a detection/signaling pathway leading to the reparation of DNA strand breaks. Mediates the poly(ADP-ribosyl)ation of APLF and CHFR. Positively regulates the transcription of MTUS1 and negatively regulates the transcription of MTUS2/TIP150. With EEF1A1 and TXK, forms a complex that acts as a T-helper 1 (Th1) cell-specific transcription factor and binds the promoter of IFN-gamma to directly regulate its transcription, and is thus involved importantly in Th1 cytokine production. Required for PARP9 and DTX3L recruitment to DNA damage sites. PARP1-dependent PARP9-DTX3L-mediated ubiquitination promotes the rapid and specific recruitment of 53BP1/TP53BP1, UIMC1/RAP80, and BRCA1 to DNA damage sites.</specific-function>
+    <gene-name>PARP1</gene-name>
+    <locus>1q41-q42</locus>
+    <cellular-location>Nucleus</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>9.34</theoretical-pi>
+    <molecular-weight>113082.945</molecular-weight>
+    <chromosome-location>1</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:270</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>PARP1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>X16674</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>1017423</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>2771</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P09874</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>PARP1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>2.4.2.30</synonym>
+      <synonym>ADP-ribosyltransferase diphtheria toxin-like 1</synonym>
+      <synonym>ADPRT</synonym>
+      <synonym>ADPRT 1</synonym>
+      <synonym>ARTD1</synonym>
+      <synonym>NAD(+) ADP-ribosyltransferase 1</synonym>
+      <synonym>PARP-1</synonym>
+      <synonym>Poly[ADP-ribose] synthase 1</synonym>
+      <synonym>PPOL</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016533|Poly [ADP-ribose] polymerase 1
+MAESSDKLYRVEYAKSGRASCKKCSESIPKDSLRMAIMVQSPMFDGKVPHWYHFSCFWKV
+GHSIRHPDVEVDGFSELRWDDQQKVKKTAEAGGVTGKGQDGIGSKAEKTLGDFAAEYAKS
+NRSTCKGCMEKIEKGQVRLSKKMVDPEKPQLGMIDRWYHPGCFVKNREELGFRPEYSASQ
+LKGFSLLATEDKEALKKQLPGVKSEGKRKGDEVDGVDEVAKKKSKKEKDKDSKLEKALKA
+QNDLIWNIKDELKKVCSTNDLKELLIFNKQQVPSGESAILDRVADGMVFGALLPCEECSG
+QLVFKSDAYYCTGDVTAWTKCMVKTQTPNRKEWVTPKEFREISYLKKLKVKKQDRIFPPE
+TSASVAATPPPSTASAPAAVNSSASADKPLSNMKILTLGKLSRNKDEVKAMIEKLGGKLT
+GTANKASLCISTKKEVEKMNKKMEEVKEANIRVVSEDFLQDVSASTKSLQELFLAHILSP
+WGAEVKAEPVEVVAPRGKSGAALSKKSKGQVKEEGINKSEKRMKLTLKGGAAVDPDSGLE
+HSAHVLEKGGKVFSATLGLVDIVKGTNSYYKLQLLEDDKENRYWIFRSWGRVGTVIGSNK
+LEQMPSKEDAIEHFMKLYEEKTGNAWHSKNFTKYPKKFYPLEIDYGQDEEAVKKLTVNPG
+TKSKLPKPVQDLIKMIFDVESMKKAMVEYEIDLQKMPLGKLSKRQIQAAYSILSEVQQAV
+SQGSSDSQILDLSNRFYTLIPHDFGMKKPPLLNNADSVQAKVEMLDNLLDIEVAYSLLRG
+GSDDSSKDPIDVNYEKLKTDIKVVDRDSEEAEIIRKYVKNTHATTHNAYDLEVIDIFKIE
+REGECQRYKPFKQLHNRRLLWHGSRTTNFAGILSQGLRIAPPEAPVTGYMFGKGIYFADM
+VSKSANYCHTSQGDPIGLILLGEVALGNMYELKHASHISKLPKGKHSVKGLGKTTPDPSA
+NISLDGVDVPLGTGISSGVNDTSLLYNEYIVYDIAQVNLKYLLKLKFNFKTSLW</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016534|Poly [ADP-ribose] polymerase 1 (PARP1)
+ATGGCGGAGTCTTCGGATAAGCTCTATCGAGTCGAGTACGCCAAGAGCGGGCGCGCCTCT
+TGCAAGAAATGCAGCGAGAGCATCCCCAAGGACTCGCTCCGGATGGCCATCATGGTGCAG
+TCGCCCATGTTTGATGGAAAAGTCCCACACTGGTACCACTTCTCCTGCTTCTGGAAGGTG
+GGCCACTCCATCCGGCACCCTGACGTTGAGGTGGATGGGTTCTCTGAGCTTCGGTGGGAT
+GACCAGCAGAAAGTCAAGAAGACAGCGGAAGCTGGAGGAGTGACAGGCAAAGGCCAGGAT
+GGAATTGGTAGCAAGGCAGAGAAGACTCTGGGTGACTTTGCAGCAGAGTATGCCAAGTCC
+AACAGAAGTACGTGCAAGGGGTGTATGGAGAAGATAGAAAAGGGCCAGGTGCGCCTGTCC
+AAGAAGATGGTGGACCCGGAGAAGCCACAGCTAGGCATGATTGACCGCTGGTACCATCCA
+GGCTGCTTTGTCAAGAACAGGGAGGAGCTGGGTTTCCGGCCCGAGTACAGTGCGAGTCAG
+CTCAAGGGCTTCAGCCTCCTTGCTACAGAGGATAAAGAAGCCCTGAAGAAGCAGCTCCCA
+GGAGTCAAGAGTGAAGGAAAGAGAAAAGGCGATGAGGTGGATGGAGTGGATGAAGTGGCG
+AAGAAGAAATCTAAAAAAGAAAAAGACAAGGATAGTAAGCTTGAAAAAGCCCTAAAGGCT
+CAGAACGACCTGATCTGGAACATCAAGGACGAGCTAAAGAAAGTGTGTTCAACTAATGAC
+CTGAAGGAGCTACTCATCTTCAACAAGCAGCAAGTGCCTTCTGGGGAGTCGGCGATCTTG
+GACCGAGTAGCTGATGGCATGGTGTTCGGTGCCCTCCTTCCCTGCGAGGAATGCTCGGGT
+CAGCTGGTCTTCAAGAGCGATGCCTATTACTGCACTGGGGACGTCACTGCCTGGACCAAG
+TGTATGGTCAAGACACAGACACCCAACCGGAAGGAGTGGGTAACCCCAAAGGAATTCCGA
+GAAATCTCTTACCTCAAGAAATTGAAGGTTAAAAAACAGGACCGTATATTCCCCCCAGAA
+ACCAGCGCCTCCGTGGCGGCCACGCCTCCGCCCTCCACAGCCTCGGCTCCTGCTGCTGTG
+AACTCCTCTGCTTCAGCAGATAAGCCATTATCCAACATGAAGATCCTGACTCTCGGGAAG
+CTGTCCCGGAACAAGGATGAAGTGAAGGCCATGATTGAGAAACTCGGGGGGAAGTTGACG
+GGGACGGCCAACAAGGCTTCCCTGTGCATCAGCACCAAAAAGGAGGTGGAAAAGATGAAT
+AAGAAGATGGAGGAAGTAAAGGAAGCCAACATCCGAGTTGTGTCTGAGGACTTCCTCCAG
+GACGTCTCCGCCTCCACCAAGAGCCTTCAGGAGTTGTTCTTAGCGCACATCTTGTCCCCT
+TGGGGGGCAGAGGTGAAGGCAGAGCCTGTTGAAGTTGTGGCCCCAAGAGGGAAGTCAGGG
+GCTGCGCTCTCCAAAAAAAGCAAGGGCCAGGTCAAGGAGGAAGGTATCAACAAATCTGAA
+AAGAGAATGAAATTAACTCTTAAAGGAGGAGCAGCTGTGGATCCTGATTCTGGACTGGAA
+CACTCTGCGCATGTCCTGGAGAAAGGTGGGAAGGTCTTCAGTGCCACCCTTGGCCTGGTG
+GACATCGTTAAAGGAACCAACTCCTACTACAAGCTGCAGCTTCTGGAGGACGACAAGGAA
+AACAGGTATTGGATATTCAGGTCCTGGGGCCGTGTGGGTACGGTGATCGGTAGCAACAAA
+CTGGAACAGATGCCGTCCAAGGAGGATGCCATTGAGCACTTCATGAAATTATATGAAGAA
+AAAACCGGGAACGCTTGGCACTCCAAAAATTTCACGAAGTATCCCAAAAAGTTCTACCCC
+CTGGAGATTGACTATGGCCAGGATGAAGAGGCAGTGAAGAAGCTGACAGTAAATCCTGGC
+ACCAAGTCCAAGCTCCCCAAGCCAGTTCAGGACCTCATCAAGATGATCTTTGATGTGGAA
+AGTATGAAGAAAGCCATGGTGGAGTATGAGATCGACCTTCAGAAGATGCCCTTGGGGAAG
+CTGAGCAAAAGGCAGATCCAGGCCGCATACTCCATCCTCAGTGAGGTCCAGCAGGCGGTG
+TCTCAGGGCAGCAGCGACTCTCAGATCCTGGATCTCTCAAATCGCTTTTACACCCTGATC
+CCCCACGACTTTGGGATGAAGAAGCCTCCGCTCCTGAACAATGCAGACAGTGTGCAGGCC
+AAGGTGGAAATGCTTGACAACCTGCTGGACATCGAGGTGGCCTACAGTCTGCTCAGGGGA
+GGGTCTGATGATAGCAGCAAGGATCCCATCGATGTCAACTATGAGAAGCTCAAAACTGAC
+ATTAAGGTGGTTGACAGAGATTCTGAAGAAGCCGAGATCATCAGGAAGTATGTTAAGAAC
+ACTCATGCAACCACACACAATGCGTATGACTTGGAAGTCATCGATATCTTTAAGATAGAG
+CGTGAAGGCGAATGCCAGCGTTACAAGCCCTTTAAGCAGCTTCATAACCGAAGATTGCTG
+TGGCACGGGTCCAGGACCACCAACTTTGCTGGGATCCTGTCCCAGGGTCTTCGGATAGCC
+CCGCCTGAAGCGCCCGTGACAGGCTACATGTTTGGTAAAGGGATCTATTTCGCTGACATG
+GTCTCCAAGAGTGCCAACTACTGCCATACGTCTCAGGGAGACCCAATAGGCTTAATCCTG
+TTGGGAGAAGTTGCCCTTGGAAACATGTATGAACTGAAGCACGCTTCACATATCAGCAAG
+TTACCCAAGGGCAAGCACAGTGTCAAAGGTTTGGGCAAAACTACCCCTGATCCTTCAGCT
+AACATTAGTCTGGATGGTGTAGACGTTCCTCTTGGGACCGGGATTTCATCTGGTGTGAAT
+GACACCTCTCTACTATATAACGAGTACATTGTCTATGATATTGCTCAGGTAAATCTGAAG
+TATCTGCTGAAACTGAAATTCAATTTTAAGACCTCCCTGTGGTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00645</identifier>
+        <name>zf-PARP</name>
+      </pfam>
+      <pfam>
+        <identifier>PF00644</identifier>
+        <name>PARP</name>
+      </pfam>
+      <pfam>
+        <identifier>PF00533</identifier>
+        <name>BRCT</name>
+      </pfam>
+      <pfam>
+        <identifier>PF08063</identifier>
+        <name>PADR1</name>
+      </pfam>
+      <pfam>
+        <identifier>PF02877</identifier>
+        <name>PARP_reg</name>
+      </pfam>
+      <pfam>
+        <identifier>PF05406</identifier>
+        <name>WGR</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>protein complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleolus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nuclear envelope</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>transcription factor complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nuclear chromosome, telomeric region</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>mitochondrion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enzyme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein N-terminus binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>identical protein binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>poly(A) RNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>NAD binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein kinase binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>chromatin binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transcription factor binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>zinc ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>NAD+ ADP-ribosyltransferase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cardiac muscle hypertrophy</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>base-excision repair</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein sumoylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein modification process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular protein metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>telomere maintenance</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transcription from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein autoprocessing</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein poly-ADP-ribosylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transcription, DNA-templated</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>gene expression</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to superoxide</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of cellular protein localization</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>post-translational protein modification</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transforming growth factor beta receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transcription initiation from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of SMAD protein import into nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of growth rate</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of transcription from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>DNA repair</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein ADP-ribosylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of single strand break repair</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to insulin stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>macrophage differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>nucleotide-excision repair, DNA incision</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>behavioral response to cocaine</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to DNA damage stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>signal transduction involved in regulation of gene expression</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to oxidative stress</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>DNA damage response, detection of DNA damage</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>global genome nucleotide-excision repair</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>nucleotide-excision repair</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of transcription regulatory region DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>double-strand break repair</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>nucleotide-excision repair, DNA damage recognition</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>mitochondrial DNA repair</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>double-strand break repair via homologous recombination</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>mitochondrial DNA metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>mitochondrion organization</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0003798</id>
+      <name>Poly [ADP-ribose] polymerase 2</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q9UGN5" source="Swiss-Prot">
+    <name>Poly [ADP-ribose] polymerase 2</name>
+    <general-function>Nad+ adp-ribosyltransferase activity</general-function>
+    <specific-function>Involved in the base excision repair (BER) pathway, by catalyzing the poly(ADP-ribosyl)ation of a limited number of acceptor proteins involved in chromatin architecture and in DNA metabolism. This modification follows DNA damages and appears as an obligatory step in a detection/signaling pathway leading to the reparation of DNA strand breaks.</specific-function>
+    <gene-name>PARP2</gene-name>
+    <locus>14q11.2-q12</locus>
+    <cellular-location>Nucleus</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>9.22</theoretical-pi>
+    <molecular-weight>66205.31</molecular-weight>
+    <chromosome-location>14</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:272</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>AJ236912</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>6688130</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>2772</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9UGN5</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>PARP2_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>2.4.2.30</synonym>
+      <synonym>ADP-ribosyltransferase diphtheria toxin-like 2</synonym>
+      <synonym>ADPRT-2</synonym>
+      <synonym>ADPRT2</synonym>
+      <synonym>ADPRTL2</synonym>
+      <synonym>ARTD2</synonym>
+      <synonym>NAD(+) ADP-ribosyltransferase 2</synonym>
+      <synonym>pADPRT-2</synonym>
+      <synonym>PARP-2</synonym>
+      <synonym>Poly[ADP-ribose] synthase 2</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0007286|Poly [ADP-ribose] polymerase 2
+MAARRRRSTGGGRARALNESKRVNNGNTAPEDSSPAKKTRRCQRQESKKMPVAGGKANKD
+RTEDKQDGMPGRSWASKRVSESVKALLLKGKAPVDPECTAKVGKAHVYCEGNDVYDVMLN
+QTNLQFNNNKYYLIQLLEDDAQRNFSVWMRWGRVGKMGQHSLVACSGNLNKAKEIFQKKF
+LDKTKNNWEDREKFEKVPGKYDMLQMDYATNTQDEEETKKEESLKSPLKPESQLDLRVQE
+LIKLICNVQAMEEMMMEMKYNTKKAPLGKLTVAQIKAGYQSLKKIEDCIRAGQHGRALME
+ACNEFYTRIPHDFGLRTPPLIRTQKELSEKIQLLEALGDIEIAIKLVKTELQSPEHPLDQ
+HYRNLHCALRPLDHESYEFKVISQYLQSTHAPTHSDYTMTLLDLFEVEKDGEKEAFREDL
+HNRMLLWHGSRMSNWVGILSHGLRIAPPEAPITGYMFGKGIYFADMSSKSANYCFASRLK
+NTGLLLLSEVALGQCNELLEANPKAEGLLQGKHSTKGLGKMAPSSAHFVTLNGSTVPLGP
+ASDTGILNPDGYTLNYNEYIVYNPNQVRMRYLLKVQFNFLQLW</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0012648|Poly [ADP-ribose] polymerase 2 (PARP2)
+ATGGCGGCGCGGCGGCGACGGAGCACCGGCGGCGGCAGGGCGAGAGCATTAAATGAAAGC
+AAAAGAGTTAATAATGGCAACACGGCTCCAGAAGACTCTTCCCCTGCCAAGAAAACTCGT
+AGATGCCAGAGACAGGAGTCGAAAAAGATGCCTGTGGCTGGAGGAAAAGCTAATAAGGAC
+AGGACAGAAGACAAGCAAGATGAATCTGTGAAGGCCTTGCTGTTAAAGGGCAAAGCTCCT
+GTGGACCCAGAGTGTACAGCCAAGGTGGGGAAGGCTCATGTGTATTGTGAAGGAAATGAT
+GTCTATGATGTCATGCTAAATCAGACCAATCTCCAGTTCAACAACAACAAGTACTATCTG
+ATTCAGCTATTAGAAGATGATGCCCAGAGGAACTTCAGTGTTTGGATGAGATGGGGCCGA
+GTTGGGAAAATGGGACAGCACAGCCTGGTGGCTTGTTCAGGCAATCTCAACAAGGCCAAG
+GAAATCTTTCAGAAGAAATTCCTTGACAAAACGAAAAACAATTGGGAAGATCGAGAAAAG
+TTTGAGAAGGTGCCTGGAAAATATGATATGCTACAGATGGACTATGCCACCAATACTCAG
+GATGAAGAGGAAACAAAGAAAGAGGAATCTCTTAAATCTCCCTTGAAGCCAGAGTCACAG
+CTAGATCTTCGGGTACAGGAGTTAATAAAGTTGATCTGTAATGTTCAGGCCATGGAAGAA
+ATGATGATGGAAATGAAGTATAATACCAAGAAAGCCCCACTTGGGAAGCTGACAGTGGCA
+CAAATCAAGGCAGGTTACCAGTCTCTTAAGAAGATTGAGGATTGTATTCGGGCTGGCCAG
+CATGGACGAGCTCTCATGGAAGCATGCAATGAATTCTACACCAGGATTCCGCATGACTTT
+GGACTCCGTACTCCTCCACTAATCCGGACACAGAAGGAACTGTCAGAAAAAATACAATTA
+CTAGAGGCTTTGGGAGACATTGAAATTGCTATTAAGCTGGTGAAAACAGAGCTACAAAGC
+CCAGAACACCCATTGGACCAACACTATAGAAACCTACATTGTGCCTTGCGCCCCCTTGAC
+CATGAAAGTTATGAGTTCAAAGTGATTTCCCAGTACCTACAATCTACCCATGCTCCCACA
+CACAGCGACTATACCATGACCTTGCTGGATTTGTTTGAAGTGGAGAAGGATGGTGAGAAA
+GAAGCCTTCAGAGAGGACCTTCATAACAGGATGCTTCTATGGCATGGTTCCAGGATGAGT
+AACTGGGTGGGAATCTTGAGCCATGGGCTTCGAATTGCCCCACCTGAAGCTCCCATCACA
+GGTTACATGTTTGGGAAAGGAATCTACTTTGCTGACATGTCTTCCAAGAGTGCCAATTAC
+TGCTTTGCCTCTCGCCTAAAGAATACAGGACTGCTGCTCTTATCAGAGGTAGCTCTAGGT
+CAGTGTAATGAACTACTAGAGGCCAATCCTAAGGCCGAAGGATTGCTTCAAGGTAAACAT
+AGCACCAAGGGGCTGGGCAAGATGGCTCCCAGTTCTGCCCACTTCGTCACCCTGAATGGG
+AGTACAGTGCCATTAGGACCAGCAAGTGACACAGGAATTCTGAATCCAGATGGTTATACC
+CTCAACTACAATGAATATATTGTATATAACCCCAACCAGGTCCGTATGCGGTACCTTTTA
+AAGGTTCAGTTTAATTTCCTTCAGCTGTGGTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00644</identifier>
+        <name>PARP</name>
+      </pfam>
+      <pfam>
+        <identifier>PF02877</identifier>
+        <name>PARP_reg</name>
+      </pfam>
+      <pfam>
+        <identifier>PF05406</identifier>
+        <name>WGR</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleolus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>NAD+ ADP-ribosyltransferase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>extrinsic apoptotic signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein ADP-ribosylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>DNA repair</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>base-excision repair</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+    <target position="3">
+      <id>BE0004049</id>
+      <name>Poly [ADP-ribose] polymerase 3</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q9Y6F1" source="Swiss-Prot">
+    <name>Poly [ADP-ribose] polymerase 3</name>
+    <general-function>Nad+ adp-ribosyltransferase activity</general-function>
+    <specific-function>Involved in the base excision repair (BER) pathway, by catalyzing the poly(ADP-ribosyl)ation of a limited number of acceptor proteins involved in chromatin architecture and in DNA metabolism. This modification follows DNA damages and appears as an obligatory step in a detection/signaling pathway leading to the reparation of DNA strand breaks. May link the DNA damage surveillance network to the mitotic fidelity checkpoint. Negatively influences the G1/S cell cycle progression without interfering with centrosome duplication. Binds DNA. May be involved in the regulation of PRC2 and PRC3 complex-dependent gene silencing.</specific-function>
+    <gene-name>PARP3</gene-name>
+    <locus>3p21.31-p21.1</locus>
+    <cellular-location>Nucleus</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>6.73</theoretical-pi>
+    <molecular-weight>60069.7</molecular-weight>
+    <chromosome-location>3</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:273</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>Y16836</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>29788060</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>2864</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9Y6F1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>PARP3_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>2.4.2.30</synonym>
+      <synonym>ADP-ribosyltransferase diphtheria toxin-like 3</synonym>
+      <synonym>ADPRT-3</synonym>
+      <synonym>ADPRT3</synonym>
+      <synonym>ADPRTL3</synonym>
+      <synonym>ARTD3</synonym>
+      <synonym>IRT1</synonym>
+      <synonym>NAD(+) ADP-ribosyltransferase 3</synonym>
+      <synonym>pADPRT-3</synonym>
+      <synonym>PARP-3</synonym>
+      <synonym>Poly[ADP-ribose] synthase 3</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0007738|Poly [ADP-ribose] polymerase 3
+MAPKPKPWVQTEGPEKKKGRQAGREEDPFRSTAEALKAIPAEKRIIRVDPTCPLSSNPGT
+QVYEDYNCTLNQTNIENNNNKFYIIQLLQDSNRFFTCWNHWGRVGEVGQSKINHFTRLED
+AKKDFEKKFREKTKNNWAERDHFVSHPGKYTLIEVQAEDEAQEAVVKVDRGPVRTVTKRV
+QPCSLDPATQKLITNIFSKEMFKNTMALMDLDVKKMPLGKLSKQQIARGFEALEALEEAL
+KGPTDGGQSLEELSSHFYTVIPHNFGHSQPPPINSPELLQAKKDMLLVLADIELAQALQA
+VSEQEKTVEEVPHPLDRDYQLLKCQLQLLDSGAPEYKVIQTYLEQTGSNHRCPTLQHIWK
+VNQEGEEDRFQAHSKLGNRKLLWHGTNMAVVAAILTSGLRIMPHSGGRVGKGIYFASENS
+KSAGYVIGMKCGAHHVGYMFLGEVALGREHHINTDNPSLKSPPPGFDSVIARGHTEPDPT
+QDTELELDGQQVVVPQGQPVPCPEFSSSTFSQSEYLIYQESQCRLRYLLEVHL</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0021378|Poly [ADP-ribose] polymerase 3 (PARP3)
+ATGTCCCTGCTTTTCTTGGCCATGGCTCCAAAGCCGAAGCCCTGGGTACAGACTGAGGGC
+CCTGAGAAGAAGAAGGGCCGGCAGGCAGGAAGGGAGGAGGACCCCTTCCGCTCCACCGCT
+GAGGCCCTCAAGGCCATACCCGCAGAGAAGCGCATAATCCGCGTGGATCCAACATGTCCA
+CTCAGCAGCAACCCCGGGACCCAGGTGTATGAGGACTACAACTGCACCCTGAACCAGACC
+AACATCGAGAACAACAACAACAAGTTCTACATCATCCAGCTGCTCCAAGACAGCAACCGC
+TTCTTCACCTGCTGGAACCGCTGGGGCCGTGTGGGAGAGGTCGGCCAGTCAAAGATCAAC
+CACTTCACAAGGCTAGAAGATGCAAAGAAGGACTTTGAGAAGAAATTTCGGGAAAAGACC
+AAGAACAACTGGGCAGAGCGGGACCACTTTGTGTCTCACCCGGGCAAGTACACACTTATC
+GAAGTACAGGCAGAGGATGAGGCCCAGGAAGCTGTGGTGAAGGTGGACAGAGGCCCAGTG
+AGGACTGTGACTAAGCGGGTGCAGCCCTGCTCCCTGGACCCAGCCACGCAGAAGCTCATC
+ACTAACATCTTCAGCAAGGAGATGTTCAAGAACACCATGGCCCTCATGGACCTGGATGTG
+AAGAAGATGCCCCTGGGAAAGCTGAGCAAGCAACAGATTGCACGGGGTTTCGAGGCCTTG
+GAGGCGCTGGAGGAGGCCCTGAAAGGCCCCACGGATGGTGGCCAAAGCCTGGAGGAGCTG
+TCCTCACACTTTTACACCGTCATCCCGCACAACTTCGGCCACAGCCAGCCCCCGCCCATC
+AATTCCCCTGAGCTTCTGCAGGCCAAGAAGGACATGCTGCTGGTGCTGGCGGACATCGAG
+CTGGCCCAGGCCCTGCAGGCAGTCTCTGAGCAGGAGAAGACGGTGGAGGAGGTGCCACAC
+CCCCTGGACCGAGACTACCAGCTTCTCAAGTGCCAGCTGCAGCTGCTAGACTCTGGAGCA
+CCTGAGTACAAGGTGATACAGACCTACTTAGAACAGACTGGCAGCAACCACAGGTGCCCT
+ACACTTCAACACATCTGGAAAGTAAACCAAGAAGGGGAGGAAGACAGATTCCAGGCCCAC
+TCCAAACTGGGTAATCGGAAGCTGCTGTGGCATGGCACCAACATGGCCGTGGTGGCCGCC
+ATCCTCACTAGTGGGCTCCGCATCATGCCACATTCTGGTGGGCGTGTTGGCAAGGGCATC
+TACTTTGCCTCAGAGAACAGCAAGTCAGCTGGATATGTTATTGGCATGAAGTGTGGGGCC
+CACCATGTCGGCTACATGTTCCTGGGTGAGGTGGCCCTGGGCAGAGAGCACCATATCAAC
+ACGGACAACCCCAGCTTGAAGAGCCCACCTCCTGGCTTCGACAGTGTCATTGCCCGAGGC
+CACACCGAGCCTGATCCGACCCAGGACACTGAGTTGGAGCTGGATGGCCAGCAAGTGGTG
+GTGCCCCAGGGCCAGCCTGTGCCCTGCCCAGAGTTCAGCAGCTCCACATTCTCCCAGAGC
+GAGTACCTCATCTACCAGGAGAGCCAGTGTCGCCTGCGCTACCTGCTGGAGGTCCACCTC
+TGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00644</identifier>
+        <name>PARP</name>
+      </pfam>
+      <pfam>
+        <identifier>PF02877</identifier>
+        <name>PARP_reg</name>
+      </pfam>
+      <pfam>
+        <identifier>PF05406</identifier>
+        <name>WGR</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>centriole</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>site of double-strand break</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>catalytic activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>NAD+ ADP-ribosyltransferase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>telomere maintenance</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein ADP-ribosylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of DNA ligation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein localization to site of double-strand break</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of mitotic spindle organization</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>DNA repair</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>double-strand break repair</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes>
+    <enzyme position="4">
+      <id>BE0002363</id>
+      <name>Cytochrome P450 2D6</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P10635" source="Swiss-Prot">
+    <name>Cytochrome P450 2D6</name>
+    <general-function>Steroid hydroxylase activity</general-function>
+    <specific-function>Responsible for the metabolism of many drugs and environmental chemicals that it oxidizes. It is involved in the metabolism of drugs such as antiarrhythmics, adrenoceptor antagonists, and tricyclic antidepressants.</specific-function>
+    <gene-name>CYP2D6</gene-name>
+    <locus>22q13.1</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>7.26</theoretical-pi>
+    <molecular-weight>55768.94</molecular-weight>
+    <chromosome-location>22</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2625</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP2D6</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M20403</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>181350</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1329</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P10635</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP2D6_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.14.14.1</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYP2DL1</synonym>
+      <synonym>CYPIID6</synonym>
+      <synonym>Cytochrome P450-DB1</synonym>
+      <synonym>Debrisoquine 4-hydroxylase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004641|Cytochrome P450 2D6
+MGLEALVPLAVIVAIFLLLVDLMHRRQRWAARYPPGPLPLPGLGNLLHVDFQNTPYCFDQ
+LRRRFGDVFSLQLAWTPVVVLNGLAAVREALVTHGEDTADRPPVPITQILGFGPRSQGVF
+LARYGPAWREQRRFSVSTLRNLGLGKKSLEQWVTEEAACLCAAFANHSGRPFRPNGLLDK
+AVSNVIASLTCGRRFEYDDPRFLRLLDLAQEGLKEESGFLREVLNAVPVLLHIPALAGKV
+LRFQKAFLTQLDELLTEHRMTWDPAQPPRDLTEAFLAEMEKAKGNPESSFNDENLRIVVA
+DLFSAGMVTTSTTLAWGLLLMILHPDVQRRVQQEIDDVIGQVRRPEMGDQAHMPYTTAVI
+HEVQRFGDIVPLGVTHMTSRDIEVQGFRIPKGTTLITNLSSVLKDEAVWEKPFRFHPEHF
+LDAQGHFVKPEAFLPFSAGRRACLGEPLARMELFLFFTSLLQHFSFSVPTGQPRPSHHGV
+FAFLVSPSPYELCAVPR</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0019275|Cytochrome P450 2D6 (CYP2D6)
+ATGGGGCTAGAAGCACTGGTGCCCCTGGCCGTGATAGTGGCCATCTTCCTGCTCCTGGTG
+GACCTGATGCACCGGCGCCAACGCTGGGCTGCACGCTACCCACCAGGCCCCCTGCCACTG
+CCCGGGCTGGGCAACCTGCTGCATGTGGACTTCCAGAACACACCATACTGCTTCGACCAG
+TTGCGGCGCCGCTTCGGGGACGTGTTCAGCCTGCAGCTGGCCTGGACGCCGGTGGTCGTG
+CTCAATGGGCTGGCGGCCGTGCGCGAGGCGCTGGTGACCCACGGCGAGGACACCGCCGAC
+CGCCCGCCTGTGCCCATCACCCAGATCCTGGGTTTCGGGCCGCGTTCCCAAGGGGTGTTC
+CTGGCGCGCTATGGGCCCGCGTGGCGCGAGCAGAGGCGCTTCTCCGTGTCCACCTTGCGC
+AACTTGGGCCTGGGCAAGAAGTCGCTGGAGCAGTGGGTGACCGAGGAGGCCGCCTGCCTT
+TGTGCCGCCTTCGCCAACCACTCCGGACGCCCCTTTCGCCCCAACGGTCTCTTGGACAAA
+GCCGTGAGCAACGTGATCGCCTCCCTCACCTGCGGGCGCCGCTTCGAGTACGACGACCCT
+CGCTTCCTCAGGCTGCTGGACCTAGCTCAGGAGGGACTGAAGGAGGAGTCGGGCTTTCTG
+CGCGAGGTGCTGAATGCTGTCCCCGTCCTCCTGCATATCCCAGCGCTGGCTGGCAAGGTC
+CTACGCTTCCAAAAGGCTTTCCTGACCCAGCTGGATGAGCTGCTAACTGAGCACAGGATG
+ACCTGGGACCCAGCCCAGCCCCCCCGAGACCTGACTGAGGCCTTCCTGGCAGAGATGGAG
+AAGGCCAAGGGGAACCCTGAGAGCAGCTTCAATGATGAGAACCTGCGCATAGTGGTGGCT
+GACCTGTTCTCTGCCGGGATGGTGACCACCTCGACCACGCTGGCCTGGGGCCTCCTGCTC
+ATGATCCTACATCCGGATGTGCAGCGCCGTGTCCAACAGGAGATCGACGACGTGATAGGG
+CAGGTGCGGCGACCAGAGATGGGTGACCAGGCTCACATGCCCTACACCACTGCCGTGATT
+CATGAGGTGCAGCGCTTTGGGGACATCGTCCCCCTGGGTGTGACCCATATGACATCCCGT
+GACATCGAAGTACAGGGCTTCCGCATCCCTAAGGGAACGACACTCATCACCAACCTGTCA
+TCGGTGCTGAAGGATGAGGCCGTCTGGGAGAAGCCCTTCCGCTTCCACCCCGAACACTTC
+CTGGATGCCCAGGGCCACTTTGTGAAGCCGGAGGCCTTCCTGCCTTTCTCAGCAGGCCGC
+CGTGCATGCCTCGGGGAGCCCCTGGCCCGCATGGAGCTCTTCCTCTTCTTCACCTCCCTG
+CTGCAGCACTTCAGCTTCTCGGTGCCCACTGGACAGCCCCGGCCCAGCCACCATGGTGTC
+TTTGCTTTCCTGGTGAGCCCATCCCCCTATGAGCTTTGTGCTGTGCCCCGCTAG</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>mitochondrion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>drug binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>arachidonic acid epoxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>coumarin metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>isoquinoline alkaloid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of cellular organofluorine metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heterocycle metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>arachidonic acid metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+    <enzyme position="5">
+      <id>BE0002433</id>
+      <name>Cytochrome P450 1A2</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P05177" source="Swiss-Prot">
+    <name>Cytochrome P450 1A2</name>
+    <general-function>Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</general-function>
+    <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It oxidizes a variety of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. Most active in catalyzing 2-hydroxylation. Caffeine is metabolized primarily by cytochrome CYP1A2 in the liver through an initial N3-demethylation. Also acts in the metabolism of aflatoxin B1 and acetaminophen. Participates in the bioactivation of carcinogenic aromatic and heterocyclic amines. Catalizes the N-hydroxylation of heterocyclic amines and the O-deethylation of phenacetin.</specific-function>
+    <gene-name>CYP1A2</gene-name>
+    <locus>15q24</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>9.43</theoretical-pi>
+    <molecular-weight>58293.76</molecular-weight>
+    <chromosome-location>15</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2596</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP1A2</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>Z00036</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1319</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P05177</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP1A2_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.14.14.1</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYPIA2</synonym>
+      <synonym>Cytochrome P(3)450</synonym>
+      <synonym>Cytochrome P450 4</synonym>
+      <synonym>Cytochrome P450-P3</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004778|Cytochrome P450 1A2
+MALSQSVPFSATELLLASAIFCLVFWVLKGLRPRVPKGLKSPPEPWGWPLLGHVLTLGKN
+PHLALSRMSQRYGDVLQIRIGSTPVLVLSRLDTIRQALVRQGDDFKGRPDLYTSTLITDG
+QSLTFSTDSGPVWAARRRLAQNALNTFSIASDPASSSSCYLEEHVSKEAKALISRLQELM
+AGPGHFDPYNQVVVSVANVIGAMCFGQHFPESSDEMLSLVKNTHEFVETASSGNPLDFFP
+ILRYLPNPALQRFKAFNQRFLWFLQKTVQEHYQDFDKNSVRDITGALFKHSKKGPRASGN
+LIPQEKIVNLVNDIFGAGFDTVTTAISWSLMYLVTKPEIQRKIQKELDTVIGRERRPRLS
+DRPQLPYLEAFILETFRHSSFLPFTIPHSTTRDTTLNGFYIPKKCCVFVNQWQVNHDPEL
+WEDPSEFRPERFLTADGTAINKPLSEKMMLFGMGKRRCIGEVLAKWEIFLFLAILLQQLE
+FSVPPGVKVDLTPIYGLTMKHARCEHVQARRFSIN</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0011742|Cytochrome P450 1A2 (CYP1A2)
+ATGGCATTGTCCCAGTCTGTTCCCTTCTCGGCCACAGAGCTTCTCCTGGCCTCTGCCATC
+TTCTGCCTGGTATTCTGGGTGCTCAAGGGTTTGAGGCCTCGGGTCCCCAAAGGCCTGAAA
+AGTCCACCAGAGCCATGGGGCTGGCCCTTGCTCGGGCATGTGCTGACCCTGGGGAAGAAC
+CCGCACCTGGCACTGTCAAGGATGAGCCAGCGCTACGGGGACGTCCTGCAGATCCGCATT
+GGCTCCACGCCCGTGCTGGTGCTGAGCCGCCTGGACACCATCCGGCAGGCCCTGGTGCGG
+CAGGGCGACGATTTCAAGGGCCGGCCTGACCTCTACACCTCCACCCTCATCACTGATGGC
+CAGAGCTTGACCTTCAGCACAGACTCTGGACCGGTGTGGGCTGCCCGCCGGCGCCTGGCC
+CAGAATGCCCTCAACACCTTCTCCATCGCCTCTGACCCAGCTTCCTCATCCTCCTGCTAC
+CTGGAGGAGCATGTGAGCAAGGAGGCTAAGGCCCTGATCAGCAGGTTGCAGGAGCTGATG
+GCAGGGCCTGGGCACTTCGACCCTTACAATCAGGTGGTGGTGTCAGTGGCCAACGTCATT
+GGTGCCATGTGCTTCGGACAGCACTTCCCTGAGAGTAGCGATGAGATGCTCAGCCTCGTG
+AAGAACACTCATGAGTTCGTGGAGACTGCCTCCTCCGGGAACCCCCTGGACTTCTTCCCC
+ATCCTTCGCTACCTGCCTAACCCTGCCCTGCAGAGGTTCAAGGCCTTCAACCAGAGGTTC
+CTGTGGTTCCTGCAGAAAACAGTCCAGGAGCACTATCAGGACTTTGACAAGAACAGTGTC
+CGGGACATCACGGGTGCCCTGTTCAAGCACAGCAAGAAGGGGCCTAGAGCCAGCGGCAAC
+CTCATCCCACAGGAGAAGATTGTCAACCTTGTCAATGACATCTTTGGAGCAGGATTTGAC
+ACAGTCACCACAGCCATCTCCTGGAGCCTCATGTACCTTGTGACCAAGCCTGAGATACAG
+AGGAAGATCCAGAAGGAGCTGGACACTGTGATTGGCAGGGAGCGGCGGCCCCGGCTCTCT
+GACAGACCCCAGCTGCCCTACTTGGAGGCCTTCATCCTGGAGACCTTCCGACACTCCTCC
+TTCTTGCCCTTCACCATCCCCCACAGCACAACAAGGGACACAACGCTGAATGGCTTCTAC
+ATCCCCAAGAAATGCTGTGTCTTCGTAAACCAGTGGCAGGTCAACCATGACCCAGAGCTG
+TGGGAGGACCCCTCTGAGTTCCGGCCTGAGCGGTTCCTCACCGCCGATGGCACTGCCATT
+AACAAGCCCTTGAGTGAGAAGATGATGCTGTTTGGCATGGGCAAGCGCCGGTGTATCGGG
+GAAGTCCTGGCCAAGTGGGAGATCTTCCTCTTCCTGGCCATCCTGCTACAGCAACTGGAG
+TTCAGCGTGCCGCCGGGCGTGAAAGTCGACCTGACCCCCATCTACGGGCTGACCATGAAG
+CACGCCCGCTGTGAACATGTCCAGGCGCGGCTGCGCTTCTCCATCAATTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>caffeine oxidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enzyme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>demethylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>electron carrier activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>omega-hydroxylase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to lipopolysaccharide</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monocarboxylic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative deethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to immobilization stress</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>toxin biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>arachidonic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to cadmium ion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to estradiol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>porphyrin-containing compound metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>dibenzo-p-dioxin metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>lung development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>methylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>post-embryonic development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>epoxygenase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heterocycle metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hydrogen peroxide biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular respiration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of gene expression</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+    <enzyme position="6">
+      <id>BE0002638</id>
+      <name>Cytochrome P450 3A4</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P08684" source="Swiss-Prot">
+    <name>Cytochrome P450 3A4</name>
+    <general-function>Vitamin d3 25-hydroxylase activity</general-function>
+    <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It performs a variety of oxidation reactions (e.g. caffeine 8-oxidation, omeprazole sulphoxidation, midazolam 1'-hydroxylation and midazolam 4-hydroxylation) of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. Acts as a 1,8-cineole 2-exo-monooxygenase. The enzyme also hydroxylates etoposide (PubMed:11159812). Catalyzes 4-beta-hydroxylation of cholesterol. May catalyze 25-hydroxylation of cholesterol in vitro (PubMed:21576599).</specific-function>
+    <gene-name>CYP3A4</gene-name>
+    <locus>7q21.1</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions>2-22</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>8.25</theoretical-pi>
+    <molecular-weight>57342.67</molecular-weight>
+    <chromosome-location>7</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2637</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP3A4</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M18907</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1337</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P08684</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP3A4_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1,8-cineole 2-exo-monooxygenase</synonym>
+      <synonym>1.14.13.-</synonym>
+      <synonym>Albendazole monooxygenase</synonym>
+      <synonym>Albendazole sulfoxidase</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYP3A3</synonym>
+      <synonym>CYPIIIA3</synonym>
+      <synonym>CYPIIIA4</synonym>
+      <synonym>Cytochrome P450 3A3</synonym>
+      <synonym>Cytochrome P450 HLp</synonym>
+      <synonym>Cytochrome P450 NF-25</synonym>
+      <synonym>Cytochrome P450-PCN1</synonym>
+      <synonym>Nifedipine oxidase</synonym>
+      <synonym>Quinine 3-monooxygenase</synonym>
+      <synonym>Taurochenodeoxycholate 6-alpha-hydroxylase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0021936|Cytochrome P450 3A4
+MALIPDLAMETWLLLAVSLVLLYLYGTHSHGLFKKLGIPGPTPLPFLGNILSYHKGFCMF
+DMECHKKYGKVWGFYDGQQPVLAITDPDMIKTVLVKECYSVFTNRRPFGPVGFMKSAISI
+AEDEEWKRLRSLLSPTFTSGKLKEMVPIIAQYGDVLVRNLRREAETGKPVTLKDVFGAYS
+MDVITSTSFGVNIDSLNNPQDPFVENTKKLLRFDFLDPFFLSITVFPFLIPILEVLNICV
+FPREVTNFLRKSVKRMKESRLEDTQKHRVDFLQLMIDSQNSKETESHKALSDLELVAQSI
+IFIFAGYETTSSVLSFIMYELATHPDVQQKLQEEIDAVLPNKAPPTYDTVLQMEYLDMVV
+NETLRLFPIAMRLERVCKKDVEINGMFIPKGVVVMIPSYALHRDPKYWTEPEKFLPERFS
+KKNKDNIDPYIYTPFGSGPRNCIGMRFALMNMKLALIRVLQNFSFKPCKETQIPLKLSLG
+GLLQPEKPVVLKVESRDGTVSGA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0021937|Cytochrome P450 3A4 (CYP3A4)
+ATGGCTCTCATCCCAGACTTGGCCATGGAAACCTGGCTTCTCCTGGCTGTCAGCCTGGTG
+CTCCTCTATCTATATGGAACCCATTCACATGGACTTTTTAAGAAGCTTGGAATTCCAGGG
+CCCACACCTCTGCCTTTTTTGGGAAATATTTTGTCCTACCATAAGGGCTTTTGTATGTTT
+GACATGGAATGTCATAAAAAGTATGGAAAAGTGTGGGGCTTTTATGATGGTCAACAGCCT
+GTGCTGGCTATCACAGATCCTGACATGATCAAAACAGTGCTAGTGAAAGAATGTTATTCT
+GTCTTCACAAACCGGAGGCCTTTTGGTCCAGTGGGATTTATGAAAAGTGCCATCTCTATA
+GCTGAGGATGAAGAATGGAAGAGATTACGATCATTGCTGTCTCCAACCTTCACCAGTGGA
+AAACTCAAGGAGATGGTCCCTATCATTGCCCAGTATGGAGATGTGTTGGTGAGAAATCTG
+AGGCGGGAAGCAGAGACAGGCAAGCCTGTCACCTTGAAAGACGTCTTTGGGGCCTACAGC
+ATGGATGTGATCACTAGCACATCATTTGGAGTGAACATCGACTCTCTCAACAATCCACAA
+GACCCCTTTGTGGAAAACACCAAGAAGCTTTTAAGATTTGATTTTTTGGATCCATTCTTT
+CTCTCAATAATCTTTCCATTCCTCATCCCAATTCTTGAAGTATTAAATATCTGTGTGTTT
+CCAAGAGAAGTTACAAATTTTTTAAGAAAATCTGTAAAAAGGATGAAAGAAAGTCGCCTC
+GAAGATACACAAAAGCACCGAGTGGATTTCCTTCAGCTGATGATTGACTCTCAGAATTCA
+AAAGAAACTGAGTCCCACAAAGCTCTGTCCGATCTGGAGCTCGTGGCCCAATCAATTATC
+TTTATTTTTGCTGGCTATGAAACCACGAGCAGTGTTCTCTCCTTCATTATGTATGAACTG
+GCCACTCACCCTGATGTCCAGCAGAAACTGCAGGAGGAAATTGATGCAGTTTTACCCAAT
+AAGGCACCACCCACCTATGATACTGTGCTACAGATGGAGTATCTTGACATGGTGGTGAAT
+GAAACGCTCAGATTATTCCCAATTGCTATGAGACTTGAGAGGGTCTGCAAAAAAGATGTT
+GAGATCAATGGGATGTTCATTCCCAAAGGGGTGGTGGTGATGATTCCAAGCTATGCTCTT
+CACCGTGACCCAAAGTACTGGACAGAGCCTGAGAAGTTCCTCCCTGAAAGATTCAGCAAG
+AAGAACAAGGACAACATAGATCCTTACATATACACACCCTTTGGAAGTGGACCCAGAAAC
+TGCATTGGCATGAGGTTTGCTCTCATGAACATGAAACTTGCTCTAATCAGAGTCCTTCAG
+AACTTCTCCTTCAAACCTTGTAAAGAAACACAGATCCCCCTGAAATTAAGCTTAGGAGGA
+CTTCTTCAACCAGAAAAACCCGTTGTTCTAAAGGTTGAGTCAAGGGATGGCACCGTAAGT
+GGAGCCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>vitamin D 24-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enzyme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>testosterone 6-beta-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>vitamin D3 25-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>albendazole monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>caffeine oxidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>quinine 3-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>taurochenodeoxycholate 6alpha-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>androgen metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>calcitriol biosynthetic process from calciol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>vitamin D metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>lipid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heterocycle metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

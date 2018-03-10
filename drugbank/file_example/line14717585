@@ -1,0 +1,2616 @@
+<drug type="small molecule" created="2015-12-03" updated="2016-11-21">
+  <drugbank-id primary="true">DB11130</drugbank-id>
+  <name>Opium</name>
+  <description>The air-dried exudate from the unripe seed capsule of the opium poppy, Papaver somniferum, or its variant, P. album. It contains a number of alkaloids, but only a few - morphine; codeine; and papaverine - have clinical significance. Opium has been used as an analgesic, antitussive, antidiarrheal, and antispasmodic.</description>
+  <cas-number>8008-60-4</cas-number>
+  <unii>37M3MZ001L</unii>
+  <groups>
+    <group>approved</group>
+    <group>illicit</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Papaver somniferum exudate</synonym>
+    <synonym language="" coder="">Papaver somniferum resin</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Camphorated Opium Tincture</name>
+      <labeller>D.C. Labs Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00095680</dpd-id>
+      <started-marketing-on>1951-12-31</started-marketing-on>
+      <ended-marketing-on>2003-07-11</ended-marketing-on>
+      <dosage-form>Tincture</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Diban Cap</name>
+      <labeller>Wyeth Ayerst Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02041626</dpd-id>
+      <started-marketing-on>1998-02-18</started-marketing-on>
+      <ended-marketing-on>2001-01-30</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Diban Cap</name>
+      <labeller>Ayerst Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01909215</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>1999-04-12</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Donnagel-PG Cap</name>
+      <labeller>Wyeth Ayerst Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02041642</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>2002-03-20</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Donnagel-PG Liq</name>
+      <labeller>Wyeth Ayerst Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02041634</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>2001-04-23</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Opium Camphre Tanin Tab</name>
+      <labeller>Rougier Pharma Division Of Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00779520</dpd-id>
+      <started-marketing-on>1951-12-31</started-marketing-on>
+      <ended-marketing-on>1999-09-27</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Opium Teinture</name>
+      <labeller>Laboratoire Atlas Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00050830</dpd-id>
+      <started-marketing-on>1951-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-09</ended-marketing-on>
+      <dosage-form>Tincture</dosage-form>
+      <strength>200 g</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Paregorique</name>
+      <labeller>Laboratoire Atlas Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00051330</dpd-id>
+      <started-marketing-on>1951-12-31</started-marketing-on>
+      <ended-marketing-on>2006-06-14</ended-marketing-on>
+      <dosage-form>Tincture</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Camphorated Opium Tincture</name>
+      <ingredients>Opium + Benzoic Acid + Camphor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Diban Cap</name>
+      <ingredients>Pectin + Attapulgite + Opium + Atropine + Hyoscyamine + Scopolamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Donnagel-PG Liq</name>
+      <ingredients>Pectin + Opium + Kaolin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Donnagel-PG Cap</name>
+      <ingredients>Pectin + Attapulgite + Opium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Diban Cap</name>
+      <ingredients>Pectin + Attapulgite + Opium + Atropine + Hyoscyamine + Scopolamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Opium Teinture</name>
+      <ingredients>Opium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Paregorique</name>
+      <ingredients>Opium + Camphor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Opium Camphre Tanin Tab</name>
+      <ingredients>Opium + Tannic acid + Camphor</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Analgesics</category>
+      <mesh-id>D000700</mesh-id>
+    </category>
+    <category>
+      <category>Analgesics, Opioid</category>
+      <mesh-id>D000701</mesh-id>
+    </category>
+    <category>
+      <category>Antidiarrheals</category>
+      <mesh-id>D000930</mesh-id>
+    </category>
+    <category>
+      <category>Antidiarrheals, Intestinal Antiinflammatory/antiinfective Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Antipropulsives</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Antitussive Agents</category>
+      <mesh-id>D000996</mesh-id>
+    </category>
+    <category>
+      <category>Biological Products</category>
+      <mesh-id>D001688</mesh-id>
+    </category>
+    <category>
+      <category>Central Nervous System Agents</category>
+      <mesh-id>D002491</mesh-id>
+    </category>
+    <category>
+      <category>Central Nervous System Depressants</category>
+      <mesh-id>D002492</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Complex Mixtures</category>
+      <mesh-id>D045424</mesh-id>
+    </category>
+    <category>
+      <category>Gastrointestinal Agents</category>
+      <mesh-id>D005765</mesh-id>
+    </category>
+    <category>
+      <category>Narcotics</category>
+      <mesh-id>D009294</mesh-id>
+    </category>
+    <category>
+      <category>Peripheral Nervous System Agents</category>
+      <mesh-id>D018373</mesh-id>
+    </category>
+    <category>
+      <category>Pharmaceutical Preparations</category>
+      <mesh-id>D004364</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Plant Extracts</category>
+      <mesh-id>D010936</mesh-id>
+    </category>
+    <category>
+      <category>Plant Preparations</category>
+      <mesh-id>D028321</mesh-id>
+    </category>
+    <category>
+      <category>Respiratory System Agents</category>
+      <mesh-id>D019141</mesh-id>
+    </category>
+    <category>
+      <category>Sensory System Agents</category>
+      <mesh-id>D018689</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Tincture</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tincture</form>
+      <route>Oral</route>
+      <strength>200 g</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="N02AA02">
+      <level code="N02AA">Natural opium alkaloids</level>
+      <level code="N02A">OPIOIDS</level>
+      <level code="N02">ANALGESICS</level>
+      <level code="N">NERVOUS SYSTEM</level>
+    </atc-code>
+    <atc-code code="A07DA02">
+      <level code="A07DA">Antipropulsives</level>
+      <level code="A07D">ANTIPROPULSIVES</level>
+      <level code="A07">ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB01467</drugbank-id>
+      <name>2,5-Dimethoxy-4-ethylamphetamine</name>
+      <description>2,5-Dimethoxy-4-ethylamphetamine may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01509</drugbank-id>
+      <name>3,4-Methylenedioxyamphetamine</name>
+      <description>3,4-Methylenedioxyamphetamine may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01454</drugbank-id>
+      <name>3,4-Methylenedioxymethamphetamine</name>
+      <description>3,4-Methylenedioxymethamphetamine may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01484</drugbank-id>
+      <name>4-Bromo-2,5-dimethoxyamphetamine</name>
+      <description>4-Bromo-2,5-dimethoxyamphetamine may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02207</drugbank-id>
+      <name>7-Nitroindazole</name>
+      <description>The risk or severity of adverse effects can be increased when 7-Nitroindazole is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01614</drugbank-id>
+      <name>Acepromazine</name>
+      <description>The risk or severity of adverse effects can be increased when Acepromazine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01615</drugbank-id>
+      <name>Aceprometazine</name>
+      <description>The risk or severity of adverse effects can be increased when Aceprometazine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00819</drugbank-id>
+      <name>Acetazolamide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Acetazolamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08897</drugbank-id>
+      <name>Aclidinium</name>
+      <description>The risk or severity of adverse effects can be increased when Aclidinium is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06579</drugbank-id>
+      <name>Adipiplon</name>
+      <description>The risk or severity of adverse effects can be increased when adipiplon is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06594</drugbank-id>
+      <name>Agomelatine</name>
+      <description>The risk or severity of adverse effects can be increased when Agomelatine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11371</drugbank-id>
+      <name>Alfaxalone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00802</drugbank-id>
+      <name>Alfentanil</name>
+      <description>The risk or severity of adverse effects can be increased when Alfentanil is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01246</drugbank-id>
+      <name>Alimemazine</name>
+      <description>Alimemazine may increase the hypotensive activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01555</drugbank-id>
+      <name>Alphacetylmethadol</name>
+      <description>The risk or severity of adverse effects can be increased when Alphacetylmethadol is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00404</drugbank-id>
+      <name>Alprazolam</name>
+      <description>The risk or severity of adverse effects can be increased when Alprazolam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06274</drugbank-id>
+      <name>Alvimopan</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Alvimopan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00594</drugbank-id>
+      <name>Amiloride</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Amiloride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06288</drugbank-id>
+      <name>Amisulpride</name>
+      <description>The risk or severity of adverse effects can be increased when Amisulpride is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00321</drugbank-id>
+      <name>Amitriptyline</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Amitriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06767</drugbank-id>
+      <name>Ammonium chloride</name>
+      <description>Ammonium chloride may increase the excretion rate of Opium which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01351</drugbank-id>
+      <name>Amobarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Amobarbital is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00543</drugbank-id>
+      <name>Amoxapine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Amoxapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08927</drugbank-id>
+      <name>Amperozide</name>
+      <description>The risk or severity of adverse effects can be increased when Amperozide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00182</drugbank-id>
+      <name>Amphetamine</name>
+      <description>Amphetamine may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00517</drugbank-id>
+      <name>Anisotropine Methylbromide</name>
+      <description>The risk or severity of adverse effects can be increased when Anisotropine Methylbromide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01238</drugbank-id>
+      <name>Aripiprazole</name>
+      <description>The risk or severity of adverse effects can be increased when Aripiprazole is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09009</drugbank-id>
+      <name>Articaine</name>
+      <description>The risk or severity of adverse effects can be increased when Articaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06216</drugbank-id>
+      <name>Asenapine</name>
+      <description>The risk or severity of adverse effects can be increased when Asenapine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00732</drugbank-id>
+      <name>Atracurium besylate</name>
+      <description>The risk or severity of adverse effects can be increased when Atracurium besylate is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00572</drugbank-id>
+      <name>Atropine</name>
+      <description>The risk or severity of adverse effects can be increased when Atropine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11376</drugbank-id>
+      <name>Azaperone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Azaperone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00972</drugbank-id>
+      <name>Azelastine</name>
+      <description>Opium may increase the central nervous system depressant (CNS depressant) activities of Azelastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00972</drugbank-id>
+      <name>Azelastine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Azelastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08961</drugbank-id>
+      <name>Azosemide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Azosemide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00181</drugbank-id>
+      <name>Baclofen</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Baclofen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01483</drugbank-id>
+      <name>Barbital</name>
+      <description>The risk or severity of adverse effects can be increased when Barbital is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09023</drugbank-id>
+      <name>Benactyzine</name>
+      <description>The risk or severity of adverse effects can be increased when Benactyzine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00436</drugbank-id>
+      <name>Bendroflumethiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Bendroflumethiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12867</drugbank-id>
+      <name>Benperidol</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Benperidol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00245</drugbank-id>
+      <name>Benzatropine</name>
+      <description>The risk or severity of adverse effects can be increased when Benzatropine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01086</drugbank-id>
+      <name>Benzocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Benzocaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00865</drugbank-id>
+      <name>Benzphetamine</name>
+      <description>Benzphetamine may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06770</drugbank-id>
+      <name>Benzyl alcohol</name>
+      <description>The risk or severity of adverse effects can be increased when Benzyl alcohol is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00810</drugbank-id>
+      <name>Biperiden</name>
+      <description>The risk or severity of adverse effects can be increased when Biperiden is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05687</drugbank-id>
+      <name>BL-1020</name>
+      <description>BL-1020 may increase the hypotensive activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09128</drugbank-id>
+      <name>Brexpiprazole</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Brexpiprazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00484</drugbank-id>
+      <name>Brimonidine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Brimonidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00484</drugbank-id>
+      <name>Brimonidine</name>
+      <description>Brimonidine may increase the central nervous system depressant (CNS depressant) activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01558</drugbank-id>
+      <name>Bromazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Bromazepam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00835</drugbank-id>
+      <name>Brompheniramine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Brompheniramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09017</drugbank-id>
+      <name>Brotizolam</name>
+      <description>The risk or severity of adverse effects can be increased when Brotizolam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00887</drugbank-id>
+      <name>Bumetanide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Bumetanide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00297</drugbank-id>
+      <name>Bupivacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Bupivacaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00921</drugbank-id>
+      <name>Buprenorphine</name>
+      <description>Opium may increase the central nervous system depressant (CNS depressant) activities of Buprenorphine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00490</drugbank-id>
+      <name>Buspirone</name>
+      <description>The risk or severity of adverse effects can be increased when Buspirone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00237</drugbank-id>
+      <name>Butabarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Butabarbital is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11502</drugbank-id>
+      <name>Butacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Butacaine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00241</drugbank-id>
+      <name>Butalbital</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Butalbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11148</drugbank-id>
+      <name>Butamben</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Butamben.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01353</drugbank-id>
+      <name>Butethal</name>
+      <description>The risk or severity of adverse effects can be increased when Butethal is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00611</drugbank-id>
+      <name>Butorphanol</name>
+      <description>Butorphanol may decrease the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09015</drugbank-id>
+      <name>Canrenoic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Canrenoic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12221</drugbank-id>
+      <name>Canrenone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Canrenone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The risk or severity of adverse effects can be increased when Carbamazepine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00748</drugbank-id>
+      <name>Carbinoxamine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Carbinoxamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01535</drugbank-id>
+      <name>Carfentanil</name>
+      <description>The risk or severity of adverse effects can be increased when Carfentanil is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00395</drugbank-id>
+      <name>Carisoprodol</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Carisoprodol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00341</drugbank-id>
+      <name>Cetirizine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Cetirizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01563</drugbank-id>
+      <name>Chloral hydrate</name>
+      <description>The risk or severity of adverse effects can be increased when Chloral hydrate is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00475</drugbank-id>
+      <name>Chlordiazepoxide</name>
+      <description>The risk or severity of adverse effects can be increased when Chlordiazepoxide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01178</drugbank-id>
+      <name>Chlormezanone</name>
+      <description>The risk or severity of adverse effects can be increased when Chlormezanone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01161</drugbank-id>
+      <name>Chloroprocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Chloroprocaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00880</drugbank-id>
+      <name>Chlorothiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Chlorothiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01114</drugbank-id>
+      <name>Chlorphenamine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Chlorphenamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09007</drugbank-id>
+      <name>Chlorphenoxamine</name>
+      <description>The risk or severity of adverse effects can be increased when Chlorphenoxamine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01556</drugbank-id>
+      <name>Chlorphentermine</name>
+      <description>Chlorphentermine may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00477</drugbank-id>
+      <name>Chlorpromazine</name>
+      <description>The risk or severity of adverse effects can be increased when Chlorpromazine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01239</drugbank-id>
+      <name>Chlorprothixene</name>
+      <description>The risk or severity of adverse effects can be increased when Chlorprothixene is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00310</drugbank-id>
+      <name>Chlorthalidone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Chlorthalidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00356</drugbank-id>
+      <name>Chlorzoxazone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Chlorzoxazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12766</drugbank-id>
+      <name>Cicletanine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Cicletanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00527</drugbank-id>
+      <name>Cinchocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Cinchocaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00215</drugbank-id>
+      <name>Citalopram</name>
+      <description>Opium may increase the serotonergic activities of Citalopram.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00283</drugbank-id>
+      <name>Clemastine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Clemastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00771</drugbank-id>
+      <name>Clidinium</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Clidinium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00349</drugbank-id>
+      <name>Clobazam</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Clobazam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06470</drugbank-id>
+      <name>clomethiazole</name>
+      <description>The risk or severity of adverse effects can be increased when clomethiazole is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01242</drugbank-id>
+      <name>Clomipramine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Clomipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01068</drugbank-id>
+      <name>Clonazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Clonazepam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00575</drugbank-id>
+      <name>Clonidine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Clonidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00628</drugbank-id>
+      <name>Clorazepate</name>
+      <description>The risk or severity of adverse effects can be increased when Clorazepate is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00363</drugbank-id>
+      <name>Clozapine</name>
+      <description>The risk or severity of adverse effects can be increased when Clozapine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00907</drugbank-id>
+      <name>Cocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Cocaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00318</drugbank-id>
+      <name>Codeine</name>
+      <description>The risk or severity of adverse effects can be increased when Codeine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00872</drugbank-id>
+      <name>Conivaptan</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Conivaptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01176</drugbank-id>
+      <name>Cyclizine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Cyclizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00924</drugbank-id>
+      <name>Cyclobenzaprine</name>
+      <description>The risk or severity of adverse effects can be increased when Cyclobenzaprine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00979</drugbank-id>
+      <name>Cyclopentolate</name>
+      <description>The risk or severity of adverse effects can be increased when Cyclopentolate is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00606</drugbank-id>
+      <name>Cyclothiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Cyclothiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00434</drugbank-id>
+      <name>Cyproheptadine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Cyproheptadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01219</drugbank-id>
+      <name>Dantrolene</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Dantrolene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00298</drugbank-id>
+      <name>Dapiprazole</name>
+      <description>The risk or severity of adverse effects can be increased when Dapiprazole is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04884</drugbank-id>
+      <name>Dapoxetine</name>
+      <description>Opium may increase the serotonergic activities of Dapoxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00496</drugbank-id>
+      <name>Darifenacin</name>
+      <description>The risk or severity of adverse effects can be increased when Darifenacin is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06512</drugbank-id>
+      <name>Deramciclane</name>
+      <description>The risk or severity of adverse effects can be increased when deramciclane is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01189</drugbank-id>
+      <name>Desflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Desflurane is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01151</drugbank-id>
+      <name>Desipramine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Desipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00967</drugbank-id>
+      <name>Desloratadine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Desloratadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00035</drugbank-id>
+      <name>Desmopressin</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Desmopressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06700</drugbank-id>
+      <name>Desvenlafaxine</name>
+      <description>Opium may increase the serotonergic activities of Desvenlafaxine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11556</drugbank-id>
+      <name>Detomidine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Detomidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00405</drugbank-id>
+      <name>Dexbrompheniramine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Dexbrompheniramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08997</drugbank-id>
+      <name>Dexetimide</name>
+      <description>The risk or severity of adverse effects can be increased when Dexetimide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00633</drugbank-id>
+      <name>Dexmedetomidine</name>
+      <description>The risk or severity of adverse effects can be increased when Dexmedetomidine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01576</drugbank-id>
+      <name>Dextroamphetamine</name>
+      <description>Dextroamphetamine may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01529</drugbank-id>
+      <name>Dextromoramide</name>
+      <description>The risk or severity of adverse effects can be increased when Dextromoramide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00647</drugbank-id>
+      <name>Dextropropoxyphene</name>
+      <description>The risk or severity of adverse effects can be increased when Dextropropoxyphene is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01209</drugbank-id>
+      <name>Dezocine</name>
+      <description>The risk or severity of adverse effects can be increased when Dezocine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00829</drugbank-id>
+      <name>Diazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Diazepam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00804</drugbank-id>
+      <name>Dicyclomine</name>
+      <description>The risk or severity of adverse effects can be increased when Dicyclomine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00937</drugbank-id>
+      <name>Diethylpropion</name>
+      <description>Diethylpropion may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01501</drugbank-id>
+      <name>Difenoxin</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Difenoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01551</drugbank-id>
+      <name>Dihydrocodeine</name>
+      <description>The risk or severity of adverse effects can be increased when Dihydrocodeine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01450</drugbank-id>
+      <name>Dihydroetorphine</name>
+      <description>The risk or severity of adverse effects can be increased when Dihydroetorphine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01565</drugbank-id>
+      <name>Dihydromorphine</name>
+      <description>The risk or severity of adverse effects can be increased when Dihydromorphine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00985</drugbank-id>
+      <name>Dimenhydrinate</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Dimenhydrinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01075</drugbank-id>
+      <name>Diphenhydramine</name>
+      <description>The risk or severity of adverse effects can be increased when Diphenhydramine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01081</drugbank-id>
+      <name>Diphenoxylate</name>
+      <description>The risk or severity of adverse effects can be increased when Diphenoxylate is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11400</drugbank-id>
+      <name>Doramectin</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Doramectin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01142</drugbank-id>
+      <name>Doxepin</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Doxepin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00366</drugbank-id>
+      <name>Doxylamine</name>
+      <description>Doxylamine may increase the central nervous system depressant (CNS depressant) activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08861</drugbank-id>
+      <name>DPDPE</name>
+      <description>The risk or severity of adverse effects can be increased when DPDPE is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00470</drugbank-id>
+      <name>Dronabinol</name>
+      <description>Dronabinol may increase the central nervous system depressant (CNS depressant) activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00450</drugbank-id>
+      <name>Droperidol</name>
+      <description>Droperidol may increase the central nervous system depressant (CNS depressant) activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01395</drugbank-id>
+      <name>Drospirenone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Drospirenone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01547</drugbank-id>
+      <name>Drotebanol</name>
+      <description>The risk or severity of adverse effects can be increased when Drotebanol is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00476</drugbank-id>
+      <name>Duloxetine</name>
+      <description>Opium may increase the serotonergic activities of Duloxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00645</drugbank-id>
+      <name>Dyclonine</name>
+      <description>The risk or severity of adverse effects can be increased when Dyclonine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01525</drugbank-id>
+      <name>Ecgonine</name>
+      <description>The risk or severity of adverse effects can be increased when Ecgonine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04688</drugbank-id>
+      <name>ECGONINE METHYL ESTER</name>
+      <description>The risk or severity of adverse effects can be increased when ECGONINE METHYL ESTER is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12273</drugbank-id>
+      <name>Ecopipam</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Ecopipam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00625</drugbank-id>
+      <name>Efavirenz</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Efavirenz.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09235</drugbank-id>
+      <name>Efonidipine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Efonidipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09272</drugbank-id>
+      <name>Eluxadoline</name>
+      <description>Opium may increase the constipating activities of Eluxadoline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00228</drugbank-id>
+      <name>Enflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Enflurane is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00494</drugbank-id>
+      <name>Entacapone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Entacapone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00700</drugbank-id>
+      <name>Eplerenone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Eplerenone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01175</drugbank-id>
+      <name>Escitalopram</name>
+      <description>Opium may increase the serotonergic activities of Escitalopram.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01215</drugbank-id>
+      <name>Estazolam</name>
+      <description>The risk or severity of adverse effects can be increased when Estazolam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00402</drugbank-id>
+      <name>Eszopiclone</name>
+      <description>The risk or severity of adverse effects can be increased when Eszopiclone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00903</drugbank-id>
+      <name>Etacrynic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Etacrynic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00898</drugbank-id>
+      <name>Ethanol</name>
+      <description>Opium may increase the central nervous system depressant (CNS depressant) activities of Ethanol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00189</drugbank-id>
+      <name>Ethchlorvynol</name>
+      <description>The risk or severity of adverse effects can be increased when Ethchlorvynol is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00392</drugbank-id>
+      <name>Ethopropazine</name>
+      <description>The risk or severity of adverse effects can be increased when Ethopropazine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00593</drugbank-id>
+      <name>Ethosuximide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Ethosuximide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00754</drugbank-id>
+      <name>Ethotoin</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Ethotoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00311</drugbank-id>
+      <name>Ethoxzolamide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Ethoxzolamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04827</drugbank-id>
+      <name>Ethyl carbamate</name>
+      <description>The risk or severity of adverse effects can be increased when Ethyl carbamate is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01545</drugbank-id>
+      <name>Ethyl loflazepate</name>
+      <description>The risk or severity of adverse effects can be increased when Ethyl loflazepate is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01466</drugbank-id>
+      <name>Ethylmorphine</name>
+      <description>The risk or severity of adverse effects can be increased when Ethylmorphine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08987</drugbank-id>
+      <name>Etidocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Etidocaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08986</drugbank-id>
+      <name>Etifoxine</name>
+      <description>The risk or severity of adverse effects can be increased when Etifoxine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09166</drugbank-id>
+      <name>Etizolam</name>
+      <description>The risk or severity of adverse effects can be increased when Etizolam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00292</drugbank-id>
+      <name>Etomidate</name>
+      <description>The risk or severity of adverse effects can be increased when Etomidate is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09194</drugbank-id>
+      <name>Etoperidone</name>
+      <description>Opium may increase the serotonergic activities of Etoperidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01497</drugbank-id>
+      <name>Etorphine</name>
+      <description>The risk or severity of adverse effects can be increased when Etorphine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04953</drugbank-id>
+      <name>Ezogabine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Ezogabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00949</drugbank-id>
+      <name>Felbamate</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Felbamate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01463</drugbank-id>
+      <name>Fencamfamine</name>
+      <description>The risk or severity of adverse effects can be increased when Fencamfamine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00813</drugbank-id>
+      <name>Fentanyl</name>
+      <description>The risk or severity of adverse effects can be increased when Fentanyl is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06702</drugbank-id>
+      <name>Fesoterodine</name>
+      <description>The risk or severity of adverse effects can be increased when Fesoterodine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00950</drugbank-id>
+      <name>Fexofenadine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Fexofenadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04908</drugbank-id>
+      <name>Flibanserin</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Flibanserin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01567</drugbank-id>
+      <name>Fludiazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Fludiazepam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04841</drugbank-id>
+      <name>Flunarizine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Flunarizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01544</drugbank-id>
+      <name>Flunitrazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Flunitrazepam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00472</drugbank-id>
+      <name>Fluoxetine</name>
+      <description>Opium may increase the serotonergic activities of Fluoxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00875</drugbank-id>
+      <name>Flupentixol</name>
+      <description>The risk or severity of adverse effects can be increased when Flupentixol is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00623</drugbank-id>
+      <name>Fluphenazine</name>
+      <description>The risk or severity of adverse effects can be increased when Fluphenazine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00690</drugbank-id>
+      <name>Flurazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Flurazepam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04842</drugbank-id>
+      <name>Fluspirilene</name>
+      <description>The risk or severity of adverse effects can be increased when Fluspirilene is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00588</drugbank-id>
+      <name>Fluticasone Propionate</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Fluticasone Propionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00176</drugbank-id>
+      <name>Fluvoxamine</name>
+      <description>The risk or severity of adverse effects can be increased when Fluvoxamine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01320</drugbank-id>
+      <name>Fosphenytoin</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Fosphenytoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06716</drugbank-id>
+      <name>Fospropofol</name>
+      <description>The risk or severity of adverse effects can be increased when Fospropofol is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00695</drugbank-id>
+      <name>Furosemide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Furosemide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00996</drugbank-id>
+      <name>Gabapentin</name>
+      <description>The risk or severity of adverse effects can be increased when Gabapentin is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08872</drugbank-id>
+      <name>gabapentin enacarbil</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with gabapentin enacarbil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00483</drugbank-id>
+      <name>Gallamine Triethiodide</name>
+      <description>The risk or severity of adverse effects can be increased when Gallamine Triethiodide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01440</drugbank-id>
+      <name>Gamma Hydroxybutyric Acid</name>
+      <description>The risk or severity of adverse effects can be increased when Gamma Hydroxybutyric Acid is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12184</drugbank-id>
+      <name>Gepirone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Gepirone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01437</drugbank-id>
+      <name>Glutethimide</name>
+      <description>The risk or severity of adverse effects can be increased when Glutethimide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00986</drugbank-id>
+      <name>Glycopyrronium</name>
+      <description>The risk or severity of adverse effects can be increased when Glycopyrronium is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01018</drugbank-id>
+      <name>Guanfacine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Guanfacine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00801</drugbank-id>
+      <name>Halazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Halazepam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00502</drugbank-id>
+      <name>Haloperidol</name>
+      <description>The risk or severity of adverse effects can be increased when Haloperidol is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01159</drugbank-id>
+      <name>Halothane</name>
+      <description>The risk or severity of adverse effects can be increased when Halothane is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01452</drugbank-id>
+      <name>Heroin</name>
+      <description>The risk or severity of adverse effects can be increased when Heroin is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08960</drugbank-id>
+      <name>Hexamethonium</name>
+      <description>The risk or severity of adverse effects can be increased when Hexamethonium is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01355</drugbank-id>
+      <name>Hexobarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Hexobarbital is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11181</drugbank-id>
+      <name>Homatropine</name>
+      <description>The risk or severity of adverse effects can be increased when Homatropine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00999</drugbank-id>
+      <name>Hydrochlorothiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Hydrochlorothiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00956</drugbank-id>
+      <name>Hydrocodone</name>
+      <description>Opium may increase the central nervous system depressant (CNS depressant) activities of Hydrocodone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00774</drugbank-id>
+      <name>Hydroflumethiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Hydroflumethiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00327</drugbank-id>
+      <name>Hydromorphone</name>
+      <description>The risk or severity of adverse effects can be increased when Hydromorphone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09352</drugbank-id>
+      <name>Hydroxyamphetamine</name>
+      <description>Hydroxyamphetamine hydrobromide may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00557</drugbank-id>
+      <name>Hydroxyzine</name>
+      <description>Hydroxyzine may increase the central nervous system depressant (CNS depressant) activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00424</drugbank-id>
+      <name>Hyoscyamine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyoscyamine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04946</drugbank-id>
+      <name>Iloperidone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Iloperidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00458</drugbank-id>
+      <name>Imipramine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Imipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08953</drugbank-id>
+      <name>Indalpine</name>
+      <description>Opium may increase the serotonergic activities of Indalpine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00808</drugbank-id>
+      <name>Indapamide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Indapamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00332</drugbank-id>
+      <name>Ipratropium bromide</name>
+      <description>The risk or severity of adverse effects can be increased when Ipratropium bromide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00753</drugbank-id>
+      <name>Isoflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Isoflurane is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09401</drugbank-id>
+      <name>Isosorbide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Isosorbide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01221</drugbank-id>
+      <name>Ketamine</name>
+      <description>The risk or severity of adverse effects can be increased when Ketamine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01587</drugbank-id>
+      <name>Ketazolam</name>
+      <description>The risk or severity of adverse effects can be increased when Ketazolam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06738</drugbank-id>
+      <name>Ketobemidone</name>
+      <description>The risk or severity of adverse effects can be increased when Ketobemidone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05360</drugbank-id>
+      <name>KW-3902</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with KW-3902.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00555</drugbank-id>
+      <name>Lamotrigine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Lamotrigine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01202</drugbank-id>
+      <name>Levetiracetam</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Levetiracetam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01002</drugbank-id>
+      <name>Levobupivacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Levobupivacaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01106</drugbank-id>
+      <name>Levocabastine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Levocabastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06282</drugbank-id>
+      <name>Levocetirizine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Levocetirizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01235</drugbank-id>
+      <name>Levodopa</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Levodopa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01227</drugbank-id>
+      <name>Levomethadyl Acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Levomethadyl Acetate is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08918</drugbank-id>
+      <name>Levomilnacipran</name>
+      <description>Opium may increase the serotonergic activities of Levomilnacipran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00854</drugbank-id>
+      <name>Levorphanol</name>
+      <description>The risk or severity of adverse effects can be increased when Levorphanol is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00281</drugbank-id>
+      <name>Lidocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Lidocaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01255</drugbank-id>
+      <name>Lisdexamfetamine</name>
+      <description>Lisdexamfetamine may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01356</drugbank-id>
+      <name>Lithium</name>
+      <description>The risk or severity of adverse effects can be increased when Lithium is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09174</drugbank-id>
+      <name>Lofentanil</name>
+      <description>The risk or severity of adverse effects can be increased when Lofentanil is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00455</drugbank-id>
+      <name>Loratadine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Loratadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00186</drugbank-id>
+      <name>Lorazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Lorazepam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00408</drugbank-id>
+      <name>Loxapine</name>
+      <description>The risk or severity of adverse effects can be increased when Loxapine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05700</drugbank-id>
+      <name>Lu AA21004</name>
+      <description>The risk or severity of adverse effects can be increased when Lu AA21004 is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08815</drugbank-id>
+      <name>Lurasidone</name>
+      <description>The risk or severity of adverse effects can be increased when Lurasidone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00653</drugbank-id>
+      <name>Magnesium Sulfate</name>
+      <description>Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00742</drugbank-id>
+      <name>Mannitol</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Mannitol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00934</drugbank-id>
+      <name>Maprotiline</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Maprotiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00657</drugbank-id>
+      <name>Mecamylamine</name>
+      <description>The risk or severity of adverse effects can be increased when Mecamylamine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00737</drugbank-id>
+      <name>Meclizine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Meclizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11428</drugbank-id>
+      <name>Medetomidine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Medetomidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01065</drugbank-id>
+      <name>Melatonin</name>
+      <description>The risk or severity of adverse effects can be increased when Melatonin is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09224</drugbank-id>
+      <name>Melperone</name>
+      <description>The risk or severity of adverse effects can be increased when Melperone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13108</drugbank-id>
+      <name>Mephedrone</name>
+      <description>Mephedrone may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01365</drugbank-id>
+      <name>Mephentermine</name>
+      <description>Mephentermine may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00961</drugbank-id>
+      <name>Mepivacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Mepivacaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00371</drugbank-id>
+      <name>Meprobamate</name>
+      <description>The risk or severity of adverse effects can be increased when Meprobamate is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09338</drugbank-id>
+      <name>Mersalyl</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Mersalyl.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00933</drugbank-id>
+      <name>Mesoridazine</name>
+      <description>The risk or severity of adverse effects can be increased when Mesoridazine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00660</drugbank-id>
+      <name>Metaxalone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Metaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00333</drugbank-id>
+      <name>Methadone</name>
+      <description>The risk or severity of adverse effects can be increased when Methadone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01433</drugbank-id>
+      <name>Methadyl Acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Methadyl Acetate is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01577</drugbank-id>
+      <name>Methamphetamine</name>
+      <description>Methamphetamine may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00940</drugbank-id>
+      <name>Methantheline</name>
+      <description>The risk or severity of adverse effects can be increased when Methantheline is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04819</drugbank-id>
+      <name>Methapyrilene</name>
+      <description>The risk or severity of adverse effects can be increased when Methapyrilene is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04833</drugbank-id>
+      <name>Methaqualone</name>
+      <description>The risk or severity of adverse effects can be increased when Methaqualone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00703</drugbank-id>
+      <name>Methazolamide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Methazolamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00423</drugbank-id>
+      <name>Methocarbamol</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Methocarbamol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00474</drugbank-id>
+      <name>Methohexital</name>
+      <description>The risk or severity of adverse effects can be increased when Methohexital is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01403</drugbank-id>
+      <name>Methotrimeprazine</name>
+      <description>Opium may increase the central nervous system depressant (CNS depressant) activities of Methotrimeprazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01028</drugbank-id>
+      <name>Methoxyflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Methoxyflurane is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05246</drugbank-id>
+      <name>Methsuximide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Methsuximide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00232</drugbank-id>
+      <name>Methyclothiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Methyclothiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09241</drugbank-id>
+      <name>Methylene blue</name>
+      <description>Methylene blue may increase the hypotensive activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00849</drugbank-id>
+      <name>Methylphenobarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Methylphenobarbital is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00340</drugbank-id>
+      <name>Metixene</name>
+      <description>The risk or severity of adverse effects can be increased when Metixene is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00524</drugbank-id>
+      <name>Metolazone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Metolazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00765</drugbank-id>
+      <name>Metyrosine</name>
+      <description>Opium may increase the sedative activities of Metyrosine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00683</drugbank-id>
+      <name>Midazolam</name>
+      <description>The risk or severity of adverse effects can be increased when Midazolam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04896</drugbank-id>
+      <name>Milnacipran</name>
+      <description>Opium may increase the serotonergic activities of Milnacipran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01017</drugbank-id>
+      <name>Minocycline</name>
+      <description>Minocycline may increase the central nervous system depressant (CNS depressant) activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00370</drugbank-id>
+      <name>Mirtazapine</name>
+      <description>Opium may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01442</drugbank-id>
+      <name>MMDA</name>
+      <description>MMDA may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01618</drugbank-id>
+      <name>Molindone</name>
+      <description>The risk or severity of adverse effects can be increased when Molindone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00680</drugbank-id>
+      <name>Moricizine</name>
+      <description>Moricizine may increase the hypotensive activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00295</drugbank-id>
+      <name>Morphine</name>
+      <description>The risk or severity of adverse effects can be increased when Morphine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11535</drugbank-id>
+      <name>N-butylscopolammonium bromide</name>
+      <description>The risk or severity of adverse effects can be increased when N-butylscopolammonium bromide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00486</drugbank-id>
+      <name>Nabilone</name>
+      <description>Nabilone may increase the central nervous system depressant (CNS depressant) activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00844</drugbank-id>
+      <name>Nalbuphine</name>
+      <description>Nalbuphine may decrease the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00704</drugbank-id>
+      <name>Naltrexone</name>
+      <description>The therapeutic efficacy of Opium can be decreased when used in combination with Naltrexone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01149</drugbank-id>
+      <name>Nefazodone</name>
+      <description>Opium may increase the serotonergic activities of Nefazodone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01595</drugbank-id>
+      <name>Nitrazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Nitrazepam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06690</drugbank-id>
+      <name>Nitrous oxide</name>
+      <description>The risk or severity of adverse effects can be increased when Nitrous oxide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13116</drugbank-id>
+      <name>Norflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with 1,1,1,2 Tetrafluoroethane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11609</drugbank-id>
+      <name>Normethadone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Normethadone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00540</drugbank-id>
+      <name>Nortriptyline</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Nortriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06583</drugbank-id>
+      <name>NVA237</name>
+      <description>The risk or severity of adverse effects can be increased when NVA237 is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00334</drugbank-id>
+      <name>Olanzapine</name>
+      <description>The risk or severity of adverse effects can be increased when Olanzapine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00768</drugbank-id>
+      <name>Olopatadine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Olopatadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00904</drugbank-id>
+      <name>Ondansetron</name>
+      <description>The risk or severity of adverse effects can be increased when Ondansetron is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01173</drugbank-id>
+      <name>Orphenadrine</name>
+      <description>Opium may increase the central nervous system depressant (CNS depressant) activities of Orphenadrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04872</drugbank-id>
+      <name>Osanetant</name>
+      <description>The risk or severity of adverse effects can be increased when Osanetant is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00842</drugbank-id>
+      <name>Oxazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Oxazepam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12532</drugbank-id>
+      <name>Oxetacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Oxetacaine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01580</drugbank-id>
+      <name>Oxprenolol</name>
+      <description>The risk or severity of adverse effects can be increased when Oxprenolol is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00892</drugbank-id>
+      <name>Oxybuprocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Oxybuprocaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01062</drugbank-id>
+      <name>Oxybutynin</name>
+      <description>The risk or severity of adverse effects can be increased when Oxybutynin is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00497</drugbank-id>
+      <name>Oxycodone</name>
+      <description>The risk or severity of adverse effects can be increased when Oxycodone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01192</drugbank-id>
+      <name>Oxymorphone</name>
+      <description>The risk or severity of adverse effects can be increased when Oxymorphone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00219</drugbank-id>
+      <name>Oxyphenonium</name>
+      <description>The risk or severity of adverse effects can be increased when Oxyphenonium is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01267</drugbank-id>
+      <name>Paliperidone</name>
+      <description>The risk or severity of adverse effects can be increased when Paliperidone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01337</drugbank-id>
+      <name>Pancuronium</name>
+      <description>The risk or severity of adverse effects can be increased when Pancuronium is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09117</drugbank-id>
+      <name>Paraldehyde</name>
+      <description>Opium may increase the central nervous system depressant (CNS depressant) activities of Paraldehyde.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00715</drugbank-id>
+      <name>Paroxetine</name>
+      <description>Opium may increase the serotonergic activities of Paroxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00082</drugbank-id>
+      <name>Pegvisomant</name>
+      <description>The therapeutic efficacy of Pegvisomant can be decreased when used in combination with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00652</drugbank-id>
+      <name>Pentazocine</name>
+      <description>Pentazocine may decrease the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00312</drugbank-id>
+      <name>Pentobarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Pentobarbital is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01090</drugbank-id>
+      <name>Pentolinium</name>
+      <description>The risk or severity of adverse effects can be increased when Pentolinium is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08883</drugbank-id>
+      <name>Perampanel</name>
+      <description>Perampanel may increase the central nervous system depressant (CNS depressant) activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12710</drugbank-id>
+      <name>Perazine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Perazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08922</drugbank-id>
+      <name>Perospirone</name>
+      <description>The risk or severity of adverse effects can be increased when Perospirone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00850</drugbank-id>
+      <name>Perphenazine</name>
+      <description>The risk or severity of adverse effects can be increased when Perphenazine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00454</drugbank-id>
+      <name>Pethidine</name>
+      <description>The risk or severity of adverse effects can be increased when Pethidine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01174</drugbank-id>
+      <name>Phenobarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Phenobarbital is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11304</drugbank-id>
+      <name>Phenoxyethanol</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Phenoxyethanol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00191</drugbank-id>
+      <name>Phentermine</name>
+      <description>Phentermine may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00252</drugbank-id>
+      <name>Phenytoin</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Phenytoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01100</drugbank-id>
+      <name>Pimozide</name>
+      <description>The risk or severity of adverse effects can be increased when Pimozide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09286</drugbank-id>
+      <name>Pipamperone</name>
+      <description>The risk or severity of adverse effects can be increased when Pipamperone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01338</drugbank-id>
+      <name>Pipecuronium</name>
+      <description>The risk or severity of adverse effects can be increased when Pipecuronium is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01621</drugbank-id>
+      <name>Pipotiazine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Pipotiazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00670</drugbank-id>
+      <name>Pirenzepine</name>
+      <description>The risk or severity of adverse effects can be increased when Pirenzepine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02925</drugbank-id>
+      <name>Piretanide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Piretanide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12492</drugbank-id>
+      <name>Piritramide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Piritramide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06153</drugbank-id>
+      <name>Pizotifen</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Pizotifen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01324</drugbank-id>
+      <name>Polythiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Polythiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08910</drugbank-id>
+      <name>Pomalidomide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Pomalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01345</drugbank-id>
+      <name>Potassium</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Potassium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09125</drugbank-id>
+      <name>Potassium Citrate</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Potassium Citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00413</drugbank-id>
+      <name>Pramipexole</name>
+      <description>Opium may increase the sedative activities of Pramipexole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09345</drugbank-id>
+      <name>Pramocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Pramocaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01588</drugbank-id>
+      <name>Prazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Prazepam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00230</drugbank-id>
+      <name>Pregabalin</name>
+      <description>The risk or severity of adverse effects can be increased when Pregabalin is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12308</drugbank-id>
+      <name>Pregnanolone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Pregnanolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00750</drugbank-id>
+      <name>Prilocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Prilocaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00794</drugbank-id>
+      <name>Primidone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Primidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00721</drugbank-id>
+      <name>Procaine</name>
+      <description>The risk or severity of adverse effects can be increased when Procaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00433</drugbank-id>
+      <name>Prochlorperazine</name>
+      <description>The risk or severity of adverse effects can be increased when Prochlorperazine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00387</drugbank-id>
+      <name>Procyclidine</name>
+      <description>The risk or severity of adverse effects can be increased when Procyclidine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00420</drugbank-id>
+      <name>Promazine</name>
+      <description>The risk or severity of adverse effects can be increased when Promazine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01069</drugbank-id>
+      <name>Promethazine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Promethazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00782</drugbank-id>
+      <name>Propantheline</name>
+      <description>The risk or severity of adverse effects can be increased when Propantheline is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00807</drugbank-id>
+      <name>Proparacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Proparacaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11540</drugbank-id>
+      <name>Propiopromazine</name>
+      <description>Propiopromazine may increase the hypotensive activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12278</drugbank-id>
+      <name>Propiverine</name>
+      <description>The risk or severity of adverse effects can be increased when Propiverine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00818</drugbank-id>
+      <name>Propofol</name>
+      <description>The risk or severity of adverse effects can be increased when Propofol is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09342</drugbank-id>
+      <name>Propoxycaine</name>
+      <description>The risk or severity of adverse effects can be increased when Propoxycaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00344</drugbank-id>
+      <name>Protriptyline</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Protriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06671</drugbank-id>
+      <name>PSD502</name>
+      <description>The risk or severity of adverse effects can be increased when PSD502 is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00852</drugbank-id>
+      <name>Pseudoephedrine</name>
+      <description>Pseudoephedrine may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01589</drugbank-id>
+      <name>Quazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Quazepam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01224</drugbank-id>
+      <name>Quetiapine</name>
+      <description>The risk or severity of adverse effects can be increased when Quetiapine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01325</drugbank-id>
+      <name>Quinethazone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Quinethazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00908</drugbank-id>
+      <name>Quinidine</name>
+      <description>The risk or severity of adverse effects can be increased when Quinidine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12518</drugbank-id>
+      <name>Raclopride</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Raclopride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00980</drugbank-id>
+      <name>Ramelteon</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Ramelteon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09290</drugbank-id>
+      <name>Ramosetron</name>
+      <description>Opium may increase the constipating activities of Ramosetron.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00899</drugbank-id>
+      <name>Remifentanil</name>
+      <description>The risk or severity of adverse effects can be increased when Remifentanil is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00409</drugbank-id>
+      <name>Remoxipride</name>
+      <description>The risk or severity of adverse effects can be increased when Remoxipride is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00206</drugbank-id>
+      <name>Reserpine</name>
+      <description>The risk or severity of adverse effects can be increased when Reserpine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00734</drugbank-id>
+      <name>Risperidone</name>
+      <description>The risk or severity of adverse effects can be increased when Risperidone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12693</drugbank-id>
+      <name>Ritanserin</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Ritanserin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12080</drugbank-id>
+      <name>Ritobegron</name>
+      <description>Ritobegron may increase the analgesic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12670</drugbank-id>
+      <name>Rolofylline</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Rolofylline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11543</drugbank-id>
+      <name>Romifidine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Romifidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00268</drugbank-id>
+      <name>Ropinirole</name>
+      <description>Opium may increase the sedative activities of Ropinirole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00296</drugbank-id>
+      <name>Ropivacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Ropivacaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05271</drugbank-id>
+      <name>Rotigotine</name>
+      <description>Opium may increase the sedative activities of Rotigotine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06201</drugbank-id>
+      <name>Rufinamide</name>
+      <description>The risk or severity of adverse effects can be increased when Rufinamide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02539</drugbank-id>
+      <name>S-Ethylisothiourea</name>
+      <description>The risk or severity of adverse effects can be increased when S-Ethylisothiourea is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11859</drugbank-id>
+      <name>SAGE-547</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Sage 547.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00747</drugbank-id>
+      <name>Scopolamine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Scopolamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09300</drugbank-id>
+      <name>Scopolamine butylbromide</name>
+      <description>The risk or severity of adverse effects can be increased when Scopolamine butylbromide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00418</drugbank-id>
+      <name>Secobarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Secobarbital is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06144</drugbank-id>
+      <name>Sertindole</name>
+      <description>The risk or severity of adverse effects can be increased when Sertindole is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01104</drugbank-id>
+      <name>Sertraline</name>
+      <description>Opium may increase the serotonergic activities of Sertraline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01236</drugbank-id>
+      <name>Sevoflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Sevoflurane is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09072</drugbank-id>
+      <name>Sodium oxybate</name>
+      <description>Sodium oxybate may increase the central nervous system depressant (CNS depressant) activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01591</drugbank-id>
+      <name>Solifenacin</name>
+      <description>The risk or severity of adverse effects can be increased when Solifenacin is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00421</drugbank-id>
+      <name>Spironolactone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Spironolactone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09118</drugbank-id>
+      <name>Stiripentol</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Stiripentol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00202</drugbank-id>
+      <name>Succinylcholine</name>
+      <description>Succinylcholine may increase the bradycardic activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00708</drugbank-id>
+      <name>Sufentanil</name>
+      <description>The risk or severity of adverse effects can be increased when Sufentanil is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00391</drugbank-id>
+      <name>Sulpiride</name>
+      <description>The risk or severity of adverse effects can be increased when Sulpiride is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09034</drugbank-id>
+      <name>Suvorexant</name>
+      <description>Opium may increase the central nervous system depressant (CNS depressant) activities of Suvorexant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12833</drugbank-id>
+      <name>Tandospirone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Tandospirone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06204</drugbank-id>
+      <name>Tapentadol</name>
+      <description>Tapentadol may increase the central nervous system depressant (CNS depressant) activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09071</drugbank-id>
+      <name>Tasimelteon</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Tasimelteon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00231</drugbank-id>
+      <name>Temazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Temazepam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04844</drugbank-id>
+      <name>Tetrabenazine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Tetrabenazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09085</drugbank-id>
+      <name>Tetracaine</name>
+      <description>The risk or severity of adverse effects can be increased when Tetracaine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05232</drugbank-id>
+      <name>Tetrodotoxin</name>
+      <description>The risk or severity of adverse effects can be increased when Tetrodotoxin is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01041</drugbank-id>
+      <name>Thalidomide</name>
+      <description>Opium may increase the central nervous system depressant (CNS depressant) activities of Thalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01412</drugbank-id>
+      <name>Theobromine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Theobromine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01154</drugbank-id>
+      <name>Thiamylal</name>
+      <description>The risk or severity of adverse effects can be increased when Thiamylal is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00372</drugbank-id>
+      <name>Thiethylperazine</name>
+      <description>Thiethylperazine may increase the hypotensive activities of Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00599</drugbank-id>
+      <name>Thiopental</name>
+      <description>The risk or severity of adverse effects can be increased when Thiopental is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00679</drugbank-id>
+      <name>Thioridazine</name>
+      <description>The risk or severity of adverse effects can be increased when Thioridazine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01623</drugbank-id>
+      <name>Thiothixene</name>
+      <description>The risk or severity of adverse effects can be increased when Thiothixene is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00906</drugbank-id>
+      <name>Tiagabine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Tiagabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13025</drugbank-id>
+      <name>Tiapride</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Tiapride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04831</drugbank-id>
+      <name>Ticrynafen</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Ticrynafen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11549</drugbank-id>
+      <name>Tiletamine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Tiletamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01409</drugbank-id>
+      <name>Tiotropium</name>
+      <description>The risk or severity of adverse effects can be increased when Tiotropium is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00697</drugbank-id>
+      <name>Tizanidine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Tizanidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00323</drugbank-id>
+      <name>Tolcapone</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Tolcapone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01036</drugbank-id>
+      <name>Tolterodine</name>
+      <description>The risk or severity of adverse effects can be increased when Tolterodine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06212</drugbank-id>
+      <name>Tolvaptan</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Tolvaptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00273</drugbank-id>
+      <name>Topiramate</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Topiramate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00214</drugbank-id>
+      <name>Torasemide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Torasemide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00193</drugbank-id>
+      <name>Tramadol</name>
+      <description>The risk or severity of adverse effects can be increased when Tramadol is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02665</drugbank-id>
+      <name>Trans-2-Phenylcyclopropylamine</name>
+      <description>The risk or severity of adverse effects can be increased when Trans-2-Phenylcyclopropylamine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00752</drugbank-id>
+      <name>Tranylcypromine</name>
+      <description>The risk or severity of adverse effects can be increased when Tranylcypromine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00656</drugbank-id>
+      <name>Trazodone</name>
+      <description>The risk or severity of adverse effects can be increased when Trazodone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00384</drugbank-id>
+      <name>Triamterene</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Triamterene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00897</drugbank-id>
+      <name>Triazolam</name>
+      <description>The risk or severity of adverse effects can be increased when Triazolam is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01021</drugbank-id>
+      <name>Trichlormethiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Trichlormethiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00831</drugbank-id>
+      <name>Trifluoperazine</name>
+      <description>The risk or severity of adverse effects can be increased when Trifluoperazine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00508</drugbank-id>
+      <name>Triflupromazine</name>
+      <description>The risk or severity of adverse effects can be increased when Triflupromazine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00376</drugbank-id>
+      <name>Trihexyphenidyl</name>
+      <description>The risk or severity of adverse effects can be increased when Trihexyphenidyl is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01116</drugbank-id>
+      <name>Trimethaphan</name>
+      <description>The risk or severity of adverse effects can be increased when Trimethaphan is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00726</drugbank-id>
+      <name>Trimipramine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Trimipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00427</drugbank-id>
+      <name>Triprolidine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Triprolidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00809</drugbank-id>
+      <name>Tropicamide</name>
+      <description>The risk or severity of adverse effects can be increased when Tropicamide is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00209</drugbank-id>
+      <name>Trospium</name>
+      <description>The risk or severity of adverse effects can be increased when Trospium is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01199</drugbank-id>
+      <name>Tubocurarine</name>
+      <description>The risk or severity of adverse effects can be increased when Tubocurarine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12972</drugbank-id>
+      <name>UC1010</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Uc1010.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05034</drugbank-id>
+      <name>Ularitide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Ularitide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09076</drugbank-id>
+      <name>Umeclidinium</name>
+      <description>The risk or severity of adverse effects can be increased when Umeclidinium is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00313</drugbank-id>
+      <name>Valproic Acid</name>
+      <description>The risk or severity of adverse effects can be increased when Valproic Acid is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01339</drugbank-id>
+      <name>Vecuronium</name>
+      <description>The risk or severity of adverse effects can be increased when Vecuronium is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00285</drugbank-id>
+      <name>Venlafaxine</name>
+      <description>Opium may increase the serotonergic activities of Venlafaxine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01080</drugbank-id>
+      <name>Vigabatrin</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Vigabatrin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09068</drugbank-id>
+      <name>Vortioxetine</name>
+      <description>The risk or severity of adverse effects can be increased when Vortioxetine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11477</drugbank-id>
+      <name>Xylazine</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Xylazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00962</drugbank-id>
+      <name>Zaleplon</name>
+      <description>The risk or severity of adverse effects can be increased when Zaleplon is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06283</drugbank-id>
+      <name>Ziconotide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Ziconotide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04832</drugbank-id>
+      <name>Zimelidine</name>
+      <description>Opium may increase the serotonergic activities of Zimelidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00246</drugbank-id>
+      <name>Ziprasidone</name>
+      <description>The risk or severity of adverse effects can be increased when Ziprasidone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11555</drugbank-id>
+      <name>Zolazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Zolazepam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00425</drugbank-id>
+      <name>Zolpidem</name>
+      <description>Opium may increase the central nervous system depressant (CNS depressant) activities of Zolpidem.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00909</drugbank-id>
+      <name>Zonisamide</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Zonisamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01198</drugbank-id>
+      <name>Zopiclone</name>
+      <description>The risk or severity of adverse effects can be increased when Zopiclone is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09225</drugbank-id>
+      <name>Zotepine</name>
+      <description>The risk or severity of adverse effects can be increased when Zotepine is combined with Opium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01624</drugbank-id>
+      <name>Zuclopenthixol</name>
+      <description>The risk or severity of adverse effects can be increased when Zuclopenthixol is combined with Opium.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>6897</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

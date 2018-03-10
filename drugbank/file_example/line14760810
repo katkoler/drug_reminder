@@ -1,0 +1,308 @@
+<drug type="small molecule" created="2016-04-28" updated="2016-08-17">
+  <drugbank-id primary="true">DB11590</drugbank-id>
+  <name>Thimerosal</name>
+  <description>Thiomersal (INN), commonly known in the U.S. as thimerosal, is an organomercury compound. This compound is a well established antiseptic and antifungal agent. The pharmaceutical corporation Eli Lilly and Company gave thiomersal the trade name Merthiolate. It has been used as a preservative in vaccines, immunoglobulin preparations, skin test antigens, antivenins and ophthalmic and nasal products.</description>
+  <cas-number>54-64-8</cas-number>
+  <unii>2225PI3MOV</unii>
+  <average-mass>404.81</average-mass>
+  <monoisotopic-mass>405.992720501</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of chemical entities known as o-sulfanylbenzoic acids. These are benzoic acids which bear a sulfanyl group (R-SH) attached to the benzene ring at positions 1 and 2, respectively.</description>
+    <direct-parent>O-sulfanylbenzoic acids</direct-parent>
+    <kingdom>Chemical entities</kingdom>
+    <superclass>Organic compounds</superclass>
+    <class>Benzenoids</class>
+    <subclass>Benzene and substituted derivatives</subclass>
+    <alternative-parent>Alkyl mercury compounds</alternative-parent>
+    <alternative-parent>Benzoic acids</alternative-parent>
+    <alternative-parent>Benzoyl derivatives</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organic salts</alternative-parent>
+    <alternative-parent>Organooxygen compounds</alternative-parent>
+    <alternative-parent>Organosulfur compounds</alternative-parent>
+    <alternative-parent>Transition metal alkyls</alternative-parent>
+    <substituent>Alkyl mercury compound</substituent>
+    <substituent>Aromatic homomonocyclic compound</substituent>
+    <substituent>Benzoic acid</substituent>
+    <substituent>Benzoyl</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>O-sulfanylbenzoic acid</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organic salt</substituent>
+    <substituent>Organic transition metal moeity</substituent>
+    <substituent>Organomercurial-compound</substituent>
+    <substituent>Organometallic compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Organosulfur compound</substituent>
+    <substituent>Transition metal alkyl</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">[(o-carboxyphenyl)thio]ethylmercury sodium salt</synonym>
+    <synonym language="" coder="">ethyl(2-mercaptobenzoato-S)mercury sodium salt</synonym>
+    <synonym language="" coder="">ethylmercurithiosalicylate sodium</synonym>
+    <synonym language="" coder="">ethylmercurithiosalicylic acid sodium salt</synonym>
+    <synonym language="" coder="">mercurothiolate</synonym>
+    <synonym language="" coder="">o-(ethylmercurithio)benzoic acid sodium salt</synonym>
+    <synonym language="" coder="">sodium ethylmercurithiosalicylate</synonym>
+    <synonym language="" coder="">sodium merthiolate</synonym>
+    <synonym language="" coder="">Thiomersal</synonym>
+    <synonym language="" coder="">thiomersalate</synonym>
+    <synonym language="Latin" coder="">Thiomersalum</synonym>
+    <synonym language="Spanish" coder="">Tiomersal</synonym>
+  </synonyms>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Alkylmercury Compounds</category>
+      <mesh-id>D000479</mesh-id>
+    </category>
+    <category>
+      <category>Antiseptics and Disinfectants</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Dermatologicals</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Ethylmercury Compounds</category>
+      <mesh-id>D005035</mesh-id>
+    </category>
+    <category>
+      <category>Mercurial Products</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Organomercury Compounds</category>
+      <mesh-id>D009941</mesh-id>
+    </category>
+    <category>
+      <category>Organometallic Compounds</category>
+      <mesh-id>D009942</mesh-id>
+    </category>
+    <category>
+      <category>Pharmaceutic Aids</category>
+      <mesh-id>D010592</mesh-id>
+    </category>
+    <category>
+      <category>Pharmaceutical Preparations</category>
+      <mesh-id>D004364</mesh-id>
+    </category>
+    <category>
+      <category>Preservatives, Pharmaceutical</category>
+      <mesh-id>D011310</mesh-id>
+    </category>
+    <category>
+      <category>Specialty Uses of Chemicals</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes>
+    <atc-code code="D08AK06">
+      <level code="D08AK">Mercurial products</level>
+      <level code="D08A">ANTISEPTICS AND DISINFECTANTS</level>
+      <level code="D08">ANTISEPTICS AND DISINFECTANTS</level>
+      <level code="D">DERMATOLOGICALS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>2.58</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-1.8</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>6.17e+00 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>3.26</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>ethyl({2-[(sodiooxy)carbonyl]phenyl}sulfanyl)mercury</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>ethyl({2-[(sodiooxy)carbonyl]phenyl}sulfanyl)mercury</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>404.81</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>405.992720501</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CC[Hg]SC1=CC=CC=C1C(=O)O[Na]</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C9H9HgNaO2S</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C7H6O2S.C2H5.Hg.Na/c8-7(9)5-3-1-2-4-6(5)10;1-2;;/h1-4,10H,(H,8,9);1H2,2H3;;/q;;2*+1/p-2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>RTKIYNMVFMVABJ-UHFFFAOYSA-L</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>26.3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>48.06</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>22.45</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-6.6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>9546</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D00864</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Thiomersal</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

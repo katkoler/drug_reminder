@@ -1,0 +1,758 @@
+<drug type="small molecule" created="2017-02-11" updated="2017-02-11">
+  <drugbank-id primary="true">DB13166</drugbank-id>
+  <name>Zofenopril</name>
+  <description>Zofenopril is a medication that protects the heart and helps reduce high blood pressure. It is an angiotensin-converting enzyme (ACE) inhibitor.</description>
+  <cas-number>81872-10-8</cas-number>
+  <unii>290ZY759PI</unii>
+  <average-mass>429.55</average-mass>
+  <monoisotopic-mass>429.106850573</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>experimental</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>18046976</pubmed-id>
+        <citation>Nilsson P: Antihypertensive efficacy of zofenopril compared with atenolol in patients with mild to moderate hypertension. Blood Press Suppl. 2007 Oct;2:25-30.</citation>
+      </article>
+      <article>
+        <pubmed-id>18046974</pubmed-id>
+        <citation>Mallion JM: An evaluation of the initial and long-term antihypertensive efficacy of zofenopril compared with enalapril in mild to moderate hypertension. Blood Press Suppl. 2007 Oct;2:13-8.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as proline and derivatives. These are compounds containing proline or a derivative thereof resulting from reaction of proline at the amino group or the carboxy group, or from the replacement of any hydrogen of glycine by a heteroatom.</description>
+    <direct-parent>Proline and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic acids and derivatives</superclass>
+    <class>Carboxylic acids and derivatives</class>
+    <subclass>Amino acids, peptides, and analogues</subclass>
+    <alternative-parent>Alkylarylthioethers</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Benzoic acids and derivatives</alternative-parent>
+    <alternative-parent>Benzoyl derivatives</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carbothioic S-esters</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>N-acyl-L-alpha-amino acids</alternative-parent>
+    <alternative-parent>N-acylpyrrolidines</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organonitrogen compounds</alternative-parent>
+    <alternative-parent>Pyrrolidine carboxylic acids</alternative-parent>
+    <alternative-parent>Sulfenyl compounds</alternative-parent>
+    <alternative-parent>Tertiary carboxylic acid amides</alternative-parent>
+    <alternative-parent>Thiobenzoic acids and derivatives</alternative-parent>
+    <alternative-parent>Thioesters</alternative-parent>
+    <alternative-parent>Thiophenol ethers</alternative-parent>
+    <substituent>Alkylarylthioether</substituent>
+    <substituent>Aromatic heteromonocyclic compound</substituent>
+    <substituent>Aryl thioether</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Benzoic acid or derivatives</substituent>
+    <substituent>Benzoyl</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carbothioic s-ester</substituent>
+    <substituent>Carboxamide group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>Monocyclic benzene moiety</substituent>
+    <substituent>N-acyl-alpha amino acid or derivatives</substituent>
+    <substituent>N-acyl-alpha-amino acid</substituent>
+    <substituent>N-acyl-l-alpha-amino acid</substituent>
+    <substituent>N-acylpyrrolidine</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organoheterocyclic compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Organosulfur compound</substituent>
+    <substituent>Proline or derivatives</substituent>
+    <substituent>Pyrrolidine</substituent>
+    <substituent>Pyrrolidine carboxylic acid</substituent>
+    <substituent>Pyrrolidine carboxylic acid or derivatives</substituent>
+    <substituent>Sulfenyl compound</substituent>
+    <substituent>Tertiary carboxylic acid amide</substituent>
+    <substituent>Thiobenzoic acid or derivatives</substituent>
+    <substituent>Thiocarboxylic acid ester</substituent>
+    <substituent>Thiocarboxylic acid or derivatives</substituent>
+    <substituent>Thioether</substituent>
+    <substituent>Thiophenol ether</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT002196</drugbank-id>
+      <name>Zofenopril calcium</name>
+      <unii>88ZQ329PU2</unii>
+      <cas-number>81938-43-4</cas-number>
+      <inchikey>NSYUKKYYVFVMST-LETVYOFWSA-L</inchikey>
+      <average-mass>897.16</average-mass>
+      <monoisotopic-mass>896.160642</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">Zofenil</synonym>
+    <synonym language="French" coder="">Zofénopril</synonym>
+    <synonym language="Spanish" coder="">Zofenopril</synonym>
+    <synonym language="Latin" coder="">Zofenoprilum</synonym>
+  </synonyms>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>ACE Inhibitors, Plain</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Acids, Acyclic</category>
+      <mesh-id>D000144</mesh-id>
+    </category>
+    <category>
+      <category>Agents Acting on the Renin-Angiotensin System</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Amino Acids</category>
+      <mesh-id>D000596</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Cyclic</category>
+      <mesh-id>D000598</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Angiotensin-Converting Enzyme Inhibitors</category>
+      <mesh-id>D000806</mesh-id>
+    </category>
+    <category>
+      <category>Antihypertensive Agents</category>
+      <mesh-id>D000959</mesh-id>
+    </category>
+    <category>
+      <category>Carboxylic Acids</category>
+      <mesh-id>D002264</mesh-id>
+    </category>
+    <category>
+      <category>Cardiovascular Agents</category>
+      <mesh-id>D002317</mesh-id>
+    </category>
+    <category>
+      <category>Cardiovascular System</category>
+      <mesh-id>D002319</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Enzyme Inhibitors</category>
+      <mesh-id>D004791</mesh-id>
+    </category>
+    <category>
+      <category>Imines</category>
+      <mesh-id>D007097</mesh-id>
+    </category>
+    <category>
+      <category>Imino Acids</category>
+      <mesh-id>D007098</mesh-id>
+    </category>
+    <category>
+      <category>Molecular Mechanisms of Pharmacological Action</category>
+      <mesh-id>D045504</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Proline</category>
+      <mesh-id>D011392</mesh-id>
+    </category>
+    <category>
+      <category>Protease Inhibitors</category>
+      <mesh-id>D011480</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes>
+    <atc-code code="C09BA15">
+      <level code="C09BA">ACE inhibitors and diuretics</level>
+      <level code="C09B">ACE INHIBITORS, COMBINATIONS</level>
+      <level code="C09">AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM</level>
+      <level code="C">CARDIOVASCULAR SYSTEM</level>
+    </atc-code>
+    <atc-code code="C09AA15">
+      <level code="C09AA">ACE inhibitors, plain</level>
+      <level code="C09A">ACE INHIBITORS, PLAIN</level>
+      <level code="C09">AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM</level>
+      <level code="C">CARDIOVASCULAR SYSTEM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>3.64</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-5.1</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>3.11e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>4.31</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(2S,4S)-1-[(2S)-3-(benzoylsulfanyl)-2-methylpropanoyl]-4-(phenylsulfanyl)pyrrolidine-2-carboxylic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>zofenopril</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>429.55</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>429.106850573</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[H][C@@](C)(CSC(=O)C1=CC=CC=C1)C(=O)N1C[C@]([H])(C[C@@]1([H])C(O)=O)SC1=CC=CC=C1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C22H23NO4S2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C22H23NO4S2/c1-15(14-28-22(27)16-8-4-2-5-9-16)20(24)23-13-18(12-19(23)21(25)26)29-17-10-6-3-7-11-17/h2-11,15,18-19H,12-14H2,1H3,(H,25,26)/t15-,18+,19+/m1/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>IAIDUHCBNLFXEF-MNEFBYGVSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>74.68</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>116.82</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>44.25</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>8</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>3.5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-1.3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>78539</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D08688</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Zofenopril</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL331378</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000221</id>
+      <name>Angiotensin-converting enzyme</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>17355163</pubmed-id>
+            <citation>Ambrosioni E: Defining the role of zofenopril in the management of hypertension and ischemic heart disorders. Am J Cardiovasc Drugs. 2007;7(1):17-24.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P12821" source="Swiss-Prot">
+    <name>Angiotensin-converting enzyme</name>
+    <general-function>Zinc ion binding</general-function>
+    <specific-function>Converts angiotensin I to angiotensin II by release of the terminal His-Leu, this results in an increase of the vasoconstrictor activity of angiotensin. Also able to inactivate bradykinin, a potent vasodilator. Has also a glycosidase activity which releases GPI-anchored proteins from the membrane by cleaving the mannose linkage in the GPI moiety.</specific-function>
+    <gene-name>ACE</gene-name>
+    <locus>17q23.3</locus>
+    <cellular-location>Secreted</cellular-location>
+    <transmembrane-regions>1257-1277</transmembrane-regions>
+    <signal-regions>1-29</signal-regions>
+    <theoretical-pi>6.36</theoretical-pi>
+    <molecular-weight>149713.675</molecular-weight>
+    <chromosome-location>17</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2707</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>ACE</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>J04144</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>178286</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1613</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P12821</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>ACE_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>3.2.1.-</synonym>
+      <synonym>ACE</synonym>
+      <synonym>DCP</synonym>
+      <synonym>DCP1</synonym>
+      <synonym>Dipeptidyl carboxypeptidase I</synonym>
+      <synonym>Kininase II</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000441|Angiotensin-converting enzyme
+MGAASGRRGPGLLLPLPLLLLLPPQPALALDPGLQPGNFSADEAGAQLFAQSYNSSAEQV
+LFQSVAASWAHDTNITAENARRQEEAALLSQEFAEAWGQKAKELYEPIWQNFTDPQLRRI
+IGAVRTLGSANLPLAKRQQYNALLSNMSRIYSTAKVCLPNKTATCWSLDPDLTNILASSR
+SYAMLLFAWEGWHNAAGIPLKPLYEDFTALSNEAYKQDGFTDTGAYWRSWYNSPTFEDDL
+EHLYQQLEPLYLNLHAFVRRALHRRYGDRYINLRGPIPAHLLGDMWAQSWENIYDMVVPF
+PDKPNLDVTSTMLQQGWNATHMFRVAEEFFTSLELSPMPPEFWEGSMLEKPADGREVVCH
+ASAWDFYNRKDFRIKQCTRVTMDQLSTVHHEMGHIQYYLQYKDLPVSLRRGANPGFHEAI
+GDVLALSVSTPEHLHKIGLLDRVTNDTESDINYLLKMALEKIAFLPFGYLVDQWRWGVFS
+GRTPPSRYNFDWWYLRTKYQGICPPVTRNETHFDAGAKFHVPNVTPYIRYFVSFVLQFQF
+HEALCKEAGYEGPLHQCDIYRSTKAGAKLRKVLQAGSSRPWQEVLKDMVGLDALDAQPLL
+KYFQPVTQWLQEQNQQNGEVLGWPEYQWHPPLPDNYPEGIDLVTDEAEASKFVEEYDRTS
+QVVWNEYAEANWNYNTNITTETSKILLQKNMQIANHTLKYGTQARKFDVNQLQNTTIKRI
+IKKVQDLERAALPAQELEEYNKILLDMETTYSVATVCHPNGSCLQLEPDLTNVMATSRKY
+EDLLWAWEGWRDKAGRAILQFYPKYVELINQAARLNGYVDAGDSWRSMYETPSLEQDLER
+LFQELQPLYLNLHAYVRRALHRHYGAQHINLEGPIPAHLLGNMWAQTWSNIYDLVVPFPS
+APSMDTTEAMLKQGWTPRRMFKEADDFFTSLGLLPVPPEFWNKSMLEKPTDGREVVCHAS
+AWDFYNGKDFRIKQCTTVNLEDLVVAHHEMGHIQYFMQYKDLPVALREGANPGFHEAIGD
+VLALSVSTPKHLHSLNLLSSEGGSDEHDINFLMKMALDKIAFIPFSYLVDQWRWRVFDGS
+ITKENYNQEWWSLRLKYQGLCPPVPRTQGDFDPGAKFHIPSSVPYIRYFVSFIIQFQFHE
+ALCQAAGHTGPLHKCDIYQSKEAGQRLATAMKLGFSRPWPEAMQLITGQPNMSASAMLSY
+FKPLLDWLRTENELHGEKLGWPQYNWTPNSARSEGPLPDSGRVSFLGLDLDAQQARVGQW
+LLLFLGIALLVATLGLSQRLFSIRHRSLHRHSHGPQFGSEVELRHS</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0018929|Angiotensin-converting enzyme (ACE)
+ATGGGGGCCGCCTCGGGCCGCCGGGGGCCGGGGCTGCTGCTGCCGCTGCCGCTGCTGTTG
+CTGCTGCCGCCGCAGCCCGCCCTGGCGTTGGACCCCGGGCTGCAGCCCGGCAACTTTTCT
+GCTGACGAGGCCGGGGCGCAGCTCTTCGCGCAGAGCTACAACTCCAGCGCCGAACAGGTG
+CTGTTCCAGAGCGTGGCCGCCAGCTGGGCGCACGACACCAACATCACCGCGGAGAATGCA
+AGGCGCCAGGAGGAAGCAGCCCTGCTCAGCCAGGAGTTTGCGGAGGCCTGGGGCCAGAAG
+GCCAAGGAGCTGTATGAACCGATCTGGCAGAACTTCACGGACCCGCAGCTGCGCAGGATC
+ATCGGAGCTGTGCGCACCCTGGGCTCTGCCAACCTGCCCCTGGCTAAGCGGCAGCAGTAC
+AACGCCCTGCTAAGCAACATGAGCAGGATCTACTCCACCGCCAAGGTCTGCCTCCCCAAC
+AAGACTGCCACCTGCTGGTCCCTGGACCCAGATCTCACCAACATCCTGGCTTCCTCGCGA
+AGCTACGCCATGCTCCTGTTTGCCTGGGAGGGCTGGCACAACGCTGCGGGCATCCCGCTG
+AAACCGCTGTACGAGGATTTCACTGCCCTCAGCAATGAAGCCTACAAGCAGGACGGCTTC
+ACAGACACGGGGGCCTACTGGCGCTCCTGGTACAACTCCCCCACCTTCGAGGACGATCTG
+GAACACCTCTACCAACAGCTAGAGCCCCTCTACCTGAACCTCCATGCCTTCGTCCGCCGC
+GCACTGCATCGCCGATACGGAGACAGATACATCAACCTCAGGGGACCCATCCCTGCTCAT
+CTGCTGGGAGACATGTGGGCCCAGAGCTGGGAAAACATCTACGACATGGTGGTGCCTTTC
+CCAGACAAGCCCAACCTCGATGTCACCAGTACTATGCTGCAGCAGGGCTGGAACGCCACG
+CACATGTTCCGGGTGGCAGAGGAGTTCTTCACCTCCCTGGAGCTCTCCCCCATGCCTCCC
+GAGTTCTGGGAAGGGTCGATGCTGGAGAAGCCGGCCGACGGGCGGGAAGTGGTGTGCCAC
+GCCTCGGCTTGGGACTTCTACAACAGGAAAGACTTCAGGATCAAGCAGTGCACACGGGTC
+ACGATGGACCAGCTCTCCACAGTGCACCATGAGATGGGCCATATACAGTACTACCTGCAG
+TACAAGGATCTGCCCGTCTCCCTGCGTCGGGGGGCCAACCCCGGCTTCCATGAGGCCATT
+GGGGACGTGCTGGCGCTCTCGGTCTCCACTCCTGAACATCTGCACAAAATCGGCCTGCTG
+GACCGTGTCACCAATGACACGGAAAGTGACATCAATTACTTGCTAAAAATGGCACTGGAA
+AAAATTGCCTTCCTGCCCTTTGGCTACTTGGTGGACCAGTGGCGCTGGGGGGTCTTTAGT
+GGGCGTACCCCCCCTTCCCGCTACAACTTCGACTGGTGGTATCTTCGAACCAAGTATCAG
+GGGATCTGTCCTCCTGTTACCCGAAACGAAACCCACTTTGATGCTGGAGCTAAGTTTCAT
+GTTCCAAATGTGACACCATACATCAGGTACTTTGTGAGTTTTGTCCTGCAGTTCCAGTTC
+CATGAAGCCCTGTGCAAGGAGGCAGGCTATGAGGGCCCACTGCACCAGTGTGACATCTAC
+CGGTCCACCAAGGCAGGGGCCAAGCTCCGGAAGGTGCTGCAGGCTGGCTCCTCCAGGCCC
+TGGCAGGAGGTGCTGAAGGACATGGTCGGCTTAGATGCCCTGGATGCCCAGCCGCTGCTC
+AAGTACTTCCAGCCAGTCACCCAGTGGCTGCAGGAGCAGAACCAGCAGAACGGCGAGGTC
+CTGGGCTGGCCCGAGTACCAGTGGCACCCGCCGTTGCCTGACAACTACCCGGAGGGCATA
+GACCTGGTGACTGATGAGGCTGAGGCCAGCAAGTTTGTGGAGGAATATGACCGGACATCC
+CAGGTGGTGTGGAACGAGTATGCCGAGGCCAACTGGAACTACAACACCAACATCACCACA
+GAGACCAGCAAGATTCTGCTGCAGAAGAACATGCAAATAGCCAACCACACCCTGAAGTAC
+GGCACCCAGGCCAGGAAGTTTGATGTGAACCAGTTGCAGAACACCACTATCAAGCGGATC
+ATAAAGAAGGTTCAGGACCTAGAACGGGCAGCACTGCCTGCCCAGGAGCTGGAGGAGTAC
+AACAAGATCCTGTTGGATATGGAAACCACCTACAGCGTGGCCACTGTGTGCCACCCGAAT
+GGCAGCTGCCTGCAGCTCGAGCCAGATCTGACGAATGTGATGGCCACGTCCCGGAAATAT
+GAAGACCTGTTATGGGCATGGGAGGGCTGGCGAGACAAGGCGGGGAGAGCCATCCTCCAG
+TTTTACCCGAAATACGTGGAACTCATCAACCAGGCTGCCCGGCTCAATGGCTATGTAGAT
+GCAGGGGACTCGTGGAGGTCTATGTACGAGACACCATCCCTGGAGCAAGACCTGGAGCGG
+CTCTTCCAGGAGCTGCAGCCACTCTACCTCAACCTGCATGCCTACGTGCGCCGGGCCCTG
+CACCGTCACTACGGGGCCCAGCACATCAACCTGGAGGGGCCCATTCCTGCTCACCTGCTG
+GGGAACATGTGGGCGCAGACCTGGTCCAACATCTATGACTTGGTGGTGCCCTTCCCTTCA
+GCCCCCTCGATGGACACCACAGAGGCTATGCTAAAGCAGGGCTGGACGCCCAGGAGGATG
+TTTAAGGAGGCTGATGATTTCTTCACCTCCCTGGGGCTGCTGCCCGTGCCTCCTGAGTTC
+TGGAACAAGTCGATGCTGGAGAAGCCAACCGACGGGCGGGAGGTGGTCTGCCACGCCTCG
+GCCTGGGACTTCTACAACGGCAAGGACTTCCGGATCAAGCAGTGCACCACCGTGAACTTG
+GAGGACCTGGTGGTGGCCCACCACGAAATGGGCCACATCCAGTATTTCATGCAGTACAAA
+GACTTACCTGTGGCCTTGAGGGAGGGTGCCAACCCCGGCTTCCATGAGGCCATTGGGGAC
+GTGCTAGCCCTCTCAGTGTCTACGCCCAAGCACCTGCACAGTCTCAACCTGCTGAGCAGT
+GAGGGTGGCAGCGACGAGCATGACATCAACTTTCTGATGAAGATGGCCCTTGACAAGATC
+GCCTTTATCCCCTTCAGCTACCTCGTCGATCAGTGGCGCTGGAGGGTATTTGATGGAAGC
+ATCACCAAGGAGAACTATAACCAGGAGTGGTGGAGCCTCAGGCTGAAGTACCAGGGCCTC
+TGCCCCCCAGTGCCCAGGACTCAAGGTGACTTTGACCCAGGGGCCAAGTTCCACATTCCT
+TCTAGCGTGCCTTACATCAGGTACTTTGTCAGCTTCATCATCCAGTTCCAGTTCCACGAG
+GCACTGTGCCAGGCAGCTGGCCACACGGGCCCCCTGCACAAGTGTGACATCTACCAGTCC
+AAGGAGGCCGGGCAGCGCCTGGCGACCGCCATGAAGCTGGGCTTCAGTAGGCCGTGGCCG
+GAAGCCATGCAGCTGATCACGGGCCAGCCCAACATGAGCGCCTCGGCCATGTTGAGCTAC
+TTCAAGCCGCTGCTGGACTGGCTCCGCACGGAGAACGAGCTGCATGGGGAGAAGCTGGGC
+TGGCCGCAGTACAACTGGACGCCGAACTCCGCTCGCTCAGAAGGGCCCCTCCCAGACAGC
+GGCCGCGTCAGCTTCCTGGGCCTGGACCTGGATGCGCAGCAGGCCCGCGTGGGCCAGTGG
+CTGCTGCTCTTCCTGGGCATCGCCCTGCTGGTAGCCACCCTGGGCCTCAGCCAGCGGCTC
+TTCAGCATCCGCCACCGCAGCCTCCACCGGCACTCCCACGGGCCCCAGTTCGGCTCCGAG
+GTGGAGCTGAGACACTCCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF01401</identifier>
+        <name>Peptidase_M2</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular space</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>lysosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular region</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>external side of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>exopeptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>peptidyl-dipeptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>carboxypeptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>bradykinin receptor binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>mitogen-activated protein kinase kinase binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>tripeptidyl-peptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>drug binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>chloride ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>actin binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>zinc ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>endopeptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>mitogen-activated protein kinase binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>metallopeptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>blood vessel remodeling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular protein metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of smooth muscle cell migration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>arachidonic acid secretion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hematopoietic stem cell differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>antigen processing and presentation of peptide antigen via MHC class I</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>kidney development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of protein tyrosine kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of systemic arterial blood pressure by renin-angiotensin</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>peptide catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell proliferation in bone marrow</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of vasodilation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>angiotensin catabolic process in blood</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of vasoconstriction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>mononuclear cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of gap junction assembly</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>angiotensin maturation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hormone catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of peptidyl-cysteine S-nitrosylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>beta-amyloid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heart contraction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of peptidyl-tyrosine autophosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of blood pressure</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of hematopoietic stem cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of angiotensin metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>spermatogenesis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>neutrophil mediated immunity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of renal output by angiotensin</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

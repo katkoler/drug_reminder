@@ -1,0 +1,1419 @@
+<drug type="small molecule" created="2015-12-03" updated="2016-11-03">
+  <drugbank-id primary="true">DB11093</drugbank-id>
+  <name>Calcium citrate</name>
+  <description/>
+  <cas-number>813-94-5</cas-number>
+  <unii>86117BWO7P</unii>
+  <average-mass>498.432</average-mass>
+  <monoisotopic-mass>497.8948277</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as tricarboxylic acids and derivatives. These are carboxylic acids containing exactly three carboxyl groups.</description>
+    <direct-parent>Tricarboxylic acids and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic acids and derivatives</superclass>
+    <class>Carboxylic acids and derivatives</class>
+    <subclass>Tricarboxylic acids and derivatives</subclass>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carboxylic acid salts</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Organic calcium salts</alternative-parent>
+    <alternative-parent>Organic cations</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Tertiary alcohols</alternative-parent>
+    <substituent>Alcohol</substituent>
+    <substituent>Aliphatic acyclic compound</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Carboxylic acid salt</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Organic calcium salt</substituent>
+    <substituent>Organic cation</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organic salt</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Tertiary alcohol</substituent>
+    <substituent>Tricarboxylic acid or derivatives</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001949</drugbank-id>
+      <name>Calcium citrate tetrahydrate</name>
+      <unii>MLM29U2X85</unii>
+      <cas-number>5785-44-4</cas-number>
+      <inchikey>LNIZKKFWMDARJV-UHFFFAOYSA-H</inchikey>
+      <average-mass>570.492</average-mass>
+      <monoisotopic-mass>569.9370864</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">tricalcium citrate</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Calcium Citrate Tab 350mg</name>
+      <labeller>Gahler Enterprises Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00730521</dpd-id>
+      <started-marketing-on>1987-12-31</started-marketing-on>
+      <ended-marketing-on>2007-08-07</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>350 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Calcium Citrate W Vitamin D Tab</name>
+      <labeller>Nutri Dyn Products Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00753777</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-09</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Citracal Liquitab - Evt</name>
+      <labeller>Mission Pharmacal</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02150166</dpd-id>
+      <started-marketing-on>1996-12-17</started-marketing-on>
+      <ended-marketing-on>2003-07-15</ended-marketing-on>
+      <dosage-form>Tablet, effervescent</dosage-form>
+      <strength>500 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Citranatal B-calm</name>
+      <labeller>Mission Pharmacal</labeller>
+      <ndc-id/>
+      <ndc-product-code>0178-0866</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-02-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Citranatal DHA</name>
+      <labeller>Mission Pharmacal</labeller>
+      <ndc-id/>
+      <ndc-product-code>0178-0898</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-11-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Citranatal Harmony 2.1</name>
+      <labeller>Mission Pharmacal</labeller>
+      <ndc-id/>
+      <ndc-product-code>0178-0797</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-01-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA0123456</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Citranatal Harmony 3.0</name>
+      <labeller>Mission Pharmacal</labeller>
+      <ndc-id/>
+      <ndc-product-code>0178-0796</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-03-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Citranatal Rx</name>
+      <labeller>Mission Pharmacal</labeller>
+      <ndc-id/>
+      <ndc-product-code>0178-0858</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-08-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Citranatal Rx</name>
+      <labeller>Mission Pharmacal</labeller>
+      <ndc-id/>
+      <ndc-product-code>0178-0859</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-11-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Foltabs Prenatal</name>
+      <labeller>Midlothian Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>68308-165</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Inatal Ultra</name>
+      <labeller>Nnodum Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>63044-154</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2005-06-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Prenaissance Plus</name>
+      <labeller>Acella Pharmaceuticals, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>42192-343</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-09-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, liquid filled</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Prenatal Chelated Mineral</name>
+      <labeller>Usana Health Sciences, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>51861-102</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-04-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Usana Active Calcium</name>
+      <labeller>Usana Health Sciences, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>51861-020</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-03-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part331</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vp Ch Plus</name>
+      <labeller>Virtus Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>76439-242</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-04-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vp Ch Ultra</name>
+      <labeller>Virtus Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>76439-274</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-04-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vp-CH-pnv</name>
+      <labeller>Virtus Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>76439-224</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-03-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Zatean-CH</name>
+      <labeller>Trigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>13811-583</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-11-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Citranatal Harmony 2.1</name>
+      <ingredients>Calcium citrate + Iron</ingredients>
+    </mixture>
+    <mixture>
+      <name>Citranatal Rx</name>
+      <ingredients>Vitamin C + Calcium citrate + Iron + Vitamin d + Vitamin E + Thiamine + Riboflavin + Nicotinamide + Pyridoxine + Folic Acid + Potassium Iodide + Zinc oxide + Cupric oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Citranatal Rx</name>
+      <ingredients>Vitamin C + Calcium citrate + Iron + Vitamin d + Vitamin E + Thiamine + Riboflavin + Nicotinamide + Pyridoxine + Folic Acid + Potassium Iodide + Zinc oxide + Cupric oxide + Docusate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Citranatal DHA</name>
+      <ingredients>Vitamin C + Calcium citrate + Iron + Vitamin d + Vitamin E + Thiamine + Riboflavin + Nicotinamide + Pyridoxine + Folic Acid + Potassium Iodide + Zinc oxide + Cupric oxide + Docusate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Usana Active Calcium</name>
+      <ingredients>Calcium carbonate + Magnesium oxide + Cholecalciferol + Calcium citrate + Magnesium citrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Prenatal Chelated Mineral</name>
+      <ingredients>Calcium citrate + Calcium carbonate + Potassium Iodide + Magnesium citrate + Zinc citrate + Copper gluconate + Iron</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Citrate W Vitamin D Tab</name>
+      <ingredients>Ergocalciferol + Calcium citrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Citracal Liquitab - Evt</name>
+      <ingredients>Calcium citrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Calcium Citrate Tab 350mg</name>
+      <ingredients>Calcium citrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zatean-CH</name>
+      <ingredients>Calcium citrate + Iron + Cholecalciferol + Vitamin E + Pyridoxine + Folic Acid + Docusate + Doconexent</ingredients>
+    </mixture>
+    <mixture>
+      <name>Citranatal B-calm</name>
+      <ingredients>Vitamin C + Calcium citrate + Iron + Cholecalciferol + Pyridoxine + Folic Acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Prenaissance Plus</name>
+      <ingredients>Calcium citrate + Iron + Cholecalciferol + Vitamin E + Pyridoxine + Folic Acid + Docusate + Doconexent</ingredients>
+    </mixture>
+    <mixture>
+      <name>Inatal Ultra</name>
+      <ingredients>Vitamin A + Vitamin C + Calcium citrate + Iron + Cholecalciferol + Vitamin E + Thiamine + Riboflavin + Nicotinamide + Pyridoxine + Folic Acid + Cyanocobalamin + Potassium Iodide + Zinc oxide + Cupric oxide + Docusate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Foltabs Prenatal</name>
+      <ingredients>Potassium Iodide + Iron + Iron + Docusate + Thiamine + Riboflavin + Pyridoxine + Folic Acid + Zinc oxide + Cupric oxide + Vitamin C + Calcium citrate + Nicotinamide + Vitamin E + Cholecalciferol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vp-CH-pnv</name>
+      <ingredients>Calcium citrate + Iron + Cholecalciferol + Vitamin E + Pyridoxine + Folic Acid + Docusate + Doconexent + Icosapent</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vp Ch Plus</name>
+      <ingredients>Calcium citrate + Iron + Cholecalciferol + Vitamin E + Pyridoxine + Folic Acid + Docusate + Doconexent</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vp Ch Ultra</name>
+      <ingredients>Calcium citrate + Iron + Cholecalciferol + Vitamin E + Pyridoxine + Folic Acid + Docusate + Doconexent</ingredients>
+    </mixture>
+    <mixture>
+      <name>Citranatal Harmony 3.0</name>
+      <ingredients>Calcium citrate + Iron + Cholecalciferol + Vitamin E + Pyridoxine + Folic Acid + Docusate + Doconexent</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acids, Acyclic</category>
+      <mesh-id>D000144</mesh-id>
+    </category>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Calcium Compounds</category>
+      <mesh-id>D017610</mesh-id>
+    </category>
+    <category>
+      <category>Calcium Salts</category>
+      <mesh-id>D002118</mesh-id>
+    </category>
+    <category>
+      <category>Carboxylic Acids</category>
+      <mesh-id>D002264</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Citrates</category>
+      <mesh-id>D002951</mesh-id>
+    </category>
+    <category>
+      <category>Citric Acid</category>
+      <mesh-id>D019343</mesh-id>
+    </category>
+    <category>
+      <category>Diet, Food, and Nutrition</category>
+      <mesh-id>D000066888</mesh-id>
+    </category>
+    <category>
+      <category>Food</category>
+      <mesh-id>D005502</mesh-id>
+    </category>
+    <category>
+      <category>Food Additives</category>
+      <mesh-id>D005503</mesh-id>
+    </category>
+    <category>
+      <category>Food and Beverages</category>
+      <mesh-id>D019602</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Mineral Supplements</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Phenomena</category>
+      <mesh-id>D010829</mesh-id>
+    </category>
+    <category>
+      <category>Specialty Uses of Chemicals</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+    <category>
+      <category>Tricarboxylic Acids</category>
+      <mesh-id>D014233</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>350 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, effervescent</form>
+      <route>Oral</route>
+      <strength>500 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule, gelatin coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule, liquid filled</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, chewable</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="A12AA13">
+      <level code="A12AA">Calcium</level>
+      <level code="A12A">CALCIUM</level>
+      <level code="A12">MINERAL SUPPLEMENTS</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00511</drugbank-id>
+      <name>Acetyldigitoxin</name>
+      <description>Calcium citrate may increase the arrhythmogenic activities of Acetyldigitoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00630</drugbank-id>
+      <name>Alendronic acid</name>
+      <description>The serum concentration of Alendronic acid can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01436</drugbank-id>
+      <name>Alfacalcidol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium citrate is combined with Alfacalcidol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00381</drugbank-id>
+      <name>Amlodipine</name>
+      <description>The therapeutic efficacy of Amlodipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01427</drugbank-id>
+      <name>Amrinone</name>
+      <description>The therapeutic efficacy of Amrinone can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09230</drugbank-id>
+      <name>Azelnidipine</name>
+      <description>The therapeutic efficacy of Azelnidipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04957</drugbank-id>
+      <name>Azimilide</name>
+      <description>The therapeutic efficacy of Azimilide can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09227</drugbank-id>
+      <name>Barnidipine</name>
+      <description>The therapeutic efficacy of Barnidipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00436</drugbank-id>
+      <name>Bendroflumethiazide</name>
+      <description>Bendroflumethiazide may decrease the excretion rate of Calcium citrate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09231</drugbank-id>
+      <name>Benidipine</name>
+      <description>The therapeutic efficacy of Benidipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01244</drugbank-id>
+      <name>Bepridil</name>
+      <description>The therapeutic efficacy of Bepridil can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11960</drugbank-id>
+      <name>Cai</name>
+      <description>The therapeutic efficacy of Cai can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00146</drugbank-id>
+      <name>Calcidiol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium citrate is combined with Calcidiol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02300</drugbank-id>
+      <name>Calcipotriol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium citrate is combined with Calcipotriol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00136</drugbank-id>
+      <name>Calcitriol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium citrate is combined with Calcitriol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00258</drugbank-id>
+      <name>Calcium Acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium citrate is combined with Calcium Acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01212</drugbank-id>
+      <name>Ceftriaxone</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium citrate is combined with Ceftriaxone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00880</drugbank-id>
+      <name>Chlorothiazide</name>
+      <description>Chlorothiazide may decrease the excretion rate of Calcium citrate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09093</drugbank-id>
+      <name>Chlortetracycline</name>
+      <description>The serum concentration of Chlortetracycline can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00310</drugbank-id>
+      <name>Chlorthalidone</name>
+      <description>Chlorthalidone may decrease the excretion rate of Calcium citrate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00169</drugbank-id>
+      <name>Cholecalciferol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium citrate is combined with Cholecalciferol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09232</drugbank-id>
+      <name>Cilnidipine</name>
+      <description>The therapeutic efficacy of Cilnidipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00568</drugbank-id>
+      <name>Cinnarizine</name>
+      <description>The therapeutic efficacy of Cinnarizine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00827</drugbank-id>
+      <name>Cinoxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Cinoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00537</drugbank-id>
+      <name>Ciprofloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Ciprofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04920</drugbank-id>
+      <name>Clevidipine</name>
+      <description>The therapeutic efficacy of Clevidipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00720</drugbank-id>
+      <name>Clodronate</name>
+      <description>The serum concentration of Clodronate can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09234</drugbank-id>
+      <name>Darodipine</name>
+      <description>The therapeutic efficacy of Darodipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08826</drugbank-id>
+      <name>Deferiprone</name>
+      <description>The serum concentration of Deferiprone can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00618</drugbank-id>
+      <name>Demeclocycline</name>
+      <description>The serum concentration of Demeclocycline can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01078</drugbank-id>
+      <name>Deslanoside</name>
+      <description>Calcium citrate may increase the arrhythmogenic activities of Deslanoside.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01396</drugbank-id>
+      <name>Digitoxin</name>
+      <description>Calcium citrate may increase the arrhythmogenic activities of Digitoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00390</drugbank-id>
+      <name>Digoxin</name>
+      <description>Calcium citrate may increase the arrhythmogenic activities of Digoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01070</drugbank-id>
+      <name>Dihydrotachysterol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium citrate is combined with Dihydrotachysterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00343</drugbank-id>
+      <name>Diltiazem</name>
+      <description>The therapeutic efficacy of Diltiazem can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09414</drugbank-id>
+      <name>Dipotassium phosphate</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00841</drugbank-id>
+      <name>Dobutamine</name>
+      <description>The therapeutic efficacy of Dobutamine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08930</drugbank-id>
+      <name>Dolutegravir</name>
+      <description>The serum concentration of Dolutegravir can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06446</drugbank-id>
+      <name>Dotarizine</name>
+      <description>The therapeutic efficacy of Dotarizine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06410</drugbank-id>
+      <name>Doxercalciferol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium citrate is combined with Doxercalciferol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00254</drugbank-id>
+      <name>Doxycycline</name>
+      <description>The serum concentration of Doxycycline can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09235</drugbank-id>
+      <name>Efonidipine</name>
+      <description>The therapeutic efficacy of Efonidipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06210</drugbank-id>
+      <name>Eltrombopag</name>
+      <description>The serum concentration of Eltrombopag can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00467</drugbank-id>
+      <name>Enoxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Enoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08992</drugbank-id>
+      <name>Eperisone</name>
+      <description>The therapeutic efficacy of Eperisone can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00153</drugbank-id>
+      <name>Ergocalciferol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium citrate is combined with Ergocalciferol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01196</drugbank-id>
+      <name>Estramustine</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Estramustine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01077</drugbank-id>
+      <name>Etidronic acid</name>
+      <description>The serum concentration of Etidronic acid can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01023</drugbank-id>
+      <name>Felodipine</name>
+      <description>The therapeutic efficacy of Felodipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08980</drugbank-id>
+      <name>Fendiline</name>
+      <description>The therapeutic efficacy of Fendiline can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04576</drugbank-id>
+      <name>Fleroxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Fleroxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08972</drugbank-id>
+      <name>Flumequine</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Flumequine resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04841</drugbank-id>
+      <name>Flunarizine</name>
+      <description>The therapeutic efficacy of Flunarizine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00996</drugbank-id>
+      <name>Gabapentin</name>
+      <description>The therapeutic efficacy of Gabapentin can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12923</drugbank-id>
+      <name>Gallopamil</name>
+      <description>The therapeutic efficacy of Gallopamil can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06160</drugbank-id>
+      <name>Garenoxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Garenoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01044</drugbank-id>
+      <name>Gatifloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Gatifloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01155</drugbank-id>
+      <name>Gemifloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Gemifloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00365</drugbank-id>
+      <name>Grepafloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Grepafloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00999</drugbank-id>
+      <name>Hydrochlorothiazide</name>
+      <description>Hydrochlorothiazide may decrease the excretion rate of Calcium citrate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00774</drugbank-id>
+      <name>Hydroflumethiazide</name>
+      <description>Hydroflumethiazide may decrease the excretion rate of Calcium citrate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00710</drugbank-id>
+      <name>Ibandronate</name>
+      <description>The serum concentration of Ibandronate can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00808</drugbank-id>
+      <name>Indapamide</name>
+      <description>Indapamide may decrease the excretion rate of Calcium citrate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00270</drugbank-id>
+      <name>Isradipine</name>
+      <description>The therapeutic efficacy of Isradipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09236</drugbank-id>
+      <name>Lacidipine</name>
+      <description>The therapeutic efficacy of Lacidipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00555</drugbank-id>
+      <name>Lamotrigine</name>
+      <description>The therapeutic efficacy of Lamotrigine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00528</drugbank-id>
+      <name>Lercanidipine</name>
+      <description>The therapeutic efficacy of Lercanidipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01137</drugbank-id>
+      <name>Levofloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Levofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00451</drugbank-id>
+      <name>Levothyroxine</name>
+      <description>The therapeutic efficacy of Levothyroxine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00279</drugbank-id>
+      <name>Liothyronine</name>
+      <description>The therapeutic efficacy of Liothyronine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01583</drugbank-id>
+      <name>Liotrix</name>
+      <description>The therapeutic efficacy of Liotrix can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00166</drugbank-id>
+      <name>Lipoic Acid</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Lipoic Acid resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00978</drugbank-id>
+      <name>Lomefloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Lomefloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00653</drugbank-id>
+      <name>Magnesium Sulfate</name>
+      <description>The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09238</drugbank-id>
+      <name>Manidipine</name>
+      <description>The therapeutic efficacy of Manidipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00232</drugbank-id>
+      <name>Methyclothiazide</name>
+      <description>Methyclothiazide may decrease the excretion rate of Calcium citrate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00524</drugbank-id>
+      <name>Metolazone</name>
+      <description>Metolazone may decrease the excretion rate of Calcium citrate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01388</drugbank-id>
+      <name>Mibefradil</name>
+      <description>The therapeutic efficacy of Mibefradil can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01017</drugbank-id>
+      <name>Minocycline</name>
+      <description>The serum concentration of Minocycline can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00218</drugbank-id>
+      <name>Moxifloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Moxifloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12092</drugbank-id>
+      <name>Naftopidil</name>
+      <description>The therapeutic efficacy of Naftopidil can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00779</drugbank-id>
+      <name>Nalidixic Acid</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Nalidixic Acid resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06600</drugbank-id>
+      <name>Nemonoxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Nemonoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00622</drugbank-id>
+      <name>Nicardipine</name>
+      <description>The therapeutic efficacy of Nicardipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01115</drugbank-id>
+      <name>Nifedipine</name>
+      <description>The therapeutic efficacy of Nifedipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09239</drugbank-id>
+      <name>Niguldipine</name>
+      <description>The therapeutic efficacy of Niguldipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09240</drugbank-id>
+      <name>Niludipine</name>
+      <description>The therapeutic efficacy of Niludipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06712</drugbank-id>
+      <name>Nilvadipine</name>
+      <description>The therapeutic efficacy of Nilvadipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04743</drugbank-id>
+      <name>Nimesulide</name>
+      <description>The therapeutic efficacy of Nimesulide can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00393</drugbank-id>
+      <name>Nimodipine</name>
+      <description>The therapeutic efficacy of Nimodipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00401</drugbank-id>
+      <name>Nisoldipine</name>
+      <description>The therapeutic efficacy of Nisoldipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01054</drugbank-id>
+      <name>Nitrendipine</name>
+      <description>The therapeutic efficacy of Nitrendipine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01059</drugbank-id>
+      <name>Norfloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Norfloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01165</drugbank-id>
+      <name>Ofloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Ofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12843</drugbank-id>
+      <name>Oleandrin</name>
+      <description>Calcium citrate may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01092</drugbank-id>
+      <name>Ouabain</name>
+      <description>Calcium citrate may increase the arrhythmogenic activities of Ouabain.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00595</drugbank-id>
+      <name>Oxytetracycline</name>
+      <description>The serum concentration of Oxytetracycline can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00282</drugbank-id>
+      <name>Pamidronate</name>
+      <description>The serum concentration of Pamidronate can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00910</drugbank-id>
+      <name>Paricalcitol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium citrate is combined with Paricalcitol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11774</drugbank-id>
+      <name>Pazufloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Pazufloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00487</drugbank-id>
+      <name>Pefloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Pefloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01074</drugbank-id>
+      <name>Perhexiline</name>
+      <description>The therapeutic efficacy of Perhexiline can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09090</drugbank-id>
+      <name>Pinaverium</name>
+      <description>The therapeutic efficacy of Pinaverium can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01324</drugbank-id>
+      <name>Polythiazide</name>
+      <description>Polythiazide may decrease the excretion rate of Calcium citrate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00230</drugbank-id>
+      <name>Pregabalin</name>
+      <description>The therapeutic efficacy of Pregabalin can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04825</drugbank-id>
+      <name>Prenylamine</name>
+      <description>The therapeutic efficacy of Prenylamine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11892</drugbank-id>
+      <name>Prulifloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Prulifloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01325</drugbank-id>
+      <name>Quinethazone</name>
+      <description>Quinethazone may decrease the excretion rate of Calcium citrate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00884</drugbank-id>
+      <name>Risedronate</name>
+      <description>The serum concentration of Risedronate can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00817</drugbank-id>
+      <name>Rosoxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Rosoxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09561</drugbank-id>
+      <name>Sodium glycerophosphate</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Sodium glycerophosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09449</drugbank-id>
+      <name>Sodium phosphates</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01208</drugbank-id>
+      <name>Sparfloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Sparfloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09267</drugbank-id>
+      <name>Strontium ranelate</name>
+      <description>The serum concentration of Strontium ranelate can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09411</drugbank-id>
+      <name>Technetium tc 99m etidronate</name>
+      <description>The serum concentration of Technetium tc 99m etidronate can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09138</drugbank-id>
+      <name>Technetium Tc-99m Medronate</name>
+      <description>The serum concentration of Technetium Tc-99m Medronate can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01405</drugbank-id>
+      <name>Temafloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Temafloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00759</drugbank-id>
+      <name>Tetracycline</name>
+      <description>The serum concentration of Tetracycline can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09100</drugbank-id>
+      <name>Thyroid, porcine</name>
+      <description>The therapeutic efficacy of Thyroid, porcine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01133</drugbank-id>
+      <name>Tiludronic acid</name>
+      <description>The serum concentration of Tiludronate can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09216</drugbank-id>
+      <name>Tolfenamic Acid</name>
+      <description>The therapeutic efficacy of Tolfenamic Acid can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07615</drugbank-id>
+      <name>Tranilast</name>
+      <description>The therapeutic efficacy of Tranilast can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01021</drugbank-id>
+      <name>Trichlormethiazide</name>
+      <description>Trichlormethiazide may decrease the excretion rate of Calcium citrate which could result in a higher serum level.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06824</drugbank-id>
+      <name>Triethylenetetramine</name>
+      <description>The serum concentration of Triethylenetetramine can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00685</drugbank-id>
+      <name>Trovafloxacin</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Trovafloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00661</drugbank-id>
+      <name>Verapamil</name>
+      <description>The therapeutic efficacy of Verapamil can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12131</drugbank-id>
+      <name>Vinpocetine</name>
+      <description>The therapeutic efficacy of Vinpocetine can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06694</drugbank-id>
+      <name>Xylometazoline</name>
+      <description>The therapeutic efficacy of Xylometazoline can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06283</drugbank-id>
+      <name>Ziconotide</name>
+      <description>The therapeutic efficacy of Ziconotide can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00399</drugbank-id>
+      <name>Zoledronic acid</name>
+      <description>The serum concentration of Zoledronic acid can be decreased when it is combined with Calcium citrate.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>0.13</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-2.1</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>4.12e+00 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-1.3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>tricalcium bis(2-hydroxypropane-1,2,3-tricarboxylate)</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>tricalcium dicitrate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>498.432</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>497.8948277</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[Ca++].[Ca++].[Ca++].OC(CC([O-])=O)(CC([O-])=O)C([O-])=O.OC(CC([O-])=O)(CC([O-])=O)C([O-])=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C12H10Ca3O14</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/2C6H8O7.3Ca/c2*7-3(8)1-6(13,5(11)12)2-4(9)10;;;/h2*13H,1-2H2,(H,7,8)(H,9,10)(H,11,12);;;/q;;3*+2/p-6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>FNAQSUUGMSOBHW-UHFFFAOYSA-H</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>140.62</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>68.14</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>14.23</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>10</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>3.05</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-4.2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>5497</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Calcium_citrate</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2106123</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

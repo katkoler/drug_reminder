@@ -1,0 +1,501 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-02-08">
+  <drugbank-id primary="true">DB09408</drugbank-id>
+  <name>Sodium gluconate</name>
+  <description/>
+  <cas-number/>
+  <unii>R6Q3791S76</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>MSDS</title>
+        <url>http://www.sciencelab.com/msds.php?msdsId=9924993</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity>LD50: Not available</toxicity>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Hyperlyte (multi-electrolyte Concentrate)</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01963910</dpd-id>
+      <started-marketing-on>1998-09-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Isolyte S</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-7703</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1989-09-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA019711</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Isolyte S (multi-electrolyte Injection)</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01931628</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Isolyte S Ph 7.4</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-7707</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1989-09-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA019696</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Isoplate</name>
+      <labeller>Terumo Bct</labeller>
+      <ndc-id/>
+      <ndc-product-code>14537-408</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-03-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN090067</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Lypholyte</name>
+      <labeller>Partners Health Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02139618</dpd-id>
+      <started-marketing-on>1996-08-14</started-marketing-on>
+      <ended-marketing-on>2008-01-10</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lypholyte Multi-electrolyte Conc Inj</name>
+      <labeller>Lyphomed, Division Of Fujisawa Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01944940</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-10</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Normosol R</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00039500</dpd-id>
+      <started-marketing-on>1965-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Normosol-R</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-7670</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-10-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017586</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Normosol-R</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-7967</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-09-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017586</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nutrilyte</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-3120</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Physiolyte</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-2205</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1984-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Irrigant</dosage-form>
+      <strength/>
+      <route>Irrigation</route>
+      <fda-application-number>NDA019024</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Physiosol</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-6141</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-02-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Irrigant</dosage-form>
+      <strength/>
+      <route>Irrigation</route>
+      <fda-application-number>NDA017637</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Plasma-lyte 148</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-0179</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1979-02-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017378</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Plasma-lyte A</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-0221</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1979-02-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017378</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Plasma-lyte A Injection</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02339358</dpd-id>
+      <started-marketing-on>2010-12-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Plasmalyte 148 In Water</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00260576</dpd-id>
+      <started-marketing-on>1968-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Physiolyte</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isolyte S</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasma-lyte 148</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasma-lyte A</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nutrilyte</name>
+      <ingredients>Sodium acetate + Potassium Chloride + Sodium gluconate + Magnesium + Potassium + Calcium Acetate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isolyte S (multi-electrolyte Injection)</name>
+      <ingredients>Sodium acetate + Magnesium chloride + Potassium Chloride + Sodium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasmalyte 148 In Water</name>
+      <ingredients>Sodium acetate + Magnesium chloride + Potassium Chloride + Sodium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Normosol R</name>
+      <ingredients>Sodium acetate + Magnesium chloride + Potassium Chloride + Sodium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Hyperlyte (multi-electrolyte Concentrate)</name>
+      <ingredients>Sodium acetate + Potassium + Calcium Acetate + Magnesium + Potassium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasma-lyte A Injection</name>
+      <ingredients>Sodium acetate + Magnesium chloride + Potassium Chloride + Sodium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lypholyte Multi-electrolyte Conc Inj</name>
+      <ingredients>Sodium acetate + Potassium + Calcium Acetate + Magnesium + Potassium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lypholyte</name>
+      <ingredients>Sodium acetate + Potassium + Calcium Acetate + Magnesium + Potassium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Physiosol</name>
+      <ingredients>Sodium Chloride + Sodium acetate + Sodium gluconate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Normosol-R</name>
+      <ingredients>Sodium Chloride + Sodium acetate + Sodium gluconate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Normosol-R</name>
+      <ingredients>Sodium Chloride + Sodium acetate + Sodium gluconate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isoplate</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride + Sodium phosphates + Monopotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isolyte S Ph 7.4</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride + Sodium phosphates + Monopotassium phosphate</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acids, Acyclic</category>
+      <mesh-id>D000144</mesh-id>
+    </category>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>Carboxylic Acids</category>
+      <mesh-id>D002264</mesh-id>
+    </category>
+    <category>
+      <category>Hydroxy Acids</category>
+      <mesh-id>D006880</mesh-id>
+    </category>
+    <category>
+      <category>Lithium</category>
+      <mesh-id>D008094</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Sugar Acids</category>
+      <mesh-id>D013400</mesh-id>
+    </category>
+    <category>
+      <category>Zinc</category>
+      <mesh-id>D015032</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Irrigant</form>
+      <route>Irrigation</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>6787</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

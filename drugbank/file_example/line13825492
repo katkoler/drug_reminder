@@ -1,0 +1,1334 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-13">
+  <drugbank-id primary="true">DB09414</drugbank-id>
+  <name>Dipotassium phosphate</name>
+  <description>Dipotassium phosphate (K2HPO4) (also dipotassium hydrogen orthophosphate; potassium phosphate dibasic) is a highly water-soluble salt which is often used as a fertilizer, food additive and buffering agent. It is a common source of phosphorus and potassium.</description>
+  <cas-number>7758-11-4</cas-number>
+  <unii>CI71S98N1Z</unii>
+  <average-mass>174.1759</average-mass>
+  <monoisotopic-mass>173.888658754</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Dipotassium_phosphate</url>
+      </link>
+      <link>
+        <title>Pubchem</title>
+        <url>https://pubchem.ncbi.nlm.nih.gov/compound/24450#section=Bionecessity</url>
+      </link>
+      <link>
+        <title>Toxnet</title>
+        <url>https://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+935</url>
+      </link>
+      <link>
+        <title>MSDS</title>
+        <url>http://www.sciencelab.com/msds.php?msdsId=9924689</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>As a food additive, dipotassium phosphate is used in imitation dairy creamers, dry powder beverages, mineral supplements, and starter cultures. It is used in non-dairy creamers to prevent coagulation. Dipotassium phosphate is also used to make buffer solutions and it is used in the production of trypticase soy agar which is used to make agar plates for culturing bacteria.</indication>
+  <pharmacodynamics>Phosphate is a major intracellular anion which participates in providing energy for metabolism of substances and contributes to important metabolic and enzymatic reactions in almost all organs and tissues. Phosphate exerts a modifying influence on calcium concentrations, a buffering effect on acid-base equilibrium, and has a major role in the renal excretion of hydrogen ions.</pharmacodynamics>
+  <mechanism-of-action>Once phosphate gains access to the body fluids and tissues, it exerts little pharmacological effect. If the ion is introduced into the intestine, the absorbed phosphate is rapidly excreted. If large amounts are given by this route, much of it may escape absorption. Because this property leads to a cathartic action, phosphate salts are employed as mild laxatives.</mechanism-of-action>
+  <toxicity>LD50 not available. &#13;
+Toxic effects in humans: Irritated skin, eye. Gastro intestinal irritation with nausea, vomiting, diarrhea, abdominal discomfort</toxicity>
+  <metabolism>Phosphate is a major intracellular anion which participates in providing energy for metabolism of substances and contributes to important metabolic and enzymatic reactions in almost all organs and tissues.</metabolism>
+  <absorption>Potassium salts are well absorbed from gastro intestinal tract.  Net phosphorus absorption may occur in the small intestine in some species but is primarily a function of the colon in horses.</absorption>
+  <half-life> In healthy children with phosphate overdose, half-life  was 4.8 to 10.6 hours, and was prolonged to 17 hours in  a child with renal insufficiency.</half-life>
+  <protein-binding>Phosphate is  minimally protein bound, and highly concentrated in  cells (intracellular concentrations are 100-fold higher than serum concentrations). Concentrations of phosphate in plasma are higher in children than in adults.</protein-binding>
+  <route-of-elimination>Potassium is excreted primarily by kidney.</route-of-elimination>
+  <volume-of-distribution>Distribution is largely intracellular, but it is the intravascular concentration that is primarily  responsible for toxicity.</volume-of-distribution>
+  <clearance> Phosphates are rapidly cleared by dialysis.</clearance>
+  <classification>
+    <description>This compound belongs to the class of inorganic compounds known as alkali metal phosphates. These are inorganic compounds in which the largest oxoanion is phosphate, and in which the heaviest atom not in an oxoanion is an alkali metal.</description>
+    <direct-parent>Alkali metal phosphates</direct-parent>
+    <kingdom>Inorganic compounds</kingdom>
+    <superclass>Mixed metal/non-metal compounds</superclass>
+    <class>Alkali metal oxoanionic compounds</class>
+    <subclass>Alkali metal phosphates</subclass>
+    <alternative-parent>Inorganic oxides</alternative-parent>
+    <alternative-parent>Inorganic salts</alternative-parent>
+    <substituent>Acyclic compound</substituent>
+    <substituent>Alkali metal phosphate</substituent>
+    <substituent>Inorganic oxide</substituent>
+    <substituent>Inorganic salt</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Di-potassium hydrogen phosphate</synonym>
+    <synonym language="" coder="">Dibasic potassium phosphate</synonym>
+    <synonym language="" coder="">Dipotassium acid phosphate</synonym>
+    <synonym language="" coder="">Dipotassium hydrogen monophosphate</synonym>
+    <synonym language="" coder="">Dipotassium hydrogen orthophosphate</synonym>
+    <synonym language="" coder="">Dipotassium hydrogen phosphate</synonym>
+    <synonym language="" coder="">Dipotassium monophosphate</synonym>
+    <synonym language="" coder="">Kali phosphoricum</synonym>
+    <synonym language="" coder="">Phosphoric acid, dipotassium salt</synonym>
+    <synonym language="" coder="">Phosphoric acid, potassium salt (1:2)</synonym>
+    <synonym language="" coder="">Potassium phosphate dibasic</synonym>
+    <synonym language="" coder="">Potassium phosphate, dibasic</synonym>
+    <synonym language="" coder="">Potassium phosphate,dibasic</synonym>
+    <synonym language="" coder="">Secondary potassium phosphate</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Aminosyn 10% W Electrolytes</name>
+      <labeller>Abbott</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00558966</dpd-id>
+      <started-marketing-on>1984-12-31</started-marketing-on>
+      <ended-marketing-on>1999-08-09</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Aminosyn 8.5% Injection With Electrolytes</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00613339</dpd-id>
+      <started-marketing-on>1984-12-31</started-marketing-on>
+      <ended-marketing-on>2012-08-03</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Aminosyn II 10% With Electrolytes</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00742651</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on>2016-07-29</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1107</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1109</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1113</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1115</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1119</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1123</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1125</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1127</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1142</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1143</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1144</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1145</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1146</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1147</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1148</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1149</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Instillation Medium for Immucyst</name>
+      <labeller>Aventis Pasteur Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01974505</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>2001-07-19</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravesical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Potassium Phosphates</name>
+      <labeller>Fresenius Kabi</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-086</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-08-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Potassium Phosphates</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-2305</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1989-11-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Potassium Phosphates</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-2315</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1989-11-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Potassium Phosphates</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-2350</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1989-11-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Potassium Phosphates</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-7295</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1984-09-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Salivart Aer</name>
+      <labeller>All Star Sales and Service Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00894397</dpd-id>
+      <started-marketing-on>1990-12-31</started-marketing-on>
+      <ended-marketing-on>1997-11-10</ended-marketing-on>
+      <dosage-form>Aerosol</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Salivart Oral Moisturizer</name>
+      <labeller>Gebauer Company</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02241423</dpd-id>
+      <started-marketing-on>2006-04-14</started-marketing-on>
+      <ended-marketing-on>2008-07-08</ended-marketing-on>
+      <dosage-form>Aerosol</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Tianshi Vital Powder I</name>
+      <labeller>Tianjin Tianshi Group Co., Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02240155</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Tianshi Vital Powder II</name>
+      <labeller>Tianjin Tianshi Group Co., Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02240154</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Tianshi Vital Powder III</name>
+      <labeller>Tianjin Tianshi Group Co., Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02240153</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Travasol Amino Acid Inj 5.5%</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00306444</dpd-id>
+      <started-marketing-on>1981-12-31</started-marketing-on>
+      <ended-marketing-on>2007-08-02</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Travasol Amino Acid Inj 8.5%</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00306436</dpd-id>
+      <started-marketing-on>1980-12-31</started-marketing-on>
+      <ended-marketing-on>2008-03-26</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Travasol E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00285528</dpd-id>
+      <started-marketing-on>1974-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Potassium Phosphates</name>
+      <ingredients>Monopotassium phosphate + Dipotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Potassium Phosphates</name>
+      <ingredients>Monopotassium phosphate + Dipotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Potassium Phosphates</name>
+      <ingredients>Monopotassium phosphate + Dipotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Potassium Phosphates</name>
+      <ingredients>Monopotassium phosphate + Dipotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Potassium Phosphates</name>
+      <ingredients>Monopotassium phosphate + Dipotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Salivart Oral Moisturizer</name>
+      <ingredients>Magnesium chloride + Calcium Chloride + Potassium Chloride + Dipotassium phosphate + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tianshi Vital Powder III</name>
+      <ingredients>Dipotassium phosphate + Calcium + Folic Acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tianshi Vital Powder II</name>
+      <ingredients>Selenium + Dipotassium phosphate + Zinc + Calcium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tianshi Vital Powder I</name>
+      <ingredients>Selenium + Dipotassium phosphate + Zinc + Calcium + Folic Acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Salivart Aer</name>
+      <ingredients>Magnesium chloride + Calcium Chloride + Potassium Chloride + Dipotassium phosphate + Sodium Chloride + Carboxymethylcellulose + Sorbitol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Travasol E</name>
+      <ingredients>L-Phenylalanine + L-Histidine + L-Tryptophan + L-Leucine + L-Arginine + L-Threonine + Sodium acetate + L-Lysine + L-Alanine + Magnesium chloride + Dipotassium phosphate + Sodium Chloride + L-Methionine + Glycine + L-Proline + L-Tyrosine + L-Valine + L-Isoleucine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Travasol Amino Acid Inj 8.5%</name>
+      <ingredients>L-Phenylalanine + L-Histidine + L-Tryptophan + L-Leucine + L-Arginine + L-Threonine + Sodium acetate + L-Lysine + L-Alanine + Magnesium chloride + Dipotassium phosphate + Sodium Chloride + L-Methionine + Glycine + L-Proline + L-Tyrosine + L-Valine + L-Isoleucine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Travasol Amino Acid Inj 5.5%</name>
+      <ingredients>L-Phenylalanine + L-Histidine + L-Tryptophan + L-Leucine + L-Arginine + L-Threonine + Sodium acetate + L-Lysine + L-Alanine + Magnesium chloride + Dipotassium phosphate + Sodium Chloride + L-Methionine + Glycine + L-Proline + L-Tyrosine + L-Valine + L-Isoleucine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aminosyn 10% W Electrolytes</name>
+      <ingredients>L-Phenylalanine + L-Histidine + L-Tryptophan + L-Leucine + L-Arginine + L-Threonine + Sodium acetate + L-Lysine + L-Alanine + Magnesium chloride + Dipotassium phosphate + Sodium Chloride + L-Methionine + Glycine + L-Proline + L-Tyrosine + L-Serine + L-Valine + L-Isoleucine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aminosyn 8.5% Injection With Electrolytes</name>
+      <ingredients>L-Phenylalanine + L-Histidine + L-Tryptophan + L-Leucine + L-Arginine + L-Threonine + L-Alanine + Magnesium chloride + Dipotassium phosphate + Sodium Chloride + L-Methionine + Glycine + L-Proline + L-Tyrosine + L-Lysine + L-Serine + L-Valine + L-Isoleucine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aminosyn II 10% With Electrolytes</name>
+      <ingredients>L-Histidine + L-Tryptophan + N-acetyltyrosine + L-Lysine + L-Alanine + Magnesium chloride + Potassium Chloride + Dipotassium phosphate + Sodium Chloride + L-Methionine + Glycine + L-Glutamic Acid + L-Proline + L-Arginine + L-Valine + L-Aspartic Acid + L-Threonine + L-Phenylalanine + L-Leucine + L-Isoleucine + L-Serine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Threonine + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Instillation Medium for Immucyst</name>
+      <ingredients>Sodium phosphates + Dipotassium phosphate + Sodium Chloride + Water</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acids</category>
+      <mesh-id>D000143</mesh-id>
+    </category>
+    <category>
+      <category>Acids, Noncarboxylic</category>
+      <mesh-id>D000148</mesh-id>
+    </category>
+    <category>
+      <category>Anions</category>
+      <mesh-id>D000838</mesh-id>
+    </category>
+    <category>
+      <category>Biomedical and Dental Materials</category>
+      <mesh-id>D001697</mesh-id>
+    </category>
+    <category>
+      <category>Buffers</category>
+      <mesh-id>D002021</mesh-id>
+    </category>
+    <category>
+      <category>Cariostatic Agents</category>
+      <mesh-id>D002327</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Dental Materials</category>
+      <mesh-id>D003764</mesh-id>
+    </category>
+    <category>
+      <category>Electrolytes</category>
+      <mesh-id>D004573</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Ions</category>
+      <mesh-id>D007477</mesh-id>
+    </category>
+    <category>
+      <category>Laboratory Chemicals</category>
+      <mesh-id>D019995</mesh-id>
+    </category>
+    <category>
+      <category>Manufactured Materials</category>
+      <mesh-id>D008420</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Phosphate Supplements</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Phosphoric Acids</category>
+      <mesh-id>D010756</mesh-id>
+    </category>
+    <category>
+      <category>Phosphorus Acids</category>
+      <mesh-id>D017976</mesh-id>
+    </category>
+    <category>
+      <category>Phosphorus Compounds</category>
+      <mesh-id>D017553</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Protective Agents</category>
+      <mesh-id>D020011</mesh-id>
+    </category>
+    <category>
+      <category>Specialty Uses of Chemicals</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+    <category>
+      <category>Technology, Industry, and Agriculture</category>
+      <mesh-id>D013676</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intravesical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Aerosol</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB06723</drugbank-id>
+      <name>Aluminum hydroxide</name>
+      <description>Aluminum hydroxide can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11314</drugbank-id>
+      <name>Aluminum phosphate</name>
+      <description>Aluminum phosphate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09275</drugbank-id>
+      <name>Bismuth Subcitrate</name>
+      <description>Bismuth Subcitrate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01373</drugbank-id>
+      <name>Calcium</name>
+      <description>Calcium can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00258</drugbank-id>
+      <name>Calcium Acetate</name>
+      <description>Calcium Acetate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06724</drugbank-id>
+      <name>Calcium carbonate</name>
+      <description>Calcium carbonate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01164</drugbank-id>
+      <name>Calcium Chloride</name>
+      <description>Calcium Chloride can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11093</drugbank-id>
+      <name>Calcium citrate</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13142</drugbank-id>
+      <name>Calcium glubionate</name>
+      <description>Calcium glubionate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00326</drugbank-id>
+      <name>Calcium Gluceptate</name>
+      <description>Calcium Gluceptate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11126</drugbank-id>
+      <name>Calcium gluconate</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08917</drugbank-id>
+      <name>Ferric Carboxymaltose</name>
+      <description>Ferric Carboxymaltose can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09162</drugbank-id>
+      <name>Ferric Citrate</name>
+      <description>Ferric Citrate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09147</drugbank-id>
+      <name>Ferric pyrophosphate</name>
+      <description>Ferric pyrophosphate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01592</drugbank-id>
+      <name>Iron</name>
+      <description>Iron can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00893</drugbank-id>
+      <name>Iron Dextran</name>
+      <description>Iron Dextran can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09146</drugbank-id>
+      <name>Iron saccharate</name>
+      <description>Iron saccharate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08938</drugbank-id>
+      <name>Magaldrate</name>
+      <description>Magaldrate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09481</drugbank-id>
+      <name>Magnesium carbonate</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09104</drugbank-id>
+      <name>Magnesium Hydroxide</name>
+      <description>The serum concentration of Dipotassium phosphate can be decreased when it is combined with Magnesium hydroxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01377</drugbank-id>
+      <name>Magnesium oxide</name>
+      <description>The serum concentration of Dipotassium phosphate can be decreased when it is combined with Magnesium oxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01397</drugbank-id>
+      <name>Magnesium salicylate</name>
+      <description>The serum concentration of Dipotassium phosphate can be decreased when it is combined with Magnesium salicylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00653</drugbank-id>
+      <name>Magnesium Sulfate</name>
+      <description>The serum concentration of Dipotassium phosphate can be decreased when it is combined with Magnesium Sulfate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09281</drugbank-id>
+      <name>Magnesium Trisilicate</name>
+      <description>Magnesium Trisilicate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00364</drugbank-id>
+      <name>Sucralfate</name>
+      <description>Sucralfate can cause a decrease in the absorption of Dipotassium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>dipotassium hydrogen phosphate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>dipotassium hydrogen phosphate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>174.1759</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>173.888658754</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[K+].[K+].OP([O-])([O-])=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>HK2O4P</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/2K.H3O4P/c;;1-5(2,3)4/h;;(H3,1,2,3,4)/q2*+1;/p-2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>ZPWVASYFFYYZEW-UHFFFAOYSA-L</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>83.42</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>12.41</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>5.23</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>1.8</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>5319</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>293</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Dipotassium_phosphate</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>ChEMBL1200459</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0000800</id>
+      <name>3-oxoacyl-[acyl-carrier-protein] synthase 2</name>
+      <organism>Escherichia coli (strain K12)</organism>
+      <actions/>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>Metacyc</title>
+            <url>https://metacyc.org/compound?orgid=META&amp;id=CPD0-2433#tab=REG</url>
+          </link>
+        </links>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P0AAI5" source="Swiss-Prot">
+    <name>3-oxoacyl-[acyl-carrier-protein] synthase 2</name>
+    <general-function>Beta-ketoacyl-acyl-carrier-protein synthase ii activity</general-function>
+    <specific-function>Catalyzes the condensation reaction of fatty acid synthesis by the addition to an acyl acceptor of two carbons from malonyl-ACP. Has a preference for short chain acid substrates and may function to supply the octanoic substrates for lipoic acid biosynthesis.</specific-function>
+    <gene-name>fabF</gene-name>
+    <locus/>
+    <cellular-location/>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>6.0</theoretical-pi>
+    <molecular-weight>43045.39</molecular-weight>
+    <chromosome-location/>
+    <organism ncbi-taxonomy-id="83333">Escherichia coli (strain K12)</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>Z34979</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>572680</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P0AAI5</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>FABF_ECOLI</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>2.3.1.179</synonym>
+      <synonym>3-oxoacyl-[acyl-carrier-protein] synthase II</synonym>
+      <synonym>Beta-ketoacyl-ACP synthase II</synonym>
+      <synonym>fabJ</synonym>
+      <synonym>KAS II</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010563|3-oxoacyl-[acyl-carrier-protein] synthase 2
+MSKRRVVVTGLGMLSPVGNTVESTWKALLAGQSGISLIDHFDTSAYATKFAGLVKDFNCE
+DIISRKEQRKMDAFIQYGIVAGVQAMQDSGLEITEENATRIGAAIGSGIGGLGLIEENHT
+SLMNGGPRKISPFFVPSTIVNMVAGHLTIMYGLRGPSISIATACTSGVHNIGHAARIIAY
+GDADVMVAGGAEKASTPLGVGGFGAARALSTRNDNPQAASRPWDKERDGFVLGDGAGMLV
+LEEYEHAKKRGAKIYAELVGFGMSSDAYHMTSPPENGAGAALAMANALRDAGIEASQIGY
+VNAHGTSTPAGDKAEAQAVKTIFGEAASRVLVSSTKSMTGHLLGAAGAVESIYSILALRD
+QAVPPTINLDNPDEGCDLDFVPHEARQVSGMEYTLCNSFGFGGTNGSLIFKKI</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0010564|3-oxoacyl-[acyl-carrier-protein] synthase 2 (fabF)
+GTGTCTAAGCGTCGTGTAGTTGTGACCGGACTGGGCATGTTGTCTCCTGTCGGCAATACC
+GTAGAGTCTACCTGGAAAGCTCTGCTTGCCGGTCAGAGTGGCATCAGCCTAATCGACCAT
+TTCGATACTAGCGCCTATGCAACGAAATTTGCTGGCTTAGTAAAGGATTTTAACTGTGAG
+GACATTATCTCGCGCAAAGAACAGCGCAAGATGGATGCCTTCATTCAATATGGAATTGTC
+GCTGGCGTTCAGGCCATGCAGGATTCTGGCCTTGAAATAACGGAAGAGAACGCAACCCGC
+ATTGGTGCCGCAATTGGCTCCGGGATTGGCGGCCTCGGACTGATCGAAGAAAACCACACA
+TCTCTGATGAACGGTGGTCCACGTAAGATCAGCCCATTCTTCGTTCCGTCAACGATTGTG
+AACATGGTGGCAGGTCATCTGACTATCATGTATGGCCTGCGTGGCCCGAGCATCTCTATC
+GCGACTGCCTGTACTTCCGGCGTGCACAACATTGGCCATGCTGCGCGTATTATCGCGTAT
+GGCGATGCTGACGTGATGGTTGCAGGTGGCGCAGAGAAAGCCAGTACGCCGCTGGGCGTT
+GGTGGTTTTGGCGCGGCACGTGCATTATCTACCCGCAATGATAACCCGCAAGCGGCGAGC
+CGCCCGTGGGATAAAGAGCGTGATGGTTTCGTACTGGGCGATGGTGCCGGTATGCTGGTA
+CTTGAAGAGTACGAACACGCGAAAAAACGCGGTGCGAAAATTTACGCTGAACTCGTCGGC
+TTTGGTATGAGCAGCGATGCTTATCATATGACGTCACCGCCAGAAAATGGCGCAGGCGCA
+GCTCTGGCGATGGCAAATGCTCTGCGTGATGCAGGCATTGAAGCGAGTCAGATTGGCTAC
+GTTAACGCGCACGGTACTTCTACGCCGGCTGGCGATAAAGCTGAAGCGCAGGCGGTGAAA
+ACCATCTTCGGTGAAGCTGCAAGCCGTGTGTTGGTAAGCTCCACGAAATCTATGACCGGT
+CACCTGTTAGGTGCGGCGGGTGCAGTAGAATCTATCTACTCCATCCTGGCGCTGCGCGAT
+CAGGCTGTTCCGCCAACCATCAACCTGGATAACCCGGATGAAGGTTGCGATCTGGATTTC
+GTACCGCACGAAGCGCGTCAGGTTAGCGGAATGGAATACACTCTGTGTAACTCCTTCGGC
+TTCGGTGGCACTAATGGTTCTTTGATCTTTAAAAAGATCTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00109</identifier>
+        <name>ketoacyl-synt</name>
+      </pfam>
+      <pfam>
+        <identifier>PF02801</identifier>
+        <name>Ketoacyl-synt_C</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>3-oxoacyl-[acyl-carrier-protein] synthase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>beta-ketoacyl-acyl-carrier-protein synthase II activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>fatty acid biosynthetic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,1420 @@
+<drug type="small molecule" created="2016-10-20" updated="2017-03-09">
+  <drugbank-id primary="true">DB11737</drugbank-id>
+  <name>Icotinib</name>
+  <description>Icotinib is a potent and specific epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI)&#13;
+Icotinib was approved in China by the SFDA in June, 2011 and in January 2014, Beta Pharma, Inc. was given a “May Proceed” from the US FDA to conduct a Phase I study for the evaluation of icotinib as a treatment of EGFR+ Non-Small Cell Lung Cancer (NSCLC).</description>
+  <cas-number>610798-31-7</cas-number>
+  <unii>9G6U5L461Q</unii>
+  <average-mass>391.427</average-mass>
+  <monoisotopic-mass>391.153206168</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>25675121</pubmed-id>
+        <citation>Tan F, Shi Y, Wang Y, Ding L, Yuan X, Sun Y: Icotinib, a selective EGF receptor tyrosine kinase inhibitor, for the treatment of non-small-cell lung cancer. Future Oncol. 2015;11(3):385-97. doi: 10.2217/fon.14.249.</citation>
+      </article>
+      <article>
+        <pubmed-id>22112293</pubmed-id>
+        <citation>Tan F, Shen X, Wang D, Xie G, Zhang X, Ding L, Hu Y, He W, Wang Y, Wang Y: Icotinib (BPI-2009H), a novel EGFR tyrosine kinase inhibitor, displays potent efficacy in preclinical studies. Lung Cancer. 2012 May;76(2):177-82. doi: 10.1016/j.lungcan.2011.10.023. Epub 2011 Nov 22.</citation>
+      </article>
+      <article>
+        <pubmed-id>21732454</pubmed-id>
+        <citation>Liu D, Jiang J, Zhang L, Tan F, Wang Y, Hu P: Metabolite characterization of a novel anti-cancer agent, icotinib, in humans through liquid chromatography/quadrupole time-of-flight tandem mass spectrometry. Rapid Commun Mass Spectrom. 2011 Aug 15;25(15):2131-40. doi: 10.1002/rcm.5061.</citation>
+      </article>
+      <article>
+        <pubmed-id>24588695</pubmed-id>
+        <citation>Guan YS, He Q, Li M: Icotinib: activity and clinical application in Chinese patients with lung cancer. Expert Opin Pharmacother. 2014 Apr;15(5):717-28. doi: 10.1517/14656566.2014.890183. Epub 2014 Mar 4.</citation>
+      </article>
+      <article>
+        <pubmed-id>26963729</pubmed-id>
+        <citation>Zhang HX, Xiong HX, Li LW: Investigation on the protein-binding properties of icotinib by spectroscopic and molecular modeling method. Spectrochim Acta A Mol Biomol Spectrosc. 2016 May 15;161:88-94. doi: 10.1016/j.saa.2016.02.014. Epub 2016 Feb 23.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Icotonib approval</title>
+        <url>https://newdrugapprovals.org/2014/12/09/icotinib/</url>
+      </link>
+      <link>
+        <title>Efficacy and safety of icotinib as first-line therapy in patients with advanced non-small-cell lung cancer</title>
+        <url>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4771396/</url>
+      </link>
+      <link>
+        <title>Wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Icotinib</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Icotinib hydrochloride is a novel epidermal growth factor receptor (EGFR)–tyrosine kinase inhibitor, exhibits encouraging efficacy and tolerability in patients with advanced non-small-cell lung cancer (NSCLC) who failed previous chemotherapy.</indication>
+  <pharmacodynamics>In vitro: Icotinib inhibits EGFR activity in a dose-dependent manner, with an IC50 value of 5 nM and complete inhibition at 62.5 nM. Icotinib selectively solely inhibits the EGFR members including the wild type and mutants with inhibition efficacies of 61-99%. Icotinib blocks EGFR-mediated intracellular tyrosine phosphorylation in human epidermoid carcinoma A431 cells in a dose-dependent manner. Meanwhile, in the proliferation assay performed on A431, BGC-823, A549, H460, HCT8, KB and Bel-7402 cell lines, it was found that the relative sensitivity of cell lines to Icotinib is A431 &gt; BGC-823 &gt; A549 &gt; H460 &gt; KB &gt; HCT8 and Bel-7402. Icotinib exhibits a broad spectrum of antitumor activity and it is especially effective against tumors expressing higher levels of EGFR.&#13;
+In vivo: In vivo studies demonstrated that Icotinib exhibited potent dose-dependent antitumor effects in nude mice carrying a variety of human tumor-derived xenografts. The drug was well tolerated at doses up to 120 mg/kg/day in mice without mortality or significant body weight loss during the treatment. A head to head randomized, double blind phase III trial using Gefitinib as an active control for patients with advanced non-small cell lung cancer (NSCLC) was finished recently (Trial registration ID: NCT01040780).</pharmacodynamics>
+  <mechanism-of-action>Icotinib is a quinazoline derivative that binds reversibly to the ATP binding site of the EGFR protein, preventing completion of the signal transduction cascade.&#13;
+It is a highly selective, first generation epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI). EGFR is an oncogenic driver and patients with somatic mutations, particularly an exon 19 deletion or exon 21 L858R mutation, within the tyrosine kinase domain have activating mutations that lead to unchecked cell proliferation. Over expression of EGFR causes inappropriate activation of the anti-apoptotic Ras signaling pathway, found in many different types of cancer. </mechanism-of-action>
+  <toxicity>The most common toxicities reported are skin-related events and diarrhea. </toxicity>
+  <metabolism>Hepatic (mainly CYP3A4, less CYP1A2)</metabolism>
+  <absorption>Bioavailability = 52%</absorption>
+  <half-life>5.5 hrs</half-life>
+  <protein-binding> Icotinib binds to Sudlow's site I in subdomain IIA of Human Serum Albumin (HSA) molecule, resulting in the formation of icotinib-HSA complexes.</protein-binding>
+  <route-of-elimination> &gt;90% via faeces, 9% via urine</route-of-elimination>
+  <volume-of-distribution>the volume of distribution was calculated as Vz/F = 115.00 ± 63.26 l </volume-of-distribution>
+  <clearance>the clearance was calculated as CL/F = 13.30 ± 4.78 l/h </clearance>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as quinazolinamines. These are heterocyclic aromatic compounds containing a quianazoline moiety substituted by one or more amine groups.</description>
+    <direct-parent>Quinazolinamines</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organoheterocyclic compounds</superclass>
+    <class>Diazanaphthalenes</class>
+    <subclass>Benzodiazines</subclass>
+    <alternative-parent>Acetylides</alternative-parent>
+    <alternative-parent>Alkyl aryl ethers</alternative-parent>
+    <alternative-parent>Aminopyrimidines and derivatives</alternative-parent>
+    <alternative-parent>Aniline and substituted anilines</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Dialkyl ethers</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Imidolactams</alternative-parent>
+    <alternative-parent>Organopnictogen compounds</alternative-parent>
+    <alternative-parent>Oxacyclic compounds</alternative-parent>
+    <alternative-parent>Secondary amines</alternative-parent>
+    <substituent>Acetylide</substituent>
+    <substituent>Alkyl aryl ether</substituent>
+    <substituent>Amine</substituent>
+    <substituent>Aminopyrimidine</substituent>
+    <substituent>Aniline or substituted anilines</substituent>
+    <substituent>Aromatic heteropolycyclic compound</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Dialkyl ether</substituent>
+    <substituent>Ether</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Imidolactam</substituent>
+    <substituent>Monocyclic benzene moiety</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Organopnictogen compound</substituent>
+    <substituent>Oxacycle</substituent>
+    <substituent>Pyrimidine</substituent>
+    <substituent>Quinazolinamine</substituent>
+    <substituent>Secondary amine</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT002060</drugbank-id>
+      <name>Icotinib hydrochloride</name>
+      <unii>JTD32I0J83</unii>
+      <cas-number>1204313-51-8</cas-number>
+      <inchikey>PNNGXMJMUUJHAV-UHFFFAOYSA-N</inchikey>
+      <average-mass>427.89</average-mass>
+      <monoisotopic-mass>427.1298839</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">BPI-2009</synonym>
+  </synonyms>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Crown Compounds</category>
+      <mesh-id>D047248</mesh-id>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP1A2 Substrates</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP3A4 Substrates</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Ethers</category>
+      <mesh-id>D004987</mesh-id>
+    </category>
+    <category>
+      <category>Ethers, Cyclic</category>
+      <mesh-id>D004988</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 2-Ring</category>
+      <mesh-id>D006574</mesh-id>
+    </category>
+    <category>
+      <category>Macrocyclic Compounds</category>
+      <mesh-id>D047028</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Compounds</category>
+      <mesh-id>D011083</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>2.88</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-4.5</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.26e-02 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>3.03</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>N-(3-ethynylphenyl)-7H,8H,10H,11H,13H,14H-1,4,7,10-tetraoxacyclododeca[2,3-g]quinazolin-4-amine</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>N-(3-ethynylphenyl)-7H,8H,10H,11H,13H,14H-1,4,7,10-tetraoxacyclododeca[2,3-g]quinazolin-4-amine</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>391.427</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>391.153206168</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>C#CC1=CC=CC(NC2=NC=NC3=CC4=C(OCCOCCOCCO4)C=C23)=C1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C22H21N3O4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C22H21N3O4/c1-2-16-4-3-5-17(12-16)25-22-18-13-20-21(14-19(18)23-15-24-22)29-11-9-27-7-6-26-8-10-28-20/h1,3-5,12-15H,6-11H2,(H,23,24,25)</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>QQLKULDARVNMAL-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>74.73</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>105.82</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>42.08</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>16.14</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>4.62</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Icotinib</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2087361</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000767</id>
+      <name>Epidermal growth factor receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>MedChem Express</title>
+            <url>https://www.medchemexpress.com/Icotinib-Hydrochloride.html?gclid=CIHby423s9ICFZG6wAodphcFSQ</url>
+          </link>
+        </links>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P00533" source="Swiss-Prot">
+    <name>Epidermal growth factor receptor</name>
+    <general-function>Ubiquitin protein ligase binding</general-function>
+    <specific-function>Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, amphiregulin, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF. Ligand binding triggers receptor homo- and/or heterodimerization and autophosphorylation on key cytoplasmic residues. The phosphorylated receptor recruits adapter proteins like GRB2 which in turn activates complex downstream signaling cascades. Activates at least 4 major downstream signaling cascades including the RAS-RAF-MEK-ERK, PI3 kinase-AKT, PLCgamma-PKC and STATs modules. May also activate the NF-kappa-B signaling cascade. Also directly phosphorylates other proteins like RGS16, activating its GTPase activity and probably coupling the EGF receptor signaling to the G protein-coupled receptor signaling. Also phosphorylates MUC1 and increases its interaction with SRC and CTNNB1/beta-catenin.Isoform 2 may act as an antagonist of EGF action.</specific-function>
+    <gene-name>EGFR</gene-name>
+    <locus>7p12</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>646-668</transmembrane-regions>
+    <signal-regions>1-24</signal-regions>
+    <theoretical-pi>6.67</theoretical-pi>
+    <molecular-weight>134276.185</molecular-weight>
+    <chromosome-location>7</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:3236</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>EGFR</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>X00588</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>757924</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1797</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P00533</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>EGFR_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>2.7.10.1</synonym>
+      <synonym>ERBB</synonym>
+      <synonym>ERBB1</synonym>
+      <synonym>HER1</synonym>
+      <synonym>Proto-oncogene c-ErbB-1</synonym>
+      <synonym>Receptor tyrosine-protein kinase erbB-1</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001530|Epidermal growth factor receptor
+MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEV
+VLGNLEITYVQRNYDLSFLKTIQEVAGYVLIALNTVERIPLENLQIIRGNMYYENSYALA
+VLSNYDANKTGLKELPMRNLQEILHGAVRFSNNPALCNVESIQWRDIVSSDFLSNMSMDF
+QNHLGSCQKCDPSCPNGSCWGAGEENCQKLTKIICAQQCSGRCRGKSPSDCCHNQCAAGC
+TGPRESDCLVCRKFRDEATCKDTCPPLMLYNPTTYQMDVNPEGKYSFGATCVKKCPRNYV
+VTDHGSCVRACGADSYEMEEDGVRKCKKCEGPCRKVCNGIGIGEFKDSLSINATNIKHFK
+NCTSISGDLHILPVAFRGDSFTHTPPLDPQELDILKTVKEITGFLLIQAWPENRTDLHAF
+ENLEIIRGRTKQHGQFSLAVVSLNITSLGLRSLKEISDGDVIISGNKNLCYANTINWKKL
+FGTSGQKTKIISNRGENSCKATGQVCHALCSPEGCWGPEPRDCVSCRNVSRGRECVDKCN
+LLEGEPREFVENSECIQCHPECLPQAMNITCTGRGPDNCIQCAHYIDGPHCVKTCPAGVM
+GENNTLVWKYADAGHVCHLCHPNCTYGCTGPGLEGCPTNGPKIPSIATGMVGALLLLLVV
+ALGIGLFMRRRHIVRKRTLRRLLQERELVEPLTPSGEAPNQALLRILKETEFKKIKVLGS
+GAFGTVYKGLWIPEGEKVKIPVAIKELREATSPKANKEILDEAYVMASVDNPHVCRLLGI
+CLTSTVQLITQLMPFGCLLDYVREHKDNIGSQYLLNWCVQIAKGMNYLEDRRLVHRDLAA
+RNVLVKTPQHVKITDFGLAKLLGAEEKEYHAEGGKVPIKWMALESILHRIYTHQSDVWSY
+GVTVWELMTFGSKPYDGIPASEISSILEKGERLPQPPICTIDVYMIMVKCWMIDADSRPK
+FRELIIEFSKMARDPQRYLVIQGDERMHLPSPTDSNFYRALMDEEDMDDVVDADEYLIPQ
+QGFFSSPSTSRTPLLSSLSATSNNSTVACIDRNGLQSCPIKEDSFLQRYSSDPTGALTED
+SIDDTFLPVPEYINQSVPKRPAGSVQNPVYHNQPLNPAPSRDPHYQDPHSTAVGNPEYLN
+TVQPTCVNSTFDSPAHWAQKGSHQISLDNPDYQQDFFPKEAKPNGIFKGSTAENAEYLRV
+APQSSEFIGA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0019007|Epidermal growth factor receptor (EGFR)
+ATGCGACCCTCCGGGACGGCCGGGGCAGCGCTCCTGGCGCTGCTGGCTGCGCTCTGCCCG
+GCGAGTCGGGCTCTGGAGGAAAAGAAAGTTTGCCAAGGCACGAGTAACAAGCTCACGCAG
+TTGGGCACTTTTGAAGATCATTTTCTCAGCCTCCAGAGGATGTTCAATAACTGTGAGGTG
+GTCCTTGGGAATTTGGAAATTACCTATGTGCAGAGGAATTATGATCTTTCCTTCTTAAAG
+ACCATCCAGGAGGTGGCTGGTTATGTCCTCATTGCCCTCAACACAGTGGAGCGAATTCCT
+TTGGAAAACCTGCAGATCATCAGAGGAAATATGTACTACGAAAATTCCTATGCCTTAGCA
+GTCTTATCTAACTATGATGCAAATAAAACCGGACTGAAGGAGCTGCCCATGAGAAATTTA
+CAGGAAATCCTGCATGGCGCCGTGCGGTTCAGCAACAACCCTGCCCTGTGCAACGTGGAG
+AGCATCCAGTGGCGGGACATAGTCAGCAGTGACTTTCTCAGCAACATGTCGATGGACTTC
+CAGAACCACCTGGGCAGCTGCCAAAAGTGTGATCCAAGCTGTCCCAATGGGAGCTGCTGG
+GGTGCAGGAGAGGAGAACTGCCAGAAACTGACCAAAATCATCTGTGCCCAGCAGTGCTCC
+GGGCGCTGCCGTGGCAAGTCCCCCAGTGACTGCTGCCACAACCAGTGTGCTGCAGGCTGC
+ACAGGCCCCCGGGAGAGCGACTGCCTGGTCTGCCGCAAATTCCGAGACGAAGCCACGTGC
+AAGGACACCTGCCCCCCACTCATGCTCTACAACCCCACCACGTACCAGATGGATGTGAAC
+CCCGAGGGCAAATACAGCTTTGGTGCCACCTGCGTGAAGAAGTGTCCCCGTAATTATGTG
+GTGACAGATCACGGCTCGTGCGTCCGAGCCTGTGGGGCCGACAGCTATGAGATGGAGGAA
+GACGGCGTCCGCAAGTGTAAGAAGTGCGAAGGGCCTTGCCGCAAAGTGTGTAACGGAATA
+GGTATTGGTGAATTTAAAGACTCACTCTCCATAAATGCTACGAATATTAAACACTTCAAA
+AACTGCACCTCCATCAGTGGCGATCTCCACATCCTGCCGGTGGCATTTAGGGGTGACTCC
+TTCACACATACTCCTCCTCTGGATCCACAGGAACTGGATATTCTGAAAACCGTAAAGGAA
+ATCACAGGGTTTTTGCTGATTCAGGCTTGGCCTGAAAACAGGACGGACCTCCATGCCTTT
+GAGAACCTAGAAATCATACGCGGCAGGACCAAGCAACATGGTCAGTTTTCTCTTGCAGTC
+GTCAGCCTGAACATAACATCCTTGGGATTACGCTCCCTCAAGGAGATAAGTGATGGAGAT
+GTGATAATTTCAGGAAACAAAAATTTGTGCTATGCAAATACAATAAACTGGAAAAAACTG
+TTTGGGACCTCCGGTCAGAAAACCAAAATTATAAGCAACAGAGGTGAAAACAGCTGCAAG
+GCCACAGGCCAGGTCTGCCATGCCTTGTGCTCCCCCGAGGGCTGCTGGGGCCCGGAGCCC
+AGGGACTGCGTCTCTTGCCGGAATGTCAGCCGAGGCAGGGAATGCGTGGACAAGTGCAAC
+CTTCTGGAGGGTGAGCCAAGGGAGTTTGTGGAGAACTCTGAGTGCATACAGTGCCACCCA
+GAGTGCCTGCCTCAGGCCATGAACATCACCTGCACAGGACGGGGACCAGACAACTGTATC
+CAGTGTGCCCACTACATTGACGGCCCCCACTGCGTCAAGACCTGCCCGGCAGGAGTCATG
+GGAGAAAACAACACCCTGGTCTGGAAGTACGCAGACGCCGGCCATGTGTGCCACCTGTGC
+CATCCAAACTGCACCTACGGATGCACTGGGCCAGGTCTTGAAGGCTGTCCAACGAATGGG
+CCTAAGATCCCGTCCATCGCCACTGGGATGGTGGGGGCCCTCCTCTTGCTGCTGGTGGTG
+GCCCTGGGGATCGGCCTCTTCATGCGAAGGCGCCACATCGTTCGGAAGCGCACGCTGCGG
+AGGCTGCTGCAGGAGAGGGAGCTTGTGGAGCCTCTTACACCCAGTGGAGAAGCTCCCAAC
+CAAGCTCTCTTGAGGATCTTGAAGGAAACTGAATTCAAAAAGATCAAAGTGCTGGGCTCC
+GGTGCGTTCGGCACGGTGTATAAGGGACTCTGGATCCCAGAAGGTGAGAAAGTTAAAATT
+CCCGTCGCTATCAAGGAATTAAGAGAAGCAACATCTCCGAAAGCCAACAAGGAAATCCTC
+GATGAAGCCTACGTGATGGCCAGCGTGGACAACCCCCACGTGTGCCGCCTGCTGGGCATC
+TGCCTCACCTCCACCGTGCAGCTCATCACGCAGCTCATGCCCTTCGGCTGCCTCCTGGAC
+TATGTCCGGGAACACAAAGACAATATTGGCTCCCAGTACCTGCTCAACTGGTGTGTGCAG
+ATCGCAAAGGGCATGAACTACTTGGAGGACCGTCGCTTGGTGCACCGCGACCTGGCAGCC
+AGGAACGTACTGGTGAAAACACCGCAGCATGTCAAGATCACAGATTTTGGGCTGGCCAAA
+CTGCTGGGTGCGGAAGAGAAAGAATACCATGCAGAAGGAGGCAAAGTGCCTATCAAGTGG
+ATGGCATTGGAATCAATTTTACACAGAATCTATACCCACCAGAGTGATGTCTGGAGCTAC
+GGGGTGACCGTTTGGGAGTTGATGACCTTTGGATCCAAGCCATATGACGGAATCCCTGCC
+AGCGAGATCTCCTCCATCCTGGAGAAAGGAGAACGCCTCCCTCAGCCACCCATATGTACC
+ATCGATGTCTACATGATCATGGTCAAGTGCTGGATGATAGACGCAGATAGTCGCCCAAAG
+TTCCGTGAGTTGATCATCGAATTCTCCAAAATGGCCCGAGACCCCCAGCGCTACCTTGTC
+ATTCAGGGGGATGAAAGAATGCATTTGCCAAGTCCTACAGACTCCAACTTCTACCGTGCC
+CTGATGGATGAAGAAGACATGGACGACGTGGTGGATGCCGACGAGTACCTCATCCCACAG
+CAGGGCTTCTTCAGCAGCCCCTCCACGTCACGGACTCCCCTCCTGAGCTCTCTGAGTGCA
+ACCAGCAACAATTCCACCGTGGCTTGCATTGATAGAAATGGGCTGCAAAGCTGTCCCATC
+AAGGAAGACAGCTTCTTGCAGCGATACAGCTCAGACCCCACAGGCGCCTTGACTGAGGAC
+AGCATAGACGACACCTTCCTCCCAGTGCCTGAATACATAAACCAGTCCGTTCCCAAAAGG
+CCCGCTGGCTCTGTGCAGAATCCTGTCTATCACAATCAGCCTCTGAACCCCGCGCCCAGC
+AGAGACCCACACTACCAGGACCCCCACAGCACTGCAGTGGGCAACCCCGAGTATCTCAAC
+ACTGTCCAGCCCACCTGTGTCAACAGCACATTCGACAGCCCTGCCCACTGGGCCCAGAAA
+GGCAGCCACCAAATTAGCCTGGACAACCCTGACTACCAGCAGGACTTCTTTCCCAAGGAA
+GCCAAGCCAAATGGCATCTTTAAGGGCTCCACAGCTGAAAATGCAGAATACCTAAGGGTC
+GCGCCACAAAGCAGTGAATTTATTGGAGCATGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF07714</identifier>
+        <name>Pkinase_Tyr</name>
+      </pfam>
+      <pfam>
+        <identifier>PF00757</identifier>
+        <name>Furin-like</name>
+      </pfam>
+      <pfam>
+        <identifier>PF01030</identifier>
+        <name>Recep_L_domain</name>
+      </pfam>
+      <pfam>
+        <identifier>PF14843</identifier>
+        <name>GF_recep_IV</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endocytic vesicle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>receptor complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nuclear membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular space</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>perinuclear region of cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>Golgi membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>multivesicular body, internal vesicle lumen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>Shc-EGFR complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>basolateral plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>focal adhesion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>early endosome membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell surface</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endosome membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane raft</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transmembrane signaling receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>identical protein binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein phosphatase binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ubiquitin protein ligase binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>chromatin binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>double-stranded DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein tyrosine kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>MAP kinase kinase kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>epidermal growth factor-activated receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATP binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enzyme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>protein heterodimerization activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transmembrane receptor protein tyrosine kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>actin filament binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>receptor signaling protein tyrosine kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of peptidyl-tyrosine phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>Fc-epsilon receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>neurotrophin TRK receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of nitric oxide biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of catenin import into nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>embryonic placenta development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>salivary gland morphogenesis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>ossification</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to amino acid stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>Ras protein signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>single organismal cell-cell adhesion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein insertion into membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of DNA replication</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to epidermal growth factor stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>vascular endothelial growth factor receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cerebral cortex cell migration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>digestive tract morphogenesis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of protein kinase B signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cell migration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>activation of phospholipase C activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of nitric-oxide synthase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hair follicle development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of DNA repair</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>axon guidance</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of MAP kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>learning or memory</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>activation of MAPKK activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small GTPase mediated signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of fibroblast proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>epidermal growth factor receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of epithelial cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>fibroblast growth factor receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell surface receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>phosphatidylinositol-mediated signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>activation of phospholipase A2 activity by calcium-mediated signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>innate immune response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>insulin receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to estradiol stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to stress</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cyclin-dependent protein serine/threonine kinase activity involved in G1/S transition of mitotic cell cycle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of ERK1 and ERK2 cascade</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>morphogenesis of an epithelial fold</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>peptidyl-tyrosine phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>MAPK cascade</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of protein catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of epidermal growth factor receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein autophosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to UV-A</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of protein phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of apoptotic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes>
+    <enzyme position="2">
+      <id>BE0002638</id>
+      <name>Cytochrome P450 3A4</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>Wikipedia</title>
+            <url>https://en.wikipedia.org/wiki/Icotinib</url>
+          </link>
+        </links>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P08684" source="Swiss-Prot">
+    <name>Cytochrome P450 3A4</name>
+    <general-function>Vitamin d3 25-hydroxylase activity</general-function>
+    <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It performs a variety of oxidation reactions (e.g. caffeine 8-oxidation, omeprazole sulphoxidation, midazolam 1'-hydroxylation and midazolam 4-hydroxylation) of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. Acts as a 1,8-cineole 2-exo-monooxygenase. The enzyme also hydroxylates etoposide (PubMed:11159812). Catalyzes 4-beta-hydroxylation of cholesterol. May catalyze 25-hydroxylation of cholesterol in vitro (PubMed:21576599).</specific-function>
+    <gene-name>CYP3A4</gene-name>
+    <locus>7q21.1</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions>2-22</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>8.25</theoretical-pi>
+    <molecular-weight>57342.67</molecular-weight>
+    <chromosome-location>7</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2637</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP3A4</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M18907</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1337</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P08684</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP3A4_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1,8-cineole 2-exo-monooxygenase</synonym>
+      <synonym>1.14.13.-</synonym>
+      <synonym>Albendazole monooxygenase</synonym>
+      <synonym>Albendazole sulfoxidase</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYP3A3</synonym>
+      <synonym>CYPIIIA3</synonym>
+      <synonym>CYPIIIA4</synonym>
+      <synonym>Cytochrome P450 3A3</synonym>
+      <synonym>Cytochrome P450 HLp</synonym>
+      <synonym>Cytochrome P450 NF-25</synonym>
+      <synonym>Cytochrome P450-PCN1</synonym>
+      <synonym>Nifedipine oxidase</synonym>
+      <synonym>Quinine 3-monooxygenase</synonym>
+      <synonym>Taurochenodeoxycholate 6-alpha-hydroxylase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0021936|Cytochrome P450 3A4
+MALIPDLAMETWLLLAVSLVLLYLYGTHSHGLFKKLGIPGPTPLPFLGNILSYHKGFCMF
+DMECHKKYGKVWGFYDGQQPVLAITDPDMIKTVLVKECYSVFTNRRPFGPVGFMKSAISI
+AEDEEWKRLRSLLSPTFTSGKLKEMVPIIAQYGDVLVRNLRREAETGKPVTLKDVFGAYS
+MDVITSTSFGVNIDSLNNPQDPFVENTKKLLRFDFLDPFFLSITVFPFLIPILEVLNICV
+FPREVTNFLRKSVKRMKESRLEDTQKHRVDFLQLMIDSQNSKETESHKALSDLELVAQSI
+IFIFAGYETTSSVLSFIMYELATHPDVQQKLQEEIDAVLPNKAPPTYDTVLQMEYLDMVV
+NETLRLFPIAMRLERVCKKDVEINGMFIPKGVVVMIPSYALHRDPKYWTEPEKFLPERFS
+KKNKDNIDPYIYTPFGSGPRNCIGMRFALMNMKLALIRVLQNFSFKPCKETQIPLKLSLG
+GLLQPEKPVVLKVESRDGTVSGA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0021937|Cytochrome P450 3A4 (CYP3A4)
+ATGGCTCTCATCCCAGACTTGGCCATGGAAACCTGGCTTCTCCTGGCTGTCAGCCTGGTG
+CTCCTCTATCTATATGGAACCCATTCACATGGACTTTTTAAGAAGCTTGGAATTCCAGGG
+CCCACACCTCTGCCTTTTTTGGGAAATATTTTGTCCTACCATAAGGGCTTTTGTATGTTT
+GACATGGAATGTCATAAAAAGTATGGAAAAGTGTGGGGCTTTTATGATGGTCAACAGCCT
+GTGCTGGCTATCACAGATCCTGACATGATCAAAACAGTGCTAGTGAAAGAATGTTATTCT
+GTCTTCACAAACCGGAGGCCTTTTGGTCCAGTGGGATTTATGAAAAGTGCCATCTCTATA
+GCTGAGGATGAAGAATGGAAGAGATTACGATCATTGCTGTCTCCAACCTTCACCAGTGGA
+AAACTCAAGGAGATGGTCCCTATCATTGCCCAGTATGGAGATGTGTTGGTGAGAAATCTG
+AGGCGGGAAGCAGAGACAGGCAAGCCTGTCACCTTGAAAGACGTCTTTGGGGCCTACAGC
+ATGGATGTGATCACTAGCACATCATTTGGAGTGAACATCGACTCTCTCAACAATCCACAA
+GACCCCTTTGTGGAAAACACCAAGAAGCTTTTAAGATTTGATTTTTTGGATCCATTCTTT
+CTCTCAATAATCTTTCCATTCCTCATCCCAATTCTTGAAGTATTAAATATCTGTGTGTTT
+CCAAGAGAAGTTACAAATTTTTTAAGAAAATCTGTAAAAAGGATGAAAGAAAGTCGCCTC
+GAAGATACACAAAAGCACCGAGTGGATTTCCTTCAGCTGATGATTGACTCTCAGAATTCA
+AAAGAAACTGAGTCCCACAAAGCTCTGTCCGATCTGGAGCTCGTGGCCCAATCAATTATC
+TTTATTTTTGCTGGCTATGAAACCACGAGCAGTGTTCTCTCCTTCATTATGTATGAACTG
+GCCACTCACCCTGATGTCCAGCAGAAACTGCAGGAGGAAATTGATGCAGTTTTACCCAAT
+AAGGCACCACCCACCTATGATACTGTGCTACAGATGGAGTATCTTGACATGGTGGTGAAT
+GAAACGCTCAGATTATTCCCAATTGCTATGAGACTTGAGAGGGTCTGCAAAAAAGATGTT
+GAGATCAATGGGATGTTCATTCCCAAAGGGGTGGTGGTGATGATTCCAAGCTATGCTCTT
+CACCGTGACCCAAAGTACTGGACAGAGCCTGAGAAGTTCCTCCCTGAAAGATTCAGCAAG
+AAGAACAAGGACAACATAGATCCTTACATATACACACCCTTTGGAAGTGGACCCAGAAAC
+TGCATTGGCATGAGGTTTGCTCTCATGAACATGAAACTTGCTCTAATCAGAGTCCTTCAG
+AACTTCTCCTTCAAACCTTGTAAAGAAACACAGATCCCCCTGAAATTAAGCTTAGGAGGA
+CTTCTTCAACCAGAAAAACCCGTTGTTCTAAAGGTTGAGTCAAGGGATGGCACCGTAAGT
+GGAGCCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>vitamin D 24-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enzyme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>testosterone 6-beta-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>vitamin D3 25-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>albendazole monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>caffeine oxidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>quinine 3-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>taurochenodeoxycholate 6alpha-hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>androgen metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>calcitriol biosynthetic process from calciol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>vitamin D metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>lipid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heterocycle metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+    <enzyme position="3">
+      <id>BE0002433</id>
+      <name>Cytochrome P450 1A2</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>Wikipedia</title>
+            <url>https://en.wikipedia.org/wiki/Icotinib</url>
+          </link>
+        </links>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P05177" source="Swiss-Prot">
+    <name>Cytochrome P450 1A2</name>
+    <general-function>Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</general-function>
+    <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It oxidizes a variety of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. Most active in catalyzing 2-hydroxylation. Caffeine is metabolized primarily by cytochrome CYP1A2 in the liver through an initial N3-demethylation. Also acts in the metabolism of aflatoxin B1 and acetaminophen. Participates in the bioactivation of carcinogenic aromatic and heterocyclic amines. Catalizes the N-hydroxylation of heterocyclic amines and the O-deethylation of phenacetin.</specific-function>
+    <gene-name>CYP1A2</gene-name>
+    <locus>15q24</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>9.43</theoretical-pi>
+    <molecular-weight>58293.76</molecular-weight>
+    <chromosome-location>15</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2596</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP1A2</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>Z00036</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1319</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P05177</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP1A2_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.14.14.1</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYPIA2</synonym>
+      <synonym>Cytochrome P(3)450</synonym>
+      <synonym>Cytochrome P450 4</synonym>
+      <synonym>Cytochrome P450-P3</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004778|Cytochrome P450 1A2
+MALSQSVPFSATELLLASAIFCLVFWVLKGLRPRVPKGLKSPPEPWGWPLLGHVLTLGKN
+PHLALSRMSQRYGDVLQIRIGSTPVLVLSRLDTIRQALVRQGDDFKGRPDLYTSTLITDG
+QSLTFSTDSGPVWAARRRLAQNALNTFSIASDPASSSSCYLEEHVSKEAKALISRLQELM
+AGPGHFDPYNQVVVSVANVIGAMCFGQHFPESSDEMLSLVKNTHEFVETASSGNPLDFFP
+ILRYLPNPALQRFKAFNQRFLWFLQKTVQEHYQDFDKNSVRDITGALFKHSKKGPRASGN
+LIPQEKIVNLVNDIFGAGFDTVTTAISWSLMYLVTKPEIQRKIQKELDTVIGRERRPRLS
+DRPQLPYLEAFILETFRHSSFLPFTIPHSTTRDTTLNGFYIPKKCCVFVNQWQVNHDPEL
+WEDPSEFRPERFLTADGTAINKPLSEKMMLFGMGKRRCIGEVLAKWEIFLFLAILLQQLE
+FSVPPGVKVDLTPIYGLTMKHARCEHVQARRFSIN</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0011742|Cytochrome P450 1A2 (CYP1A2)
+ATGGCATTGTCCCAGTCTGTTCCCTTCTCGGCCACAGAGCTTCTCCTGGCCTCTGCCATC
+TTCTGCCTGGTATTCTGGGTGCTCAAGGGTTTGAGGCCTCGGGTCCCCAAAGGCCTGAAA
+AGTCCACCAGAGCCATGGGGCTGGCCCTTGCTCGGGCATGTGCTGACCCTGGGGAAGAAC
+CCGCACCTGGCACTGTCAAGGATGAGCCAGCGCTACGGGGACGTCCTGCAGATCCGCATT
+GGCTCCACGCCCGTGCTGGTGCTGAGCCGCCTGGACACCATCCGGCAGGCCCTGGTGCGG
+CAGGGCGACGATTTCAAGGGCCGGCCTGACCTCTACACCTCCACCCTCATCACTGATGGC
+CAGAGCTTGACCTTCAGCACAGACTCTGGACCGGTGTGGGCTGCCCGCCGGCGCCTGGCC
+CAGAATGCCCTCAACACCTTCTCCATCGCCTCTGACCCAGCTTCCTCATCCTCCTGCTAC
+CTGGAGGAGCATGTGAGCAAGGAGGCTAAGGCCCTGATCAGCAGGTTGCAGGAGCTGATG
+GCAGGGCCTGGGCACTTCGACCCTTACAATCAGGTGGTGGTGTCAGTGGCCAACGTCATT
+GGTGCCATGTGCTTCGGACAGCACTTCCCTGAGAGTAGCGATGAGATGCTCAGCCTCGTG
+AAGAACACTCATGAGTTCGTGGAGACTGCCTCCTCCGGGAACCCCCTGGACTTCTTCCCC
+ATCCTTCGCTACCTGCCTAACCCTGCCCTGCAGAGGTTCAAGGCCTTCAACCAGAGGTTC
+CTGTGGTTCCTGCAGAAAACAGTCCAGGAGCACTATCAGGACTTTGACAAGAACAGTGTC
+CGGGACATCACGGGTGCCCTGTTCAAGCACAGCAAGAAGGGGCCTAGAGCCAGCGGCAAC
+CTCATCCCACAGGAGAAGATTGTCAACCTTGTCAATGACATCTTTGGAGCAGGATTTGAC
+ACAGTCACCACAGCCATCTCCTGGAGCCTCATGTACCTTGTGACCAAGCCTGAGATACAG
+AGGAAGATCCAGAAGGAGCTGGACACTGTGATTGGCAGGGAGCGGCGGCCCCGGCTCTCT
+GACAGACCCCAGCTGCCCTACTTGGAGGCCTTCATCCTGGAGACCTTCCGACACTCCTCC
+TTCTTGCCCTTCACCATCCCCCACAGCACAACAAGGGACACAACGCTGAATGGCTTCTAC
+ATCCCCAAGAAATGCTGTGTCTTCGTAAACCAGTGGCAGGTCAACCATGACCCAGAGCTG
+TGGGAGGACCCCTCTGAGTTCCGGCCTGAGCGGTTCCTCACCGCCGATGGCACTGCCATT
+AACAAGCCCTTGAGTGAGAAGATGATGCTGTTTGGCATGGGCAAGCGCCGGTGTATCGGG
+GAAGTCCTGGCCAAGTGGGAGATCTTCCTCTTCCTGGCCATCCTGCTACAGCAACTGGAG
+TTCAGCGTGCCGCCGGGCGTGAAAGTCGACCTGACCCCCATCTACGGGCTGACCATGAAG
+CACGCCCGCTGTGAACATGTCCAGGCGCGGCTGCGCTTCTCCATCAATTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>caffeine oxidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>enzyme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>demethylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>electron carrier activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>omega-hydroxylase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to lipopolysaccharide</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monocarboxylic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative deethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to immobilization stress</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>toxin biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>arachidonic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to cadmium ion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to estradiol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>porphyrin-containing compound metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>dibenzo-p-dioxin metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>lung development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>methylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>post-embryonic development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>epoxygenase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heterocycle metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hydrogen peroxide biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular respiration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of gene expression</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

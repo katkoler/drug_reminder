@@ -1,0 +1,3770 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-04-01">
+  <drugbank-id primary="true">DB09449</drugbank-id>
+  <drugbank-id>DB09127</drugbank-id>
+  <drugbank-id>DB11083</drugbank-id>
+  <drugbank-id>DB09524</drugbank-id>
+  <drugbank-id>DB09542</drugbank-id>
+  <drugbank-id>DB09468</drugbank-id>
+  <name>Sodium phosphates</name>
+  <description>Sodium phosphate is a saline laxative that is thought to work by increasing fluid in the small intestine. It usually results in a bowel movement after 30 minutes to 6 hours.</description>
+  <cas-number>7632-05-5</cas-number>
+  <unii>KH7I04HPUU</unii>
+  <average-mass>119.977</average-mass>
+  <monoisotopic-mass>119.958839739</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Used to treat constipation or to clean the bowel before a colonoscopy.</indication>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of inorganic compounds known as alkali metal phosphates. These are inorganic compounds in which the largest oxoanion is phosphate, and in which the heaviest atom not in an oxoanion is an alkali metal.</description>
+    <direct-parent>Alkali metal phosphates</direct-parent>
+    <kingdom>Inorganic compounds</kingdom>
+    <superclass>Mixed metal/non-metal compounds</superclass>
+    <class>Alkali metal oxoanionic compounds</class>
+    <subclass>Alkali metal phosphates</subclass>
+    <alternative-parent>Inorganic oxides</alternative-parent>
+    <alternative-parent>Inorganic sodium salts</alternative-parent>
+    <substituent>Acyclic compound</substituent>
+    <substituent>Alkali metal phosphate</substituent>
+    <substituent>Inorganic oxide</substituent>
+    <substituent>Inorganic salt</substituent>
+    <substituent>Inorganic sodium salt</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001973</drugbank-id>
+      <name>Sodium phosphate, dibasic</name>
+      <unii>BWZ7K44R51</unii>
+      <cas-number>10140-65-5</cas-number>
+      <inchikey>LVXHNCUCBXIIPE-UHFFFAOYSA-L</inchikey>
+      <average-mass>159.972</average-mass>
+      <monoisotopic-mass>159.95134875</monoisotopic-mass>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001974</drugbank-id>
+      <name>Sodium phosphate, dibasic dihydrate</name>
+      <unii>94255I6E2T</unii>
+      <cas-number>10028-24-7</cas-number>
+      <inchikey>KDQPSPMLNJTZAL-UHFFFAOYSA-L</inchikey>
+      <average-mass>177.987</average-mass>
+      <monoisotopic-mass>177.96191344</monoisotopic-mass>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001975</drugbank-id>
+      <name>Sodium phosphate, dibasic dodecahydrate</name>
+      <unii>E1W4N241FO</unii>
+      <cas-number>10039-32-4</cas-number>
+      <inchikey>DGLRDKLJZLEJCY-UHFFFAOYSA-L</inchikey>
+      <average-mass>358.137</average-mass>
+      <monoisotopic-mass>358.06756028</monoisotopic-mass>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001976</drugbank-id>
+      <name>Sodium phosphate, dibasic, anhydrous</name>
+      <unii>22ADO53M6F</unii>
+      <cas-number>7558-79-4</cas-number>
+      <inchikey>BNIILDVGGAEEIG-UHFFFAOYSA-L</inchikey>
+      <average-mass>141.9588</average-mass>
+      <monoisotopic-mass>141.940784382</monoisotopic-mass>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001977</drugbank-id>
+      <name>Sodium phosphate, dibasic, heptahydrate</name>
+      <unii>70WT22SF4B</unii>
+      <cas-number>7782-85-6</cas-number>
+      <inchikey>PYLIXCKOHOHGKQ-UHFFFAOYSA-L</inchikey>
+      <average-mass>268.062</average-mass>
+      <monoisotopic-mass>268.01473686</monoisotopic-mass>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001969</drugbank-id>
+      <name>Sodium phosphate, monobasic, anhydrous</name>
+      <unii/>
+      <cas-number>7558-80-7</cas-number>
+      <inchikey>AJPJDKMHJJGVTQ-UHFFFAOYSA-M</inchikey>
+      <average-mass>119.977</average-mass>
+      <monoisotopic-mass>119.958839739</monoisotopic-mass>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001970</drugbank-id>
+      <name>Sodium phosphate, monobasic, dihydrate</name>
+      <unii>5QWK665956</unii>
+      <cas-number>13472-35-0</cas-number>
+      <inchikey>VBJGJHBYWREJQD-UHFFFAOYSA-M</inchikey>
+      <average-mass>156.006</average-mass>
+      <monoisotopic-mass>155.97996919</monoisotopic-mass>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001971</drugbank-id>
+      <name>Sodium phosphate, monobasic, monohydrate</name>
+      <unii>593YOG76RN</unii>
+      <cas-number>10049-21-5</cas-number>
+      <inchikey>BBMHARZCALWXSL-UHFFFAOYSA-M</inchikey>
+      <average-mass>137.991</average-mass>
+      <monoisotopic-mass>137.96940451</monoisotopic-mass>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001972</drugbank-id>
+      <name>Sodium phosphate, monobasic, unspecified form</name>
+      <unii>3980JIH2SW</unii>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">phosphoric acid, sodium salt</synonym>
+    <synonym language="" coder="">Sodium phosphate</synonym>
+    <synonym language="" coder="">sodium salt of phosphoric acid</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Alphaligo</name>
+      <labeller>Clinique Lafontaine Inc, Division Les Importations Ortho</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02233817</dpd-id>
+      <started-marketing-on>1998-03-06</started-marketing-on>
+      <ended-marketing-on>2008-08-07</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Aminosyn</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-4200</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-03-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017789</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Aminosyn</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-4203</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-03-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017673</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Aminosyn II With Electrolytes</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-4171</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-04-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA019437</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bss Plus</name>
+      <labeller>Alcon, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0065-0800</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1982-06-28</started-marketing-on>
+      <ended-marketing-on>2017-05-31</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>NDA018469</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Care One Enema</name>
+      <labeller>American Sales Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>41520-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-01-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Curad Oral Saline Laxative</name>
+      <labeller>Medline Industries</labeller>
+      <ndc-id/>
+      <ndc-product-code>53329-110</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-07-16</started-marketing-on>
+      <ended-marketing-on>2016-12-31</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Curad Oral Saline Laxative</name>
+      <labeller>Medline Industries</labeller>
+      <ndc-id/>
+      <ndc-product-code>53329-111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-07-16</started-marketing-on>
+      <ended-marketing-on>2016-12-31</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Curad Saline Laxative</name>
+      <labeller>Medline Industries</labeller>
+      <ndc-id/>
+      <ndc-product-code>53329-005</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-07-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cvs Pharmacy</name>
+      <labeller>Cvs Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>59779-959</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-03-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cvs Pharmacy</name>
+      <labeller>Cvs Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>59779-969</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-05-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Avera Mc Kennan Hospital</labeller>
+      <ndc-id/>
+      <ndc-product-code>69189-0104</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-03-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Rising Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>64980-104</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-06-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>55154-7676</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-06-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Amerincan Health Packaging</labeller>
+      <ndc-id/>
+      <ndc-product-code>68084-764</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-06-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Kaiser Foundations Hospitals</labeller>
+      <ndc-id/>
+      <ndc-product-code>0179-0154</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-07-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <labeller>Carilion Materials Management</labeller>
+      <ndc-id/>
+      <ndc-product-code>68151-2195</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-06-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Discount Drug Mart Enema</name>
+      <labeller>Discount Drug Mart</labeller>
+      <ndc-id/>
+      <ndc-product-code>53943-005</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-12-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>E-Z Cups</name>
+      <labeller>Dental Resources of Canada Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00472824</dpd-id>
+      <started-marketing-on>1979-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-13</ended-marketing-on>
+      <dosage-form>Paste</dosage-form>
+      <strength/>
+      <route>Dental</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Enema</name>
+      <labeller>Safeway</labeller>
+      <ndc-id/>
+      <ndc-product-code>21130-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-12-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enema</name>
+      <labeller>Publix Supermarkets, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>56062-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enema</name>
+      <labeller>Cvs Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>59779-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enema</name>
+      <labeller>Hyvee</labeller>
+      <ndc-id/>
+      <ndc-product-code>42507-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-12-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enema</name>
+      <labeller>Hannaford Brothers Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>41268-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-12-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enema</name>
+      <labeller>Medicine Shoppe International</labeller>
+      <ndc-id/>
+      <ndc-product-code>49614-331</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enema</name>
+      <labeller>Kroger</labeller>
+      <ndc-id/>
+      <ndc-product-code>30142-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enema</name>
+      <labeller>Meijer Distribution</labeller>
+      <ndc-id/>
+      <ndc-product-code>41250-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enema</name>
+      <labeller>Rite Aid</labeller>
+      <ndc-id/>
+      <ndc-product-code>11822-0616</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enema</name>
+      <labeller>Major</labeller>
+      <ndc-id/>
+      <ndc-product-code>0904-3535</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-12-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enema</name>
+      <labeller>Walgreen</labeller>
+      <ndc-id/>
+      <ndc-product-code>0363-0002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enema</name>
+      <labeller>Western Family Foods</labeller>
+      <ndc-id/>
+      <ndc-product-code>55312-404</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enema Saline</name>
+      <labeller>H.E.B.</labeller>
+      <ndc-id/>
+      <ndc-product-code>37808-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Equaline Enema</name>
+      <labeller>Supervalu</labeller>
+      <ndc-id/>
+      <ndc-product-code>41163-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Equate Enema</name>
+      <labeller>Walmart Stores</labeller>
+      <ndc-id/>
+      <ndc-product-code>49035-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-02-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eyesaline Eyewash</name>
+      <labeller>Fendall, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01988220</dpd-id>
+      <started-marketing-on>1998-04-16</started-marketing-on>
+      <ended-marketing-on>2005-08-25</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Irrigation</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eyesaline Eyewash</name>
+      <labeller>Fendall, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01988220</dpd-id>
+      <started-marketing-on>1998-04-16</started-marketing-on>
+      <ended-marketing-on>2005-08-25</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Irrigation</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Fleet</name>
+      <labeller>C.B. Fleet Company, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0132-0201</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2002-05-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fleet</name>
+      <labeller>A S Medication Solutions</labeller>
+      <ndc-id/>
+      <ndc-product-code>54569-0826</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2002-05-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fresh Prep Laxative</name>
+      <labeller>Medline Industries</labeller>
+      <ndc-id/>
+      <ndc-product-code>53329-012</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-07-16</started-marketing-on>
+      <ended-marketing-on>2016-12-31</ended-marketing-on>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fucidin Leo Injection Kit</name>
+      <labeller>Leo Pharma</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02049406</dpd-id>
+      <started-marketing-on>1984-12-31</started-marketing-on>
+      <ended-marketing-on>2004-08-01</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gadavyt Enema</name>
+      <labeller>Gadal Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>53113-104</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-10-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gadavyt Enema</name>
+      <labeller>Gadal Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>53113-105</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-10-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gent-L-tip</name>
+      <labeller>Chester Packaging</labeller>
+      <ndc-id/>
+      <ndc-product-code>12462-201</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-01-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gent-L-tip Phosphate Enema</name>
+      <labeller>Chester Packaging</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00528463</dpd-id>
+      <started-marketing-on>1982-12-31</started-marketing-on>
+      <ended-marketing-on>2001-09-26</ended-marketing-on>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gent-L-tip Phosphate Enema</name>
+      <labeller>Chester Packaging</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00528463</dpd-id>
+      <started-marketing-on>1982-12-31</started-marketing-on>
+      <ended-marketing-on>2001-09-26</ended-marketing-on>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Glycerolyte 57 Solution</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00783668</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Unknown</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Glycerolyte 57 Solution</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00783668</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Unknown</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Good Neighbor Pharmacy</name>
+      <labeller>Amerisource Bergen Drug Corportaion</labeller>
+      <ndc-id/>
+      <ndc-product-code>46122-161</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Good Neighbor Pharmacy Enema</name>
+      <labeller>Amerisource Bergen</labeller>
+      <ndc-id/>
+      <ndc-product-code>24385-039</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Good Neighbor Pharmacy Single Saline Laxative Laxative</name>
+      <labeller>Amerisource Bergen</labeller>
+      <ndc-id/>
+      <ndc-product-code>46122-364</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-03-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Good Neighbor Pharmacy Single Saline Laxative Laxative</name>
+      <labeller>Amerisource Bergen</labeller>
+      <ndc-id/>
+      <ndc-product-code>46122-364</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-03-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Good Sense Enema</name>
+      <labeller>L. Perrigo Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>0113-0002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Health Mart Enema</name>
+      <labeller>Mc Kesson</labeller>
+      <ndc-id/>
+      <ndc-product-code>62011-0154</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-03-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Healthmart Saline Single Laxative</name>
+      <labeller>Mc Kesson</labeller>
+      <ndc-id/>
+      <ndc-product-code>62011-0271</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-03-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Healthmart Saline Single Laxative</name>
+      <labeller>Mc Kesson</labeller>
+      <ndc-id/>
+      <ndc-product-code>62011-0271</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-03-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Healthy Accents Enema</name>
+      <labeller>Dza Brands,</labeller>
+      <ndc-id/>
+      <ndc-product-code>55316-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-01-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Heparin Sodium 1000units In 0.9% Sodium Chloride Injection USP</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01935933</dpd-id>
+      <started-marketing-on>1996-09-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Instillation Medium for Immucyst</name>
+      <labeller>Aventis Pasteur Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01974505</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>2001-07-19</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravesical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Intersol</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-9601</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN080041</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Isolyte S Ph 7.4</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-7707</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1989-09-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA019696</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Isoplate</name>
+      <labeller>Terumo Bct</labeller>
+      <ndc-id/>
+      <ndc-product-code>14537-408</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-03-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN090067</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>K Phos Neutral</name>
+      <labeller>Beach Productsd, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0486-1125</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1977-04-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leader Enema</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>37205-754</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-02-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leader Enema</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>37205-030</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leader Ready To Use Saline Laxative</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>70000-0108</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-02-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leader Ready To Use Saline Laxative</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>70000-0108</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-02-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Medline Enema</name>
+      <labeller>Medline Industries</labeller>
+      <ndc-id/>
+      <ndc-product-code>53329-007</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-01-06</started-marketing-on>
+      <ended-marketing-on>2016-02-18</ended-marketing-on>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Medline Saline Laxative for Children</name>
+      <labeller>Medline Industries</labeller>
+      <ndc-id/>
+      <ndc-product-code>53329-015</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-03-27</started-marketing-on>
+      <ended-marketing-on>2016-12-31</ended-marketing-on>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Meijer Enema</name>
+      <labeller>Meijer Distribution</labeller>
+      <ndc-id/>
+      <ndc-product-code>41250-111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-05-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Moi-stir Oral Swabsticks</name>
+      <labeller>Solvay Pharma Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01944371</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>1997-12-24</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Buccal</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Moi-stir Oral Swabsticks</name>
+      <labeller>Paladin Labs Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02238697</dpd-id>
+      <started-marketing-on>2001-08-03</started-marketing-on>
+      <ended-marketing-on>2004-08-25</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Buccal</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Moi-stir Spray</name>
+      <labeller>Solvay Pharma Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01944428</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>1997-12-24</ended-marketing-on>
+      <dosage-form>Spray</dosage-form>
+      <strength/>
+      <route>Buccal</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Monobasic Sodium Phosphate and Dibasic Sodium Phosphate</name>
+      <labeller>Novel Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>40032-030</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-01-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA079247</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Natureplex Enema</name>
+      <labeller>Natureplex, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>67234-020</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Normo Gastryl</name>
+      <labeller>Sabex Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00570826</dpd-id>
+      <started-marketing-on>1973-12-31</started-marketing-on>
+      <ended-marketing-on>2009-11-24</ended-marketing-on>
+      <dosage-form>Tablet, effervescent</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Oral Saline Laxative</name>
+      <labeller>Supervalu</labeller>
+      <ndc-id/>
+      <ndc-product-code>41163-111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-07-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oral Saline Laxative</name>
+      <labeller>Walgreen</labeller>
+      <ndc-id/>
+      <ndc-product-code>0363-0126</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-10-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oral Saline Laxative</name>
+      <labeller>Walgreen</labeller>
+      <ndc-id/>
+      <ndc-product-code>0363-0127</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-10-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oral Saline Laxative Cherry</name>
+      <labeller>Mc Kesson</labeller>
+      <ndc-id/>
+      <ndc-product-code>49348-110</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oral Saline Laxative Cherry Laxative</name>
+      <labeller>Natureplex, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>67234-041</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oral Saline Laxative Cherry Laxative</name>
+      <labeller>Natureplex, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>67234-041</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oral Saline Laxative Ginger Lemon</name>
+      <labeller>Cvs Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>59779-111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oral Saline Laxative Ginger Lemon</name>
+      <labeller>Mc Kesson</labeller>
+      <ndc-id/>
+      <ndc-product-code>49348-111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oral Saline Laxative Ginger Lemon</name>
+      <labeller>Kmart Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>49738-111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oral Saline Laxative Ginger Lemon</name>
+      <labeller>Kroger</labeller>
+      <ndc-id/>
+      <ndc-product-code>30142-111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oral Saline Laxative Lemon Ginger</name>
+      <labeller>Natureplex, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>67234-044</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-05-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oral Saline Laxative Lemon Ginger</name>
+      <labeller>Natureplex, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>67234-044</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-05-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Osmoprep</name>
+      <labeller>Salix Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>65649-701</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2006-05-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA021892</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Osmoprep</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-5889</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-05-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA021892</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pedia-lax</name>
+      <labeller>C.B. Fleet Company, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0132-0202</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2002-05-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pediatric Saline Laxative</name>
+      <labeller>Natureplex, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>67234-042</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pediatric Saline Laxative</name>
+      <labeller>Natureplex, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>67234-042</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Phosphate</name>
+      <labeller>Major</labeller>
+      <ndc-id/>
+      <ndc-product-code>0904-5666</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-06-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Phospho-soda Buffered Saline Laxative</name>
+      <labeller>C.B. Fleet Company, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00771678</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>1998-12-28</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Phospho-soda Buffered Saline Laxative</name>
+      <labeller>C.B. Fleet Company, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00771678</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>1998-12-28</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Phoxillum Bk4/2.5</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>24571-116</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-01-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA207026</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>PMS-phosphates Solution</name>
+      <labeller>Pharmascience Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01986147</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>1998-08-07</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>PMS-phosphates Solution</name>
+      <labeller>Pharmascience Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01986147</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>1998-08-07</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pure and Gentle Laxative</name>
+      <labeller>Medline Industries</labeller>
+      <ndc-id/>
+      <ndc-product-code>53329-014</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-04-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Quality Choice Single Saline Laxative</name>
+      <labeller>Cdma</labeller>
+      <ndc-id/>
+      <ndc-product-code>63868-380</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Quality Choice Single Saline Laxative</name>
+      <labeller>Cdma</labeller>
+      <ndc-id/>
+      <ndc-product-code>63868-380</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ready-TO-use</name>
+      <labeller>Rugby</labeller>
+      <ndc-id/>
+      <ndc-product-code>0536-7415</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ready-TO-use Enema</name>
+      <labeller>Target Corporation.</labeller>
+      <ndc-id/>
+      <ndc-product-code>11673-222</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rejuvesol</name>
+      <labeller>Citra Labs</labeller>
+      <ndc-id/>
+      <ndc-product-code>23731-7000</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-02-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Extracorporeal</route>
+      <fda-application-number>BN950522</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Relief</name>
+      <labeller>Leosons Overseas Corp</labeller>
+      <ndc-id/>
+      <ndc-product-code>69626-0084</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-02-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rexall Enema</name>
+      <labeller>Dolgencorp</labeller>
+      <ndc-id/>
+      <ndc-product-code>55910-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-08-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Riga Purgative Lemon Flav Liq</name>
+      <labeller>Glendale Agencies</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00421367</dpd-id>
+      <started-marketing-on>1978-12-31</started-marketing-on>
+      <ended-marketing-on>1996-11-29</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Saline Enema</name>
+      <labeller>Blossom Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>61767-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-02-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Enema</name>
+      <labeller>Dynarex Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>67777-402</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Enema</name>
+      <labeller>Galentic Pharma (India) Private Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code>50382-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-08-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>Mc Kesson</labeller>
+      <ndc-id/>
+      <ndc-product-code>62011-0500</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>63517-005</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on>2016-12-31</ended-marketing-on>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>Safeway</labeller>
+      <ndc-id/>
+      <ndc-product-code>21130-005</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>Major</labeller>
+      <ndc-id/>
+      <ndc-product-code>0904-6320</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-07-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>Kroger</labeller>
+      <ndc-id/>
+      <ndc-product-code>30142-005</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>Mc Kesson</labeller>
+      <ndc-id/>
+      <ndc-product-code>49348-005</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>Kmart Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>49738-005</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>Hyvee</labeller>
+      <ndc-id/>
+      <ndc-product-code>42507-111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-03-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>Amerisource Bergen</labeller>
+      <ndc-id/>
+      <ndc-product-code>46122-500</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>American Sales Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>41520-005</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>Family Dollar Stores, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>55319-005</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>Mc Kesson</labeller>
+      <ndc-id/>
+      <ndc-product-code>62011-0191</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-08-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>Supervalu</labeller>
+      <ndc-id/>
+      <ndc-product-code>41163-005</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Saline Laxative</name>
+      <labeller>Walgreen</labeller>
+      <ndc-id/>
+      <ndc-product-code>0363-0005</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Smart Sense Enema</name>
+      <labeller>Kmart Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>49738-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-10-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Phosphates</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>55154-5738</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Phosphates</name>
+      <labeller>Fresenius Kabi</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-170</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-09-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Phosphates</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-3405</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Phosphates</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-3415</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Phosphates</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-3450</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Phosphates Injection USP</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00896187</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sodium Phosphates Injection USP</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00896187</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Solution Saline Sterile Aux Phosphates</name>
+      <labeller>Omega Laboratories Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00616958</dpd-id>
+      <started-marketing-on>1984-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Respiratory (inhalation)</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Solution Saline Sterile Aux Phosphates</name>
+      <labeller>Omega Laboratories Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00616958</dpd-id>
+      <started-marketing-on>1984-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Respiratory (inhalation)</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sterile Cord Blood Collection Unit (msc1207dd)</name>
+      <labeller>Maco Productions</labeller>
+      <ndc-id/>
+      <ndc-product-code>14498-003</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-12-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN125552</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sunmark</name>
+      <labeller>Mc Kesson</labeller>
+      <ndc-id/>
+      <ndc-product-code>49348-864</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-03-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sunmark Enema</name>
+      <labeller>Mc Kesson</labeller>
+      <ndc-id/>
+      <ndc-product-code>49348-527</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sunmark Saline Single Laxative</name>
+      <labeller>Mc Kesson</labeller>
+      <ndc-id/>
+      <ndc-product-code>49348-186</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-03-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sunmark Saline Single Laxative</name>
+      <labeller>Mc Kesson</labeller>
+      <ndc-id/>
+      <ndc-product-code>49348-186</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-03-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Super Charged Energy</name>
+      <labeller>Simone Protective Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230209</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Tis-U-sol</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-0190</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1982-02-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Irrigant</dosage-form>
+      <strength/>
+      <route>Irrigation</route>
+      <fda-application-number>NDA018508</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Topcare Enema</name>
+      <labeller>Topco Associates</labeller>
+      <ndc-id/>
+      <ndc-product-code>36800-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-11-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Up and Up Ready To Use Enema</name>
+      <labeller>Target Corporation.</labeller>
+      <ndc-id/>
+      <ndc-product-code>11673-002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-01-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Visicol</name>
+      <labeller>Salix Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>65649-601</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-10-01</started-marketing-on>
+      <ended-marketing-on>2016-01-05</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA021097</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Western Family</name>
+      <labeller>Western Family Holding Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>55312-111</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-12-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Enema</dosage-form>
+      <strength/>
+      <route>Rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Good Sense Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fleet</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pedia-lax</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oral Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oral Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>K Phos Neutral</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Phosphates</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Phosphates</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Phosphates</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ready-TO-use</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Phosphate</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Up and Up Ready To Use Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ready-TO-use Enema</name>
+      <ingredients>Sodium phosphate, monobasic + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gent-L-tip</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isoplate</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride + Sodium phosphates + Monopotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Good Neighbor Pharmacy Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oral Saline Laxative Ginger Lemon</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Topcare Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leader Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leader Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enema Saline</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Equaline Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oral Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Meijer Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Care One Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Good Neighbor Pharmacy</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Equate Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oral Saline Laxative Cherry</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oral Saline Laxative Ginger Lemon</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sunmark Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sunmark</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Smart Sense Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oral Saline Laxative Ginger Lemon</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gadavyt Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gadavyt Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Curad Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Medline Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fresh Prep Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pure and Gentle Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Medline Saline Laxative for Children</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Curad Oral Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Curad Oral Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Discount Drug Mart Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fleet</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Phosphates</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Western Family</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Healthy Accents Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rexall Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oral Saline Laxative Ginger Lemon</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cvs Pharmacy</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cvs Pharmacy</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Health Mart Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Phosphates</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Natureplex Enema</name>
+      <ingredients>Sodium phosphate, monobasic + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Saline Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphate, monobasic</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Relief</name>
+      <ingredients>Sodium phosphate, monobasic + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Visicol</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rejuvesol</name>
+      <ingredients>Pyruvate + Inosine + Adenine + Sodium phosphates + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alphaligo</name>
+      <ingredients>Manganese + Sodium phosphates + Cyanocobalamin + Potassium + Magnesium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aminosyn II With Electrolytes</name>
+      <ingredients>L-Isoleucine + L-Leucine + L-Lysine + L-Methionine + L-Phenylalanine + L-Threonine + L-Tryptophan + L-Alanine + L-Arginine + L-Histidine + L-Proline + L-Serine + Glycine + L-Valine + L-Aspartic Acid + N-acetyltyrosine + L-Glutamic Acid + Magnesium chloride + Sodium phosphates + Sodium Chloride + Potassium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aminosyn</name>
+      <ingredients>L-Isoleucine + L-Leucine + L-Lysine + L-Methionine + L-Phenylalanine + L-Threonine + L-Tryptophan + L-Valine + L-Alanine + L-Arginine + L-Histidine + L-Proline + L-Serine + L-Tyrosine + Glycine + Sodium Chloride + Magnesium chloride + Sodium phosphates + Potassium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aminosyn</name>
+      <ingredients>L-Isoleucine + L-Leucine + L-Lysine + L-Methionine + L-Phenylalanine + L-Threonine + L-Tryptophan + L-Valine + L-Alanine + L-Arginine + L-Histidine + L-Proline + L-Serine + L-Tyrosine + Glycine + Sodium Chloride + Magnesium chloride + Sodium phosphates + Potassium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Monobasic Sodium Phosphate and Dibasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Osmoprep</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Intersol</name>
+      <ingredients>Sodium Chloride + Sodium acetate + Trisodium citrate dihydrate + Sodium phosphates + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate</name>
+      <ingredients>Sodium phosphates + Monopotassium phosphate + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Osmoprep</name>
+      <ingredients>Sodium phosphate, monobasic, monohydrate + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Bss Plus</name>
+      <ingredients>Calcium Chloride + Glucose + Glutathione + Magnesium chloride + Potassium Chloride + Sodium bicarbonate + Sodium Chloride + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isolyte S Ph 7.4</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride + Sodium phosphates + Monopotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tis-U-sol</name>
+      <ingredients>Sodium Chloride + Potassium Chloride + Magnesium Sulfate + Sodium phosphates + Monopotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Phoxillum Bk4/2.5</name>
+      <ingredients>Calcium Chloride + Magnesium chloride + Sodium Chloride + Potassium Chloride + Sodium phosphates + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oral Saline Laxative Cherry Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oral Saline Laxative Cherry Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oral Saline Laxative Lemon Ginger</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oral Saline Laxative Lemon Ginger</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pediatric Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pediatric Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Good Neighbor Pharmacy Single Saline Laxative Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Good Neighbor Pharmacy Single Saline Laxative Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Quality Choice Single Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Quality Choice Single Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sunmark Saline Single Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sunmark Saline Single Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Healthmart Saline Single Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Healthmart Saline Single Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leader Ready To Use Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leader Ready To Use Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Phosphates Injection USP</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Phosphates Injection USP</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Heparin Sodium 1000units In 0.9% Sodium Chloride Injection USP</name>
+      <ingredients>Citric Acid + Sodium phosphates + Sodium Chloride + Heparin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Solution Saline Sterile Aux Phosphates</name>
+      <ingredients>Sodium phosphates + Sodium phosphates + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Solution Saline Sterile Aux Phosphates</name>
+      <ingredients>Sodium phosphates + Sodium phosphates + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Moi-stir Spray</name>
+      <ingredients>Sodium phosphates + Magnesium chloride + Calcium Chloride + Potassium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Moi-stir Oral Swabsticks</name>
+      <ingredients>Sodium phosphates + Magnesium chloride + Calcium Chloride + Potassium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>PMS-phosphates Solution</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>PMS-phosphates Solution</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Phospho-soda Buffered Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Phospho-soda Buffered Saline Laxative</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fucidin Leo Injection Kit</name>
+      <ingredients>Sodium phosphates + Fusidic Acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Instillation Medium for Immucyst</name>
+      <ingredients>Sodium phosphates + Dipotassium phosphate + Sodium Chloride + Water</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eyesaline Eyewash</name>
+      <ingredients>Sodium phosphates + Sodium phosphates + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eyesaline Eyewash</name>
+      <ingredients>Sodium phosphates + Sodium phosphates + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>E-Z Cups</name>
+      <ingredients>Sodium fluoride + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Riga Purgative Lemon Flav Liq</name>
+      <ingredients>Citric Acid + Sodium phosphates + Sodium bicarbonate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gent-L-tip Phosphate Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gent-L-tip Phosphate Enema</name>
+      <ingredients>Sodium phosphates + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Moi-stir Oral Swabsticks</name>
+      <ingredients>Sodium phosphates + Magnesium chloride + Calcium Chloride + Potassium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Super Charged Energy</name>
+      <ingredients>Beta carotene + Pyridoxine + Thiamine + Riboflavin + Sodium phosphates + Potassium Chloride + Calcium + Cholecalciferol + Biotin + Folic Acid + Pantothenic acid + Nicotinamide + Vitamin C + Potassium + Magnesium + Vitamin E + Vitamin A + Cyanocobalamin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sterile Cord Blood Collection Unit (msc1207dd)</name>
+      <ingredients>Sodium Citrate + Glucose + Citric Acid + Sodium phosphates</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glycerolyte 57 Solution</name>
+      <ingredients>Lactic Acid + Sodium phosphates + Sodium phosphates + Potassium Chloride + Glycerin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glycerolyte 57 Solution</name>
+      <ingredients>Lactic Acid + Sodium phosphates + Sodium phosphates + Potassium Chloride + Glycerin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Normo Gastryl</name>
+      <ingredients>Sodium phosphates + Sodium sulfate + Sodium bicarbonate</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Blood and Blood Forming Organs</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Blood Substitutes and Perfusion Solutions</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Drugs for Constipation</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Electrolyte Solutions</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Enemas</category>
+      <mesh-id>D004733</mesh-id>
+    </category>
+    <category>
+      <category>I.V. Solution Additives</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Osmotically Acting Laxatives</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Phosphate Supplements</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Paste</form>
+      <route>Dental</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Irrigation</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Rectal</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Unknown</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Enema</form>
+      <route>Rectal</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intravesical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Buccal</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Spray</form>
+      <route>Buccal</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, effervescent</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Extracorporeal</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Respiratory (inhalation)</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Irrigant</form>
+      <route>Irrigation</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents>
+    <patent>
+      <number>7084130</number>
+      <country>United States</country>
+      <approved>2001-11-29</approved>
+      <expires>2021-11-29</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>7687075</number>
+      <country>United States</country>
+      <approved>2008-06-22</approved>
+      <expires>2028-06-22</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB06723</drugbank-id>
+      <name>Aluminum hydroxide</name>
+      <description>Aluminum hydroxide can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11314</drugbank-id>
+      <name>Aluminum phosphate</name>
+      <description>Aluminum phosphate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09275</drugbank-id>
+      <name>Bismuth Subcitrate</name>
+      <description>Bismuth Subcitrate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01373</drugbank-id>
+      <name>Calcium</name>
+      <description>Calcium can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00258</drugbank-id>
+      <name>Calcium Acetate</name>
+      <description>Calcium Acetate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06724</drugbank-id>
+      <name>Calcium carbonate</name>
+      <description>Calcium carbonate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01164</drugbank-id>
+      <name>Calcium Chloride</name>
+      <description>Calcium Chloride can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11093</drugbank-id>
+      <name>Calcium citrate</name>
+      <description>Calcium citrate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13142</drugbank-id>
+      <name>Calcium glubionate</name>
+      <description>Calcium glubionate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00326</drugbank-id>
+      <name>Calcium Gluceptate</name>
+      <description>Calcium Gluceptate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11126</drugbank-id>
+      <name>Calcium gluconate</name>
+      <description>Calcium gluconate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08917</drugbank-id>
+      <name>Ferric Carboxymaltose</name>
+      <description>Ferric Carboxymaltose can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09162</drugbank-id>
+      <name>Ferric Citrate</name>
+      <description>Ferric Citrate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09147</drugbank-id>
+      <name>Ferric pyrophosphate</name>
+      <description>Ferric pyrophosphate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01592</drugbank-id>
+      <name>Iron</name>
+      <description>Iron can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00893</drugbank-id>
+      <name>Iron Dextran</name>
+      <description>Iron Dextran can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09146</drugbank-id>
+      <name>Iron saccharate</name>
+      <description>Iron saccharate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08938</drugbank-id>
+      <name>Magaldrate</name>
+      <description>Magaldrate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09481</drugbank-id>
+      <name>Magnesium carbonate</name>
+      <description>Magnesium carbonate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09104</drugbank-id>
+      <name>Magnesium Hydroxide</name>
+      <description>The serum concentration of Sodium phosphate can be decreased when it is combined with Magnesium hydroxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01377</drugbank-id>
+      <name>Magnesium oxide</name>
+      <description>The serum concentration of Sodium phosphate can be decreased when it is combined with Magnesium oxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01397</drugbank-id>
+      <name>Magnesium salicylate</name>
+      <description>The serum concentration of Sodium phosphate can be decreased when it is combined with Magnesium salicylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00653</drugbank-id>
+      <name>Magnesium Sulfate</name>
+      <description>The serum concentration of Sodium phosphate can be decreased when it is combined with Magnesium Sulfate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09281</drugbank-id>
+      <name>Magnesium Trisilicate</name>
+      <description>Magnesium Trisilicate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00364</drugbank-id>
+      <name>Sucralfate</name>
+      <description>Sucralfate can cause a decrease in the absorption of Sodium phosphate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>sodium dihydrogen phosphate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>sodium dihydrogen phosphate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>119.977</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>119.958839739</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[Na+].OP(O)([O-])=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>H2NaO4P</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/Na.H3O4P/c;1-5(2,3)4/h;(H3,1,2,3,4)/q+1;/p-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>AJPJDKMHJJGVTQ-UHFFFAOYSA-M</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>80.59</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>13.53</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>5.53</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>1.8</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>293</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>4753</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>4759</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>37586</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Sodium_phosphates</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

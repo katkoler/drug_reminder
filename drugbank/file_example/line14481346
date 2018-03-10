@@ -1,0 +1,272 @@
+<drug type="biotech" created="2015-11-30" updated="2017-03-01">
+  <drugbank-id primary="true">DB09560</drugbank-id>
+  <name>Filgrastim-sndz</name>
+  <description>Filgrastim-sndz is the biosimilar product of filgrastim and is available as the product Zarxio (FDA). Filgrastim is a hematopoietic agent that works by stimulation of the bone marrow to produce neutrophils (a type of white blood cells). It is produced through rDNA technology. It is a human granulocyte colony stimulating factor (G-CSF) analogue. It has a molecular weight of approximately 18.8 kDa and is composed of 175 amino acids. It is mainly indicated for cancer patients to protect them from recurrent infections caused by decreased levels of neutrophils. &#13;
+Common side effects of filgrastim includes back pain, bone or muscle pain or ache, cough, headache, joint pain and nausea.</description>
+  <cas-number/>
+  <unii/>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>product info</title>
+        <url>https://www.drugs.com/pro/granix.html</url>
+      </link>
+      <link>
+        <title>product info</title>
+        <url>https://www.novartis.com/news/media-releases/sandoz-launches-zarxiotm-filgrastim-sndz-first-biosimilar-united-states</url>
+      </link>
+      <link>
+        <title>MSDS</title>
+        <url>http://msds.amgen.com/~/media/amgen/repositorysites/msds-amgen-com/neupogen_safety_data_sheet_20130218_rev_3.ashx</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Filgrastim is mainly indicated to decrease incidence of infections in the following patient groups: &#13;
+patients with cancer receiving chemotherapy and patients with severe chronic neutropenia.  It is also used to increase survival in certain patients who are receiving radiation. </indication>
+  <pharmacodynamics> Filgrastim controls proliferation of committed progenitor cells and influences their maturation into mature neutrophils. Filgrastim also stimulates the release of neutrophils from bone marrow storage pools and reduces their maturation time. Filgrastim acts to increase the phagocytic activity of mature neutrophils. In patients receiving cytotoxic chemotherapy, filgrastim can accelerate neutrophil recovery, leading to a reduction in duration of the neutropenic phase. </pharmacodynamics>
+  <mechanism-of-action>Filgrastim is produced by rDNA technology. It is a human granulocyte colony-stimulating factor (G-CSF) which binds to G-CSF receptors and stimulates neutrophils proliferation. </mechanism-of-action>
+  <toxicity>LD50: data not available. </toxicity>
+  <metabolism>Not fully identified</metabolism>
+  <absorption>The absolute bioavailability of 5 mcg/kg subcutaneous tbo-filgrastim was 33%.</absorption>
+  <half-life>3.5 hr. </half-life>
+  <protein-binding>Unlikely. </protein-binding>
+  <route-of-elimination>Not fully identified.</route-of-elimination>
+  <volume-of-distribution>Filgrastim is rapidly distributed, appearing in highest concentration in bone marrow, adrenal glands, kidney and liver.  &#13;
+Volume of distribution is 127-240 mL/kg. </volume-of-distribution>
+  <clearance>0.5-0.7 mL/min/kg. </clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms/>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB09560.pdf?1471375758</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D03235</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Filgrastim</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201567</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/zarxio-drug.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>https://www.drugs.com/zarxio.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000793</id>
+      <name>Granulocyte colony-stimulating factor receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q99062" source="Swiss-Prot">
+    <name>Granulocyte colony-stimulating factor receptor</name>
+    <general-function>Receptor activity</general-function>
+    <specific-function>Receptor for granulocyte colony-stimulating factor (CSF3), essential for granulocytic maturation. Plays a crucial role in the proliferation, differientation and survival of cells along the neutrophilic lineage. In addition it may function in some adhesion or recognition events at the cell surface.</specific-function>
+    <gene-name>CSF3R</gene-name>
+    <locus>1p35-p34.3</locus>
+    <cellular-location>Secreted</cellular-location>
+    <transmembrane-regions>628-650</transmembrane-regions>
+    <signal-regions>1-24</signal-regions>
+    <theoretical-pi>6.14</theoretical-pi>
+    <molecular-weight>92155.615</molecular-weight>
+    <chromosome-location>1</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2439</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CSF3R</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>X55721</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>31697</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q99062</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CSF3R_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>G-CSF receptor</synonym>
+      <synonym>GCSFR</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001582|Granulocyte colony-stimulating factor receptor
+MARLGNCSLTWAALIILLLPGSLEECGHISVSAPIVHLGDPITASCIIKQNCSHLDPEPQ
+ILWRLGAELQPGGRQQRLSDGTQESIITLPHLNHTQAFLSCCLNWGNSLQILDQVELRAG
+YPPAIPHNLSCLMNLTTSSLICQWEPGPETHLPTSFTLKSFKSRGNCQTQGDSILDCVPK
+DGQSHCCIPRKHLLLYQNMGIWVQAENALGTSMSPQLCLDPMDVVKLEPPMLRTMDPSPE
+AAPPQAGCLQLCWEPWQPGLHINQKCELRHKPQRGEASWALVGPLPLEALQYELCGLLPA
+TAYTLQIRCIRWPLPGHWSDWSPSLELRTTERAPTVRLDTWWRQRQLDPRTVQLFWKPVP
+LEEDSGRIQGYVVSWRPSGQAGAILPLCNTTELSCTFHLPSEAQEVALVAYNSAGTSRPT
+PVVFSESRGPALTRLHAMARDPHSLWVGWEPPNPWPQGYVIEWGLGPPSASNSNKTWRME
+QNGRATGFLLKENIRPFQLYEIIVTPLYQDTMGPSQHVYAYSQEMAPSHAPELHLKHIGK
+TWAQLEWVPEPPELGKSPLTHYTIFWTNAQNQSFSAILNASSRGFVLHGLEPASLYHIHL
+MAASQAGATNSTVLTLMTLTPEGSELHIILGLFGLLLLLTCLCGTAWLCCSPNRKNPLWP
+SVPDPAHSSLGSWVPTIMEEDAFQLPGLGTPPITKLTVLEEDEKKPVPWESHNSSETCGL
+PTLVQTYVLQGDPRAVSTQPQSQSGTSDQVLYGQLLGSPTSPGPGHYLRCDSTQPLLAGL
+TPSPKSYENLWFQASPLGTLVTPAPSQEDDCVFGPLLNFPLLQGIRVHGMEALGSF</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0010560|Granulocyte colony-stimulating factor receptor (CSF3R)
+ATGGCAAGGCTGGGAAACTGCAGCCTGACTTGGGCTGCCCTGATCATCCTGCTGCTCCCC
+GGAAGTCTGGAGGAGTGCGGGCACATCAGTGTCTCAGCCCCCATCGTCCACCTGGGGGAT
+CCCATCACAGCCTCCTGCATCATCAAGCAGAACTGCAGCCATCTGGACCCGGAGCCACAG
+ATTCTGTGGAGACTGGGAGCAGAGCTTCAGCCCGGGGGCAGGCAGCAGCGTCTGTCTGAT
+GGGACCCAGGAATCTATCATCACCCTGCCCCACCTCAACCACACTCAGGCCTTTCTCTCC
+TGCTGCCTGAACTGGGGCAACAGCCTGCAGATCCTGGACCAGGTTGAGCTGCGCGCAGGC
+TACCCTCCAGCCATACCCCACAACCTCTCCTGCCTCATGAACCTCACAACCAGCAGCCTC
+ATCTGCCAGTGGGAGCCAGGACCTGAGACCCACCTACCCACCAGCTTCACTCTGAAGAGT
+TTCAAGAGCCGGGGCAACTGTCAGACCCAAGGGGACTCCATCCTGGACTGCGTGCCCAAG
+GACGGGCAGAGCCACTGCTGCATCCCACGCAAACACCTGCTGTTGTACCAGAATATGGGC
+ATCTGGGTGCAGGCAGAGAATGCGCTGGGGACCAGCATGTCCCCACAACTGTGTCTTGAT
+CCCATGGATGTTGTGAAACTGGAGCCCCCCATGCTGCGGACCATGGACCCCAGCCCTGAA
+GCGGCCCCTCCCCAGGCAGGCTGCCTACAGCTGTGCTGGGAGCCATGGCAGCCAGGCCTG
+CACATAAATCAGAAGTGTGAGCTGCGCCACAAGCCGCAGCGTGGAGAAGCCAGCTGGGCA
+CTGGTGGGCCCCCTCCCCTTGGAGGCCCTTCAGTATGAGCTCTGCGGGCTCCTCCCAGCC
+ACGGCCTACACCCTGCAGATACGCTGCATCCGCTGGCCCCTGCCTGGCCACTGGAGCGAC
+TGGAGCCCCAGCCTGGAGCTGAGAACTACCGAACGGGCCCCCACTGTCAGACTGGACACA
+TGGTGGCGGCAGAGGCAGCTGGACCCCAGGACAGTGCAGCTGTTCTGGAAGCCAGTGCCC
+CTGGAGGAAGACAGCGGACGGATCCAAGGTTATGTGGTTTCTTGGAGACCCTCAGGCCAG
+GCTGGGGCCATCCTGCCCCTCTGCAACACCACAGAGCTCAGCTGCACCTTCCACCTGCCT
+TCAGAAGCCCAGGAGGTGGCCCTTGTGGCCTATAACTCAGCCGGGACCTCTCGTCCCACT
+CCGGTGGTCTTCTCAGAAAGCAGAGGCCCAGCTCTGACCAGACTCCATGCCATGGCCCGA
+GACCCTCACAGCCTCTGGGTAGGCTGGGAGCCCCCCAATCCATGGCCTCAGGGCTATGTG
+ATTGAGTGGGGCCTGGGCCCCCCCAGCGCGAGCAATAGCAACAAGACCTGGAGGATGGAA
+CAGAATGGGAGAGCCACGGGGTTTCTGCTGAAGGAGAACATCAGGCCCTTTCAGCTCTAT
+GAGATCATCGTGACTCCCTTGTACCAGGACACCATGGGACCCTCCCAGCATGTCTATGCC
+TACTCTCAAGAAATGGCTCCCTCCCATGCCCCAGAGCTGCATCTAAAGCACATTGGCAAG
+ACCTGGGCACAGCTGGAGTGGGTGCCTGAGCCCCCTGAGCTGGGGAAGAGCCCCCTTACC
+CACTACACCATCTTCTGGACCAACGCTCAGAACCAGTCCTTCTCCGCCATCCTGAATGCC
+TCCTCCCGTGGCTTTGTCCTCCATGGCCTGGAGCCCGCCAGTCTGTATCACATCCACCTC
+ATGGCTGCCAGCCAGGCTGGGGCCACCAACAGTACAGTCCTCACCCTGATGACCTTGACC
+CCAGAGGGGTCGGAGCTACACATCATCCTGGGCCTGTTCGGCCTCCTGCTGTTGCTCACC
+TGCCTCTGTGGAACTGCCTGGCTCTGTTGCAGCCCCAACAGGAAGAATCCCCTCTGGCCA
+AGTGTCCCAGACCCAGCTCACAGCAGCCTGGGCTCCTGGGTGCCCACAATCATGGAGGAG
+GATGCCTTCCAGCTGCCCGGCCTTGGCACGCCACCCATCACCAAGCTCACAGTGCTGGAG
+GAGGATGAAAAGAAGCCGGTGCCCTGGGAGTCCCATAACAGCTCAGAGACCTGTGGCCTC
+CCCACTCTGGTCCAGACCTATGTGCTCCAGGGGGACCCAAGAGCAGTTTCCACCCAGCCC
+CAATCCCAGTCTGGCACCAGCGATCAGGTCCTTTATGGGCAGCTGCTGGGCAGCCCCACA
+AGCCCAGGGCCAGGGCACTATCTCCGCTGTGACTCCACTCAGCCCCTCTTGGCGGGCCTC
+ACCCCCAGCCCCAAGTCCTATGAGAACCTCTGGTTCCAGGCCAGCCCCTTGGGGACCCTG
+GTAACCCCAGCCCCAAGCCAGGAGGACGACTGTGTCTTTGGGCCACTGCTCAACTTCCCC
+CTCCTGCAGGGGATCCGGGTCCATGGGATGGAGGCGCTGGGGAGCTTCTAG</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00041</identifier>
+        <name>fn3</name>
+      </pfam>
+      <pfam>
+        <identifier>PF06328</identifier>
+        <name>Lep_receptor_Ig</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular region</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>cytokine receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>neutrophil chemotaxis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>amelogenesis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of myeloid cell differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell adhesion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>defense response</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

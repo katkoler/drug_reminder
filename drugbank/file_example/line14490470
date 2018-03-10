@@ -1,0 +1,3822 @@
+<drug type="biotech" created="2015-12-01" updated="2017-03-03">
+  <drugbank-id primary="true">DB10401</drugbank-id>
+  <name>Dermatophagoides pteronyssinus</name>
+  <description>Dermatophagoides pteronyssinus and/or Dermatophagoides farinae extracts are sterile solutions used for intradermal testing or subcutaneous immunotherapy. This combination is approved for as a year-round, once-a-day tablet that's dissolved under the tongue as a treatment for dust mite allergies.</description>
+  <cas-number/>
+  <unii>57L1Z5378K</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">AE-mite, dermatophagoides pteronyssinus</synonym>
+    <synonym language="" coder="">Dermatophagoides pteronyssinus whole</synonym>
+    <synonym language="" coder="">European house dust mite</synonym>
+    <synonym language="" coder="">European house dust mite extract</synonym>
+    <synonym language="" coder="">House dust mite extract, dermatophagoides pteronyssinus</synonym>
+    <synonym language="" coder="">Insects (whole body), mite dermatophagoides pteronyssinus</synonym>
+    <synonym language="" coder="">Mite D.P.</synonym>
+    <synonym language="" coder="">Mite D.P. (dermatophagoides pteronyssinus) standardized</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Allergen Pack Dermatophagoides Pteronyssinus</name>
+      <labeller>Alvix Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>15455-9018</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-06-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>10000 [AU]/mL</strength>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA101835</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Allergenic Extract - Standardized Mite Dermatophagoides Pteronyssinus</name>
+      <labeller>Greer Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02231324</dpd-id>
+      <started-marketing-on>1999-03-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>10000 unit</strength>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extract - Standardized Mite Dermatophagoides Pteronyssinus</name>
+      <labeller>Greer Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02231323</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>5000 unit</strength>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extract - Standardized Mite Mix</name>
+      <labeller>Greer Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02231325</dpd-id>
+      <started-marketing-on>2002-08-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extract Mixture Of Standardized Mites (15,000 Au/ml)</name>
+      <labeller>Jubilant Hollisterstier Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02223988</dpd-id>
+      <started-marketing-on>1998-01-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Percutaneous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extract Mixture Of Standardized Mites (5,000 Au/ml)</name>
+      <labeller>Jubilant Hollisterstier Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02223996</dpd-id>
+      <started-marketing-on>1998-01-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Percutaneous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extract Standardized Mite Dp</name>
+      <labeller>Hollister Stier, Unit Pharm, Division Of Miles Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01959131</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>1998-09-25</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>30000 unit</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extract Standardized Mite Dp</name>
+      <labeller>Hollister Stier, Unit Pharm, Division Of Miles Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01959123</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>1998-09-25</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>10000 unit</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extract Standardized Mite Dp (10,000 Au/ml)</name>
+      <labeller>Jubilant Hollisterstier Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02223937</dpd-id>
+      <started-marketing-on>1998-01-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>10000 unit</strength>
+      <route>Percutaneous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extract Standardized Mite Dp (30,000 Au/ml)</name>
+      <labeller>Jubilant Hollisterstier Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02223945</dpd-id>
+      <started-marketing-on>1997-01-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>30000 unit</strength>
+      <route>Percutaneous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extract Standardized Mite Mix</name>
+      <labeller>Hollister Stier, Unit Pharm, Division Of Miles Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01959182</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>1998-09-23</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extract Standardized Mite Mix</name>
+      <labeller>Hollister Stier, Unit Pharm, Division Of Miles Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01959174</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>1998-09-25</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extract, Standardized Mite Mixed</name>
+      <labeller>Alk Abello, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02270919</dpd-id>
+      <started-marketing-on>2006-02-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intradermal; Percutaneous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extract, Standardized Mite, D.pteronyssinus</name>
+      <labeller>Alk Abello, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02217104</dpd-id>
+      <started-marketing-on>1997-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>10000 unit</strength>
+      <route>Intradermal; Percutaneous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extracts - Standardized Mite Dermatophagoides Pteronyssinus</name>
+      <labeller>Greer Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02369745</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>30000 unit</strength>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Allergenic Extracts Standardized Mite</name>
+      <labeller>Greer Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>22840-0035</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-02-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Concentrate</dosage-form>
+      <strength>5000 [AU]/mL</strength>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA101835</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Allergenic Extracts Standardized Mite</name>
+      <labeller>Greer Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>22840-0036</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-02-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Concentrate</dosage-form>
+      <strength>10000 [AU]/mL</strength>
+      <route>Intradermal; Percutaneous; Subcutaneous</route>
+      <fda-application-number>BLA101835</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Allergenic Extracts Standardized Mite</name>
+      <labeller>Greer Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>22840-0037</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-02-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Concentrate</dosage-form>
+      <strength/>
+      <route>Intradermal; Percutaneous; Subcutaneous</route>
+      <fda-application-number>BLA101834</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Allergenic Extracts Standardized Mite</name>
+      <labeller>Greer Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>22840-0039</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-02-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Concentrate</dosage-form>
+      <strength>30000 [AU]/mL</strength>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA101835</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Allergenic Extracts Standardized Mite</name>
+      <labeller>Greer Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>22840-0040</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-02-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Concentrate</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA101834</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>House Dust Mite, Dermatophagoides Pteronyssinus</name>
+      <labeller>Allermed Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49643-704</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-12-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>10000 [AU]/mL</strength>
+      <route>Cutaneous; Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102213</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Mixture Of Standardized Mites</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0182</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1991-10-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102225</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite D Pteronyssinus</name>
+      <labeller>Allergy Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54575-326</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1991-12-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10000 [AU]/mL</strength>
+      <route>Percutaneous; Subcutaneous</route>
+      <fda-application-number>BLA101378</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite D. Pteronyssinus</name>
+      <labeller>Alk Abello, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0268-7001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-08-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>10000 [AU]/mL</strength>
+      <route>Percutaneous</route>
+      <fda-application-number>BLA103752</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite D. Pteronyssinus</name>
+      <labeller>Alk Abello, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0268-0277</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-08-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10000 [AU]/mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103752</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite D. Pteronyssinus</name>
+      <labeller>Alk Abello, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0268-0278</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-08-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>5000 [AU]/mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103752</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite Dermatophagoides Pteronyssinus</name>
+      <labeller>Nelco Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>36987-1845</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-02-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10000 [AU]/mL</strength>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102194</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite Mix, Dermatophagoides Pteronyssinus and Dermatophagoides Farinae, 10000 Au Per Ml</name>
+      <labeller>Jubilant Hollisterstier Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>65044-6691</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1988-05-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103870</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite Mix, Dermatophagoides Pteronyssinus and Dermatophagoides Farinae, 30000 Au Per Ml</name>
+      <labeller>Jubilant Hollisterstier Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>65044-6690</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1988-05-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103870</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite, D. Pteronyssinus</name>
+      <labeller>Allergologisk Lab A/S</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02118092</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>2002-07-02</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>10000 unit</strength>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0172</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1991-10-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10000 [AU]/mL</strength>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102225</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0173</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1992-02-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>3000 [AU]/mL</strength>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102225</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0174</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1991-10-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>5000 [AU]/mL</strength>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102225</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus, Bulk, 10000 Au Per Ml</name>
+      <labeller>Jubilant Hollisterstier Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>65044-6695</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1988-05-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10000 [AU]/mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103871</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus, Intradermal, 30 Au Per Ml</name>
+      <labeller>Jubilant Hollisterstier Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>65044-6693</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1988-05-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 [AU]/mL</strength>
+      <route>Intradermal</route>
+      <fda-application-number>BLA103871</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus, Intradermal, 300 Au Per Ml</name>
+      <labeller>Jubilant Hollisterstier Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>65044-6694</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1988-05-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 [AU]/mL</strength>
+      <route>Intradermal</route>
+      <fda-application-number>BLA103871</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus, Scratch Or Bulk, 30000 Au Per Ml</name>
+      <labeller>Jubilant Hollisterstier Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>65044-6692</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1988-05-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000 [AU]/mL</strength>
+      <route>Percutaneous; Subcutaneous</route>
+      <fda-application-number>BLA103871</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite, Mite Mix - Liq</name>
+      <labeller>Allergologisk Lab A/S</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02118106</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>2002-07-02</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Standardized Mite, Mixed</name>
+      <labeller>Alk Abello, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0268-7002</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1991-07-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103060</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Standardized Mite, Mixed</name>
+      <labeller>Alk Abello, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0268-7003</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1991-07-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103060</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts128870</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0661</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts129085</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0676</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts129259</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0678</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts329066</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0731</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts329152</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0717</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts329161</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0734</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts329227</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0745</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts329240</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0763</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts329388</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0712</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts329413</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0771</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts329750</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0739</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts329802</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0682</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts329894</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0690</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts329906</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0694</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts329915</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0732</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts330316</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0683</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts330370</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0696</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts330376</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0705</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts330454</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0698</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts330533</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0752</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts330583</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0699</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts330717</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0747</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts330718</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0662</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts330821</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0765</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts330927</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0721</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts331133</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0758</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts331150</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0740</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts331259</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0750</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts331455</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0723</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-12-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts331567</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0757</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts331621</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0724</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-12-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts331632</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0708</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts331794</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0751</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts331795</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0769</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts331884</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0664</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts331975</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0736</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts332090</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0673</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts332091</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0674</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-12-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts332131</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0755</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts332229</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0672</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts332291</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0762</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts332340</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0748</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts332344</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0730</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts332487</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0744</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts332509</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0695</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts332626</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0709</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts332678</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0767</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts332780</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0692</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts332850</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0754</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts333176</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0741</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts333308</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0691</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts333315</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0710</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts333373</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0760</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts333519</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0680</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts333743</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0681</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts333938</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0657</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts334947</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0775</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts335100</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0777</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts335657</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0780</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts335861</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0783</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts336312</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0785</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts336437</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0786</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts336682</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0788</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts336851</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0790</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts336924</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0784</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts337554</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0792</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts337681</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0793</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts339118</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0798</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts339992</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0804</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts340053</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0805</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts340074</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0807</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts340525</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0809</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts340796</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0811</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts341430</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0814</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts341451</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0815</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts341474</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0817</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts342922</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0823</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts344001</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0826</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts344003</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0828</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts344005</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0830</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts344420</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0833</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts344422</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0835</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts344570</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0837</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts344592</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0838</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts345048</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0840</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts345381</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0847</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts345694</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0850</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts345784</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0851</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts345883</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0853</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts346157</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0854</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts346618</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0855</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts346620</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0857</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts346963</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0867</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts347116</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0870</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts347249</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0873</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts347337</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0877</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts347484</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0880</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts347536</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0881</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts347537</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0882</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts347627</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0883</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts348491</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0898</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-11-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts348560</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0899</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts348563</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0901</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts348650</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0902</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts349186</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0906</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts349291</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0911</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts349358</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0913</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts349573</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0914</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts349575</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0916</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts349576</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0917</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts349779</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0923</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts349945</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0927</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts350094</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0929</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts350242</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0930</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts350535</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0937</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts350565</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0938</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts350663</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0943</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts350905</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0944</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts351030</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0948</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts351125</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0950</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts351201</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0955</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts351312</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0957</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Treatment Set Ts351315</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-0960</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-10-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Standardized Mite D. Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite D. Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite D. Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite, Mixed</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite, Mixed</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergen Pack Dermatophagoides Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extracts Standardized Mite</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extracts Standardized Mite</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extracts Standardized Mite</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extracts Standardized Mite</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extracts Standardized Mite</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite Dermatophagoides Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Mixture Of Standardized Mites</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts333938</name>
+      <ingredients>Dermatophagoides pteronyssinus + Ambrosia trifida pollen + Ambrosia bidentata pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Iva xanthifolia pollen + Iva annua var. annua pollen + Salsola kali pollen + Plantago lanceolata pollen + Fagus grandifolia pollen + Platanus occidentalis pollen + Juglans nigra pollen + Salix nigra pollen + Carpinus caroliniana pollen + Picea pungens pollen + Acer negundo pollen + Pinus strobus pollen + Celtis occidentalis pollen + Acer saccharum pollen + Juniperus ashei pollen + Betula papyrifera pollen + Juniperus virginiana pollen + Acer rubrum pollen + Morus rubra pollen + Juniperus pinchotii pollen + Carya ovata pollen + Acer saccharinum pollen + Liquidambar styraciflua pollen + Ailanthus altissima pollen + Fraxinus americana pollen + Carya alba pollen + Morus alba pollen + Populus alba pollen + Alternaria alternata + Aspergillus flavus + Aspergillus fumigatus + Aspergillus niger var. niger + Aspergillus repens + Fusarium oxysporum + Cochliobolus sativus + Cladosporium cladosporioides + Mucor racemosus + Penicillium camemberti + Penicillium chrysogenum var. chrysogenum + Penicillium expansum + Penicillium italicum + Penicillium chrysogenum var. chrysogenum + Penicillium roqueforti + Phoma destructiva + Aureobasidium pullulans var. pullutans + Rhizopus stolonifer + Cynodon dactylon pollen + Lolium perenne pollen + Agrostis gigantea pollen + Dactylis glomerata pollen + Phleum pratense pollen + Festuca pratensis pollen + Poa pratensis pollen + Anthoxanthum odoratum pollen + Poa compressa pollen + Typha latifolia pollen + Bromus secalinus pollen + Zea mays pollen + Secale cereale pollen + Triticum aestivum pollen + Sorghum halepense pollen + Elymus repens pollen + Phalaris arundinacea pollen + Bromus inermis pollen + Sorghum bicolor ssp. drummondii pollen + Arrhenatherum elatius pollen + Holcus lanatus pollen + Pascopyrum smithii pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts128870</name>
+      <ingredients>Alternaria alternata + Equus caballus hair + Dermatophagoides pteronyssinus + Felis catus hair</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts330718</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Felis catus hair + Canis lupus familiaris hair + Cynodon dactylon pollen + Poa pratensis pollen + Sorghum halepense pollen + Periplaneta americana + Aspergillus fumigatus + Mucor racemosus + Quercus alba pollen + Ulmus americana pollen + Acer negundo pollen + Carya alba pollen + Platanus occidentalis pollen + Morus alba pollen + Ambrosia artemisiifolia pollen + Plantago lanceolata pollen + Salsola kali pollen + Amaranthus retroflexus pollen + Rumex acetosella pollen + Urtica dioica pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts331884</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Periplaneta americana</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts332229</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Aspergillus fumigatus + Alternaria alternata + Canis lupus familiaris hair + Periplaneta americana + Penicillium chrysogenum var. chrysogenum + Cladosporium herbarum + Phleum pratense pollen + Acer negundo pollen + Juniperus ashei pollen + Juglans nigra pollen + Platanus occidentalis pollen + Populus deltoides pollen + Fraxinus americana pollen + Quercus alba pollen + Ulmus americana pollen + Carya illinoinensis pollen + Carya alba pollen + Cynodon dactylon pollen + Ambrosia artemisiifolia pollen + Amaranthus retroflexus pollen + Salsola kali pollen + Iva annua var. annua pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts332090</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Alternaria alternata + Felis catus hair + Canis lupus familiaris hair + Iva annua var. annua pollen + Platanus occidentalis pollen + Quercus alba pollen + Ulmus americana pollen + Carya illinoinensis pollen + Carya alba pollen + Cynodon dactylon pollen + Phleum pratense pollen + Ambrosia artemisiifolia pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts332091</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Penicillium chrysogenum var. chrysogenum + Cladosporium herbarum + Aspergillus fumigatus + Alternaria alternata + Felis catus hair + Canis lupus familiaris hair + Periplaneta americana + Acer negundo pollen + Juglans nigra pollen + Populus deltoides pollen + Fraxinus americana pollen + Quercus alba pollen + Carya illinoinensis pollen + Carya alba pollen + Cynodon dactylon pollen + Phleum pratense pollen + Ambrosia artemisiifolia pollen + Salsola kali pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts129085</name>
+      <ingredients>Morus rubra pollen + Ulmus americana pollen + Acer rubrum pollen + Quercus alba pollen + Platanus occidentalis pollen + Cynodon dactylon pollen + Poa pratensis pollen + Sorghum halepense pollen + Plantago lanceolata pollen + Urtica dioica pollen + Amaranthus retroflexus pollen + Ambrosia artemisiifolia pollen + Salsola kali pollen + Rumex acetosella pollen + Dermatophagoides farinae + Alternaria alternata + Cladosporium cladosporioides + Mucor racemosus + Carya alba pollen + Dermatophagoides pteronyssinus + Pleospora herbarum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts129259</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts333519</name>
+      <ingredients>Anthoxanthum odoratum pollen + Cynodon dactylon pollen + Lolium perenne pollen + Poa pratensis pollen + Sorghum halepense pollen + Dermatophagoides pteronyssinus + Dactylis glomerata pollen + Ambrosia artemisiifolia pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts333743</name>
+      <ingredients>Cochliobolus sativus + Cynodon dactylon pollen + Lolium perenne pollen + Phleum pratense pollen + Sorghum halepense pollen + Salsola kali pollen + Alnus rhombifolia pollen + Bos taurus hair + Dermatophagoides pteronyssinus + Dermatophagoides farinae + Cladosporium herbarum + Acer negundo pollen + Felis catus hair + Dactylis glomerata pollen + Ambrosia artemisiifolia pollen + Betula populifolia pollen + Quercus alba pollen + Poa pratensis pollen + Epicoccum nigrum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts329802</name>
+      <ingredients>Dermatophagoides pteronyssinus + Alternaria alternata + Acer negundo pollen + Periplaneta americana + Dactylis glomerata pollen + Ambrosia artemisiifolia pollen + Betula populifolia pollen + Quercus alba pollen + Ulmus americana pollen + Poa pratensis pollen + Anthoxanthum odoratum pollen + Cynodon dactylon pollen + Lolium perenne pollen + Phleum pratense pollen + Sorghum halepense pollen + Plantago lanceolata pollen + Salsola kali pollen + Juniperus ashei pollen + Populus deltoides pollen + Carya alba pollen + Carya illinoinensis pollen + Epicoccum nigrum + Cochliobolus sativus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts330316</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus + Felis catus hair + Canis lupus familiaris hair + Periplaneta americana + Bos taurus hair + Sus scrofa hair + Capra hircus hair + Mucor racemosus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts329894</name>
+      <ingredients>Alternaria alternata + Felis catus hair + Dermatophagoides pteronyssinus + Platanus occidentalis pollen + Morus rubra pollen + Juniperus virginiana pollen + Ambrosia artemisiifolia pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts333308</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Felis catus hair + Cynodon dactylon pollen + Ulmus americana pollen + Acer rubrum pollen + Carya alba pollen + Carya alba pollen + Morus alba pollen + Ambrosia artemisiifolia pollen + Amaranthus retroflexus pollen + Poa pratensis pollen + Sorghum halepense pollen + Quercus alba pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts332780</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Cynodon dactylon pollen + Quercus alba pollen + Poa pratensis pollen + Sorghum halepense pollen + Ambrosia artemisiifolia pollen + Plantago lanceolata pollen + Salsola kali pollen + Amaranthus retroflexus pollen + Rumex acetosella pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts329906</name>
+      <ingredients>Fusarium oxysporum + Cladosporium cladosporioides + Cochliobolus sativus + Candida albicans + Aspergillus fumigatus + Ustilago cynodontis + Sporisorium cruentum + Pleospora herbarum + Aureobasidium pullulans var. pullutans + Penicillium chrysogenum var. chrysogenum + Periplaneta americana + Rhizopus stolonifer + Phoma destructiva + Dermatophagoides pteronyssinus + Canis lupus familiaris hair + Alternaria alternata + Dermatophagoides farinae + Felis catus hair + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts332509</name>
+      <ingredients>Fraxinus americana pollen + Quercus alba pollen + Populus deltoides pollen + Betula nigra pollen + Poa pratensis pollen + Cynodon dactylon pollen + Sorghum halepense pollen + Dermatophagoides pteronyssinus + Dermatophagoides farinae + Felis catus hair + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts330370</name>
+      <ingredients>Fusarium oxysporum + Cladosporium cladosporioides + Poa pratensis pollen + Cynodon dactylon pollen + Cochliobolus sativus + Candida albicans + Aspergillus fumigatus + Sorghum halepense pollen + Periplaneta americana + Rhizopus stolonifer + Phoma destructiva + Dermatophagoides pteronyssinus + Canis lupus familiaris hair + Alternaria alternata + Dermatophagoides farinae + Felis catus hair + Ustilago cynodontis + Sporisorium cruentum + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Pleospora herbarum + Aureobasidium pullulans var. pullutans + Penicillium chrysogenum var. chrysogenum + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts330454</name>
+      <ingredients>Chenopodium album pollen + Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Salsola kali pollen + Plantago lanceolata pollen + Carya alba pollen + Carya illinoinensis pollen + Acer negundo pollen + Fraxinus americana pollen + Betula nigra pollen + Cynodon dactylon pollen + Sorghum halepense pollen + Ustilago cynodontis + Sporisorium cruentum + Pleospora herbarum + Aureobasidium pullulans var. pullutans + Periplaneta americana + Dermatophagoides pteronyssinus + Alternaria alternata + Dermatophagoides farinae + Felis catus hair</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts330583</name>
+      <ingredients>Carya alba pollen + Carya illinoinensis pollen + Poa pratensis pollen + Cynodon dactylon pollen + Sorghum halepense pollen + Dermatophagoides pteronyssinus + Dermatophagoides farinae + Rumex acetosella pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts330376</name>
+      <ingredients>Amaranthus retroflexus pollen + Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Quercus alba pollen + Cladosporium cladosporioides + Poa pratensis pollen + Cynodon dactylon pollen + Candida albicans + Aspergillus fumigatus + Sorghum halepense pollen + Ustilago cynodontis + Sporisorium cruentum + Pleospora herbarum + Aureobasidium pullulans var. pullutans + Penicillium chrysogenum var. chrysogenum + Periplaneta americana + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Rhizopus stolonifer + Phoma destructiva + Dermatophagoides pteronyssinus + Canis lupus familiaris hair + Alternaria alternata + Dermatophagoides farinae + Felis catus hair + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts331632</name>
+      <ingredients>Dermatophagoides pteronyssinus + Penicillium chrysogenum var. chrysogenum + Cladosporium herbarum + Aspergillus fumigatus + Alternaria alternata + Canis lupus familiaris hair + Cynodon dactylon pollen + Phleum pratense pollen + Juniperus ashei pollen + Fraxinus americana pollen + Ambrosia artemisiifolia pollen + Amaranthus retroflexus pollen + Iva annua var. annua pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts332626</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Felis catus hair + Canis lupus familiaris hair + Periplaneta americana + Acer negundo pollen + Juniperus ashei pollen + Juglans nigra pollen + Platanus occidentalis pollen + Populus deltoides pollen + Fraxinus americana pollen + Quercus alba pollen + Ulmus americana pollen + Carya alba pollen + Carya illinoinensis pollen + Morus alba pollen + Cynodon dactylon pollen + Phleum pratense pollen + Ambrosia artemisiifolia pollen + Amaranthus retroflexus pollen + Salsola kali pollen + Iva annua var. annua pollen + Rumex acetosella pollen + Urtica dioica pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts333315</name>
+      <ingredients>Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Poa pratensis pollen + Candida albicans + Aspergillus fumigatus + Dermatophagoides pteronyssinus + Alternaria alternata + Dermatophagoides farinae + Felis catus hair + Chenopodium album pollen + Ulmus americana pollen + Ustilago cynodontis + Sporisorium cruentum + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts329388</name>
+      <ingredients>Iva annua var. annua pollen + Cynodon dactylon pollen + Sorghum halepense pollen + Dermatophagoides pteronyssinus + Dermatophagoides farinae + Felis catus hair</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts329152</name>
+      <ingredients>Fusarium oxysporum + Cladosporium cladosporioides + Cochliobolus sativus + Candida albicans + Aspergillus fumigatus + Ustilago cynodontis + Sporisorium cruentum + Pleospora herbarum + Aureobasidium pullulans var. pullutans + Penicillium chrysogenum var. chrysogenum + Periplaneta americana + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Rhizopus stolonifer + Phoma destructiva + Dermatophagoides pteronyssinus + Canis lupus familiaris hair + Alternaria alternata + Dermatophagoides farinae + Felis catus hair + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts330927</name>
+      <ingredients>Dermatophagoides farinae + Alternaria alternata + Canis lupus familiaris hair + Periplaneta americana + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Dermatophagoides pteronyssinus + Candida albicans + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Pleospora herbarum + Ustilago cynodontis + Sporisorium cruentum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts331455</name>
+      <ingredients>Periplaneta americana + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Felis catus hair + Canis lupus familiaris hair + Betula nigra pollen + Acer negundo pollen + Populus deltoides pollen + Quercus alba pollen + Carya illinoinensis pollen + Carya alba pollen + Ulmus americana pollen + Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Chenopodium album pollen + Rumex acetosella pollen + Salsola kali pollen + Plantago lanceolata pollen + Cynodon dactylon pollen + Sorghum halepense pollen + Poa pratensis pollen + Alternaria alternata + Aspergillus fumigatus + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts331621</name>
+      <ingredients>Felis catus hair + Poa pratensis pollen + Periplaneta americana + Cynodon dactylon pollen + Dermatophagoides pteronyssinus + Juniperus virginiana pollen + Cochliobolus sativus + Cladosporium cladosporioides + Penicillium chrysogenum var. chrysogenum + Aureobasidium pullulans var. pullutans + Rhizopus stolonifer + Acer negundo pollen + Populus deltoides pollen + Carya illinoinensis pollen + Carya alba pollen + Betula nigra pollen + Fraxinus americana pollen + Quercus alba pollen + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Pleospora herbarum + Sorghum halepense pollen + Kochia scoparia pollen + Chenopodium album pollen + Iva annua var. annua pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts332344</name>
+      <ingredients>Felis catus hair + Dermatophagoides farinae + Alternaria alternata + Canis lupus familiaris hair + Dermatophagoides pteronyssinus + Aspergillus fumigatus + Penicillium chrysogenum var. chrysogenum + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Pleospora herbarum + Ustilago cynodontis + Sporisorium cruentum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts329066</name>
+      <ingredients>Poa pratensis pollen + Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Canis lupus familiaris hair + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Dermatophagoides pteronyssinus + Plantago lanceolata pollen + Candida albicans + Juniperus virginiana pollen + Aspergillus fumigatus + Aureobasidium pullulans var. pullutans + Rhizopus stolonifer + Acer negundo pollen + Fraxinus americana pollen + Quercus alba pollen + Pleospora herbarum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts329915</name>
+      <ingredients>Felis catus hair + Dermatophagoides farinae + Alternaria alternata + Dermatophagoides pteronyssinus + Plantago lanceolata pollen + Candida albicans + Cladosporium cladosporioides + Acer negundo pollen + Populus deltoides pollen + Betula nigra pollen + Sorghum halepense pollen + Kochia scoparia pollen + Fusarium oxysporum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts329161</name>
+      <ingredients>Felis catus hair + Dermatophagoides farinae + Alternaria alternata + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides pteronyssinus + Candida albicans + Aspergillus fumigatus + Fusarium oxysporum + Cochliobolus sativus + Cladosporium cladosporioides + Penicillium chrysogenum var. chrysogenum + Phoma destructiva + Aureobasidium pullulans var. pullutans + Rhizopus stolonifer + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Pleospora herbarum + Ustilago cynodontis + Sporisorium cruentum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts331975</name>
+      <ingredients>Poa pratensis pollen + Dermatophagoides farinae + Ulmus americana pollen + Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides pteronyssinus + Plantago lanceolata pollen + Candida albicans + Juniperus virginiana pollen + Acer negundo pollen + Populus deltoides pollen + Carya illinoinensis pollen + Carya alba pollen + Betula nigra pollen + Fraxinus americana pollen + Quercus alba pollen + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Chenopodium album pollen + Iva annua var. annua pollen + Salsola kali pollen + Rumex acetosella pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts329750</name>
+      <ingredients>Felis catus hair + Poa pratensis pollen + Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Canis lupus familiaris hair + Periplaneta americana + Cynodon dactylon pollen + Dermatophagoides pteronyssinus + Juniperus virginiana pollen + Cladosporium cladosporioides + Acer negundo pollen + Populus deltoides pollen + Carya illinoinensis pollen + Carya alba pollen + Betula nigra pollen + Fraxinus americana pollen + Quercus alba pollen + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Pleospora herbarum + Sorghum halepense pollen + Iva annua var. annua pollen + Amaranthus retroflexus pollen + Salsola kali pollen + Rumex acetosella pollen + Ustilago cynodontis + Sporisorium cruentum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts331150</name>
+      <ingredients>Felis catus hair + Dermatophagoides farinae + Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Canis lupus familiaris hair + Cynodon dactylon pollen + Dermatophagoides pteronyssinus + Juniperus virginiana pollen + Cochliobolus sativus + Cladosporium cladosporioides + Penicillium chrysogenum var. chrysogenum + Phoma destructiva + Aureobasidium pullulans var. pullutans + Rhizopus stolonifer + Acer negundo pollen + Populus deltoides pollen + Fraxinus americana pollen + Chenopodium album pollen + Iva annua var. annua pollen + Amaranthus retroflexus pollen + Salsola kali pollen + Ustilago cynodontis + Sporisorium cruentum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts333176</name>
+      <ingredients>Dermatophagoides farinae + Alternaria alternata + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides pteronyssinus + Candida albicans + Aspergillus fumigatus + Fusarium oxysporum + Penicillium chrysogenum var. chrysogenum + Phoma destructiva + Aureobasidium pullulans var. pullutans + Rhizopus stolonifer + Pleospora herbarum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts332487</name>
+      <ingredients>Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Ustilago cynodontis + Sporisorium cruentum + Cochliobolus sativus + Penicillium chrysogenum var. chrysogenum + Aureobasidium pullulans var. pullutans + Pleospora herbarum + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides pteronyssinus + Candida albicans + Fusarium oxysporum + Cladosporium cladosporioides + Phoma destructiva + Rhizopus stolonifer</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts329227</name>
+      <ingredients>Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Carya illinoinensis pollen + Carya alba pollen + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Ustilago cynodontis + Sporisorium cruentum + Dermatophagoides pteronyssinus + Ulmus americana pollen + Plantago lanceolata pollen + Cynodon dactylon pollen + Poa pratensis pollen + Fraxinus americana pollen + Betula nigra pollen + Populus deltoides pollen + Quercus alba pollen + Sorghum halepense pollen + Amaranthus retroflexus pollen + Salsola kali pollen + Kochia scoparia pollen + Iva annua var. annua pollen + Chenopodium album pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts330717</name>
+      <ingredients>Dermatophagoides farinae + Alternaria alternata + Canis lupus familiaris hair + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Dermatophagoides pteronyssinus + Candida albicans + Aspergillus fumigatus + Fusarium oxysporum + Cochliobolus sativus + Cladosporium cladosporioides + Aureobasidium pullulans var. pullutans + Pleospora herbarum + Rhizopus stolonifer + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Ustilago cynodontis + Sporisorium cruentum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts332340</name>
+      <ingredients>Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Carya illinoinensis pollen + Carya alba pollen + Ustilago cynodontis + Sporisorium cruentum + Periplaneta americana + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Canis lupus familiaris hair + Felis catus hair + Ulmus americana pollen + Cynodon dactylon pollen + Sorghum halepense pollen + Fraxinus americana pollen + Acer negundo pollen + Juniperus virginiana pollen + Poa pratensis pollen + Rumex acetosella pollen + Amaranthus retroflexus pollen + Kochia scoparia pollen + Iva annua var. annua pollen + Candida albicans + Cochliobolus sativus + Rhizopus stolonifer + Pleospora herbarum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts331259</name>
+      <ingredients>Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Ustilago cynodontis + Sporisorium cruentum + Pleospora herbarum + Cladosporium cladosporioides + Dermatophagoides farinae + Alternaria alternata + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides pteronyssinus + Aspergillus fumigatus + Fusarium oxysporum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts331794</name>
+      <ingredients>Ustilago cynodontis + Sporisorium cruentum + Dermatophagoides pteronyssinus + Juniperus virginiana pollen + Sorghum halepense pollen + Chenopodium album pollen + Iva annua var. annua pollen + Amaranthus retroflexus pollen + Salsola kali pollen + Rumex acetosella pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts330533</name>
+      <ingredients>Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Ustilago cynodontis + Sporisorium cruentum + Cochliobolus sativus + Cladosporium cladosporioides + Pleospora herbarum + Aureobasidium pullulans var. pullutans + Penicillium chrysogenum var. chrysogenum + Felis catus hair + Rhizopus stolonifer + Dermatophagoides farinae + Phoma destructiva + Fusarium oxysporum + Candida albicans + Aspergillus fumigatus + Dermatophagoides pteronyssinus + Alternaria alternata + Canis lupus familiaris hair + Periplaneta americana</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts332850</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus + Felis catus hair + Cladosporium cladosporioides + Rumex acetosella pollen + Aspergillus fumigatus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts332131</name>
+      <ingredients>Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Periplaneta americana + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Canis lupus familiaris hair + Felis catus hair + Ulmus americana pollen + Plantago lanceolata pollen + Cynodon dactylon pollen + Poa pratensis pollen + Alternaria alternata + Cladosporium cladosporioides + Betula nigra pollen + Populus deltoides pollen + Amaranthus retroflexus pollen + Aureobasidium pullulans var. pullutans + Kochia scoparia pollen + Candida albicans</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts331567</name>
+      <ingredients>Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Carya illinoinensis pollen + Carya alba pollen + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Canis lupus familiaris hair + Felis catus hair + Cynodon dactylon pollen + Poa pratensis pollen + Alternaria alternata + Juniperus virginiana pollen + Candida albicans</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts331133</name>
+      <ingredients>Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Carya illinoinensis pollen + Carya alba pollen + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Pleospora herbarum + Ustilago cynodontis + Sporisorium cruentum + Felis catus hair + Poa pratensis pollen + Alternaria alternata + Cynodon dactylon pollen + Dermatophagoides pteronyssinus + Juniperus virginiana pollen + Acer negundo pollen + Populus deltoides pollen + Betula nigra pollen + Fraxinus americana pollen + Quercus alba pollen + Sorghum halepense pollen + Kochia scoparia pollen + Chenopodium album pollen + Amaranthus retroflexus pollen + Salsola kali pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts333373</name>
+      <ingredients>Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Cladosporium cladosporioides + Cochliobolus sativus + Aureobasidium pullulans var. pullutans + Penicillium chrysogenum var. chrysogenum + Pleospora herbarum + Felis catus hair + Dermatophagoides farinae + Alternaria alternata + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides pteronyssinus + Candida albicans + Aspergillus fumigatus + Fusarium oxysporum + Phoma destructiva + Rhizopus stolonifer</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts332291</name>
+      <ingredients>Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Pleospora herbarum + Aureobasidium pullulans var. pullutans + Cladosporium cladosporioides + Cochliobolus sativus + Rhizopus stolonifer + Phoma destructiva + Fusarium oxysporum + Aspergillus fumigatus + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Alternaria alternata + Canis lupus familiaris hair + Periplaneta americana</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts329240</name>
+      <ingredients>Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Carya illinoinensis pollen + Carya alba pollen + Pleospora herbarum + Penicillium chrysogenum var. chrysogenum + Juniperus virginiana pollen + Quercus alba pollen + Fraxinus americana pollen + Ulmus americana pollen + Poa pratensis pollen + Cynodon dactylon pollen + Dermatophagoides pteronyssinus + Plantago lanceolata pollen + Phoma destructiva + Candida albicans + Kochia scoparia pollen + Acer negundo pollen + Populus deltoides pollen + Betula nigra pollen + Sorghum halepense pollen + Chenopodium album pollen + Iva annua var. annua pollen + Amaranthus retroflexus pollen + Salsola kali pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts330821</name>
+      <ingredients>Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Ustilago cynodontis + Sporisorium cruentum + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Juniperus virginiana pollen + Ulmus americana pollen + Plantago lanceolata pollen + Felis catus hair + Poa pratensis pollen + Dermatophagoides farinae + Alternaria alternata + Periplaneta americana + Cynodon dactylon pollen + Dermatophagoides pteronyssinus + Candida albicans + Acer negundo pollen + Betula nigra pollen + Sorghum halepense pollen + Chenopodium album pollen + Iva annua var. annua pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts332678</name>
+      <ingredients>Ustilago cynodontis + Sporisorium cruentum + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Penicillium chrysogenum var. chrysogenum + Cladosporium cladosporioides + Felis catus hair + Dermatophagoides farinae + Alternaria alternata + Dermatophagoides pteronyssinus + Aspergillus fumigatus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts331795</name>
+      <ingredients>Sporisorium cruentum + Ustilago cynodontis + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Pleospora herbarum + Penicillium chrysogenum var. chrysogenum + Cochliobolus sativus + Aureobasidium pullulans var. pullutans + Cladosporium cladosporioides + Rhizopus stolonifer + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Phoma destructiva + Periplaneta americana + Candida albicans + Aspergillus fumigatus + Fusarium oxysporum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts329413</name>
+      <ingredients>Cochliobolus sativus + Fraxinus americana pollen + Periplaneta americana + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Salsola kali pollen + Iva annua var. annua pollen + Candida albicans</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts334947</name>
+      <ingredients>Canis lupus familiaris hair + Periplaneta americana + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Dermatophagoides pteronyssinus + Aspergillus fumigatus + Fusarium oxysporum + Cochliobolus sativus + Cladosporium cladosporioides + Penicillium chrysogenum var. chrysogenum + Phoma destructiva + Rhizopus stolonifer + Pleospora herbarum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts335100</name>
+      <ingredients>Dermatophagoides farinae + Alternaria alternata + Canis lupus familiaris hair + Periplaneta americana + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Dermatophagoides pteronyssinus + Candida albicans + Aspergillus fumigatus + Fusarium oxysporum + Cochliobolus sativus + Cladosporium cladosporioides + Penicillium chrysogenum var. chrysogenum + Phoma destructiva + Rhizopus stolonifer + Pleospora herbarum + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Ustilago cynodontis + Sporisorium cruentum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts335657</name>
+      <ingredients>Dermatophagoides farinae + Canis lupus familiaris hair + Periplaneta americana + Cynodon dactylon pollen + Dermatophagoides pteronyssinus + Juniperus virginiana pollen + Acer negundo pollen + Populus deltoides pollen + Carya illinoinensis pollen + Carya alba pollen + Betula nigra pollen + Fraxinus americana pollen + Quercus alba pollen + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Pleospora herbarum + Sorghum halepense pollen + Kochia scoparia pollen + Iva annua var. annua pollen + Amaranthus retroflexus pollen + Rumex acetosella pollen + Ustilago cynodontis + Sporisorium cruentum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts335861</name>
+      <ingredients>Felis catus hair + Poa pratensis pollen + Dermatophagoides farinae + Alternaria alternata + Ulmus americana pollen + Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Canis lupus familiaris hair + Periplaneta americana + Anser anser feather + Gallus gallus feather + Anas platyrhynchos feather + Cynodon dactylon pollen + Dermatophagoides pteronyssinus + Plantago lanceolata pollen + Candida albicans + Juniperus virginiana pollen + Cladosporium cladosporioides + Penicillium chrysogenum var. chrysogenum + Rhizopus stolonifer + Fraxinus americana pollen + Pleospora herbarum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts336924</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Penicillium chrysogenum var. chrysogenum + Cladosporium herbarum + Aspergillus fumigatus + Alternaria alternata + Felis catus hair + Canis lupus familiaris hair + Acer negundo pollen + Juglans nigra pollen + Fraxinus americana pollen + Quercus alba pollen + Carya illinoinensis pollen + Carya alba pollen + Ambrosia artemisiifolia pollen + Salsola kali pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts336312</name>
+      <ingredients>Alternaria alternata + Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Anser anser feather + Gallus gallus feather + Anas platyrhynchos feather + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides pteronyssinus + Phoma destructiva + Rhizopus stolonifer + Carya alba pollen + Carya illinoinensis pollen + Juniperus virginiana pollen + Aureobasidium pullulans var. pullutans + Betula nigra pollen + Quercus alba pollen + Pleospora herbarum + Sorghum halepense pollen + Kochia scoparia pollen + Chenopodium album pollen + Iva annua var. annua pollen + Amaranthus retroflexus pollen + Salsola kali pollen + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts336437</name>
+      <ingredients>Alternaria alternata + Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Dermatophagoides pteronyssinus + Carya alba pollen + Carya illinoinensis pollen + Juniperus virginiana pollen + Betula nigra pollen + Quercus alba pollen + Pleospora herbarum + Sorghum halepense pollen + Kochia scoparia pollen + Chenopodium album pollen + Iva annua var. annua pollen + Amaranthus retroflexus pollen + Salsola kali pollen + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Ustilago cynodontis + Sporisorium cruentum + Poa pratensis pollen + Ulmus americana pollen + Cynodon dactylon pollen + Plantago lanceolata pollen + Acer negundo pollen + Populus deltoides pollen + Fraxinus americana pollen + Rumex acetosella pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts336682</name>
+      <ingredients>Felis catus hair + Canis lupus familiaris hair + Cynodon dactylon pollen + Sorghum halepense pollen + Poa pratensis pollen + Paspalum notatum pollen + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Rhizopus stolonifer + Dactylis glomerata pollen + Lolium perenne pollen + Phleum pratense pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts336851</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Penicillium chrysogenum var. chrysogenum + Cladosporium herbarum + Aspergillus fumigatus + Alternaria alternata + Felis catus hair + Canis lupus familiaris hair + Periplaneta americana + Quercus alba pollen + Ambrosia artemisiifolia pollen + Urtica dioica pollen + Amaranthus retroflexus pollen + Iva annua var. annua pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts337554</name>
+      <ingredients>Dermatophagoides pteronyssinus + Quercus alba pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts337681</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Cladosporium herbarum + Aspergillus fumigatus + Alternaria alternata + Felis catus hair + Canis lupus familiaris hair + Quercus alba pollen + Ambrosia artemisiifolia pollen + Urtica dioica pollen + Amaranthus retroflexus pollen + Iva annua var. annua pollen + Ulmus americana pollen + Cynodon dactylon pollen + Phleum pratense pollen + Acer negundo pollen + Juniperus ashei pollen + Populus deltoides pollen + Fraxinus americana pollen + Salsola kali pollen + Rumex acetosella pollen + Juglans nigra pollen + Platanus occidentalis pollen + Carya illinoinensis pollen + Carya alba pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts339118</name>
+      <ingredients>Canis lupus familiaris hair + Dermatophagoides farinae + Aspergillus fumigatus + Dermatophagoides pteronyssinus + Fusarium oxysporum + Phoma destructiva + Periplaneta americana + Cochliobolus sativus + Cladosporium cladosporioides + Penicillium chrysogenum var. chrysogenum + Aureobasidium pullulans var. pullutans + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts339992</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Cynodon dactylon pollen + Iva annua var. annua pollen + Juniperus ashei pollen + Phleum pratense pollen + Ambrosia artemisiifolia pollen + Ulmus americana pollen + Acer negundo pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts340053</name>
+      <ingredients>Felis catus hair + Dermatophagoides farinae + Alternaria alternata + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides pteronyssinus + Aspergillus fumigatus + Cladosporium cladosporioides + Phoma destructiva + Rhizopus stolonifer + Candida albicans + Penicillium chrysogenum var. chrysogenum + Cochliobolus sativus + Aureobasidium pullulans var. pullutans + Pleospora herbarum + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Ustilago cynodontis + Sporisorium cruentum + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts340074</name>
+      <ingredients>Felis catus hair + Cynodon dactylon pollen + Ambrosia artemisiifolia pollen + Carya alba pollen + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Canis lupus familiaris hair + Juglans nigra pollen + Ulmus americana pollen + Phleum pratense pollen + Iva annua var. annua pollen + Carya tomentosa pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts340525</name>
+      <ingredients>Alternaria alternata + Canis lupus familiaris hair + Rhizopus stolonifer + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Aspergillus fumigatus + Candida albicans + Periplaneta americana + Cochliobolus sativus + Cladosporium cladosporioides + Penicillium chrysogenum var. chrysogenum + Pleospora herbarum + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts340796</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus + Periplaneta americana + Juglans nigra pollen + Cynodon dactylon pollen + Phleum pratense pollen + Amaranthus retroflexus pollen + Carya illinoinensis pollen + Carya tomentosa pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts341430</name>
+      <ingredients>Juniperus virginiana pollen + Acer negundo pollen + Sorghum halepense pollen + Carya illinoinensis pollen + Carya tomentosa pollen + Ulmus americana pollen + Populus deltoides pollen + Iva annua pollen + Amaranthus retroflexus pollen + Salsola kali pollen + Bassia scoparia pollen + Chenopodium album pollen + Felis catus hair + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Rhizopus stolonifer + Phoma destructiva + Candida albicans + Cochliobolus sativus + Cladosporium cladosporioides + Penicillium chrysogenum var. chrysogenum + Aureobasidium pullulans var. pullutans + Ustilago cynodontis + Sporisorium cruentum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts341451</name>
+      <ingredients>Alternaria alternata + Ambrosia artemisiifolia pollen + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Cynodon dactylon pollen + Poa pratensis pollen + Sporisorium cruentum + Ulmus americana pollen + Acer negundo pollen + Carya tomentosa pollen + Platanus occidentalis pollen + Morus alba pollen + Plantago lanceolata pollen + Salsola kali pollen + Amaranthus retroflexus pollen + Rumex acetosella pollen + Urtica dioica pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts341474</name>
+      <ingredients>Dermatophagoides pteronyssinus + Cynodon dactylon pollen + Iva annua pollen + Acer negundo pollen + Canis lupus familiaris hair + Candida albicans + Phoma destructiva + Rhizopus stolonifer + Periplaneta americana + Juniperus virginiana pollen + Aspergillus fumigatus + Cladosporium cladosporioides + Penicillium chrysogenum var. chrysogenum + Aureobasidium pullulans var. pullutans + Populus deltoides pollen + Betula nigra pollen + Fraxinus americana pollen + Quercus alba pollen + Pleospora herbarum + Sorghum halepense pollen + Amaranthus retroflexus pollen + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Carya illinoinensis pollen + Carya tomentosa pollen + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts342922</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Cynodon dactylon pollen + Ambrosia artemisiifolia pollen + Acer negundo pollen + Felis catus hair + Poa pratensis pollen + Ulmus americana pollen + Ambrosia trifida pollen + Ambrosia psilostachya pollen + Gallus gallus feather + Anser anser feather + Anas platyrhynchos feather + Plantago lanceolata pollen + Candida albicans + Juniperus virginiana pollen + Cladosporium cladosporioides + Penicillium chrysogenum var. chrysogenum + Phoma destructiva + Aureobasidium pullulans var. pullutans + Rhizopus stolonifer + Populus deltoides pollen + Betula nigra pollen + Fraxinus americana pollen + Quercus alba pollen + Pleospora herbarum + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts344001</name>
+      <ingredients>Felis catus hair + Canis lupus familiaris hair + Ambrosia artemisiifolia pollen + Plantago lanceolata pollen + Amaranthus retroflexus pollen + Festuca pratensis pollen + Cynodon dactylon pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts344003</name>
+      <ingredients>Felis catus hair + Dermatophagoides farinae + Alternaria alternata + Periplaneta americana + Dermatophagoides pteronyssinus + Aspergillus fumigatus + Cochliobolus sativus + Cladosporium herbarum + Fusarium oxysporum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts344005</name>
+      <ingredients>Felis catus hair + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Alternaria alternata + Aspergillus fumigatus + Cladosporium herbarum + Fusarium oxysporum + Cochliobolus sativus + Equus caballus hair</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts344420</name>
+      <ingredients>Periplaneta americana + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Fusarium oxysporum + Cochliobolus sativus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts344422</name>
+      <ingredients>Felis catus hair + Dermatophagoides farinae + Alternaria alternata + Periplaneta americana + Dermatophagoides pteronyssinus + Cochliobolus sativus + Cladosporium herbarum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts344570</name>
+      <ingredients>Felis catus hair + Dermatophagoides farinae + Alternaria alternata + Dermatophagoides pteronyssinus + Ambrosia artemisiifolia pollen + Sorghum halepense pollen + Pascopyrum smithii pollen + Fraxinus americana pollen + Quercus alba pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts344592</name>
+      <ingredients>Dermatophagoides pteronyssinus + Canis lupus familiaris hair</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts345048</name>
+      <ingredients>Felis catus hair + Canis lupus familiaris hair + Ambrosia artemisiifolia pollen + Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts345381</name>
+      <ingredients>Alternaria alternata + Felis catus hair + Canis lupus familiaris hair + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Aspergillus fumigatus + Cladosporium herbarum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts345694</name>
+      <ingredients>Alternaria alternata + Felis catus hair + Canis lupus familiaris hair + Ambrosia artemisiifolia pollen + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Cynodon dactylon pollen + Festuca pratensis pollen + Carya tomentosa pollen + Carya illinoinensis pollen + Rumex acetosella pollen + Phleum pratense pollen + Fraxinus americana pollen + Acer negundo pollen + Populus deltoides pollen + Quercus alba pollen + Equus caballus hair</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts345784</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Phleum pratense pollen + Ambrosia artemisiifolia pollen + Acer negundo pollen + Festuca pratensis pollen + Sorghum halepense pollen + Avena sativa pollen + Pascopyrum smithii pollen + Carya tomentosa pollen + Carya illinoinensis pollen + Felis catus hair + Periplaneta americana</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts345883</name>
+      <ingredients>Urtica dioica pollen + Chenopodium album pollen + Amaranthus retroflexus pollen + Ambrosia artemisiifolia pollen + Rumex acetosella pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Fraxinus americana pollen + Betula populifolia pollen + Acer negundo pollen + Juniperus virginiana pollen + Populus deltoides pollen + Populus deltoides pollen + Quercus alba pollen + Equus caballus hair + Carya tomentosa pollen + Carya illinoinensis pollen + Felis catus hair + Dermatophagoides pteronyssinus + Periplaneta americana + Alternaria alternata</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts346157</name>
+      <ingredients>Dermatophagoides pteronyssinus + Dermatophagoides farinae + Canis lupus familiaris hair + Cynodon dactylon pollen + Phleum pratense pollen + Ambrosia artemisiifolia pollen + Iva annua pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts346618</name>
+      <ingredients>Betula populifolia pollen + Ambrosia artemisiifolia pollen + Plantago lanceolata pollen + Urtica dioica pollen + Amaranthus retroflexus pollen + Periplaneta americana + Acer negundo pollen + Juniperus virginiana pollen + Ulmus americana pollen + Platanus occidentalis pollen + Juglans nigra pollen + Morus rubra pollen + Pascopyrum smithii pollen + Dermatophagoides pteronyssinus + Alternaria alternata + Aspergillus fumigatus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts346620</name>
+      <ingredients>Alternaria alternata + Felis catus hair + Canis lupus familiaris hair + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Cochliobolus sativus + Periplaneta americana</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts346963</name>
+      <ingredients>Felis catus hair + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Alternaria alternata + Aspergillus fumigatus + Cladosporium herbarum + Fusarium oxysporum + Cochliobolus sativus + Cynodon dactylon pollen + Festuca pratensis pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts347116</name>
+      <ingredients>Felis catus hair + Canis lupus familiaris hair + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Alternaria alternata + Cochliobolus sativus + Morus rubra pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts347249</name>
+      <ingredients>Plantago lanceolata pollen + Chenopodium album pollen + Amaranthus retroflexus pollen + Ambrosia artemisiifolia pollen + Rumex acetosella pollen + Cynodon dactylon pollen + Festuca pratensis pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Felis catus hair + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Alternaria alternata + Fusarium oxysporum + Cochliobolus sativus + Fraxinus americana pollen + Populus deltoides pollen + Carya alba pollen + Carya illinoinensis pollen + Platanus occidentalis pollen + Morus rubra pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts347337</name>
+      <ingredients>Cynodon dactylon pollen + Festuca pratensis pollen + Sorghum halepense pollen + Avena sativa pollen + Pascopyrum smithii pollen + Canis lupus familiaris hair + Dermatophagoides pteronyssinus + Alternaria alternata</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts347484</name>
+      <ingredients>Plantago lanceolata pollen + Urtica dioica pollen + Amaranthus retroflexus pollen + Dermatophagoides pteronyssinus + Alternaria alternata + Aspergillus fumigatus + Cladosporium herbarum + Fraxinus americana pollen + Carya alba pollen + Carya illinoinensis pollen + Equus caballus hair</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts347536</name>
+      <ingredients>Plantago lanceolata pollen + Amaranthus retroflexus pollen + Avena sativa pollen + Phleum pratense pollen + Canis lupus familiaris hair + Dermatophagoides pteronyssinus + Alternaria alternata + Aspergillus fumigatus + Quercus alba pollen + Carya illinoinensis pollen + Carya alba pollen + Platanus occidentalis pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts347537</name>
+      <ingredients>Plantago lanceolata pollen + Chenopodium album pollen + Urtica dioica pollen + Amaranthus retroflexus pollen + Avena sativa pollen + Phleum pratense pollen + Dermatophagoides pteronyssinus + Alternaria alternata + Fraxinus americana pollen + Acer negundo pollen + Juniperus virginiana pollen + Ulmus americana pollen + Quercus alba pollen + Carya alba pollen + Carya illinoinensis pollen + Platanus occidentalis pollen + Juglans nigra pollen + Morus rubra pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts347627</name>
+      <ingredients>Felis catus hair + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides pteronyssinus + Alternaria alternata + Cladosporium herbarum + Cochliobolus sativus + Equus caballus hair + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Oryctolagus cuniculus hair + Bos taurus hair + Odocoileus virginianus hair</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts348491</name>
+      <ingredients>Cynodon dactylon pollen + Festuca pratensis pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Felis catus hair + Canis lupus familiaris hair + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Alternaria alternata + Cochliobolus sativus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts348560</name>
+      <ingredients>Chenopodium album pollen + Salsola kali pollen + Rumex acetosella pollen + Populus deltoides pollen + Bos taurus hair + Epicoccum nigrum + Fusarium oxysporum + Cochliobolus sativus + Periplaneta americana + Dermatophagoides pteronyssinus + Dermatophagoides farinae + Aspergillus fumigatus + Acer negundo pollen + Juglans nigra pollen + Fraxinus americana pollen + Quercus alba pollen + Ulmus americana pollen + Iva annua var. annua pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts348563</name>
+      <ingredients>Sorghum halepense pollen + Plantago lanceolata pollen + Chenopodium album pollen + Salsola kali pollen + Rumex acetosella pollen + Amaranthus retroflexus pollen + Poa pratensis pollen + Festuca pratensis pollen + Dactylis glomerata pollen + Lolium perenne pollen + Agrostis gigantea pollen + Phleum pratense pollen + Anthoxanthum odoratum pollen + Alnus rhombifolia pollen + Juniperus ashei pollen + Populus deltoides pollen + Carya alba pollen + Carya illinoinensis pollen + Morus alba pollen + Bos taurus hair + Cochliobolus sativus + Periplaneta americana + Dermatophagoides pteronyssinus + Dermatophagoides farinae + Alternaria alternata + Acer negundo pollen + Juglans nigra pollen + Platanus occidentalis pollen + Fraxinus americana pollen + Quercus alba pollen + Ulmus americana pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts348650</name>
+      <ingredients>Felis catus hair + Dermatophagoides farinae + Alternaria alternata + Canis lupus familiaris hair + Periplaneta americana + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Dermatophagoides pteronyssinus + Candida albicans + Fusarium oxysporum + Cochliobolus sativus + Cladosporium cladosporioides + Penicillium chrysogenum var. chrysogenum + Rhizopus stolonifer + Pleospora herbarum + Ustilago cynodontis + Sporisorium cruentum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts349186</name>
+      <ingredients>Cynodon dactylon pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Felis catus hair + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides pteronyssinus + Alternaria alternata + Aspergillus fumigatus + Cladosporium herbarum + Cochliobolus sativus + Anser anser feather + Gallus gallus feather + Anas platyrhynchos feather</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts349291</name>
+      <ingredients>Cynodon dactylon pollen + Festuca pratensis pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Felis catus hair + Canis lupus familiaris hair + Dermatophagoides pteronyssinus + Alternaria alternata + Cochliobolus sativus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts349358</name>
+      <ingredients>Plantago lanceolata pollen + Amaranthus retroflexus pollen + Ambrosia artemisiifolia pollen + Rumex acetosella pollen + Cynodon dactylon pollen + Festuca pratensis pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Felis catus hair + Canis lupus familiaris hair + Dermatophagoides pteronyssinus + Alternaria alternata + Cochliobolus sativus + Juniperus virginiana pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts349573</name>
+      <ingredients>Urtica dioica pollen + Amaranthus retroflexus pollen + Ambrosia artemisiifolia pollen + Rumex acetosella pollen + Cynodon dactylon pollen + Festuca pratensis pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Felis catus hair + Dermatophagoides pteronyssinus + Populus deltoides pollen + Quercus alba pollen + Carya alba pollen + Carya illinoinensis pollen + Platanus occidentalis pollen + Juglans nigra pollen + Morus rubra pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts349575</name>
+      <ingredients>Cynodon dactylon pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Felis catus hair + Canis lupus familiaris hair + Dermatophagoides pteronyssinus + Alternaria alternata + Aspergillus fumigatus + Cladosporium herbarum + Cochliobolus sativus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts349576</name>
+      <ingredients>Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Dermatophagoides pteronyssinus + Alternaria alternata + Aspergillus fumigatus + Cochliobolus sativus + Quercus alba pollen + Carya illinoinensis pollen + Carya alba pollen + Juglans nigra pollen + Morus rubra pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts349779</name>
+      <ingredients>Cynodon dactylon pollen + Festuca pratensis pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Felis catus hair + Canis lupus familiaris hair + Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts349945</name>
+      <ingredients>Cynodon dactylon pollen + Festuca pratensis pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Felis catus hair + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides pteronyssinus + Fraxinus americana pollen + Betula populifolia pollen + Acer negundo pollen + Populus deltoides pollen + Ulmus americana pollen + Carya illinoinensis pollen + Carya alba pollen + Platanus occidentalis pollen + Juglans nigra pollen + Morus rubra pollen + Equus caballus hair</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts350094</name>
+      <ingredients>Felis catus hair + Canis lupus familiaris hair + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Alternaria alternata + Aspergillus fumigatus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts350242</name>
+      <ingredients>Periplaneta americana + Dermatophagoides farinae + Dermatophagoides pteronyssinus + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Canis lupus familiaris hair + Felis catus hair + Ulmus americana pollen + Ambrosia trifida pollen + Ambrosia artemisiifolia pollen + Ambrosia psilostachya pollen + Cynodon dactylon pollen + Sorghum halepense pollen + Fraxinus americana pollen + Acer negundo pollen + Juniperus virginiana pollen + Carya illinoinensis pollen + Carya alba pollen + Poa pratensis pollen + Rumex acetosella pollen + Amaranthus retroflexus pollen + Kochia scoparia pollen + Iva annua var. annua pollen + Candida albicans + Cochliobolus sativus + Rhizopus stolonifer + Pleospora herbarum + Ustilago cynodontis + Sporisorium cruentum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts350535</name>
+      <ingredients>Amaranthus retroflexus pollen + Ambrosia artemisiifolia pollen + Cynodon dactylon pollen + Festuca pratensis pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Dermatophagoides pteronyssinus + Alternaria alternata + Cochliobolus sativus + Fraxinus americana pollen + Acer negundo pollen + Juniperus virginiana pollen + Quercus alba pollen + Carya illinoinensis pollen + Carya alba pollen + Platanus occidentalis pollen + Juglans nigra pollen + Morus rubra pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts350565</name>
+      <ingredients>Dermatophagoides pteronyssinus + Cochliobolus sativus + Penicillium chrysogenum var. chrysogenum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts350663</name>
+      <ingredients>Ambrosia artemisiifolia pollen + Cynodon dactylon pollen + Festuca pratensis pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides pteronyssinus + Alternaria alternata + Aspergillus fumigatus + Cochliobolus sativus + Betula populifolia pollen + Populus deltoides pollen + Ulmus americana pollen + Populus nigra pollen + Populus alba pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts350905</name>
+      <ingredients>Felis catus hair + Dermatophagoides farinae + Alternaria alternata + Canis lupus familiaris hair + Periplaneta americana + Gallus gallus feather + Anas platyrhynchos feather + Anser anser feather + Dermatophagoides pteronyssinus + Candida albicans + Aspergillus fumigatus + Pleospora herbarum + Cochliobolus sativus + Cladosporium cladosporioides + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Aureobasidium pullulans var. pullutans + Rhizopus stolonifer</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts351030</name>
+      <ingredients>Felis catus hair + Dermatophagoides farinae + Alternaria alternata + Canis lupus familiaris hair + Periplaneta americana + Dermatophagoides pteronyssinus + Aspergillus fumigatus + Fusarium oxysporum + Cochliobolus sativus + Cladosporium cladosporioides + Penicillium chrysogenum var. chrysogenum + Phoma destructiva + Aureobasidium pullulans var. pullutans + Rhizopus stolonifer + Pleospora herbarum + Ustilago nuda hordei + Ustilago maydis + Ustilago avenae + Ustilago tritici + Ustilago cynodontis + Sporisorium cruentum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts351125</name>
+      <ingredients>Plantago lanceolata pollen + Amaranthus retroflexus pollen + Avena sativa pollen + Phleum pratense pollen + Canis lupus familiaris hair + Dermatophagoides pteronyssinus + Alternaria alternata + Aspergillus fumigatus + Quercus alba pollen + Carya illinoinensis pollen + Carya alba pollen + Platanus occidentalis pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts351201</name>
+      <ingredients>Cynodon dactylon pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Dermatophagoides pteronyssinus + Alternaria alternata + Cochliobolus sativus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts351312</name>
+      <ingredients>Plantago lanceolata pollen + Amaranthus retroflexus pollen + Ambrosia artemisiifolia pollen + Rumex acetosella pollen + Cynodon dactylon pollen + Festuca pratensis pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Felis catus hair + Periplaneta americana + Dermatophagoides pteronyssinus + Ulmus americana pollen + Quercus alba pollen + Carya alba pollen + Carya illinoinensis pollen + Platanus occidentalis pollen + Salix nigra pollen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Treatment Set Ts351315</name>
+      <ingredients>Cynodon dactylon pollen + Festuca pratensis pollen + Sorghum halepense pollen + Avena sativa pollen + Phleum pratense pollen + Pascopyrum smithii pollen + Felis catus hair + Dermatophagoides pteronyssinus + Alternaria alternata + Aspergillus fumigatus</ingredients>
+    </mixture>
+    <mixture>
+      <name>House Dust Mite, Dermatophagoides Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite D Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite Mix, Dermatophagoides Pteronyssinus and Dermatophagoides Farinae, 30000 Au Per Ml</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite Mix, Dermatophagoides Pteronyssinus and Dermatophagoides Farinae, 10000 Au Per Ml</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus, Scratch Or Bulk, 30000 Au Per Ml</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus, Intradermal, 30 Au Per Ml</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus, Intradermal, 300 Au Per Ml</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite, Dermatophagoides Pteronyssinus, Bulk, 10000 Au Per Ml</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extract Standardized Mite Dp (10,000 Au/ml)</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extract Standardized Mite Dp (30,000 Au/ml)</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extract Mixture Of Standardized Mites (15,000 Au/ml)</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extract Mixture Of Standardized Mites (5,000 Au/ml)</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extract, Standardized Mite, D.pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extract, Standardized Mite Mixed</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extract Standardized Mite Mix</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extract Standardized Mite Dp</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extract Standardized Mite Mix</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extract Standardized Mite Dp</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite, D. Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Standardized Mite, Mite Mix - Liq</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extract - Standardized Mite Dermatophagoides Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extracts - Standardized Mite Dermatophagoides Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extract - Standardized Mite Dermatophagoides Pteronyssinus</name>
+      <ingredients>Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+    <mixture>
+      <name>Allergenic Extract - Standardized Mite Mix</name>
+      <ingredients>Dermatophagoides farinae + Dermatophagoides pteronyssinus</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Solution</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength>10000 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength>5000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Percutaneous; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Subcutaneous</route>
+      <strength>10000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Subcutaneous</route>
+      <strength>30000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Percutaneous; Subcutaneous</route>
+      <strength>10000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Percutaneous; Subcutaneous</route>
+      <strength>30000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intradermal; Percutaneous; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intradermal; Percutaneous; Subcutaneous</route>
+      <strength>10000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength>30000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Concentrate</form>
+      <route>Intradermal; Percutaneous; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Concentrate</form>
+      <route>Intradermal; Percutaneous; Subcutaneous</route>
+      <strength>10000 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Concentrate</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Concentrate</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength>30000 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Concentrate</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength>5000 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Cutaneous; Intradermal; Subcutaneous</route>
+      <strength>10000 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Percutaneous; Subcutaneous</route>
+      <strength>10000 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>10000 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>5000 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Percutaneous</route>
+      <strength>10000 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength>10000 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength>10000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength>3000 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength>5000 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intradermal</route>
+      <strength>30 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intradermal</route>
+      <strength>300 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Percutaneous; Subcutaneous</route>
+      <strength>30000 [AU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7661</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

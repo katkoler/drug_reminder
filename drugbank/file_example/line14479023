@@ -1,0 +1,1473 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-25">
+  <drugbank-id primary="true">DB09555</drugbank-id>
+  <name>Dexchlorpheniramine maleate</name>
+  <description>Dexchlorpheniramine is the S-enantiomer of chlorpheniramine which is a 1st generation anti-histamine. Dexchlorpheniramine has more pharmacological activity than the R and so is more potent than the  racemic mixture.</description>
+  <cas-number/>
+  <unii>B10YD955QW</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>20680237</pubmed-id>
+        <citation>Angier E, Willington J, Scadding G, Holmes S, Walker S: Management of allergic and non-allergic rhinitis: a primary care summary of the BSACI guideline. Prim Care Respir J. 2010 Sep;19(3):217-22. doi: 10.4104/pcrj.2010.00044.</citation>
+      </article>
+      <article>
+        <pubmed-id>10897096</pubmed-id>
+        <citation>Bui TH, Fernandez C, Vu K, Nguyen KH, Thuillier A, Farinotti R, Arnaud P, Gimenez F: Stereospecific versus nonstereospecific assessments for the bioequivalence of two formulations of racemic chlorpheniramine. Chirality. 2000 Aug;12(8):599-605.</citation>
+      </article>
+      <article>
+        <pubmed-id>7106172</pubmed-id>
+        <citation>Huang SM, Athanikar NK, Sridhar K, Huang YC, Chiou WL: Pharmacokinetics of chlorpheniramine after intravenous and oral administration in normal adults. Eur J Clin Pharmacol. 1982;22(4):359-65.</citation>
+      </article>
+      <article>
+        <pubmed-id>10368923</pubmed-id>
+        <citation>Hiep BT, Gimenez F, Khanh VU, Hung NK, Thuillier A, Farinotti R, Fernandez C: Binding of chlorpheniramine enantiomers to human plasma proteins. Chirality. 1999;11(5-6):501-4.</citation>
+      </article>
+      <article>
+        <pubmed-id>9231341</pubmed-id>
+        <citation>Nomura A, Sakurai E, Hikichi N: Stereoselective N-demethylation of chlorpheniramine by rat-liver microsomes and the involvement of cytochrome P450 isozymes. J Pharm Pharmacol. 1997 Mar;49(3):257-62.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Dexchlorpheniramine monograph</title>
+        <url>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1950f4d6-7fc2-44cd-9f7d-1359315353fc</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference>LI Pengfei LIU Lihong MA Ping WANG LingCHI Xiaohua LIANG Dongmei GAO Wenjing WANG Yanfeng(Department of Pharmacy,the Second Artillery General Hospital,PLA,100088,Beijing,China);PHARMACOKINETICS OF PARACETAMOL AND DEXCHLORPHENIRAMINE MALEATE ORAL SOLUTION IN HEALTHY VOLUNTEERS[J];Journal of Beijing Normal University(Natural Science);2008-03&#13;
+&#13;
+Zuberbier T, Aberer W, Asero R, et al. The EAACI/GA(2) LEN/EDF/WAO guideline for the definition, classification, diagnosis, and management of urticaria: the 2013 revision and update. Allergy. 2014;69(7):868-887.&#13;
+</synthesis-reference>
+  <indication>Dexchlorpheniramine can be used in the treatment of perennial and seasonal allergic rhinitis, vasomotor rhiniti, allergic conjunctivitis due to inhalant allergens and foods, mild uncomplicated allergic skin manifestations of urticaria and angioedema, amelioration of allergic reactions to blood or plasma, and dermographism.</indication>
+  <pharmacodynamics>In allergic reactions, an allergen binds to IgE antibodies on mast cells and basophils. Once this occurs IgE receptors crosslink with each other triggering a  series of events that eventually leads to cell-degranulation and the release of histamine (and other chemical mediators) from the mast cell or basophil. Histamine can react with local or widespread tissues through histamine receptors. Histamine, acting on H1-receptors, produces pruritis, vasodilatation, hypotension, flushing, headache, tachycardia, and bronchoconstriction. Histamine also increases vascular permeability and potentiates pain. Dexchlorpheniramine, is a histamine H1 antagonist of the alkylamine class. It competes with histamine for the normal H1-receptor sites on effector cells of the gastrointestinal tract, blood vessels and respiratory tract. It provides effective, temporary relief of sneezing, watery and itchy eyes, and runny nose due to hay fever and other upper respiratory allergies.</pharmacodynamics>
+  <mechanism-of-action>Competes with histamine for H1-receptor sites on effector cells in the gastrointestinal tract, blood vessels, and respiratory tract. Dexchlorpheniramine is the predominant active isomer of chlorpheniramine and is approximately twice as active as the racemic compound. </mechanism-of-action>
+  <toxicity>Central nervous system depression</toxicity>
+  <metabolism>Hepatic metabolism. CYP 2D6 and minor metabolism by 2C11 and  2B1. </metabolism>
+  <absorption>Oral bioavailability in rats  40.5%</absorption>
+  <half-life>20-30 h</half-life>
+  <protein-binding>Dexchlorpheniramine is bound to total plasma proteins 38%, to albumin 20% and to alpha-glycoprotein acid 23%.</protein-binding>
+  <route-of-elimination>Renal excretion </route-of-elimination>
+  <volume-of-distribution>321L</volume-of-distribution>
+  <clearance>9.8L/h</clearance>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Abanatuss Ped</name>
+      <labeller>Kramer Novis.</labeller>
+      <ndc-id/>
+      <ndc-product-code>52083-675</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-07-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Abanatuss Ped Drops</name>
+      <labeller>Kramer Novis.</labeller>
+      <ndc-id/>
+      <ndc-product-code>52083-685</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-08-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Abatuss Dmx</name>
+      <labeller>Kramer Novis.</labeller>
+      <ndc-id/>
+      <ndc-product-code>52083-625</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-05-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Deltuss Dmx Cough Suppressant Nasal Decongestant Antihistamine Grape Flavor</name>
+      <labeller>Deliz Pharmaceutical Corp</labeller>
+      <ndc-id/>
+      <ndc-product-code>58238-225</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-03-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Deltuss Dp Nasal Decongestant Antihistamine Cherry Flavor</name>
+      <labeller>Deliz Pharmaceutical Corp</labeller>
+      <ndc-id/>
+      <ndc-product-code>58238-226</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-03-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dexchlorpheniramine Maleate</name>
+      <labeller>Morton Grove Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>60432-539</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1984-03-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>2 mg/5mL</strength>
+      <route>Oral</route>
+      <fda-application-number>ANDA088251</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Panatuss Ped</name>
+      <labeller>Seyer Pharmatec, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>11026-2775</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-12-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Panatuss Ped</name>
+      <labeller>Seyer Pharmatec, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>11026-2785</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-12-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Polaramine Repetabs 6mg</name>
+      <labeller>Schering Plough</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00176893</dpd-id>
+      <started-marketing-on>1958-12-31</started-marketing-on>
+      <ended-marketing-on>1997-12-02</ended-marketing-on>
+      <dosage-form>Tablet, extended release</dosage-form>
+      <strength>6 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polaramine Tab 2mg</name>
+      <labeller>Schering Plough</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00028207</dpd-id>
+      <started-marketing-on>1959-12-31</started-marketing-on>
+      <ended-marketing-on>2002-07-12</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>2 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pro-red Ac</name>
+      <labeller>Pro Pharma, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>66594-499</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Syrup</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rescon</name>
+      <labeller>Capellon Pharmaceuticals, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>64543-097</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-03-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, multilayer</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rymed</name>
+      <labeller>Edwards Pharmaceuticals, Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0485-0080</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-11-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vanacof</name>
+      <labeller>Gm Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>58809-999</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2008-04-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Rymed</name>
+      <ingredients>Dexchlorpheniramine maleate + Phenylephrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Panatuss Ped</name>
+      <ingredients>Clofedanol + Dexchlorpheniramine maleate + Pseudoephedrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Panatuss Ped</name>
+      <ingredients>Clofedanol + Dexchlorpheniramine maleate + Pseudoephedrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Abatuss Dmx</name>
+      <ingredients>Dexchlorpheniramine maleate + Dextromethorphan + Pseudoephedrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Abanatuss Ped</name>
+      <ingredients>Clofedanol + Dexchlorpheniramine maleate + Pseudoephedrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Abanatuss Ped Drops</name>
+      <ingredients>Clofedanol + Dexchlorpheniramine maleate + Pseudoephedrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Deltuss Dmx Cough Suppressant Nasal Decongestant Antihistamine Grape Flavor</name>
+      <ingredients>Dexchlorpheniramine maleate + Dextromethorphan + Pseudoephedrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Deltuss Dp Nasal Decongestant Antihistamine Cherry Flavor</name>
+      <ingredients>Dexchlorpheniramine maleate + Pseudoephedrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vanacof</name>
+      <ingredients>Clofedanol + Dexchlorpheniramine maleate + Pseudoephedrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dexchlorpheniramine Maleate</name>
+      <ingredients>Dexchlorpheniramine maleate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rescon</name>
+      <ingredients>Dexchlorpheniramine maleate + Pseudoephedrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pro-red Ac</name>
+      <ingredients>Codeine + Dexchlorpheniramine maleate + Phenylephrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polaramine Repetabs 6mg</name>
+      <ingredients>Dexchlorpheniramine maleate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polaramine Tab 2mg</name>
+      <ingredients>Dexchlorpheniramine maleate</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP2D6 Inhibitors</category>
+      <mesh-id>D065690</mesh-id>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP2D6 Substrates</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 1-Ring</category>
+      <mesh-id>D006573</mesh-id>
+    </category>
+    <category>
+      <category>Histamine Agents</category>
+      <mesh-id>D018494</mesh-id>
+    </category>
+    <category>
+      <category>Histamine Antagonists</category>
+      <mesh-id>D006633</mesh-id>
+    </category>
+    <category>
+      <category>Histamine H1 Antagonists</category>
+      <mesh-id>D006634</mesh-id>
+    </category>
+    <category>
+      <category>Molecular Mechanisms of Pharmacological Action</category>
+      <mesh-id>D045504</mesh-id>
+    </category>
+    <category>
+      <category>Neurotransmitter Agents</category>
+      <mesh-id>D018377</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Pheniramine</category>
+      <mesh-id>D010632</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Pyridines</category>
+      <mesh-id>D011725</mesh-id>
+    </category>
+    <category>
+      <category>Stereoisomerism</category>
+      <mesh-id>D013237</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Solution</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Oral</route>
+      <strength>2 mg/5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution / drops</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, extended release</form>
+      <route>Oral</route>
+      <strength>6 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>2 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Syrup</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, multilayer</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB01467</drugbank-id>
+      <name>2,5-Dimethoxy-4-ethylamphetamine</name>
+      <description>2,5-Dimethoxy-4-ethylamphetamine may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01509</drugbank-id>
+      <name>3,4-Methylenedioxyamphetamine</name>
+      <description>3,4-Methylenedioxyamphetamine may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01454</drugbank-id>
+      <name>3,4-Methylenedioxymethamphetamine</name>
+      <description>3,4-Methylenedioxymethamphetamine may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01484</drugbank-id>
+      <name>4-Bromo-2,5-dimethoxyamphetamine</name>
+      <description>4-Bromo-2,5-dimethoxyamphetamine may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00182</drugbank-id>
+      <name>Amphetamine</name>
+      <description>Amphetamine may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00865</drugbank-id>
+      <name>Benzphetamine</name>
+      <description>Benzphetamine may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00895</drugbank-id>
+      <name>Benzylpenicilloyl Polylysine</name>
+      <description>Dexchlorpheniramine maleate may decrease effectiveness of Benzylpenicilloyl Polylysine as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06698</drugbank-id>
+      <name>Betahistine</name>
+      <description>The therapeutic efficacy of Betahistine can be decreased when used in combination with Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01556</drugbank-id>
+      <name>Chlorphentermine</name>
+      <description>Chlorphentermine may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01576</drugbank-id>
+      <name>Dextroamphetamine</name>
+      <description>Dextroamphetamine may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00937</drugbank-id>
+      <name>Diethylpropion</name>
+      <description>Diethylpropion may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00070</drugbank-id>
+      <name>Hyaluronidase</name>
+      <description>The therapeutic efficacy of Hyaluronidase can be decreased when used in combination with Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09352</drugbank-id>
+      <name>Hydroxyamphetamine</name>
+      <description>Hydroxyamphetamine hydrobromide may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01255</drugbank-id>
+      <name>Lisdexamfetamine</name>
+      <description>Lisdexamfetamine may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13108</drugbank-id>
+      <name>Mephedrone</name>
+      <description>Mephedrone may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01365</drugbank-id>
+      <name>Mephentermine</name>
+      <description>Mephentermine may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01577</drugbank-id>
+      <name>Methamphetamine</name>
+      <description>Methamphetamine may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01442</drugbank-id>
+      <name>MMDA</name>
+      <description>MMDA may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00191</drugbank-id>
+      <name>Phentermine</name>
+      <description>Phentermine may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00852</drugbank-id>
+      <name>Pseudoephedrine</name>
+      <description>Pseudoephedrine may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12080</drugbank-id>
+      <name>Ritobegron</name>
+      <description>Ritobegron may decrease the sedative activities of Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>6585</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="2">
+      <id>BE0000442</id>
+      <name>Histamine H1 receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P35367" source="Swiss-Prot">
+    <name>Histamine H1 receptor</name>
+    <general-function>Histamine receptor activity</general-function>
+    <specific-function>In peripheral tissues, the H1 subclass of histamine receptors mediates the contraction of smooth muscles, increase in capillary permeability due to contraction of terminal venules, and catecholamine release from adrenal medulla, as well as mediating neurotransmission in the central nervous system.</specific-function>
+    <gene-name>HRH1</gene-name>
+    <locus>3p25</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>30-52
+63-83
+102-123
+144-164
+190-210
+417-438
+451-470</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>9.58</theoretical-pi>
+    <molecular-weight>55783.61</molecular-weight>
+    <chromosome-location>3</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:5182</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>HRH1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>Z34897</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>510296</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>IUPHAR</resource>
+        <identifier>262</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>262</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P35367</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>HRH1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>H1R</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016092|Histamine H1 receptor
+MSLPNSSCLLEDKMCEGNKTTMASPQLMPLVVVLSTICLVTVGLNLLVLYAVRSERKLHT
+VGNLYIVSLSVADLIVGAVVMPMNILYLLMSKWSLGRPLCLFWLSMDYVASTASIFSVFI
+LCIDRYRSVQQPLRYLKYRTKTRASATILGAWFLSFLWVIPILGWNHFMQQTSVRREDKC
+ETDFYDVTWFKVMTAIINFYLPTLLMLWFYAKIYKAVRQHCQHRELINRSLPSFSEIKLR
+PENPKGDAKKPGKESPWEVLKRKPKDAGGGSVLKSPSQTPKEMKSPVVFSQEDDREVDKL
+YCFPLDIVHMQAAAEGSSRDYVAVNRSHGQLKTDEQGLNTHGASEISEDQMLGDSQSFSR
+TDSDTTTETAPGKGKLRSGSNTGLDYIKFTWKRLRSHSRQYVSGLHMNRERKAAKQLGFI
+MAAFILCWIPYFIFFMVIAFCKNCCNEHLHMFTIWLGYINSTLNPLIYPLCNENFKKTFK
+RILHIRS</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016093|Histamine H1 receptor (HRH1)
+ATGAGCCTCCCCAATTCCTCCTGCCTCTTAGAAGACAAGATGTGTGAGGGCAACAAGACC
+ACTATGGCCAGCCCCCAGCTGATGCCCCTGGTGGTGGTCCTGAGCACTATCTGCTTGGTC
+ACAGTAGGGCTCAACCTGCTGGTGCTGTATGCCGTACGGAGTGAGCGGAAGCTCCACACT
+GTGGGGAACCTGTACATCGTCAGCCTCTCGGTGGCGGACTTGATCGTGGGTGCCGTCGTC
+ATGCCTATGAACATCCTCTACCTGCTCATGTCCAAGTGGTCACTGGGCCGTCCTCTCTGC
+CTCTTTTGGCTTTCCATGGACTATGTGGCCAGCACAGCGTCCATTTTCAGTGTCTTCATC
+CTGTGCATTGATCGCTACCGCTCTGTCCAGCAGCCCCTCAGGTACCTTAAGTATCGTACC
+AAGACCCGAGCCTCGGCCACCATTCTGGGGGCCTGGTTTCTCTCTTTTCTGTGGGTTATT
+CCCATTCTAGGCTGGAATCACTTCATGCAGCAGACCTCGGTGCGCCGAGAGGACAAGTGT
+GAGACAGACTTCTATGATGTCACCTGGTTCAAGGTCATGACTGCCATCATCAACTTCTAC
+CTGCCCACCTTGCTCATGCTCTGGTTCTATGCCAAGATCTACAAGGCCGTACGACAACAC
+TGCCAGCACCGGGAGCTCATCAATAGGTCCCTCCCTTCCTTCTCAGAAATTAAGCTGAGG
+CCAGAGAACCCCAAGGGGGATGCCAAGAAACCAGGGAAGGAGTCTCCCTGGGAGGTTCTG
+AAAAGGAAGCCAAAAGATGCTGGTGGTGGATCTGTCTTGAAGTCACCATCCCAAACCCCC
+AAGGAGATGAAATCCCCAGTTGTCTTCAGCCAAGAGGATGATAGAGAAGTAGACAAACTC
+TACTGCTTTCCACTTGATATTGTGCACATGCAGGCTGCGGCAGAGGGGAGTAGCAGGGAC
+TATGTAGCCGTCAACCGGAGCCATGGCCAGCTCAAGACAGATGAGCAGGGCCTGAACACA
+CATGGGGCCAGCGAGATATCAGAGGATCAGATGTTAGGTGATAGCCAATCCTTCTCTCGA
+ACGGACTCAGATACCACCACAGAGACAGCACCAGGCAAAGGCAAATTGAGGAGTGGGTCT
+AACACAGGCCTGGATTACATCAAGTTTACTTGGAAGAGGCTCCGCTCGCATTCAAGACAG
+TATGTATCTGGGTTGCACATGAACCGCGAAAGGAAGGCCGCCAAACAGTTGGGTTTTATC
+ATGGCAGCCTTCATCCTCTGCTGGATCCCTTATTTCATCTTCTTCATGGTCATTGCCTTC
+TGCAAGAACTGTTGCAATGAACATTTGCACATGTTCACCATCTGGCTGGGCTACATCAAC
+TCCACACTGAACCCCCTCATCTACCCCTTGTGCAATGAGAACTTCAAGAAGACATTCAAG
+AGAATTCTGCATATTCGCTCCTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00001</identifier>
+        <name>7tm_1</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>histamine binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>G-protein coupled receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>histamine receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>G-protein coupled receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>eosinophil chemotaxis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sensory perception of chemical stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>inositol phosphate-mediated signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>phospholipase C-activating G-protein coupled receptor signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>modulation of synaptic transmission</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of vasoconstriction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>memory</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of synaptic plasticity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>inflammatory response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>visual learning</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of vasoconstriction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of inositol trisphosphate biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to histamine</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of vascular permeability</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0002363</id>
+      <name>Cytochrome P450 2D6</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>11994058</pubmed-id>
+            <citation>Yasuda SU, Zannikos P, Young AE, Fried KM, Wainer IW, Woosley RL: The roles of CYP2D6 and stereoselectivity in the clinical pharmacokinetics of chlorpheniramine. Br J Clin Pharmacol. 2002 May;53(5):519-25.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>no</known-action>
+      <polypeptide id="P10635" source="Swiss-Prot">
+    <name>Cytochrome P450 2D6</name>
+    <general-function>Steroid hydroxylase activity</general-function>
+    <specific-function>Responsible for the metabolism of many drugs and environmental chemicals that it oxidizes. It is involved in the metabolism of drugs such as antiarrhythmics, adrenoceptor antagonists, and tricyclic antidepressants.</specific-function>
+    <gene-name>CYP2D6</gene-name>
+    <locus>22q13.1</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>7.26</theoretical-pi>
+    <molecular-weight>55768.94</molecular-weight>
+    <chromosome-location>22</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2625</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP2D6</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M20403</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>181350</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1329</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P10635</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP2D6_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>1.14.14.1</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYP2DL1</synonym>
+      <synonym>CYPIID6</synonym>
+      <synonym>Cytochrome P450-DB1</synonym>
+      <synonym>Debrisoquine 4-hydroxylase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004641|Cytochrome P450 2D6
+MGLEALVPLAVIVAIFLLLVDLMHRRQRWAARYPPGPLPLPGLGNLLHVDFQNTPYCFDQ
+LRRRFGDVFSLQLAWTPVVVLNGLAAVREALVTHGEDTADRPPVPITQILGFGPRSQGVF
+LARYGPAWREQRRFSVSTLRNLGLGKKSLEQWVTEEAACLCAAFANHSGRPFRPNGLLDK
+AVSNVIASLTCGRRFEYDDPRFLRLLDLAQEGLKEESGFLREVLNAVPVLLHIPALAGKV
+LRFQKAFLTQLDELLTEHRMTWDPAQPPRDLTEAFLAEMEKAKGNPESSFNDENLRIVVA
+DLFSAGMVTTSTTLAWGLLLMILHPDVQRRVQQEIDDVIGQVRRPEMGDQAHMPYTTAVI
+HEVQRFGDIVPLGVTHMTSRDIEVQGFRIPKGTTLITNLSSVLKDEAVWEKPFRFHPEHF
+LDAQGHFVKPEAFLPFSAGRRACLGEPLARMELFLFFTSLLQHFSFSVPTGQPRPSHHGV
+FAFLVSPSPYELCAVPR</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0019275|Cytochrome P450 2D6 (CYP2D6)
+ATGGGGCTAGAAGCACTGGTGCCCCTGGCCGTGATAGTGGCCATCTTCCTGCTCCTGGTG
+GACCTGATGCACCGGCGCCAACGCTGGGCTGCACGCTACCCACCAGGCCCCCTGCCACTG
+CCCGGGCTGGGCAACCTGCTGCATGTGGACTTCCAGAACACACCATACTGCTTCGACCAG
+TTGCGGCGCCGCTTCGGGGACGTGTTCAGCCTGCAGCTGGCCTGGACGCCGGTGGTCGTG
+CTCAATGGGCTGGCGGCCGTGCGCGAGGCGCTGGTGACCCACGGCGAGGACACCGCCGAC
+CGCCCGCCTGTGCCCATCACCCAGATCCTGGGTTTCGGGCCGCGTTCCCAAGGGGTGTTC
+CTGGCGCGCTATGGGCCCGCGTGGCGCGAGCAGAGGCGCTTCTCCGTGTCCACCTTGCGC
+AACTTGGGCCTGGGCAAGAAGTCGCTGGAGCAGTGGGTGACCGAGGAGGCCGCCTGCCTT
+TGTGCCGCCTTCGCCAACCACTCCGGACGCCCCTTTCGCCCCAACGGTCTCTTGGACAAA
+GCCGTGAGCAACGTGATCGCCTCCCTCACCTGCGGGCGCCGCTTCGAGTACGACGACCCT
+CGCTTCCTCAGGCTGCTGGACCTAGCTCAGGAGGGACTGAAGGAGGAGTCGGGCTTTCTG
+CGCGAGGTGCTGAATGCTGTCCCCGTCCTCCTGCATATCCCAGCGCTGGCTGGCAAGGTC
+CTACGCTTCCAAAAGGCTTTCCTGACCCAGCTGGATGAGCTGCTAACTGAGCACAGGATG
+ACCTGGGACCCAGCCCAGCCCCCCCGAGACCTGACTGAGGCCTTCCTGGCAGAGATGGAG
+AAGGCCAAGGGGAACCCTGAGAGCAGCTTCAATGATGAGAACCTGCGCATAGTGGTGGCT
+GACCTGTTCTCTGCCGGGATGGTGACCACCTCGACCACGCTGGCCTGGGGCCTCCTGCTC
+ATGATCCTACATCCGGATGTGCAGCGCCGTGTCCAACAGGAGATCGACGACGTGATAGGG
+CAGGTGCGGCGACCAGAGATGGGTGACCAGGCTCACATGCCCTACACCACTGCCGTGATT
+CATGAGGTGCAGCGCTTTGGGGACATCGTCCCCCTGGGTGTGACCCATATGACATCCCGT
+GACATCGAAGTACAGGGCTTCCGCATCCCTAAGGGAACGACACTCATCACCAACCTGTCA
+TCGGTGCTGAAGGATGAGGCCGTCTGGGAGAAGCCCTTCCGCTTCCACCCCGAACACTTC
+CTGGATGCCCAGGGCCACTTTGTGAAGCCGGAGGCCTTCCTGCCTTTCTCAGCAGGCCGC
+CGTGCATGCCTCGGGGAGCCCCTGGCCCGCATGGAGCTCTTCCTCTTCTTCACCTCCCTG
+CTGCAGCACTTCAGCTTCTCGGTGCCCACTGGACAGCCCCGGCCCAGCCACCATGGTGTC
+TTTGCTTTCCTGGTGAGCCCATCCCCCTATGAGCTTTGTGCTGTGCCCCGCTAG</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>mitochondrion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>drug binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>arachidonic acid epoxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>coumarin metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>isoquinoline alkaloid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of cellular organofluorine metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>alkaloid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heterocycle metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>arachidonic acid metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers>
+    <carrier position="3">
+      <id>BE0003648</id>
+      <name>Solute carrier family 22 member 1</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>11758759</pubmed-id>
+            <citation>Urakami Y, Okuda M, Masuda S, Akazawa M, Saito H, Inui K: Distinct characteristics of organic cation transporters, OCT1 and OCT2, in the basolateral membrane of renal tubules. Pharm Res. 2001 Nov;18(11):1528-34.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="O15245" source="Swiss-Prot">
+    <name>Solute carrier family 22 member 1</name>
+    <general-function>Secondary active organic cation transmembrane transporter activity</general-function>
+    <specific-function>Translocates a broad array of organic cations with various structures and molecular weights including the model compounds 1-methyl-4-phenylpyridinium (MPP), tetraethylammonium (TEA), N-1-methylnicotinamide (NMN), 4-(4-(dimethylamino)styryl)-N-methylpyridinium (ASP), the endogenous compounds choline, guanidine, histamine, epinephrine, adrenaline, noradrenaline and dopamine, and the drugs quinine, and metformin. The transport of organic cations is inhibited by a broad array of compounds like tetramethylammonium (TMA), cocaine, lidocaine, NMDA receptor antagonists, atropine, prazosin, cimetidine, TEA and NMN, guanidine, cimetidine, choline, procainamide, quinine, tetrabutylammonium, and tetrapentylammonium. Translocates organic cations in an electrogenic and pH-independent manner. Translocates organic cations across the plasma membrane in both directions. Transports the polyamines spermine and spermidine. Transports pramipexole across the basolateral membrane of the proximal tubular epithelial cells. The choline transport is activated by MMTS. Regulated by various intracellular signaling pathways including inhibition by protein kinase A activation, and endogenously activation by the calmodulin complex, the calmodulin-dependent kinase II and LCK tyrosine kinase.</specific-function>
+    <gene-name>SLC22A1</gene-name>
+    <locus>6q26</locus>
+    <cellular-location>Basolateral cell membrane</cellular-location>
+    <transmembrane-regions>22-42
+150-170
+177-197
+207-229
+236-256
+263-283
+348-368
+377-397
+403-423
+432-452
+465-485
+493-513</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>6.81</theoretical-pi>
+    <molecular-weight>61153.345</molecular-weight>
+    <chromosome-location>6</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:10963</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>X98332</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>2511670</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1019</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>O15245</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>S22A1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>hOCT1</synonym>
+      <synonym>OCT1</synonym>
+      <synonym>Organic cation transporter 1</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037862|Solute carrier family 22 member 1
+MPTVDDILEQVGESGWFQKQAFLILCLLSAAFAPICVGIVFLGFTPDHHCQSPGVAELSQ
+RCGWSPAEELNYTVPGLGPAGEAFLGQCRRYEVDWNQSALSCVDPLASLATNRSHLPLGP
+CQDGWVYDTPGSSIVTEFNLVCADSWKLDLFQSCLNAGFLFGSLGVGYFADRFGRKLCLL
+GTVLVNAVSGVLMAFSPNYMSMLLFRLLQGLVSKGNWMAGYTLITEFVGSGSRRTVAIMY
+QMAFTVGLVALTGLAYALPHWRWLQLAVSLPTFLFLLYYWCVPESPRWLLSQKRNTEAIK
+IMDHIAQKNGKLPPADLKMLSLEEDVTEKLSPSFADLFRTPRLRKRTFILMYLWFTDSVL
+YQGLILHMGATSGNLYLDFLYSALVEIPGAFIALITIDRVGRIYPMAMSNLLAGAACLVM
+IFISPDLHWLNIIIMCVGRMGITIAIQMICLVNAELYPTFVRNLGVMVCSSLCDIGGIIT
+PFIVFRLREVWQALPLILFAVLGLLAAGVTLLLPETKGVALPETMKDAENLGRKAKPKEN
+TIYLKVQTSEPSGT</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0017170|Solute carrier family 22 member 1 (SLC22A1)
+ATGCCCACCGTGGATGACATTCTGGAGCAGGTTGGGGAGTCTGGCTGGTTCCAGAAGCAA
+GCCTTCCTCATCTTATGCCTGCTGTCGGCTGCCTTTGCGCCCATCTGTGTGGGCATCGTC
+TTCCTGGGTTTCACACCTGACCACCACTGCCAGAGTCCTGGGGTGGCTGAGCTGAGCCAG
+CGCTGTGGCTGGAGCCCTGCGGAGGAGCTGAACTATACAGTGCCAGGCCTGGGGCCCGCG
+GGCGAGGCCTTCCTTGGCCAGTGCAGGCGCTATGAAGTGGACTGGAACCAGAGCGCCCTC
+AGCTGTGTAGACCCCCTGGCTAGCCTGGCCACCAACAGGAGCCACCTGCCGCTGGGTCCC
+TGCCAGGATGGCTGGGTGTATGACACGCCCGGCTCTTCCATCGTCACTGAGTTCAACCTG
+GTGTGTGCTGACTCCTGGAAGCTGGACCTCTTTCAGTCCTGTTTGAATGCGGGCTTCTTG
+TTTGGCTCTCTCGGTGTTGGCTACTTTGCAGACAGGTTTGGCCGTAAGCTGTGTCTCCTG
+GGAACTGTGCTGGTCAACGCGGTGTCGGGCGTGCTCATGGCCTTCTCGCCCAACTACATG
+TCCATGCTGCTCTTCCGCCTGCTGCAGGGCCTGGTCAGCAAGGGCAACTGGATGGCTGGC
+TACACCCTAATCACAGAATTTGTTGGCTCGGGCTCCAGAAGAACGGTGGCGATCATGTAC
+CAGATGGCCTTCACGGTGGGGCTGGTGGCGCTTACCGGGCTGGCCTACGCCCTGCCTCAC
+TGGCGCTGGCTGCAGCTGGCAGTCTCCCTGCCCACCTTCCTCTTCCTGCTCTACTACTGG
+TGTGTGCCGGAGTCCCCTCGGTGGCTGTTATCACAAAAAAGAAACACTGAAGCAATAAAG
+ATAATGGACCACATCGCTCAAAAGAATGGGAAGTTGCCTCCTGCTGATTTAAAGATGCTT
+TCCCTCGAAGAGGATGTCACCGAAAAGCTGAGCCCTTCATTTGCAGACCTGTTCCGCACG
+CCGCGCCTGAGGAAGCGCACCTTCATCCTGATGTACCTGTGGTTCACGGACTCTGTGCTC
+TATCAGGGGCTCATCCTGCACATGGGCGCCACCAGCGGGAACCTCTACCTGGATTTCCTT
+TACTCCGCTCTGGTCGAAATCCCGGGGGCCTTCATAGCCCTCATCACCATTGACCGCGTG
+GGCCGCATCTACCCCATGGCCATGTCAAATTTGTTGGCGGGGGCAGCCTGCCTCGTCATG
+ATTTTTATCTCACCTGACCTGCACTGGTTAAACATCATAATCATGTGTGTTGGCCGAATG
+GGAATCACCATTGCAATACAAATGATCTGCCTGGTGAATGCTGAGCTGTACCCCACATTC
+GTCAGGAACCTCGGAGTGATGGTGTGTTCCTCCCTGTGTGACATAGGTGGGATAATCACC
+CCCTTCATAGTCTTCAGGCTGAGGGAGGTCTGGCAAGCCTTGCCCCTCATTTTGTTTGCG
+GTGTTGGGCCTGCTTGCCGCGGGAGTGACGCTACTTCTTCCAGAGACCAAGGGGGTCGCT
+TTGCCAGAGACCATGAAGGACGCCGAGAACCTTGGGAGAAAAGCAAAGCCCAAAGAAAAC
+ACGATTTACCTTAAGGTCCAAACCTCAGAACCCTCGGGCACCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>basolateral plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>secondary active organic cation transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>quaternary ammonium group transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>organic cation transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>acetylcholine transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>norepinephrine transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>dopamine transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>organic cation transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>quaternary ammonium group transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>dopamine transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>epinephrine transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>establishment or maintenance of transmembrane electrochemical gradient</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>neurotransmitter transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein homooligomerization</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>norepinephrine transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>ammonium transmembrane transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </carrier>
+    <carrier position="4">
+      <id>BE0003647</id>
+      <name>Solute carrier family 22 member 2</name>
+      <organism>Human</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>11758759</pubmed-id>
+            <citation>Urakami Y, Okuda M, Masuda S, Akazawa M, Saito H, Inui K: Distinct characteristics of organic cation transporters, OCT1 and OCT2, in the basolateral membrane of renal tubules. Pharm Res. 2001 Nov;18(11):1528-34.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="O15244" source="Swiss-Prot">
+    <name>Solute carrier family 22 member 2</name>
+    <general-function>Quaternary ammonium group transmembrane transporter activity</general-function>
+    <specific-function>Mediates tubular uptake of organic compounds from circulation. Mediates the influx of agmatine, dopamine, noradrenaline (norepinephrine), serotonin, choline, famotidine, ranitidine, histamin, creatinine, amantadine, memantine, acriflavine, 4-[4-(dimethylamino)-styryl]-N-methylpyridinium ASP, amiloride, metformin, N-1-methylnicotinamide (NMN), tetraethylammonium (TEA), 1-methyl-4-phenylpyridinium (MPP), cimetidine, cisplatin and oxaliplatin. Cisplatin may develop a nephrotoxic action. Transport of creatinine is inhibited by fluoroquinolones such as DX-619 and LVFX. This transporter is a major determinant of the anticancer activity of oxaliplatin and may contribute to antitumor specificity.</specific-function>
+    <gene-name>SLC22A2</gene-name>
+    <locus>6q26</locus>
+    <cellular-location>Membrane</cellular-location>
+    <transmembrane-regions>23-43
+151-171
+178-198
+209-229
+239-259
+264-284
+349-369
+376-396
+415-435
+442-462
+465-485
+495-515</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>8.45</theoretical-pi>
+    <molecular-weight>62579.99</molecular-weight>
+    <chromosome-location>6</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:10966</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>X98333</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>2281942</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1020</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>O15244</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>S22A2_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>hOCT2</synonym>
+      <synonym>OCT2</synonym>
+      <synonym>Organic cation transporter 2</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037250|Solute carrier family 22 member 2
+MPTTVDDVLEHGGEFHFFQKQMFFLLALLSATFAPIYVGIVFLGFTPDHRCRSPGVAELS
+LRCGWSPAEELNYTVPGPGPAGEASPRQCRRYEVDWNQSTFDCVDPLASLDTNRSRLPLG
+PCRDGWVYETPGSSIVTEFNLVCANSWMLDLFQSSVNVGFFIGSMSIGYIADRFGRKLCL
+LTTVLINAAAGVLMAISPTYTWMLIFRLIQGLVSKAGWLIGYILITEFVGRRYRRTVGIF
+YQVAYTVGLLVLAGVAYALPHWRWLQFTVSLPNFFFLLYYWCIPESPRWLISQNKNAEAM
+RIIKHIAKKNGKSLPASLQRLRLEEETGKKLNPSFLDLVRTPQIRKHTMILMYNWFTSSV
+LYQGLIMHMGLAGDNIYLDFFYSALVEFPAAFMIILTIDRIGRRYPWAASNMVAGAACLA
+SVFIPGDLQWLKIIISCLGRMGITMAYEIVCLVNAELYPTFIRNLGVHICSSMCDIGGII
+TPFLVYRLTNIWLELPLMVFGVLGLVAGGLVLLLPETKGKALPETIEEAENMQRPRKNKE
+KMIYLQVQKLDIPLN</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0012536|Solute carrier family 22 member 2 (SLC22A2)
+ATGCCCACCACCGTGGACGATGTCCTGGAGCATGGAGGGGAGTTTCACTTTTTCCAGAAG
+CAAATGTTTTTCCTCTTGGCTCTGCTCTCGGCTACCTTCGCGCCCATCTACGTGGGCATC
+GTCTTCCTGGGCTTCACCCCTGACCACCGCTGCCGGAGCCCCGGAGTGGCCGAGCTGAGT
+CTGCGCTGCGGCTGGAGTCCTGCAGAGGAACTGAACTACACGGTGCCGGGCCCAGGACCT
+GCGGGCGAAGCCTCCCCAAGACAGTGTAGGCGCTACGAGGTGGACTGGAACCAGAGCACC
+TTCGACTGCGTGGACCCCCTGGCCAGCCTGGACACCAACAGGAGCCGCCTGCCACTGGGC
+CCCTGCCGGGACGGCTGGGTGTACGAGACGCCTGGCTCGTCCATCGTCACCGAGTTTAAC
+CTGGTATGTGCCAACTCCTGGATGTTGGACCTATTCCAGTCATCAGTGAATGTAGGATTC
+TTTATTGGCTCTATGAGTATCGGCTACATAGCAGACAGGTTTGGCCGTAAGCTCTGCCTC
+CTAACTACAGTCCTCATAAATGCTGCAGCTGGAGTTCTCATGGCCATTTCCCCAACCTAT
+ACGTGGATGTTAATTTTTCGCTTAATCCAAGGACTGGTCAGCAAAGCAGGCTGGTTAATA
+GGCTACATCCTGATTACAGAATTTGTTGGGCGGAGATATCGGAGAACAGTGGGGATTTTT
+TACCAAGTTGCCTATACAGTTGGGCTCCTGGTGCTAGCTGGGGTGGCTTACGCACTTCCT
+CACTGGAGGTGGTTGCAGTTCACAGTTTCTCTGCCCAACTTCTTCTTCTTGCTCTATTAC
+TGGTGCATACCTGAGTCTCCCAGGTGGCTGATCTCCCAGAATAAGAATGCTGAAGCCATG
+AGAATCATTAAGCACATCGCAAAGAAAAATGGAAAATCTCTACCCGCCTCCCTTCAGCGC
+CTGAGACTTGAAGAGGAAACTGGCAAGAAATTGAACCCTTCATTTCTTGACTTGGTCAGA
+ACTCCTCAGATAAGGAAACATACTATGATATTGATGTACAACTGGTTCACGAGCTCTGTG
+CTCTACCAGGGCCTCATCATGCACATGGGCCTTGCAGGTGACAATATCTACCTGGATTTC
+TTCTACTCTGCCCTGGTTGAATTCCCAGCTGCCTTCATGATCATCCTCACCATCGACCGC
+ATCGGACGCCGTTACCCTTGGGCTGCATCAAATATGGTTGCAGGGGCAGCCTGTCTGGCC
+TCAGTTTTTATACCTGGTGATCTACAATGGCTAAAAATTATTATCTCATGCTTGGGAAGA
+ATGGGGATCACAATGGCCTATGAGATAGTCTGCCTGGTCAATGCTGAGCTGTACCCCACA
+TTCATTAGGAATCTTGGCGTCCACATCTGTTCCTCAATGTGTGACATTGGTGGCATCATC
+ACGCCATTCCTGGTCTACCGGCTCACTAACATCTGGCTTGAGCTCCCGCTGATGGTTTTC
+GGCGTGCTTGGCTTGGTTGCTGGAGGTCTGGTGCTGTTGCTTCCAGAAACTAAAGGGAAA
+GCTTTGCCTGAGACCATCGAGGAAGCCGAAAATATGCAAAGACCAAGAAAAAATAAAGAA
+AAGATGATTTACCTCCAAGTTCAGAAACTAGACATTCCATTGAACTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>quaternary ammonium group transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>organic cation transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>dopamine transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>choline transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>body fluid secretion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>organic cation transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>choline transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>quaternary ammonium group transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>dopamine transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>neurotransmitter biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>synaptic transmission</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>neurotransmitter secretion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>ammonium transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </carrier>
+  </carriers>
+  <transporters/>
+</drug>

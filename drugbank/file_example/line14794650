@@ -1,0 +1,2976 @@
+<drug type="small molecule" created="2016-10-20" updated="2017-02-13">
+  <drugbank-id primary="true">DB12843</drugbank-id>
+  <name>Oleandrin</name>
+  <description>Oleandrin has been used in trials studying the treatment of Lung Cancer and Chemotherapeutic Agent Toxicity.</description>
+  <cas-number>465-16-7</cas-number>
+  <unii>II95UDU7I4</unii>
+  <average-mass>576.727</average-mass>
+  <monoisotopic-mass>576.329833126</monoisotopic-mass>
+  <groups>
+    <group>experimental</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Anvirzel</synonym>
+    <synonym language="Spanish" coder="">Oleandrina</synonym>
+  </synonyms>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>Cardanolides</category>
+      <mesh-id>D002297</mesh-id>
+    </category>
+    <category>
+      <category>Cardiac Glycosides</category>
+      <mesh-id>D002301</mesh-id>
+    </category>
+    <category>
+      <category>Glycosides</category>
+      <mesh-id>D006027</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Compounds</category>
+      <mesh-id>D011083</mesh-id>
+    </category>
+    <category>
+      <category>Steroids</category>
+      <mesh-id>D013256</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB03509</drugbank-id>
+      <name>2-(4-Chlorophenyl)-5-Quinoxalinecarboxamide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of 2-(4-Chlorophenyl)-5-Quinoxalinecarboxamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02342</drugbank-id>
+      <name>2-Methoxyestradiol</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of 2-Methoxyestradiol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03073</drugbank-id>
+      <name>3-Methoxybenzamide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of 3-Methoxybenzamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03946</drugbank-id>
+      <name>3,4-Dihydroxybenzoic Acid</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of 3,4-Dihydroxybenzoic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03625</drugbank-id>
+      <name>5,10-Dideazatetrahydrofolic Acid</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of 5,10-Dideazatetrahydrofolic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01933</drugbank-id>
+      <name>7-Hydroxystaurosporine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of 7-Hydroxystaurosporine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01667</drugbank-id>
+      <name>8-azaguanine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of 8-azaguanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08843</drugbank-id>
+      <name>9-(2-phosphonylmethoxyethyl)-2,6-diaminopurine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of 9-(2-phosphonylmethoxyethyl)-2,6-diaminopurine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05812</drugbank-id>
+      <name>Abiraterone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Abiraterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05764</drugbank-id>
+      <name>ABT-263</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of ABT-263.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01193</drugbank-id>
+      <name>Acebutolol</name>
+      <description>Acebutolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11617</drugbank-id>
+      <name>Aclarubicin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Aclarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12996</drugbank-id>
+      <name>Acteoside</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Acteoside.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08916</drugbank-id>
+      <name>Afatinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Afatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04468</drugbank-id>
+      <name>Afimoxifene</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Afimoxifene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08885</drugbank-id>
+      <name>Aflibercept</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Aflibercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09335</drugbank-id>
+      <name>Alatrofloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Alatrofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00518</drugbank-id>
+      <name>Albendazole</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Albendazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00041</drugbank-id>
+      <name>Aldesleukin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Aldesleukin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00087</drugbank-id>
+      <name>Alemtuzumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Alemtuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01436</drugbank-id>
+      <name>Alfacalcidol</name>
+      <description>Alfacalcidol may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00523</drugbank-id>
+      <name>Alitretinoin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Alitretinoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03856</drugbank-id>
+      <name>Alpha-Difluoromethylornithine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Alpha-Difluoromethylornithine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00866</drugbank-id>
+      <name>Alprenolol</name>
+      <description>Alprenolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00488</drugbank-id>
+      <name>Altretamine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Altretamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12056</drugbank-id>
+      <name>Amg 386</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Amg 386.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00479</drugbank-id>
+      <name>Amikacin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Amikacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00594</drugbank-id>
+      <name>Amiloride</name>
+      <description>The therapeutic efficacy of Anvirzel can be decreased when used in combination with Amiloride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12515</drugbank-id>
+      <name>Aminocamptothecin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Aminocamptothecin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00357</drugbank-id>
+      <name>Aminoglutethimide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Aminoglutethimide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00855</drugbank-id>
+      <name>Aminolevulinic acid</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Aminolevulinic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01118</drugbank-id>
+      <name>Amiodarone</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Amiodarone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00613</drugbank-id>
+      <name>Amodiaquine</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Amodiaquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05022</drugbank-id>
+      <name>Amonafide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Amonafide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00681</drugbank-id>
+      <name>Amphotericin B</name>
+      <description>The risk or severity of adverse effects can be increased when Amphotericin B is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06263</drugbank-id>
+      <name>Amrubicin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Amrubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00276</drugbank-id>
+      <name>Amsacrine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Amsacrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00261</drugbank-id>
+      <name>Anagrelide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Anagrelide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01217</drugbank-id>
+      <name>Anastrozole</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Anastrozole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12081</drugbank-id>
+      <name>Anecortave</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Anecortave.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06420</drugbank-id>
+      <name>annamycin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of annamycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12212</drugbank-id>
+      <name>AOP200704</name>
+      <description>Aop200704 may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05697</drugbank-id>
+      <name>AP 12009</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of AP 12009.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06300</drugbank-id>
+      <name>AP24534</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of AP24534.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12593</drugbank-id>
+      <name>Apaziquone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Apaziquone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04626</drugbank-id>
+      <name>Apramycin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Apramycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06696</drugbank-id>
+      <name>Arbekacin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Arbekacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09204</drugbank-id>
+      <name>Arotinolol</name>
+      <description>Arotinolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01169</drugbank-id>
+      <name>Arsenic trioxide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Arsenic trioxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00023</drugbank-id>
+      <name>Asparaginase</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Asparaginase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05707</drugbank-id>
+      <name>AT-101</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of AT-101.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00335</drugbank-id>
+      <name>Atenolol</name>
+      <description>Atenolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00732</drugbank-id>
+      <name>Atracurium besylate</name>
+      <description>Atracurium besylate may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06626</drugbank-id>
+      <name>Axitinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Axitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00928</drugbank-id>
+      <name>Azacitidine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Azacitidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00993</drugbank-id>
+      <name>Azathioprine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Azathioprine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04849</drugbank-id>
+      <name>AZD2171</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of AZD2171.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12247</drugbank-id>
+      <name>AZD4547</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Azd4547.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00548</drugbank-id>
+      <name>Azelaic Acid</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Azelaic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00207</drugbank-id>
+      <name>Azithromycin</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Azithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01014</drugbank-id>
+      <name>Balsalazide</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Balsalazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03880</drugbank-id>
+      <name>Batimastat</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Batimastat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09013</drugbank-id>
+      <name>Befunolol</name>
+      <description>Befunolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05015</drugbank-id>
+      <name>Belinostat</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Belinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12459</drugbank-id>
+      <name>Belotecan</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Belotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06769</drugbank-id>
+      <name>Bendamustine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Bendamustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00436</drugbank-id>
+      <name>Bendroflumethiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Bendroflumethiazide is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06771</drugbank-id>
+      <name>Besifloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Besifloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00195</drugbank-id>
+      <name>Betaxolol</name>
+      <description>Betaxolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12480</drugbank-id>
+      <name>Betulinic Acid</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Betulinic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00112</drugbank-id>
+      <name>Bevacizumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Bevacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01295</drugbank-id>
+      <name>Bevantolol</name>
+      <description>Bevantolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00307</drugbank-id>
+      <name>Bexarotene</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Bexarotene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11886</drugbank-id>
+      <name>BGJ398</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Bgj398.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01128</drugbank-id>
+      <name>Bicalutamide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Bicalutamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00612</drugbank-id>
+      <name>Bisoprolol</name>
+      <description>Bisoprolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12352</drugbank-id>
+      <name>Bizelesin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Bizelesin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00290</drugbank-id>
+      <name>Bleomycin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Bleomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09052</drugbank-id>
+      <name>Blinatumomab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Blinatumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11760</drugbank-id>
+      <name>BMN-673</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Bmn 673.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08807</drugbank-id>
+      <name>Bopindolol</name>
+      <description>Bopindolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00188</drugbank-id>
+      <name>Bortezomib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Bortezomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06616</drugbank-id>
+      <name>Bosutinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Bosutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08870</drugbank-id>
+      <name>Brentuximab vedotin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Brentuximab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12028</drugbank-id>
+      <name>Broxuridine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Broxuridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11752</drugbank-id>
+      <name>Bryostatin 1</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Bryostatin 1.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05975</drugbank-id>
+      <name>BSI-201</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of BSI-201.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12752</drugbank-id>
+      <name>Bucindolol</name>
+      <description>Bucindolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06726</drugbank-id>
+      <name>Bufuralol</name>
+      <description>Bufuralol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00887</drugbank-id>
+      <name>Bumetanide</name>
+      <description>The risk or severity of adverse effects can be increased when Bumetanide is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08808</drugbank-id>
+      <name>Bupranolol</name>
+      <description>Bupranolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01008</drugbank-id>
+      <name>Busulfan</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Busulfan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12870</drugbank-id>
+      <name>Buthionine Sulfoximine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Buthionine Sulfoximine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06772</drugbank-id>
+      <name>Cabazitaxel</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Cabazitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00248</drugbank-id>
+      <name>Cabergoline</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Cabergoline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08875</drugbank-id>
+      <name>Cabozantinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Cabozantinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11960</drugbank-id>
+      <name>Cai</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Cai.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00146</drugbank-id>
+      <name>Calcidiol</name>
+      <description>Calcidiol may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02300</drugbank-id>
+      <name>Calcipotriol</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Calcipotriol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00136</drugbank-id>
+      <name>Calcitriol</name>
+      <description>Calcitriol may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01373</drugbank-id>
+      <name>Calcium</name>
+      <description>Calcium may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00258</drugbank-id>
+      <name>Calcium Acetate</name>
+      <description>Calcium Acetate may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06724</drugbank-id>
+      <name>Calcium carbonate</name>
+      <description>Calcium carbonate may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01164</drugbank-id>
+      <name>Calcium Chloride</name>
+      <description>Calcium Chloride may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11093</drugbank-id>
+      <name>Calcium citrate</name>
+      <description>Calcium citrate may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13142</drugbank-id>
+      <name>Calcium glubionate</name>
+      <description>Calcium glubionate may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00326</drugbank-id>
+      <name>Calcium Gluceptate</name>
+      <description>Calcium Gluceptate may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11126</drugbank-id>
+      <name>Calcium gluconate</name>
+      <description>Calcium gluconate may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04690</drugbank-id>
+      <name>Camptothecin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Camptothecin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01101</drugbank-id>
+      <name>Capecitabine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Capecitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00389</drugbank-id>
+      <name>Carbimazole</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Carbimazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11383</drugbank-id>
+      <name>Carbomycin</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Carbomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00958</drugbank-id>
+      <name>Carboplatin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Carboplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08889</drugbank-id>
+      <name>Carfilzomib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Carfilzomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09010</drugbank-id>
+      <name>Carmofur</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Carmofur.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00262</drugbank-id>
+      <name>Carmustine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Carmustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00521</drugbank-id>
+      <name>Carteolol</name>
+      <description>Carteolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01136</drugbank-id>
+      <name>Carvedilol</name>
+      <description>Carvedilol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06607</drugbank-id>
+      <name>Catumaxomab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Catumaxomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04253</drugbank-id>
+      <name>CB1954</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of CB1954.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12033</drugbank-id>
+      <name>Cediranib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Cediranib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00482</drugbank-id>
+      <name>Celecoxib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Celecoxib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04846</drugbank-id>
+      <name>Celiprolol</name>
+      <description>Celiprolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09063</drugbank-id>
+      <name>Ceritinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ceritinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00002</drugbank-id>
+      <name>Cetuximab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00291</drugbank-id>
+      <name>Chlorambucil</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Chlorambucil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00608</drugbank-id>
+      <name>Chloroquine</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Chloroquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00880</drugbank-id>
+      <name>Chlorothiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Chlorothiazide is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00269</drugbank-id>
+      <name>Chlorotrianisene</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Chlorotrianisene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00310</drugbank-id>
+      <name>Chlorthalidone</name>
+      <description>The risk or severity of adverse effects can be increased when Chlorthalidone is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00169</drugbank-id>
+      <name>Cholecalciferol</name>
+      <description>Cholecalciferol may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01432</drugbank-id>
+      <name>Cholestyramine</name>
+      <description>Cholestyramine can cause a decrease in the absorption of Anvirzel resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00827</drugbank-id>
+      <name>Cinoxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Cinoxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00537</drugbank-id>
+      <name>Ciprofloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ciprofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00565</drugbank-id>
+      <name>Cisatracurium besylate</name>
+      <description>Cisatracurium besylate may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00515</drugbank-id>
+      <name>Cisplatin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Cisplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00242</drugbank-id>
+      <name>Cladribine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Cladribine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01211</drugbank-id>
+      <name>Clarithromycin</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Clarithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00631</drugbank-id>
+      <name>Clofarabine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Clofarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00575</drugbank-id>
+      <name>Clonidine</name>
+      <description>Clonidine may increase the atrioventricular blocking (AV block) activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06189</drugbank-id>
+      <name>clorarabine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of clorarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01394</drugbank-id>
+      <name>Colchicine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Colchicine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00930</drugbank-id>
+      <name>Colesevelam</name>
+      <description>Colesevelam can cause a decrease in the absorption of Anvirzel resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00375</drugbank-id>
+      <name>Colestipol</name>
+      <description>Colestipol can cause a decrease in the absorption of Anvirzel resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12156</drugbank-id>
+      <name>Cordycepin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Cordycepin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11832</drugbank-id>
+      <name>Crenolanib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Crenolanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08865</drugbank-id>
+      <name>Crizotinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Crizotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11672</drugbank-id>
+      <name>Curcumin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Curcumin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Cyclophosphamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04839</drugbank-id>
+      <name>Cyproterone acetate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Cyproterone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00987</drugbank-id>
+      <name>Cytarabine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Cytarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08912</drugbank-id>
+      <name>Dabrafenib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Dabrafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00851</drugbank-id>
+      <name>Dacarbazine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Dacarbazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00970</drugbank-id>
+      <name>Dactinomycin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Dactinomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09331</drugbank-id>
+      <name>Daratumumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Daratumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Dasatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00694</drugbank-id>
+      <name>Daunorubicin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Daunorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01245</drugbank-id>
+      <name>Decamethonium</name>
+      <description>Decamethonium may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01262</drugbank-id>
+      <name>Decitabine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Decitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00004</drugbank-id>
+      <name>Denileukin diftitox</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Denileukin diftitox.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12991</drugbank-id>
+      <name>Deoxyspergualin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Deoxyspergualin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01234</drugbank-id>
+      <name>Dexamethasone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Dexamethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00380</drugbank-id>
+      <name>Dexrazoxane</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Dexrazoxane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09123</drugbank-id>
+      <name>Dienogest</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Dienogest.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00255</drugbank-id>
+      <name>Diethylstilbestrol</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Diethylstilbestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11512</drugbank-id>
+      <name>Dihydrostreptomycin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Dihydrostreptomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01070</drugbank-id>
+      <name>Dihydrotachysterol</name>
+      <description>Dihydrotachysterol may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11875</drugbank-id>
+      <name>Diindolylmethane</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Diindolylmethane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00343</drugbank-id>
+      <name>Diltiazem</name>
+      <description>Diltiazem may increase the atrioventricular blocking (AV block) activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09077</drugbank-id>
+      <name>Dinutuximab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Dinutuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01248</drugbank-id>
+      <name>Docetaxel</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Docetaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02852</drugbank-id>
+      <name>Domoic Acid</name>
+      <description>Domoic Acid may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01135</drugbank-id>
+      <name>Doxacurium chloride</name>
+      <description>Doxacurium chloride may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06410</drugbank-id>
+      <name>Doxercalciferol</name>
+      <description>Doxercalciferol may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12947</drugbank-id>
+      <name>Doxifluridine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Doxifluridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00997</drugbank-id>
+      <name>Doxorubicin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Doxorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05265</drugbank-id>
+      <name>Ecabet</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ecabet.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01010</drugbank-id>
+      <name>Edrophonium</name>
+      <description>Edrophonium may increase the atrioventricular blocking (AV block) activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06459</drugbank-id>
+      <name>efaproxiral</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of efaproxiral.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06243</drugbank-id>
+      <name>Eflornithine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Eflornithine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04907</drugbank-id>
+      <name>EG009</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of EG009.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05129</drugbank-id>
+      <name>Elsamitrucin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Elsamitrucin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06423</drugbank-id>
+      <name>Endostatin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Endostatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00467</drugbank-id>
+      <name>Enoxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Enoxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11404</drugbank-id>
+      <name>Enrofloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Enrofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11841</drugbank-id>
+      <name>Entinostat</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Entinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00445</drugbank-id>
+      <name>Epirubicin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Epirubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00700</drugbank-id>
+      <name>Eplerenone</name>
+      <description>The therapeutic efficacy of Anvirzel can be decreased when used in combination with Eplerenone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12266</drugbank-id>
+      <name>Epofolate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Epofolate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03010</drugbank-id>
+      <name>Epothilone B</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Epothilone B.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00153</drugbank-id>
+      <name>Ergocalciferol</name>
+      <description>Ergocalciferol may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08871</drugbank-id>
+      <name>Eribulin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Eribulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00530</drugbank-id>
+      <name>Erlotinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Erlotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00199</drugbank-id>
+      <name>Erythromycin</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Erythromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00187</drugbank-id>
+      <name>Esmolol</name>
+      <description>Esmolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01196</drugbank-id>
+      <name>Estramustine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Estramustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00903</drugbank-id>
+      <name>Etacrynic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Etacrynic acid is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12736</drugbank-id>
+      <name>Etanidazole</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Etanidazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00965</drugbank-id>
+      <name>Ethiodized oil</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ethiodized oil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04827</drugbank-id>
+      <name>Ethyl carbamate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ethyl carbamate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00773</drugbank-id>
+      <name>Etoposide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Etoposide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01590</drugbank-id>
+      <name>Everolimus</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Everolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12185</drugbank-id>
+      <name>Exatecan</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Exatecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00990</drugbank-id>
+      <name>Exemestane</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Exemestane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06246</drugbank-id>
+      <name>exisulind</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of exisulind.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05076</drugbank-id>
+      <name>Fenretinide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Fenretinide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12901</drugbank-id>
+      <name>Fiacitabine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Fiacitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03496</drugbank-id>
+      <name>Flavopiridol</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Flavopiridol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04576</drugbank-id>
+      <name>Fleroxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Fleroxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00322</drugbank-id>
+      <name>Floxuridine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Floxuridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01073</drugbank-id>
+      <name>Fludarabine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Fludarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08972</drugbank-id>
+      <name>Flumequine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Flumequine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00544</drugbank-id>
+      <name>Fluorouracil</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Fluorouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00499</drugbank-id>
+      <name>Flutamide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Flutamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08905</drugbank-id>
+      <name>Formestane</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Formestane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02281</drugbank-id>
+      <name>Formycin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Formycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04106</drugbank-id>
+      <name>Fotemustine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Fotemustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00452</drugbank-id>
+      <name>Framycetin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Framycetin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00947</drugbank-id>
+      <name>Fulvestrant</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Fulvestrant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02640</drugbank-id>
+      <name>Fumagillin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Fumagillin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00695</drugbank-id>
+      <name>Furosemide</name>
+      <description>The risk or severity of adverse effects can be increased when Furosemide is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00483</drugbank-id>
+      <name>Gallamine Triethiodide</name>
+      <description>Gallamine Triethiodide may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05260</drugbank-id>
+      <name>Gallium nitrate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Gallium nitrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06160</drugbank-id>
+      <name>Garenoxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Garenoxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01044</drugbank-id>
+      <name>Gatifloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Gatifloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00317</drugbank-id>
+      <name>Gefitinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Gefitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02424</drugbank-id>
+      <name>Geldanamycin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Geldanamycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00441</drugbank-id>
+      <name>Gemcitabine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Gemcitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01155</drugbank-id>
+      <name>Gemifloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Gemifloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00056</drugbank-id>
+      <name>Gemtuzumab ozogamicin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Gemtuzumab ozogamicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04263</drugbank-id>
+      <name>Geneticin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Geneticin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01645</drugbank-id>
+      <name>Genistein</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Genistein.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00798</drugbank-id>
+      <name>Gentamicin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Gentamicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04729</drugbank-id>
+      <name>GENTAMICIN C1A</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with GENTAMICIN C1A.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06748</drugbank-id>
+      <name>Ginsenoside C</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ginsenoside C.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00014</drugbank-id>
+      <name>Goserelin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Goserelin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00365</drugbank-id>
+      <name>Grepafloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Grepafloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12692</drugbank-id>
+      <name>Gusperimus</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Gusperimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02109</drugbank-id>
+      <name>Hadacidin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Hadacidin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04866</drugbank-id>
+      <name>Halofuginone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Halofuginone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07931</drugbank-id>
+      <name>Hexestrol</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Hexestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00999</drugbank-id>
+      <name>Hydrochlorothiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Hydrochlorothiazide is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00774</drugbank-id>
+      <name>Hydroflumethiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Hydroflumethiazide is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01611</drugbank-id>
+      <name>Hydroxychloroquine</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Hydroxychloroquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06789</drugbank-id>
+      <name>Hydroxyprogesterone caproate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Hydroxyprogesterone caproate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01005</drugbank-id>
+      <name>Hydroxyurea</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Hydroxyurea.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11520</drugbank-id>
+      <name>Hygromycin B</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Hygromycin B.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09053</drugbank-id>
+      <name>Ibrutinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ibrutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01177</drugbank-id>
+      <name>Idarubicin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Idarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09054</drugbank-id>
+      <name>Idelalisib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Idelalisib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01181</drugbank-id>
+      <name>Ifosfamide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ifosfamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12182</drugbank-id>
+      <name>Il 4</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Il 4.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00619</drugbank-id>
+      <name>Imatinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Imatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00724</drugbank-id>
+      <name>Imiquimod</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Imiquimod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00808</drugbank-id>
+      <name>Indapamide</name>
+      <description>The risk or severity of adverse effects can be increased when Indapamide is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08952</drugbank-id>
+      <name>Indenolol</name>
+      <description>Indenolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12379</drugbank-id>
+      <name>Indirubin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Indirubin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06013</drugbank-id>
+      <name>INNO-206</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with INNO-206.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00060</drugbank-id>
+      <name>Interferon beta-1a</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00068</drugbank-id>
+      <name>Interferon beta-1b</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Interferon beta-1b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06704</drugbank-id>
+      <name>Iobenguane</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Iobenguane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06186</drugbank-id>
+      <name>Ipilimumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ipilimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00762</drugbank-id>
+      <name>Irinotecan</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Irinotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11733</drugbank-id>
+      <name>Irofulven</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Irofulven.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01167</drugbank-id>
+      <name>Itraconazole</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Itraconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04845</drugbank-id>
+      <name>Ixabepilone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ixabepilone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09570</drugbank-id>
+      <name>Ixazomib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ixazomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01321</drugbank-id>
+      <name>Josamycin</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Josamycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01172</drugbank-id>
+      <name>Kanamycin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Kanamycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01575</drugbank-id>
+      <name>Kaolin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Kaolin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09309</drugbank-id>
+      <name>Kitasamycin</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Kitasamycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05903</drugbank-id>
+      <name>KOS-1584</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of KOS-1584.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05540</drugbank-id>
+      <name>L-alanosine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of L-alanosine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00598</drugbank-id>
+      <name>Labetalol</name>
+      <description>Labetalol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06791</drugbank-id>
+      <name>Lanreotide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Lanreotide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01259</drugbank-id>
+      <name>Lapatinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Lapatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01097</drugbank-id>
+      <name>Leflunomide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Leflunomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00480</drugbank-id>
+      <name>Lenalidomide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Lenalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09078</drugbank-id>
+      <name>Lenvatinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Lenvatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01006</drugbank-id>
+      <name>Letrozole</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Letrozole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00007</drugbank-id>
+      <name>Leuprolide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Leuprolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01210</drugbank-id>
+      <name>Levobunolol</name>
+      <description>Levobunolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01137</drugbank-id>
+      <name>Levofloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Levofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13066</drugbank-id>
+      <name>Liarozole</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Liarozole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10675</drugbank-id>
+      <name>Licorice</name>
+      <description>The risk or severity of adverse effects can be increased when Licorice is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00978</drugbank-id>
+      <name>Lomefloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Lomefloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01206</drugbank-id>
+      <name>Lomustine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Lomustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06266</drugbank-id>
+      <name>Lonidamine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Lonidamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12381</drugbank-id>
+      <name>LY2801653</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ly2801653.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11231</drugbank-id>
+      <name>Lycopene</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Lycopene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12083</drugbank-id>
+      <name>Mafosfamide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Mafosfamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11526</drugbank-id>
+      <name>Masitinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Masitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00179</drugbank-id>
+      <name>Masoprocol</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Masoprocol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06272</drugbank-id>
+      <name>Maxacalcitol</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Maxacalcitol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06132</drugbank-id>
+      <name>MDX-1106</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of MDX-1106.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00643</drugbank-id>
+      <name>Mebendazole</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Mebendazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00888</drugbank-id>
+      <name>Mechlorethamine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Mechlorethamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09124</drugbank-id>
+      <name>Medrogestone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Medrogestone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00603</drugbank-id>
+      <name>Medroxyprogesterone acetate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Medroxyprogesterone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00351</drugbank-id>
+      <name>Megestrol acetate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Megestrol acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01042</drugbank-id>
+      <name>Melphalan</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Melphalan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09516</drugbank-id>
+      <name>Mequinol</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Mequinol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01033</drugbank-id>
+      <name>Mercaptopurine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Mercaptopurine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00244</drugbank-id>
+      <name>Mesalazine</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Mesalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00763</drugbank-id>
+      <name>Methimazole</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Methimazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00563</drugbank-id>
+      <name>Methotrexate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Methotrexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00232</drugbank-id>
+      <name>Methyclothiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Methyclothiazide is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00992</drugbank-id>
+      <name>Methyl aminolevulinate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Methyl aminolevulinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00959</drugbank-id>
+      <name>Methylprednisolone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Methylprednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06710</drugbank-id>
+      <name>Methyltestosterone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Methyltestosterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01214</drugbank-id>
+      <name>Metipranolol</name>
+      <description>Metipranolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01336</drugbank-id>
+      <name>Metocurine</name>
+      <description>Metocurine may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00416</drugbank-id>
+      <name>Metocurine Iodide</name>
+      <description>Metocurine Iodide may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00524</drugbank-id>
+      <name>Metolazone</name>
+      <description>The risk or severity of adverse effects can be increased when Metolazone is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00264</drugbank-id>
+      <name>Metoprolol</name>
+      <description>Metoprolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01578</drugbank-id>
+      <name>Metrizamide</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Metrizamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05786</drugbank-id>
+      <name>MGI-114</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of MGI-114.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00211</drugbank-id>
+      <name>Midodrine</name>
+      <description>Anvirzel may increase the bradycardic activities of Midodrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06595</drugbank-id>
+      <name>Midostaurin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Midostaurin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09031</drugbank-id>
+      <name>Miltefosine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Miltefosine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11716</drugbank-id>
+      <name>Misonidazole</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Misonidazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12967</drugbank-id>
+      <name>Mitoguazone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Mitoguazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12916</drugbank-id>
+      <name>Mitolactol</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Mitolactol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00305</drugbank-id>
+      <name>Mitomycin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Mitomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00648</drugbank-id>
+      <name>Mitotane</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Mitotane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01204</drugbank-id>
+      <name>Mitoxantrone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Mitoxantrone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01226</drugbank-id>
+      <name>Mivacurium</name>
+      <description>Mivacurium may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12617</drugbank-id>
+      <name>Mizoribine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Mizoribine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06517</drugbank-id>
+      <name>MLN576</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of MLN576.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12525</drugbank-id>
+      <name>Molgramostim</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Molgramostim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05428</drugbank-id>
+      <name>motexafin gadolinium</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of motexafin gadolinium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00218</drugbank-id>
+      <name>Moxifloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Moxifloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01024</drugbank-id>
+      <name>Mycophenolic acid</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Mycophenolic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01203</drugbank-id>
+      <name>Nadolol</name>
+      <description>Nadolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00779</drugbank-id>
+      <name>Nalidixic Acid</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Nalidixic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12124</drugbank-id>
+      <name>Namitecan</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Namitecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12340</drugbank-id>
+      <name>Navitoclax</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Navitoclax.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04808</drugbank-id>
+      <name>Neamine</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Neamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09559</drugbank-id>
+      <name>Necitumumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Necitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01280</drugbank-id>
+      <name>Nelarabine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Nelarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00994</drugbank-id>
+      <name>Neomycin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Neomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12989</drugbank-id>
+      <name>Neosaxitoxin</name>
+      <description>Neosaxitoxin may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00955</drugbank-id>
+      <name>Netilmicin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Netilmicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09239</drugbank-id>
+      <name>Niguldipine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Niguldipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04868</drugbank-id>
+      <name>Nilotinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Nilotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00665</drugbank-id>
+      <name>Nilutamide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Nilutamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13069</drugbank-id>
+      <name>Nimustine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Nimustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09079</drugbank-id>
+      <name>Nintedanib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Nintedanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09035</drugbank-id>
+      <name>Nivolumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Nivolumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12552</drugbank-id>
+      <name>NK012</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Nk012.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08313</drugbank-id>
+      <name>nocodazole</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of nocodazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12912</drugbank-id>
+      <name>Nolatrexed</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Nolatrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01059</drugbank-id>
+      <name>Norfloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Norfloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Obinutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00104</drugbank-id>
+      <name>Octreotide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Octreotide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06650</drugbank-id>
+      <name>Ofatumumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ofatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01165</drugbank-id>
+      <name>Ofloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09074</drugbank-id>
+      <name>Olaparib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Olaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11442</drugbank-id>
+      <name>Oleandomycin</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Oleandomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01250</drugbank-id>
+      <name>Olsalazine</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Olsalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04865</drugbank-id>
+      <name>Omacetaxine mepesuccinate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Omacetaxine mepesuccinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00038</drugbank-id>
+      <name>Oprelvekin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Oprelvekin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09330</drugbank-id>
+      <name>Osimertinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Osimertinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00526</drugbank-id>
+      <name>Oxaliplatin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Oxaliplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01580</drugbank-id>
+      <name>Oxprenolol</name>
+      <description>Oxprenolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01229</drugbank-id>
+      <name>Paclitaxel</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Paclitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09073</drugbank-id>
+      <name>Palbociclib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Palbociclib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05668</drugbank-id>
+      <name>Palifosfamide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Palifosfamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00282</drugbank-id>
+      <name>Pamidronate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pamidronate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01337</drugbank-id>
+      <name>Pancuronium</name>
+      <description>Pancuronium may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01269</drugbank-id>
+      <name>Panitumumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Panitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06603</drugbank-id>
+      <name>Panobinostat</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Panobinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05829</drugbank-id>
+      <name>Parathyroid hormone</name>
+      <description>The risk or severity of adverse effects can be increased when Parathyroid hormone is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00910</drugbank-id>
+      <name>Paricalcitol</name>
+      <description>Paricalcitol may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01421</drugbank-id>
+      <name>Paromomycin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Paromomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05940</drugbank-id>
+      <name>PARP inhibitor</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of PARP inhibitor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06589</drugbank-id>
+      <name>Pazopanib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pazopanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11774</drugbank-id>
+      <name>Pazufloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pazufloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00487</drugbank-id>
+      <name>Pefloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pefloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00059</drugbank-id>
+      <name>Pegaspargase</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09037</drugbank-id>
+      <name>Pembrolizumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pembrolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00642</drugbank-id>
+      <name>Pemetrexed</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pemetrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01359</drugbank-id>
+      <name>Penbutolol</name>
+      <description>Penbutolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12987</drugbank-id>
+      <name>Penclomedine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Penclomedine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00552</drugbank-id>
+      <name>Pentostatin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pentostatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06366</drugbank-id>
+      <name>Pertuzumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pertuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09269</drugbank-id>
+      <name>Phenylacetic acid</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Phenylacetic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00960</drugbank-id>
+      <name>Pindolol</name>
+      <description>Pindolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01338</drugbank-id>
+      <name>Pipecuronium</name>
+      <description>Pipecuronium may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00236</drugbank-id>
+      <name>Pipobroman</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pipobroman.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11616</drugbank-id>
+      <name>Pirarubicin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02925</drugbank-id>
+      <name>Piretanide</name>
+      <description>The risk or severity of adverse effects can be increased when Piretanide is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04951</drugbank-id>
+      <name>Pirfenidone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pirfenidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09244</drugbank-id>
+      <name>Pirlindole</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pirlindole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06193</drugbank-id>
+      <name>Pixantrone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pixantrone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06163</drugbank-id>
+      <name>Plevitrexed</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Plevitrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06810</drugbank-id>
+      <name>Plicamycin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Plicamycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01179</drugbank-id>
+      <name>Podofilox</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Podofilox.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09094</drugbank-id>
+      <name>Podophyllin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Podophyllin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05384</drugbank-id>
+      <name>polyacrylic acid</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of polyacrylic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01344</drugbank-id>
+      <name>Polystyrene sulfonate</name>
+      <description>The risk or severity of adverse effects can be increased when Polystyrene sulfonate is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01324</drugbank-id>
+      <name>Polythiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Polythiazide is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08910</drugbank-id>
+      <name>Pomalidomide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pomalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08901</drugbank-id>
+      <name>Ponatinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ponatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00707</drugbank-id>
+      <name>Porfimer</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Porfimer.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06478</drugbank-id>
+      <name>porfiromycin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of porfiromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01297</drugbank-id>
+      <name>Practolol</name>
+      <description>Practolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06813</drugbank-id>
+      <name>Pralatrexate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pralatrexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12832</drugbank-id>
+      <name>Prednimustine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Prednimustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00860</drugbank-id>
+      <name>Prednisolone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Prednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00635</drugbank-id>
+      <name>Prednisone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Prednisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01087</drugbank-id>
+      <name>Primaquine</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Primaquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01168</drugbank-id>
+      <name>Procarbazine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Procarbazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01182</drugbank-id>
+      <name>Propafenone</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Propafenone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00571</drugbank-id>
+      <name>Propranolol</name>
+      <description>Propranolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00550</drugbank-id>
+      <name>Propylthiouracil</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Propylthiouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04440</drugbank-id>
+      <name>Purine Riboside</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Purine Riboside.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08437</drugbank-id>
+      <name>Puromycin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Puromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11156</drugbank-id>
+      <name>Pyrantel</name>
+      <description>Pyrantel may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12549</drugbank-id>
+      <name>Pyrazoloacridine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Pyrazoloacridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12112</drugbank-id>
+      <name>QLT091001</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Qlt091001.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01103</drugbank-id>
+      <name>Quinacrine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Quinacrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01325</drugbank-id>
+      <name>Quinethazone</name>
+      <description>The risk or severity of adverse effects can be increased when Quinethazone is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00908</drugbank-id>
+      <name>Quinidine</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Quinidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08913</drugbank-id>
+      <name>Radium Ra 223 Dichloride</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Radium Ra 223 Dichloride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00293</drugbank-id>
+      <name>Raltitrexed</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Raltitrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05578</drugbank-id>
+      <name>Ramucirumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ramucirumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01270</drugbank-id>
+      <name>Ranibizumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ranibizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04950</drugbank-id>
+      <name>Ranpirnase</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ranpirnase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04834</drugbank-id>
+      <name>Rapacuronium</name>
+      <description>Rapacuronium may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08896</drugbank-id>
+      <name>Regorafenib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Regorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00206</drugbank-id>
+      <name>Reserpine</name>
+      <description>The risk or severity of adverse effects can be increased when Reserpine is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02709</drugbank-id>
+      <name>Resveratrol</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Resveratrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03825</drugbank-id>
+      <name>Rhodamine 6G</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Rhodamine 6G.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03615</drugbank-id>
+      <name>Ribostamycin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Ribostamycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00073</drugbank-id>
+      <name>Rituximab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Rituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00728</drugbank-id>
+      <name>Rocuronium</name>
+      <description>Rocuronium may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06176</drugbank-id>
+      <name>Romidepsin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Romidepsin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05332</drugbank-id>
+      <name>Romiplostim</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Romiplostim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11366</drugbank-id>
+      <name>Roquinimex</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Roquinimex.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06159</drugbank-id>
+      <name>Rubitecan</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Rubitecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12332</drugbank-id>
+      <name>Rucaparib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Rucaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08877</drugbank-id>
+      <name>Ruxolitinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ruxolitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12681</drugbank-id>
+      <name>Salirasib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Salirasib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11805</drugbank-id>
+      <name>Saracatinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Saracatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04996</drugbank-id>
+      <name>Satraplatin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Satraplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06195</drugbank-id>
+      <name>Seliciclib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Seliciclib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06436</drugbank-id>
+      <name>Semaxanib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Semaxanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04258</drugbank-id>
+      <name>Seocalcitol</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Seocalcitol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09036</drugbank-id>
+      <name>Siltuximab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Siltuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00877</drugbank-id>
+      <name>Sirolimus</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Sirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12604</drugbank-id>
+      <name>Sisomicin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Sisomicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06819</drugbank-id>
+      <name>Sodium phenylbutyrate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Sodium phenylbutyrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09308</drugbank-id>
+      <name>Solithromycin</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Solithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09143</drugbank-id>
+      <name>Sonidegib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Sonidegib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13128</drugbank-id>
+      <name>Sonifilan</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Sonifilan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00398</drugbank-id>
+      <name>Sorafenib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Sorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00489</drugbank-id>
+      <name>Sotalol</name>
+      <description>Sotalol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04978</drugbank-id>
+      <name>SP1049C</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with SP1049C.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01208</drugbank-id>
+      <name>Sparfloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Sparfloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03459</drugbank-id>
+      <name>Sparfosic acid</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Sparfosic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04222</drugbank-id>
+      <name>Sparsomycin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Sparsomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00919</drugbank-id>
+      <name>Spectinomycin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Spectinomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06145</drugbank-id>
+      <name>Spiramycin</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Spiramycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00421</drugbank-id>
+      <name>Spironolactone</name>
+      <description>The therapeutic efficacy of Anvirzel can be decreased when used in combination with Spironolactone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06461</drugbank-id>
+      <name>squalamine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of squalamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05073</drugbank-id>
+      <name>SRT501</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of SRT501.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01082</drugbank-id>
+      <name>Streptomycin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Streptomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00428</drugbank-id>
+      <name>Streptozocin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Streptozocin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00202</drugbank-id>
+      <name>Succinylcholine</name>
+      <description>Succinylcholine may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00795</drugbank-id>
+      <name>Sulfasalazine</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Sulfasalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12422</drugbank-id>
+      <name>Sulforaphane</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Sulforaphane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00605</drugbank-id>
+      <name>Sulindac</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Sulindac.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00391</drugbank-id>
+      <name>Sulpiride</name>
+      <description>The risk or severity of adverse effects can be increased when Sulpiride is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01268</drugbank-id>
+      <name>Sunitinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Sunitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04786</drugbank-id>
+      <name>Suramin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Suramin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02034</drugbank-id>
+      <name>Swainsonine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Swainsonine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11812</drugbank-id>
+      <name>Talaporfin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Talaporfin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00675</drugbank-id>
+      <name>Tamoxifen</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tamoxifen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09256</drugbank-id>
+      <name>Tegafur</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tegafur.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00976</drugbank-id>
+      <name>Telithromycin</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Telithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00966</drugbank-id>
+      <name>Telmisartan</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Telmisartan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01405</drugbank-id>
+      <name>Temafloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Temafloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11630</drugbank-id>
+      <name>Temoporfin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Temoporfin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00853</drugbank-id>
+      <name>Temozolomide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Temozolomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06287</drugbank-id>
+      <name>Temsirolimus</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Temsirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00444</drugbank-id>
+      <name>Teniposide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Teniposide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00894</drugbank-id>
+      <name>Testolactone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Testolactone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05088</drugbank-id>
+      <name>Tetrathiomolybdate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tetrathiomolybdate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06433</drugbank-id>
+      <name>Tezacitabine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tezacitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01041</drugbank-id>
+      <name>Thalidomide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Thalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04572</drugbank-id>
+      <name>Thiotepa</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Thiotepa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04900</drugbank-id>
+      <name>Thymalfasin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Thymalfasin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09070</drugbank-id>
+      <name>Tibolone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tibolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00373</drugbank-id>
+      <name>Timolol</name>
+      <description>Timolol may increase the bradycardic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00352</drugbank-id>
+      <name>Tioguanine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tioguanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04960</drugbank-id>
+      <name>Tipifarnib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tipifarnib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04858</drugbank-id>
+      <name>Tirapazamine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tirapazamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11800</drugbank-id>
+      <name>Tivozanib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tivozanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12828</drugbank-id>
+      <name>TNP-470</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tnp 470.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00684</drugbank-id>
+      <name>Tobramycin</name>
+      <description>The serum concentration of Anvirzel can be decreased when it is combined with Tobramycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01030</drugbank-id>
+      <name>Topotecan</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Topotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00214</drugbank-id>
+      <name>Torasemide</name>
+      <description>The risk or severity of adverse effects can be increased when Torasemide is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00539</drugbank-id>
+      <name>Toremifene</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Toremifene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00081</drugbank-id>
+      <name>Tositumomab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tositumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05109</drugbank-id>
+      <name>Trabectedin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Trabectedin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08911</drugbank-id>
+      <name>Trametinib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Trametinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00072</drugbank-id>
+      <name>Trastuzumab</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Trastuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05773</drugbank-id>
+      <name>Trastuzumab emtansine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Trastuzumab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11678</drugbank-id>
+      <name>Treosulfan</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Treosulfan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12772</drugbank-id>
+      <name>Tretazicar</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tretazicar.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00755</drugbank-id>
+      <name>Tretinoin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tretinoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00384</drugbank-id>
+      <name>Triamterene</name>
+      <description>The therapeutic efficacy of Anvirzel can be decreased when used in combination with Triamterene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01021</drugbank-id>
+      <name>Trichlormethiazide</name>
+      <description>The risk or severity of adverse effects can be increased when Trichlormethiazide is combined with Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00432</drugbank-id>
+      <name>Trifluridine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Trifluridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01108</drugbank-id>
+      <name>Trilostane</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Trilostane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01157</drugbank-id>
+      <name>Trimetrexate</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Trimetrexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06825</drugbank-id>
+      <name>Triptorelin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Triptorelin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12902</drugbank-id>
+      <name>Trofosfamide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Trofosfamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01361</drugbank-id>
+      <name>Troleandomycin</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Troleandomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00685</drugbank-id>
+      <name>Trovafloxacin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Trovafloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04961</drugbank-id>
+      <name>Troxacitabine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Troxacitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02877</drugbank-id>
+      <name>TTNPB</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of TTNPB.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03172</drugbank-id>
+      <name>Tubercidin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Tubercidin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01199</drugbank-id>
+      <name>Tubocurarine</name>
+      <description>Tubocurarine may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11475</drugbank-id>
+      <name>Tylosin</name>
+      <description>The serum concentration of Anvirzel can be increased when it is combined with Tylosin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03424</drugbank-id>
+      <name>Ubenimex</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Ubenimex.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00791</drugbank-id>
+      <name>Uracil mustard</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Uracil mustard.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06235</drugbank-id>
+      <name>Vadimezan</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of ASA404.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12873</drugbank-id>
+      <name>VAL-083</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Val 083.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00385</drugbank-id>
+      <name>Valrubicin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Valrubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05294</drugbank-id>
+      <name>Vandetanib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Vandetanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04894</drugbank-id>
+      <name>Vapreotide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Vapreotide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01339</drugbank-id>
+      <name>Vecuronium</name>
+      <description>Vecuronium may increase the arrhythmogenic activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07232</drugbank-id>
+      <name>Veliparib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Veliparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08881</drugbank-id>
+      <name>Vemurafenib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Vemurafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00661</drugbank-id>
+      <name>Verapamil</name>
+      <description>Verapamil may increase the atrioventricular blocking (AV block) activities of Anvirzel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00460</drugbank-id>
+      <name>Verteporfin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Verteporfin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12082</drugbank-id>
+      <name>Vesnarinone</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Vesnarinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00570</drugbank-id>
+      <name>Vinblastine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Vinblastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00541</drugbank-id>
+      <name>Vincristine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Vincristine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00309</drugbank-id>
+      <name>Vindesine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Vindesine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11641</drugbank-id>
+      <name>Vinflunine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Vinflunine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00361</drugbank-id>
+      <name>Vinorelbine</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Vinorelbine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12503</drugbank-id>
+      <name>Vintafolide</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Vintafolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08828</drugbank-id>
+      <name>Vismodegib</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Vismodegib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00162</drugbank-id>
+      <name>Vitamin A</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Vitamin A.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02546</drugbank-id>
+      <name>Vorinostat</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Vorinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11618</drugbank-id>
+      <name>Zorubicin</name>
+      <description>Anvirzel may decrease the cardiotoxic activities of Zorubicin.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>2.1</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-5.3</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>2.99e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>2.95</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(1S,2S,5S,7R,10R,11S,13S,14R,15R)-11-hydroxy-5-{[(2R,4S,5S,6S)-5-hydroxy-4-methoxy-6-methyloxan-2-yl]oxy}-2,15-dimethyl-14-(5-oxo-2,5-dihydrofuran-3-yl)tetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadecan-13-yl acetate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>(1S,2S,5S,7R,10R,11S,13S,14R,15R)-11-hydroxy-5-{[(2R,4S,5S,6S)-5-hydroxy-4-methoxy-6-methyloxan-2-yl]oxy}-2,15-dimethyl-14-(5-oxo-2H-furan-3-yl)tetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadecan-13-yl acetate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>576.727</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>576.329833126</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CO[C@H]1C[C@H](O[C@H]2CC[C@@]3(C)[C@H](CC[C@@H]4[C@@H]3CC[C@]3(C)[C@H]([C@H](C[C@]43O)OC(C)=O)C3=CC(=O)OC3)C2)O[C@@H](C)[C@@H]1O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C32H48O9</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C32H48O9/c1-17-29(35)24(37-5)14-27(39-17)41-21-8-10-30(3)20(13-21)6-7-23-22(30)9-11-31(4)28(19-12-26(34)38-16-19)25(40-18(2)33)15-32(23,31)36/h12,17,20-25,27-29,35-36H,6-11,13-16H2,1-5H3/t17-,20+,21-,22-,23+,24-,25-,27-,28-,29-,30-,31+,32-/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>JLPDBLFIVFSOCC-XYXFTTADSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>120.75</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>148.45</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>63.2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>6.82</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-3.2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>59030</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Oleandrin</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1075789</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,693 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-15">
+  <drugbank-id primary="true">DB09511</drugbank-id>
+  <name>Talc</name>
+  <description>Talc is a mineral composed primarily of magnesium, silicon and oxygen. It is a substance often found in cosmetic and personal hygiene products including baby powder, adult body powders and facial powders. Talc helps absorb moisture, freshen materials, and reduce friction to prevent rashes.&#13;
+&#13;
+Although talc has been widely used for decades, lawsuits that have come to the surface claim serious health complications linked to its use. In fact, recent studies have reported that talc increases the risk of ovarian and endometrial cancers by approximately 30 percent.</description>
+  <cas-number/>
+  <unii/>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>MSDS</title>
+        <url>http://www.sciencelab.com/msds.php?msdsId=9927617</url>
+      </link>
+      <link>
+        <title>product info</title>
+        <url>https://www.drugcenter.com/drugs/talcum-powder/</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Preventing diaper rashes, Eliminating body odors, Preventing skin from chafing due to friction, Various cosmetics such as eyeshadow and lipstick&#13;
+Absorbing excess oil in hair, Freshening clothes and other materials. </indication>
+  <pharmacodynamics/>
+  <mechanism-of-action>It has very good absorptive properties. </mechanism-of-action>
+  <toxicity> LC50: Not available.&#13;
+</toxicity>
+  <metabolism>Intended for local use only. </metabolism>
+  <absorption>Intended for local use only. </absorption>
+  <half-life>Intended for local use only. </half-life>
+  <protein-binding>Intended for local use only. </protein-binding>
+  <route-of-elimination>Intended for local use only. </route-of-elimination>
+  <volume-of-distribution>Intended for local use only. </volume-of-distribution>
+  <clearance>Intended for local use only. </clearance>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Ahc Premium Intense Contour Balm</name>
+      <labeller>Carver Korea Co.,Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>58930-050</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Baby</name>
+      <labeller>Walgreen</labeller>
+      <ndc-id/>
+      <ndc-product-code>0363-0901</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-07-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength>100 g/100g</strength>
+      <route>Topical</route>
+      <fda-application-number>part347</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Budpak Baby</name>
+      <labeller>Budpak Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>27293-034</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-07-07</started-marketing-on>
+      <ended-marketing-on>2015-12-29</ended-marketing-on>
+      <dosage-form>Powder</dosage-form>
+      <strength>.9 g/g</strength>
+      <route>Topical</route>
+      <fda-application-number>part347</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Caldesene</name>
+      <labeller>Insight Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>63736-363</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-07-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number>part347</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Careline Perfect Care Bb</name>
+      <labeller>Cosmopharm Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>69939-645</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-09-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number>part352</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Careline Perfect Care Bb</name>
+      <labeller>Cosmopharm Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>69939-690</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-09-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number>part352</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dusting Powder</name>
+      <labeller>Viny Health and Beauty Products Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>76436-137</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-02-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength>99 g/100g</strength>
+      <route>Topical</route>
+      <fda-application-number>part347</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Face It Hd Perfect Bb Spf30 Pa 01</name>
+      <labeller>Thefaceshop Co., Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>51523-103</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-08-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number>part352</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Face It Hd Perfect Bb Spf30 Pa 02</name>
+      <labeller>Thefaceshop Co., Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>51523-104</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-08-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number>part352</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Foot and Body Powder</name>
+      <labeller>Mueller Sports Medicine, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00240605</dpd-id>
+      <started-marketing-on>1970-12-31</started-marketing-on>
+      <ended-marketing-on>2003-08-01</ended-marketing-on>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Foot Spray With Powder</name>
+      <labeller>Mueller Sports Medicine, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00240656</dpd-id>
+      <started-marketing-on>1970-12-31</started-marketing-on>
+      <ended-marketing-on>2003-08-01</ended-marketing-on>
+      <dosage-form>Aerosol</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Fresh Scent Protective Powder</name>
+      <labeller>Davion, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>42669-232</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number>part347</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fresh Scent Protective Powder</name>
+      <labeller>Cvs Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>69842-960</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2017-01-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number>part347</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Health Smart Baby</name>
+      <labeller>Home Smart Products</labeller>
+      <ndc-id/>
+      <ndc-product-code>52862-010</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-12-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength>1 g/g</strength>
+      <route>Topical</route>
+      <fda-application-number>part347</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Natures Choice Baby</name>
+      <labeller>Unipack</labeller>
+      <ndc-id/>
+      <ndc-product-code>43749-112</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-06-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength>99 g/100g</strength>
+      <route>Topical</route>
+      <fda-application-number>part347</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ohui Sun Science Sun Block EX Plus Beige</name>
+      <labeller>Lg Household &amp; Health Care Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>53208-524</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-05-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number>part352</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pan Aromas Baby</name>
+      <labeller>Pan Aromas Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>50346-004</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-12-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength>1 g/g</strength>
+      <route>Topical</route>
+      <fda-application-number>part347</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Protective Cream</name>
+      <labeller>Bebia Pediatric, Division Of Stiefel Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00885576</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on>1998-08-07</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sclerosol</name>
+      <labeller>Bryan Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>63256-100</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-06-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Aerosol, powder</dosage-form>
+      <strength>4 g/25g</strength>
+      <route>Intrapleural</route>
+      <fda-application-number>NDA020587</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sof Skin Baby Powder</name>
+      <labeller>Viny Health and Beauty Products Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>76436-135</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-03-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength>1 g/g</strength>
+      <route>Topical</route>
+      <fda-application-number>part347</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Spai-sons Fine Talcum</name>
+      <labeller>Spai Sons Pharmaceutical International Cosmetics</labeller>
+      <ndc-id/>
+      <ndc-product-code>66854-018</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-06-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number>part347</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sterile Talc</name>
+      <labeller>Bryan Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>63256-200</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2003-12-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength>5 g/100mL</strength>
+      <route>Intrapleural</route>
+      <fda-application-number>NDA021388</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Baby</name>
+      <ingredients>Talc</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pan Aromas Baby</name>
+      <ingredients>Talc</ingredients>
+    </mixture>
+    <mixture>
+      <name>Health Smart Baby</name>
+      <ingredients>Talc</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sclerosol</name>
+      <ingredients>Talc</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sterile Talc</name>
+      <ingredients>Talc</ingredients>
+    </mixture>
+    <mixture>
+      <name>Caldesene</name>
+      <ingredients>Talc + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Spai-sons Fine Talcum</name>
+      <ingredients>Talc + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sof Skin Baby Powder</name>
+      <ingredients>Talc</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dusting Powder</name>
+      <ingredients>Talc</ingredients>
+    </mixture>
+    <mixture>
+      <name>Budpak Baby</name>
+      <ingredients>Talc</ingredients>
+    </mixture>
+    <mixture>
+      <name>Protective Cream</name>
+      <ingredients>Talc + Zinc oxide + Kaolin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Foot and Body Powder</name>
+      <ingredients>Talc + Undecylenate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Foot Spray With Powder</name>
+      <ingredients>Talc + Undecylenate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fresh Scent Protective Powder</name>
+      <ingredients>Talc + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Natures Choice Baby</name>
+      <ingredients>Talc</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fresh Scent Protective Powder</name>
+      <ingredients>Talc + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Face It Hd Perfect Bb Spf30 Pa 01</name>
+      <ingredients>Octinoxate + Titanium dioxide + Zinc oxide + Glycine betaine + Talc</ingredients>
+    </mixture>
+    <mixture>
+      <name>Face It Hd Perfect Bb Spf30 Pa 02</name>
+      <ingredients>Octinoxate + Titanium dioxide + Zinc oxide + Glycine betaine + Talc</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ohui Sun Science Sun Block EX Plus Beige</name>
+      <ingredients>Talc + Octinoxate + Zinc oxide + Titanium dioxide + Arbutin + Atractylodes japonica root oil</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ahc Premium Intense Contour Balm</name>
+      <ingredients>Titanium dioxide + Talc + Octinoxate + Arbutin + Zinc oxide + Methicone (20 cst) + Aluminum hydroxide + Aluminum stearate + Adenosine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Careline Perfect Care Bb</name>
+      <ingredients>Titanium dioxide + Octinoxate + Allantoin + Talc + Caffeine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Careline Perfect Care Bb</name>
+      <ingredients>Titanium dioxide + Octinoxate + Allantoin + Talc + Caffeine</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acids</category>
+      <mesh-id>D000143</mesh-id>
+    </category>
+    <category>
+      <category>Acids, Noncarboxylic</category>
+      <mesh-id>D000148</mesh-id>
+    </category>
+    <category>
+      <category>Anions</category>
+      <mesh-id>D000838</mesh-id>
+    </category>
+    <category>
+      <category>Antiperspirants</category>
+      <mesh-id>D051520</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Cosmetics</category>
+      <mesh-id>D003358</mesh-id>
+    </category>
+    <category>
+      <category>Electrolytes</category>
+      <mesh-id>D004573</mesh-id>
+    </category>
+    <category>
+      <category>Household Products</category>
+      <mesh-id>D006795</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Ions</category>
+      <mesh-id>D007477</mesh-id>
+    </category>
+    <category>
+      <category>Magnesium Compounds</category>
+      <mesh-id>D017616</mesh-id>
+    </category>
+    <category>
+      <category>Magnesium Silicates</category>
+      <mesh-id>D017633</mesh-id>
+    </category>
+    <category>
+      <category>Minerals</category>
+      <mesh-id>D008903</mesh-id>
+    </category>
+    <category>
+      <category>Oxides</category>
+      <mesh-id>D010087</mesh-id>
+    </category>
+    <category>
+      <category>Oxygen Compounds</category>
+      <mesh-id>D017601</mesh-id>
+    </category>
+    <category>
+      <category>Silicates</category>
+      <mesh-id>D017640</mesh-id>
+    </category>
+    <category>
+      <category>Silicic Acid</category>
+      <mesh-id>D012824</mesh-id>
+    </category>
+    <category>
+      <category>Silicon Compounds</category>
+      <mesh-id>D017655</mesh-id>
+    </category>
+    <category>
+      <category>Silicon Dioxide</category>
+      <mesh-id>D012822</mesh-id>
+    </category>
+    <category>
+      <category>Specialty Uses of Chemicals</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+    <category>
+      <category>Technology, Industry, and Agriculture</category>
+      <mesh-id>D013676</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Powder</form>
+      <route>Topical</route>
+      <strength>100 g/100g</strength>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Topical</route>
+      <strength>.9 g/g</strength>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Topical</route>
+      <strength>99 g/100g</strength>
+    </dosage>
+    <dosage>
+      <form>Cream</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Aerosol</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Topical</route>
+      <strength>1 g/g</strength>
+    </dosage>
+    <dosage>
+      <form>Aerosol, powder</form>
+      <route>Intrapleural</route>
+      <strength>4 g/25g</strength>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Intrapleural</route>
+      <strength>5 g/100mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>6643</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

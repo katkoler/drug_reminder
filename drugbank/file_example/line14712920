@@ -1,0 +1,330 @@
+<drug type="small molecule" created="2015-12-03" updated="2016-08-17">
+  <drugbank-id primary="true">DB11104</drugbank-id>
+  <name>Sulfur hexafluoride</name>
+  <description/>
+  <cas-number>2551-62-4</cas-number>
+  <unii>WS7LR3I1D6</unii>
+  <average-mass>146.05</average-mass>
+  <monoisotopic-mass>145.962490152</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of inorganic compounds known as other non-metal halides. These are inorganic compounds containing 'other non-metals' and halogen.</description>
+    <direct-parent>Other non-metal halides</direct-parent>
+    <kingdom>Inorganic compounds</kingdom>
+    <superclass>Homogeneous non-metal compounds</superclass>
+    <class>Other non-metal halides</class>
+    <subclass/>
+    <substituent>Other non-metal halide</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">hexafluoridosulfur</synonym>
+    <synonym language="" coder="">Sulfur fluoride</synonym>
+    <synonym language="" coder="">sulfur(6+) fluoride</synonym>
+    <synonym language="" coder="">sulfur(VI) fluoride</synonym>
+    <synonym language="" coder="">Sulphur hexafluoride</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Lumason</name>
+      <labeller>Bracco Diagnostics, Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0270-7099</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>NDA203684</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sonovue</name>
+      <labeller>Bracco Imaging S.P.A.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02287684</dpd-id>
+      <started-marketing-on>2016-09-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for suspension</dosage-form>
+      <strength>8 mcl</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Sonovue</name>
+      <ingredients>Sulfur hexafluoride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sonovue</name>
+      <ingredients>Sulfur hexafluoride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lumason</name>
+      <ingredients>Sulfur hexafluoride</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acids</category>
+      <mesh-id>D000143</mesh-id>
+    </category>
+    <category>
+      <category>Acids, Noncarboxylic</category>
+      <mesh-id>D000148</mesh-id>
+    </category>
+    <category>
+      <category>Anions</category>
+      <mesh-id>D000838</mesh-id>
+    </category>
+    <category>
+      <category>Contrast Media</category>
+      <mesh-id>D003287</mesh-id>
+    </category>
+    <category>
+      <category>Electrolytes</category>
+      <mesh-id>D004573</mesh-id>
+    </category>
+    <category>
+      <category>Fluorides</category>
+      <mesh-id>D005459</mesh-id>
+    </category>
+    <category>
+      <category>Fluorine Compounds</category>
+      <mesh-id>D017611</mesh-id>
+    </category>
+    <category>
+      <category>Gases</category>
+      <mesh-id>D005740</mesh-id>
+    </category>
+    <category>
+      <category>Hydrofluoric Acid</category>
+      <mesh-id>D006858</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Ions</category>
+      <mesh-id>D007477</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Sulfur Compounds</category>
+      <mesh-id>D013457</mesh-id>
+    </category>
+    <category>
+      <category>Ultrasound Contrast Media</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>8 μl/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for suspension</form>
+      <route>Intravenous</route>
+      <strength>8 mcl</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="V08DA05">
+      <level code="V08DA">Ultrasound contrast media</level>
+      <level code="V08D">ULTRASOUND CONTRAST MEDIA</level>
+      <level code="V08">CONTRAST MEDIA</level>
+      <level code="V">VARIOUS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>2.28</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>hexafluoro-λ⁶-sulfane</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>sulfur hexafluoride</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>146.05</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>145.962490152</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>FS(F)(F)(F)(F)F</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>F6S</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/F6S/c1-7(2,3,4,5)6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>SFZCNBIFKDRMGX-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>18.44</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>7.11</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>12131</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>30496</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D05962</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Sulfur_hexafluoride</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1796998</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,219 @@
+<drug type="biotech" created="2016-11-18" updated="2016-11-18">
+  <drugbank-id primary="true">DB13151</drugbank-id>
+  <name>Anti-inhibitor coagulant complex</name>
+  <description>Anti-inhibitor coagulant complex is a freeze-dried sterile human plasma fraction with factor VIII inhibitor bypassing activity to be reconstituted for intravenous administration. Anti-inhibitor coagulant complex contains mainly non-activated factors II, IX, and X and mainly activated factor VII.  It is manufactured from large pools of human plasma.</description>
+  <cas-number/>
+  <unii>CS849DUN3M</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Antiinhibitor coagulant complex</synonym>
+    <synonym language="" coder="">Factor VIII bypassing fraction</synonym>
+    <synonym language="" coder="">Factor VIII inhibitor bypassing activity</synonym>
+    <synonym language="" coder="">Factor VIII inhibitor bypassing fraction</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Feiba NF</name>
+      <labeller>Baxalta Canada Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>64193-423</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-01-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA101447</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Feiba NF</name>
+      <labeller>Baxalta Canada Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>64193-424</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-01-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA101447</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Feiba NF</name>
+      <labeller>Baxalta Canada Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>64193-425</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1986-01-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>BLA101447</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Feiba Nf</name>
+      <labeller>Baxalta Canada Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02202581</dpd-id>
+      <started-marketing-on>1997-10-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Feiba Nf</name>
+      <labeller>Baxalta Canada Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02353903</dpd-id>
+      <started-marketing-on>2011-04-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Feiba NF</name>
+      <ingredients>Anti-inhibitor coagulant complex</ingredients>
+    </mixture>
+    <mixture>
+      <name>Feiba NF</name>
+      <ingredients>Anti-inhibitor coagulant complex</ingredients>
+    </mixture>
+    <mixture>
+      <name>Feiba NF</name>
+      <ingredients>Anti-inhibitor coagulant complex</ingredients>
+    </mixture>
+    <mixture>
+      <name>Feiba Nf</name>
+      <ingredients>Water + Anti-inhibitor coagulant complex</ingredients>
+    </mixture>
+    <mixture>
+      <name>Feiba Nf</name>
+      <ingredients>Water + Anti-inhibitor coagulant complex</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Blood and Blood Forming Organs</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Blood Coagulation Factors</category>
+      <mesh-id>D001779</mesh-id>
+    </category>
+    <category>
+      <category>Hemostatics</category>
+      <mesh-id>D006490</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="B02BD03">
+      <level code="B02BD">Blood coagulation factors</level>
+      <level code="B02B">VITAMIN K AND OTHER HEMOSTATICS</level>
+      <level code="B02">ANTIHEMORRHAGICS</level>
+      <level code="B">BLOOD AND BLOOD FORMING ORGANS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB13151.pdf?1479504599</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>96</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

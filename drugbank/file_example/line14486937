@@ -1,0 +1,334 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-16">
+  <drugbank-id primary="true">DB09571</drugbank-id>
+  <name>Levomethamphetamine</name>
+  <description>Levomethamphetamine  is the levorotary (L-enantiomer) form of methamphetamine. Levomethamphetamine is a sympathomimetic vasoconstrictor which is the active ingredient in some over-the-counter (OTC) nasal decongestant inhalers in the United States.</description>
+  <cas-number>33817-09-3</cas-number>
+  <unii>Y24T9BT2Q2</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Levoamphetamine</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Among its physiological effects are the vasoconstriction that makes it useful for nasal decongestion.</indication>
+  <pharmacodynamics>Levomethamphetamine crosses the blood-brain-barrier and acts as a TAAR1 agonist, functioning as a selective norepinephrine releasing agent (with few or no effects on the release of dopamine), so it affects the central nervous system, although its effects are qualitatively distinct relative to those of dextromethamphetamine.</pharmacodynamics>
+  <mechanism-of-action>Levomethamphetamine crosses the blood-brain-barrier and acts as a TAAR1 agonist,[3] functioning as a selective norepinephrine releasing agent (with few or no effects on the release of dopamine), so it affects the central nervous system,</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life> The elimination half-life of levomethamphetamine is between 13.3 and 15 hours.</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Levmetamfetamine</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>1st Vaporizing Inhaler</name>
+      <labeller>Viny Health and Beauty Products Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>76436-401</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-12-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>50 mg/1</strength>
+      <route>Nasal</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Amoray Vaporizing Inhaler</name>
+      <labeller>My Import Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>51628-1010</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-09-29</started-marketing-on>
+      <ended-marketing-on>2017-02-14</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>50 mg/1</strength>
+      <route>Nasal</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nasal Decongestant Inhaler</name>
+      <labeller>Aphena Pharma Solutions</labeller>
+      <ndc-id/>
+      <ndc-product-code>54884-050</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-07-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Inhalant</dosage-form>
+      <strength>50 mg/1</strength>
+      <route>Nasal</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sinu Inhaler</name>
+      <labeller>Neil Med</labeller>
+      <ndc-id/>
+      <ndc-product-code>13709-281</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-06-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Inhalant</dosage-form>
+      <strength>50 mg/1</strength>
+      <route>Nasal</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vapor Inhaler</name>
+      <labeller>Walgreens</labeller>
+      <ndc-id/>
+      <ndc-product-code>0363-0564</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-07-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Inhalant</dosage-form>
+      <strength>50 mg/1</strength>
+      <route>Nasal</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vapor Inhaler</name>
+      <labeller>Chain Drug Marketing Association</labeller>
+      <ndc-id/>
+      <ndc-product-code>63868-267</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Inhalant</dosage-form>
+      <strength>50 mg/1</strength>
+      <route>Nasal</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vapor Inhaler</name>
+      <labeller>Cardinal Health (Leader)</labeller>
+      <ndc-id/>
+      <ndc-product-code>49781-045</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Inhalant</dosage-form>
+      <strength>50 mg/1</strength>
+      <route>Nasal</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vicks Vapoinhaler</name>
+      <labeller>Procter And Gamble</labeller>
+      <ndc-id/>
+      <ndc-product-code>37000-686</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-07-09</started-marketing-on>
+      <ended-marketing-on>2016-10-13</ended-marketing-on>
+      <dosage-form>Inhalant</dosage-form>
+      <strength>.245 mg/1000mg</strength>
+      <route>Nasal</route>
+      <fda-application-number>part341</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Sinu Inhaler</name>
+      <ingredients>Levomethamphetamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vicks Vapoinhaler</name>
+      <ingredients>Levomethamphetamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vapor Inhaler</name>
+      <ingredients>Levomethamphetamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vapor Inhaler</name>
+      <ingredients>Levomethamphetamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>1st Vaporizing Inhaler</name>
+      <ingredients>Levomethamphetamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Amoray Vaporizing Inhaler</name>
+      <ingredients>Levomethamphetamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vapor Inhaler</name>
+      <ingredients>Levomethamphetamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nasal Decongestant Inhaler</name>
+      <ingredients>Levomethamphetamine</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Liquid</form>
+      <route>Nasal</route>
+      <strength>50 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Inhalant</form>
+      <route>Nasal</route>
+      <strength>50 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Inhalant</form>
+      <route>Nasal</route>
+      <strength>.245 mg/1000mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0005923</id>
+      <name>Phenylethanolamine N-methyltransferase</name>
+      <organism>Bos taurus</organism>
+      <actions/>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>UniProt</title>
+            <url>http://www.uniprot.org/uniprot/P10938</url>
+          </link>
+          <link>
+            <title>ChEMBL</title>
+            <url>https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/CHEMBL19393</url>
+          </link>
+        </links>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P10938" source="Swiss-Prot">
+    <name>Phenylethanolamine N-methyltransferase</name>
+    <general-function>Phenylethanolamine n-methyltransferase activity</general-function>
+    <specific-function>Converts noradrenaline to adrenaline.</specific-function>
+    <gene-name>PNMT</gene-name>
+    <locus/>
+    <cellular-location/>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>30917.99</molecular-weight>
+    <chromosome-location/>
+    <organism ncbi-taxonomy-id="9913">Bovine</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P10938</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>PNMT_BOVIN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>2.1.1.28</synonym>
+      <synonym>Noradrenaline N-methyltransferase</synonym>
+      <synonym>PNMTase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0014025|Phenylethanolamine N-methyltransferase
+MSGTDRSQAAGAVPDSDPGLAAVSSAYQRFEPRAYLRNNYAPPRGDLSCPDGVGPWKLRC
+LAQTFATGEVSGRTLIDIGSGPTIYQLLSACAHFEDITMTDFLEVNRQELRLWLREEPGA
+FDWSVYSQHVCLIEGKGESWQEKECQLRARVKRILPIDVHRPQPLGAGGLAPLPADALVS
+AFCLEAVSPDLASFQRALDHITTLLRPGGHLLLIGALEESWYLAGEARLAVVPVREEEVR
+EALVRTATRCGICARTPMPAHLQTGVDDVKGIFFTRAQKKVGV</amino-acid-sequence>
+    <gene-sequence format="FASTA"/>
+    <pfams>
+      <pfam>
+        <identifier>PF01234</identifier>
+        <name>NNMT_PNMT_TEMT</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>function</category>
+        <description>phenylethanolamine N-methyltransferase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>epinephrine biosynthetic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

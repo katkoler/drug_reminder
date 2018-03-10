@@ -1,0 +1,2296 @@
+<drug type="small molecule" created="2016-04-07" updated="2017-04-01">
+  <drugbank-id primary="true">DB11575</drugbank-id>
+  <name>Grazoprevir</name>
+  <description>Grazoprevir is a second generation NS3/4a protease inhibitor approved for the treatment of hepatitis C virus (HCV) in combination with elbasvir as the fixed-dose combination product Zepatier (FDA). Use of this medication is indicated, with our without ribavirin, for the treatment of adults with HCV genotypes 1a, 1b, or 4.&#13;
+&#13;
+NS3/4a protease is an integral part of viral replication as it is responsible for cleaving  the long polypeptide produced following translation of the viral genome.  By inhibiting protease activity, grazoprevir prevents the formation of structural and nonstructural proteins required for replication and assembly (E1, E2, NS2, NS3, NS4A, NS4B, NS5A and NS5B). </description>
+  <cas-number>1350514-68-9</cas-number>
+  <unii>8YE81R1X1J</unii>
+  <average-mass>766.903</average-mass>
+  <monoisotopic-mass>766.335997918</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>24666106</pubmed-id>
+        <citation>Gentile I, Buonomo AR, Borgia F, Zappulo E, Castaldo G, Borgia G: MK-5172 : a second-generation protease inhibitor for the treatment of hepatitis C virus infection. Expert Opin Investig Drugs. 2014 May;23(5):719-28. doi: 10.1517/13543784.2014.902049. Epub 2014 Mar 26.</citation>
+      </article>
+      <article>
+        <pubmed-id>24900473</pubmed-id>
+        <citation>Harper S, McCauley JA, Rudd MT, Ferrara M, DiFilippo M, Crescenzi B, Koch U, Petrocchi A, Holloway MK, Butcher JW, Romano JJ, Bush KJ, Gilbert KF, McIntyre CJ, Nguyen KT, Nizi E, Carroll SS, Ludmerer SW, Burlein C, DiMuzio JM, Graham DJ, McHale CM, Stahlhut MW, Olsen DB, Monteagudo E, Cianetti S, Giuliano C, Pucci V, Trainor N, Fandozzi CM, Rowley M, Coleman PJ, Vacca JP, Summa V, Liverton NJ: Discovery of MK-5172, a Macrocyclic Hepatitis C Virus NS3/4a Protease Inhibitor. ACS Med Chem Lett. 2012 Mar 2;3(4):332-6. doi: 10.1021/ml300017p. eCollection 2012 Apr 12.</citation>
+      </article>
+      <article>
+        <pubmed-id>22615282</pubmed-id>
+        <citation>Summa V, Ludmerer SW, McCauley JA, Fandozzi C, Burlein C, Claudio G, Coleman PJ, Dimuzio JM, Ferrara M, Di Filippo M, Gates AT, Graham DJ, Harper S, Hazuda DJ, Huang Q, McHale C, Monteagudo E, Pucci V, Rowley M, Rudd MT, Soriano A, Stahlhut MW, Vacca JP, Olsen DB, Liverton NJ, Carroll SS: MK-5172, a selective inhibitor of hepatitis C virus NS3/4a protease with broad activity across genotypes and resistant variants. Antimicrob Agents Chemother. 2012 Aug;56(8):4161-7. doi: 10.1128/AAC.00324-12. Epub 2012 May 21.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference>Harper S, McCauley JA, Rudd MT, Ferrara M, DiFilippo M, Crescenzi B, Koch U, Petrocchi A, Holloway MK, Butcher JW, Romano JJ, Bush KJ, Gilbert KF, McIntyre CJ, Nguyen KT, Nizi E, Carroll SS, Ludmerer SW, Burlein C, DiMuzio JM, Graham DJ, McHale CM, Stahlhut MW, Olsen DB, Monteagudo E, Cianetti S, Giuliano C, Pucci V, Trainor N, Fandozzi CM, Rowley M, Coleman PJ, Vacca JP, Summa V, Liverton NJ: Discovery of MK-5172, a Macrocyclic Hepatitis C Virus NS3/4a Protease Inhibitor. ACS Med Chem Lett. 2012 Mar 2;3(4):332-6. doi: 10.1021/ml300017p. eCollection 2012 Apr 12.</synthesis-reference>
+  <indication>Grazoprevir is indicated in combination with elbasvir (as the fixed dose combination product Zepatier) with or without ribavirin for treatment of chronic HCV genotypes 1a, 1b, or 4 infection in adults. </indication>
+  <pharmacodynamics>At a concentration 40 times the therapeutic concentration, grazoprevir does not prolong QTc to any clinically relevant extent.</pharmacodynamics>
+  <mechanism-of-action>Grazaprevir is a second generation NS3/4a protease inhibitor use to inhibit viral HCV replication. NS3/4a protease is an integral part of viral replication as it is responsible for cleaving  the long polypeptide produced following translation of the viral genome.  By inhibiting protease activity, grazoprevir prevents the formation of structural and nonstructural proteins required for replication and assembly (E1, E2, NS2, NS3, NS4A, NS4B, NS5A and NS5B). </mechanism-of-action>
+  <toxicity>The most commonly reported adverse reactions of all intensity (greater than or equal to 5% in placebo-controlled trials) were fatigue, headache, anemia, and nausea.</toxicity>
+  <metabolism>Grazoprevir is partially eliminated by oxidative metabolism, primarily by CYP3A. No circulating metabolites of either were detected in human plasma.&#13;
+</metabolism>
+  <absorption>Grazoprevir was found to have an AUC of 1420 ng•hr/mL, a maximum concentration (Cmax) of 165 ng/mL, and reached peak concentrations at a median Tmax of 2 hours.</absorption>
+  <half-life>The geometric mean apparent terminal half-life for grazoprevir (100 mg) is approximately  31 hours in HCV-infected subjects.</half-life>
+  <protein-binding>Grazoprevir is extensively bound (98.8%) to human plasma proteins; it binds to both human serum albumin and α1-acid glycoprotein.</protein-binding>
+  <route-of-elimination>The primary route of elimination for grazoprevir is through feces with almost all (greater than 90%) of radiolabelled dose recovered in feces compared to less than 1% in urine.</route-of-elimination>
+  <volume-of-distribution>1250 L</volume-of-distribution>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of chemical entities known as cyclic peptides. These are compounds containing a cyclic moiety bearing a peptide backbone.</description>
+    <direct-parent>Cyclic peptides</direct-parent>
+    <kingdom>Chemical entities</kingdom>
+    <superclass>Organic compounds</superclass>
+    <class>Organic acids and derivatives</class>
+    <subclass>Carboxylic acids and derivatives</subclass>
+    <alternative-parent>Alkyl aryl ethers</alternative-parent>
+    <alternative-parent>Alpha amino acid amides</alternative-parent>
+    <alternative-parent>Aminosulfonyl compounds</alternative-parent>
+    <alternative-parent>Anisoles</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Carbamate esters</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Cyclopropanecarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Lactams</alternative-parent>
+    <alternative-parent>Macrolactams</alternative-parent>
+    <alternative-parent>N-acyl-alpha amino acids and derivatives</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organonitrogen compounds</alternative-parent>
+    <alternative-parent>Organopnictogen compounds</alternative-parent>
+    <alternative-parent>Organosulfonic acids and derivatives</alternative-parent>
+    <alternative-parent>Oxacyclic compounds</alternative-parent>
+    <alternative-parent>Pyrazines</alternative-parent>
+    <alternative-parent>Pyrrolidinecarboxamides</alternative-parent>
+    <alternative-parent>Quinoxalines</alternative-parent>
+    <alternative-parent>Secondary carboxylic acid amides</alternative-parent>
+    <alternative-parent>Tertiary carboxylic acid amides</alternative-parent>
+    <substituent>Alkyl aryl ether</substituent>
+    <substituent>Alpha-amino acid amide</substituent>
+    <substituent>Alpha-amino acid or derivatives</substituent>
+    <substituent>Aminosulfonyl compound</substituent>
+    <substituent>Anisole</substituent>
+    <substituent>Aromatic heteropolycyclic compound</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Carbamic acid ester</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxamide group</substituent>
+    <substituent>Cyclic alpha peptide</substituent>
+    <substituent>Cyclopropanecarboxylic acid or derivatives</substituent>
+    <substituent>Diazanaphthalene</substituent>
+    <substituent>Ether</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Lactam</substituent>
+    <substituent>Macrolactam</substituent>
+    <substituent>N-acyl-alpha amino acid or derivatives</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organic sulfonic acid or derivatives</substituent>
+    <substituent>Organoheterocyclic compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Organopnictogen compound</substituent>
+    <substituent>Organosulfonic acid or derivatives</substituent>
+    <substituent>Organosulfur compound</substituent>
+    <substituent>Oxacycle</substituent>
+    <substituent>Pyrazine</substituent>
+    <substituent>Pyrrolidine</substituent>
+    <substituent>Pyrrolidine carboxylic acid or derivatives</substituent>
+    <substituent>Pyrrolidine-2-carboxamide</substituent>
+    <substituent>Quinoxaline</substituent>
+    <substituent>Secondary carboxylic acid amide</substituent>
+    <substituent>Sulfonyl</substituent>
+    <substituent>Tertiary carboxylic acid amide</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001751</drugbank-id>
+      <name>Grazoprevir monohydrate</name>
+      <unii>4O2AB118LA</unii>
+      <cas-number>1350462-55-3</cas-number>
+      <inchikey>RXSARIJMSJWJLZ-CIAYNJNFSA-N</inchikey>
+      <average-mass>784.93</average-mass>
+      <monoisotopic-mass>784.346563072</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="IUPAC">(1aR,5S,8S,10R,22aR)-5-tert-butyl-N-{(1R,2S)-1-[(cyclopropanesulfonyl)carbamoyl]-2-ethenylcyclopropyl}-14-methoxy-3,6-dioxo-1,1a,3,4,5,6,9,10,18,19,20,21,22,22a-tetradecahydro-8H-7,10-methanocyclopropa[18,19][1,10,3,6]dioxadiazacyclononadecino[11,12-b]quinoxaline-8-carboxamide</synonym>
+    <synonym language="" coder="INN">Grazoprevir</synonym>
+    <synonym language="" coder="">Grazoprevir anhydrous</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Zepatier</name>
+      <labeller>Merck Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02451131</dpd-id>
+      <started-marketing-on>2016-01-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Zepatier</name>
+      <labeller>Merck Sharp &amp; Dohme Limited
+ </labeller>
+      <ndc-id/>
+      <ndc-product-code>0006-3074</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-01-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>NDA208261</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Zepatier</name>
+      <ingredients>Elbasvir + Grazoprevir</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zepatier</name>
+      <ingredients>Elbasvir + Grazoprevir</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zepatier</name>
+      <ingredients>Grazoprevir + Elbasvir</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 2-Ring</category>
+      <mesh-id>D006574</mesh-id>
+    </category>
+    <category>
+      <category>NS3/4A Protease Inhibitors</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>OATP1B1/SLCO1B1 Substrates</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>P-glycoprotein/ABCB1 Substrates</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Hepatitis C virus, RSV and other RNA/DNA viruses</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, film coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB11575.pdf?1471551357</fda-label>
+  <patents>
+    <patent>
+      <number>7973040</number>
+      <country>United States</country>
+      <approved>2009-07-24</approved>
+      <expires>2029-07-24</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8871759</number>
+      <country>United States</country>
+      <approved>2011-05-04</approved>
+      <expires>2031-05-04</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions>
+    <food-interaction>Relative to fasting conditions, the administration of a single dose of grazoprevir + elbasvir (Zapatier) with a high-fat (900 kcal, 500 kcal from fat) meal to healthy subjects resulted in decreases in elbasvir AUC0-inf and Cmax of approximately 11% and 15%, respectively, and increases in grazoprevir AUC0-inf and Cmax of approximately 1.5-fold and 2.8-fold, respectively.</food-interaction>
+  </food-interactions>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00316</drugbank-id>
+      <name>Acetaminophen</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Acetaminophen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08916</drugbank-id>
+      <name>Afatinib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Afatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00518</drugbank-id>
+      <name>Albendazole</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Albendazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04630</drugbank-id>
+      <name>Aldosterone</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Aldosterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11363</drugbank-id>
+      <name>Alectinib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Alectinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00802</drugbank-id>
+      <name>Alfentanil</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Alfentanil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00915</drugbank-id>
+      <name>Amantadine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Amantadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00345</drugbank-id>
+      <name>Aminohippuric acid</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Aminohippuric acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01118</drugbank-id>
+      <name>Amiodarone</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Amiodarone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00321</drugbank-id>
+      <name>Amitriptyline</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Amitriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00381</drugbank-id>
+      <name>Amlodipine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Amlodipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00701</drugbank-id>
+      <name>Amprenavir</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Amprenavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00276</drugbank-id>
+      <name>Amsacrine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Amsacrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00637</drugbank-id>
+      <name>Astemizole</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Astemizole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01072</drugbank-id>
+      <name>Atazanavir</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Atazanavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00335</drugbank-id>
+      <name>Atenolol</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Atenolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01076</drugbank-id>
+      <name>Atorvastatin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Atorvastatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00972</drugbank-id>
+      <name>Azelastine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Azelastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00207</drugbank-id>
+      <name>Azithromycin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Azithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01086</drugbank-id>
+      <name>Benzocaine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Benzocaine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01244</drugbank-id>
+      <name>Bepridil</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Bepridil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00810</drugbank-id>
+      <name>Biperiden</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Biperiden.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06616</drugbank-id>
+      <name>Bosutinib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Bosutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01200</drugbank-id>
+      <name>Bromocriptine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Bromocriptine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00921</drugbank-id>
+      <name>Buprenorphine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Buprenorphine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00490</drugbank-id>
+      <name>Buspirone</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Buspirone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06772</drugbank-id>
+      <name>Cabazitaxel</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Cabazitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00201</drugbank-id>
+      <name>Caffeine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Caffeine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08907</drugbank-id>
+      <name>Canagliflozin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Canagliflozin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00796</drugbank-id>
+      <name>Candesartan</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Candesartan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01197</drugbank-id>
+      <name>Captopril</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Captopril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Carbamazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01136</drugbank-id>
+      <name>Carvedilol</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Carvedilol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00520</drugbank-id>
+      <name>Caspofungin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Caspofungin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00608</drugbank-id>
+      <name>Chloroquine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Chloroquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00477</drugbank-id>
+      <name>Chlorpromazine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Chlorpromazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00672</drugbank-id>
+      <name>Chlorpropamide</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Chlorpropamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01239</drugbank-id>
+      <name>Chlorprothixene</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Chlorprothixene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04540</drugbank-id>
+      <name>Cholesterol</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Cholesterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02659</drugbank-id>
+      <name>Cholic Acid</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Cholic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01340</drugbank-id>
+      <name>Cilazapril</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Cilazapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00501</drugbank-id>
+      <name>Cimetidine</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Cimetidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00537</drugbank-id>
+      <name>Ciprofloxacin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Ciprofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00215</drugbank-id>
+      <name>Citalopram</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Citalopram.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01211</drugbank-id>
+      <name>Clarithromycin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Clarithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00845</drugbank-id>
+      <name>Clofazimine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Clofazimine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01242</drugbank-id>
+      <name>Clomipramine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Clomipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00257</drugbank-id>
+      <name>Clotrimazole</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Clotrimazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09065</drugbank-id>
+      <name>Cobicistat</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Cobicistat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01394</drugbank-id>
+      <name>Colchicine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Colchicine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02587</drugbank-id>
+      <name>Colforsin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Colforsin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08865</drugbank-id>
+      <name>Crizotinib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Crizotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Cyclophosphamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00091</drugbank-id>
+      <name>Cyclosporine</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Cyclosporine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09102</drugbank-id>
+      <name>Daclatasvir</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Daclatasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00970</drugbank-id>
+      <name>Dactinomycin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Dactinomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Dasatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00694</drugbank-id>
+      <name>Daunorubicin</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Daunorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01151</drugbank-id>
+      <name>Desipramine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Desipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00967</drugbank-id>
+      <name>Desloratadine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Desloratadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01234</drugbank-id>
+      <name>Dexamethasone</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Dexamethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00514</drugbank-id>
+      <name>Dextromethorphan</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Dextromethorphan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00586</drugbank-id>
+      <name>Diclofenac</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Diclofenac.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00390</drugbank-id>
+      <name>Digoxin</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Digoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00320</drugbank-id>
+      <name>Dihydroergotamine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Dihydroergotamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00343</drugbank-id>
+      <name>Diltiazem</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Diltiazem.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00975</drugbank-id>
+      <name>Dipyridamole</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Dipyridamole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00590</drugbank-id>
+      <name>Doxazosin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Doxazosin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01142</drugbank-id>
+      <name>Doxepin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Doxepin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00997</drugbank-id>
+      <name>Doxorubicin</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Doxorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00470</drugbank-id>
+      <name>Dronabinol</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Dronabinol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04855</drugbank-id>
+      <name>Dronedarone</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Dronedarone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11574</drugbank-id>
+      <name>Elbasvir</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Elbasvir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06210</drugbank-id>
+      <name>Eltrombopag</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Eltrombopag.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00584</drugbank-id>
+      <name>Enalapril</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Enalapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08899</drugbank-id>
+      <name>Enzalutamide</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Enzalutamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01253</drugbank-id>
+      <name>Ergonovine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Ergonovine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00696</drugbank-id>
+      <name>Ergotamine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Ergotamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00199</drugbank-id>
+      <name>Erythromycin</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Erythromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01196</drugbank-id>
+      <name>Estramustine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Estramustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04573</drugbank-id>
+      <name>Estriol</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Estriol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Estrone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00773</drugbank-id>
+      <name>Etoposide</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Etoposide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06414</drugbank-id>
+      <name>Etravirine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Etravirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01023</drugbank-id>
+      <name>Felodipine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Felodipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00813</drugbank-id>
+      <name>Fentanyl</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Fentanyl.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00950</drugbank-id>
+      <name>Fexofenadine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Fexofenadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08874</drugbank-id>
+      <name>Fidaxomicin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Fidaxomicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00196</drugbank-id>
+      <name>Fluconazole</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Fluconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00472</drugbank-id>
+      <name>Fluoxetine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Fluoxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00875</drugbank-id>
+      <name>Flupentixol</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Flupentixol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00623</drugbank-id>
+      <name>Fluphenazine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Fluphenazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00690</drugbank-id>
+      <name>Flurazepam</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Flurazepam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00176</drugbank-id>
+      <name>Fluvoxamine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Fluvoxamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00317</drugbank-id>
+      <name>Gefitinib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Gefitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01645</drugbank-id>
+      <name>Genistein</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Genistein.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01016</drugbank-id>
+      <name>Glyburide</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Glyburide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04077</drugbank-id>
+      <name>Glycerol</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Glycerol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00027</drugbank-id>
+      <name>Gramicidin D</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Gramicidin D.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00365</drugbank-id>
+      <name>Grepafloxacin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Grepafloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00502</drugbank-id>
+      <name>Haloperidol</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Haloperidol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00741</drugbank-id>
+      <name>Hydrocortisone</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Hydrocortisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09054</drugbank-id>
+      <name>Idelalisib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Idelalisib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00619</drugbank-id>
+      <name>Imatinib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Imatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00458</drugbank-id>
+      <name>Imipramine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Imipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00224</drugbank-id>
+      <name>Indinavir</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Indinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00328</drugbank-id>
+      <name>Indomethacin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Indomethacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06636</drugbank-id>
+      <name>Isavuconazonium</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Isavuconazonium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01167</drugbank-id>
+      <name>Itraconazole</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Itraconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08820</drugbank-id>
+      <name>Ivacaftor</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Ivacaftor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00602</drugbank-id>
+      <name>Ivermectin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Ivermectin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01221</drugbank-id>
+      <name>Ketamine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Ketamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01026</drugbank-id>
+      <name>Ketoconazole</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Ketoconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00448</drugbank-id>
+      <name>Lansoprazole</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Lansoprazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01259</drugbank-id>
+      <name>Lapatinib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Lapatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01137</drugbank-id>
+      <name>Levofloxacin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Levofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00451</drugbank-id>
+      <name>Levothyroxine</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Levothyroxine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00281</drugbank-id>
+      <name>Lidocaine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Lidocaine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00279</drugbank-id>
+      <name>Liothyronine</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Liothyronine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01583</drugbank-id>
+      <name>Liotrix</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Liotrix.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00722</drugbank-id>
+      <name>Lisinopril</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Lisinopril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08827</drugbank-id>
+      <name>Lomitapide</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Lomitapide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00836</drugbank-id>
+      <name>Loperamide</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Loperamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01601</drugbank-id>
+      <name>Lopinavir</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Lopinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00455</drugbank-id>
+      <name>Loratadine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Loratadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00678</drugbank-id>
+      <name>Losartan</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Losartan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00227</drugbank-id>
+      <name>Lovastatin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Lovastatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09280</drugbank-id>
+      <name>Lumacaftor</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Lumacaftor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00934</drugbank-id>
+      <name>Maprotiline</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Maprotiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00643</drugbank-id>
+      <name>Mebendazole</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Mebendazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00358</drugbank-id>
+      <name>Mefloquine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Mefloquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00351</drugbank-id>
+      <name>Megestrol acetate</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Megestrol acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00371</drugbank-id>
+      <name>Meprobamate</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Meprobamate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00333</drugbank-id>
+      <name>Methadone</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Methadone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00264</drugbank-id>
+      <name>Metoprolol</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Metoprolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01388</drugbank-id>
+      <name>Mibefradil</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Mibefradil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01110</drugbank-id>
+      <name>Miconazole</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Miconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00683</drugbank-id>
+      <name>Midazolam</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Midazolam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00834</drugbank-id>
+      <name>Mifepristone</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Mifepristone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00305</drugbank-id>
+      <name>Mitomycin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Mitomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01204</drugbank-id>
+      <name>Mitoxantrone</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Mitoxantrone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00295</drugbank-id>
+      <name>Morphine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Morphine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00704</drugbank-id>
+      <name>Naltrexone</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Naltrexone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03467</drugbank-id>
+      <name>Naringenin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Naringenin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01149</drugbank-id>
+      <name>Nefazodone</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Nefazodone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00220</drugbank-id>
+      <name>Nelfinavir</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Nelfinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01400</drugbank-id>
+      <name>Neostigmine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Neostigmine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00622</drugbank-id>
+      <name>Nicardipine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Nicardipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01115</drugbank-id>
+      <name>Nifedipine</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Nifedipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04868</drugbank-id>
+      <name>Nilotinib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Nilotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00401</drugbank-id>
+      <name>Nisoldipine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Nisoldipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01595</drugbank-id>
+      <name>Nitrazepam</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Nitrazepam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01054</drugbank-id>
+      <name>Nitrendipine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Nitrendipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00717</drugbank-id>
+      <name>Norethisterone</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Norethisterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00338</drugbank-id>
+      <name>Omeprazole</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Omeprazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04417</drugbank-id>
+      <name>P-Nitrophenol</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with P-Nitrophenol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01229</drugbank-id>
+      <name>Paclitaxel</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Paclitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03796</drugbank-id>
+      <name>Palmitic Acid</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Palmitic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00213</drugbank-id>
+      <name>Pantoprazole</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Pantoprazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00715</drugbank-id>
+      <name>Paroxetine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Paroxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00790</drugbank-id>
+      <name>Perindopril</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Perindopril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01174</drugbank-id>
+      <name>Phenobarbital</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Phenobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01100</drugbank-id>
+      <name>Pimozide</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Pimozide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02261</drugbank-id>
+      <name>Platelet Activating Factor</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Platelet Activating Factor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08901</drugbank-id>
+      <name>Ponatinib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Ponatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01263</drugbank-id>
+      <name>Posaconazole</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Posaconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00175</drugbank-id>
+      <name>Pravastatin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Pravastatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00457</drugbank-id>
+      <name>Prazosin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Prazosin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00635</drugbank-id>
+      <name>Prednisone</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Prednisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01032</drugbank-id>
+      <name>Probenecid</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Probenecid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00396</drugbank-id>
+      <name>Progesterone</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Progesterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01069</drugbank-id>
+      <name>Promethazine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Promethazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01182</drugbank-id>
+      <name>Propafenone</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Propafenone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00571</drugbank-id>
+      <name>Propranolol</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Propranolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00344</drugbank-id>
+      <name>Protriptyline</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Protriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04216</drugbank-id>
+      <name>Quercetin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Quercetin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01103</drugbank-id>
+      <name>Quinacrine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Quinacrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00908</drugbank-id>
+      <name>Quinidine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Quinidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00468</drugbank-id>
+      <name>Quinine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Quinine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00863</drugbank-id>
+      <name>Ranitidine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Ranitidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00243</drugbank-id>
+      <name>Ranolazine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Ranolazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00234</drugbank-id>
+      <name>Reboxetine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Reboxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08896</drugbank-id>
+      <name>Regorafenib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Regorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00206</drugbank-id>
+      <name>Reserpine</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Reserpine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01045</drugbank-id>
+      <name>Rifampicin</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Rifampicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08864</drugbank-id>
+      <name>Rilpivirine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Rilpivirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00503</drugbank-id>
+      <name>Ritonavir</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Ritonavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09291</drugbank-id>
+      <name>Rolapitant</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Rolapitant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01232</drugbank-id>
+      <name>Saquinavir</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Saquinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00747</drugbank-id>
+      <name>Scopolamine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Scopolamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01037</drugbank-id>
+      <name>Selegiline</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Selegiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01104</drugbank-id>
+      <name>Sertraline</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Sertraline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06290</drugbank-id>
+      <name>Simeprevir</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Simeprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00641</drugbank-id>
+      <name>Simvastatin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Simvastatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00877</drugbank-id>
+      <name>Sirolimus</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Sirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00398</drugbank-id>
+      <name>Sorafenib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Sorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00421</drugbank-id>
+      <name>Spironolactone</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Spironolactone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01323</drugbank-id>
+      <name>St. John's Wort</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with St. John&amp;#39;s Wort.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02010</drugbank-id>
+      <name>Staurosporine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Staurosporine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00428</drugbank-id>
+      <name>Streptozocin</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Streptozocin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01138</drugbank-id>
+      <name>Sulfinpyrazone</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Sulfinpyrazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00669</drugbank-id>
+      <name>Sumatriptan</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Sumatriptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01268</drugbank-id>
+      <name>Sunitinib</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Sunitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00382</drugbank-id>
+      <name>Tacrine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Tacrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00864</drugbank-id>
+      <name>Tacrolimus</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Tacrolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00675</drugbank-id>
+      <name>Tamoxifen</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Tamoxifen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04348</drugbank-id>
+      <name>Taurocholic Acid</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Taurocholic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00966</drugbank-id>
+      <name>Telmisartan</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Telmisartan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06287</drugbank-id>
+      <name>Temsirolimus</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Temsirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01162</drugbank-id>
+      <name>Terazosin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Terazosin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00342</drugbank-id>
+      <name>Terfenadine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Terfenadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08880</drugbank-id>
+      <name>Teriflunomide</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Teriflunomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04905</drugbank-id>
+      <name>Tesmilifene</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Tesmilifene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00624</drugbank-id>
+      <name>Testosterone</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Testosterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08816</drugbank-id>
+      <name>Ticagrelor</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Ticagrelor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06212</drugbank-id>
+      <name>Tolvaptan</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Tolvaptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00656</drugbank-id>
+      <name>Trazodone</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Trazodone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00831</drugbank-id>
+      <name>Trifluoperazine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Trifluoperazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00508</drugbank-id>
+      <name>Triflupromazine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Triflupromazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00440</drugbank-id>
+      <name>Trimethoprim</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Trimethoprim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00726</drugbank-id>
+      <name>Trimipramine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Trimipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01361</drugbank-id>
+      <name>Troleandomycin</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Troleandomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00285</drugbank-id>
+      <name>Venlafaxine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Venlafaxine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00661</drugbank-id>
+      <name>Verapamil</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Verapamil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00570</drugbank-id>
+      <name>Vinblastine</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Vinblastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00541</drugbank-id>
+      <name>Vincristine</name>
+      <description>The serum concentration of Grazoprevir can be decreased when it is combined with Vincristine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00361</drugbank-id>
+      <name>Vinorelbine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Vinorelbine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04832</drugbank-id>
+      <name>Zimelidine</name>
+      <description>The serum concentration of Grazoprevir can be increased when it is combined with Zimelidine.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>3.14</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-4.9</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>9.70e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>5.41</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(1R,18R,20R,24S,27S)-24-tert-butyl-N-[(1R,2S)-1-[(cyclopropanesulfonyl)-C-hydroxycarbonimidoyl]-2-ethenylcyclopropyl]-22-hydroxy-7-methoxy-25-oxo-2,21-dioxa-4,11,23,26-tetraazapentacyclo[24.2.1.0³,¹².0⁵,¹⁰.0¹⁸,²⁰]nonacosa-3(12),4,6,8,10,22-hexaene-27-carboximidic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>(1R,18R,20R,24S,27S)-24-tert-butyl-N-[(1R,2S)-1-(cyclopropanesulfonyl-C-hydroxycarbonimidoyl)-2-ethenylcyclopropyl]-22-hydroxy-7-methoxy-25-oxo-2,21-dioxa-4,11,23,26-tetraazapentacyclo[24.2.1.0³,¹².0⁵,¹⁰.0¹⁸,²⁰]nonacosa-3(12),4,6,8,10,22-hexaene-27-carboximidic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>766.903</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>766.335997918</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[H][C@@]12C[C@@]1([H])OC(O)=N[C@]([H])(C(=O)N1C[C@@]([H])(C[C@@]1([H])C(O)=N[C@@]1(C[C@@]1([H])C=C)C(O)=NS(=O)(=O)C1CC1)OC1=C(CCCCC2)N=C2C=CC(OC)=CC2=N1)C(C)(C)C</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C38H50N6O9S</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C38H50N6O9S/c1-6-22-19-38(22,35(47)43-54(49,50)25-13-14-25)42-32(45)29-18-24-20-44(29)34(46)31(37(2,3)4)41-36(48)53-30-16-21(30)10-8-7-9-11-27-33(52-24)40-28-17-23(51-5)12-15-26(28)39-27/h6,12,15,17,21-22,24-25,29-31H,1,7-11,13-14,16,18-20H2,2-5H3,(H,41,48)(H,42,45)(H,43,47)/t21-,22-,24-,29+,30-,31-,38-/m1/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>OBMNJSNZOWALQB-NCQNOWPTSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>205.69</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>195.25</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>81.09</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>14</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>5.31</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>1.81</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>22679</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>132975</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D10639</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Grazoprevir</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2063090</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/zepatier-drug.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>https://www.drugs.com/mtm/elbasvir-and-grazoprevir.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="5">
+      <id>BE0008651</id>
+      <name>Nonstructural protein 5A</name>
+      <organism>Hepatitis C virus</organism>
+      <actions>
+        <action>inducer</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q5L478" source="TrEMBL">
+    <name>Nonstructural protein 5A</name>
+    <general-function>Zinc ion binding</general-function>
+    <specific-function/>
+    <gene-name>NS5A</gene-name>
+    <locus/>
+    <cellular-location/>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>48598.34</molecular-weight>
+    <chromosome-location/>
+    <organism ncbi-taxonomy-id="11103">Hepatitis C virus</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q5L478</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>Q5L478_9HEPC</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0022270|Nonstructural protein 5A
+SGSWLRDVWDWICTVLTDFKTWLQSKLLPRIPGVPFLSCQRGYKGVWRGDGIMHTTCPCG
+AQITGHVKNGSMRIVGPKTCSNTWHGTFPINTYTTGPCTPSPAPNYSRALWRVAAEEYVE
+VTRVGDFHYVTGMTTDNVKCPCQVPAPEFFTEVDGVRLHRYAPACKPLLREEVTFMVGLN
+QYLVGSQLPCEPEPDVTVLTSMLTDPSHITAETAGRRLARGSPPSLASSSASQLSAPSLK
+ATCTTRHDSPDADLIEANLLWRQEMGGNITRVESENKVVILDSFDPLQAEEDEREVSVPA
+EILRKSRKFPRAMPIWARPDYNPPLLESWKDPDYVPPVVHGCPLPPAKAPPIPPPRRKRT
+VVLTESTVSSALAELATKTFGSSGSSAVDSGTATAPPDQLPGDGDSGSDVESYSSMPPLE
+GEPGDPDLSDGSWSTMSEEASEDVVCC</amino-acid-sequence>
+    <gene-sequence format="FASTA"/>
+    <pfams>
+      <pfam>
+        <identifier>PF01506</identifier>
+        <name>HCV_NS5a</name>
+      </pfam>
+      <pfam>
+        <identifier>PF08300</identifier>
+        <name>HCV_NS5a_1a</name>
+      </pfam>
+      <pfam>
+        <identifier>PF08301</identifier>
+        <name>HCV_NS5a_1b</name>
+      </pfam>
+      <pfam>
+        <identifier>PF12941</identifier>
+        <name>HCV_NS5a_C</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>function</category>
+        <description>zinc ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>nucleoside-triphosphatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>serine-type endopeptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>RNA-directed RNA polymerase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>cysteine-type endopeptidase activity</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0008634</id>
+      <name>Cytochrome p450 3A subfamily</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>no</known-action>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters>
+    <transporter position="2">
+      <id>BE0001032</id>
+      <name>Multidrug resistance protein 1</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>no</known-action>
+      <polypeptide id="P08183" source="Swiss-Prot">
+    <name>Multidrug resistance protein 1</name>
+    <general-function>Xenobiotic-transporting atpase activity</general-function>
+    <specific-function>Energy-dependent efflux pump responsible for decreased drug accumulation in multidrug-resistant cells.</specific-function>
+    <gene-name>ABCB1</gene-name>
+    <locus>7q21.1</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>45-67
+117-137
+187-208
+216-236
+293-316
+331-352
+712-732
+757-777
+833-853
+855-874
+935-957
+974-995</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>9.44</theoretical-pi>
+    <molecular-weight>141477.255</molecular-weight>
+    <chromosome-location>7</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:40</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>ABCB1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M14758</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>307180</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P08183</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>MDR1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>3.6.3.44</synonym>
+      <synonym>ATP-binding cassette sub-family B member 1</synonym>
+      <synonym>MDR1</synonym>
+      <synonym>P-glycoprotein 1</synonym>
+      <synonym>PGY1</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037114|Multidrug resistance protein 1
+MDLEGDRNGGAKKKNFFKLNNKSEKDKKEKKPTVSVFSMFRYSNWLDKLYMVVGTLAAII
+HGAGLPLMMLVFGEMTDIFANAGNLEDLMSNITNRSDINDTGFFMNLEEDMTRYAYYYSG
+IGAGVLVAAYIQVSFWCLAAGRQIHKIRKQFFHAIMRQEIGWFDVHDVGELNTRLTDDVS
+KINEGIGDKIGMFFQSMATFFTGFIVGFTRGWKLTLVILAISPVLGLSAAVWAKILSSFT
+DKELLAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNKNLEEAKRIGIKKAITANISIG
+AAFLLIYASYALAFWYGTTLVLSGEYSIGQVLTVFFSVLIGAFSVGQASPSIEAFANARG
+AAYEIFKIIDNKPSIDSYSKSGHKPDNIKGNLEFRNVHFSYPSRKEVKILKGLNLKVQSG
+QTVALVGNSGCGKSTTVQLMQRLYDPTEGMVSVDGQDIRTINVRFLREIIGVVSQEPVLF
+ATTIAENIRYGRENVTMDEIEKAVKEANAYDFIMKLPHKFDTLVGERGAQLSGGQKQRIA
+IARALVRNPKILLLDEATSALDTESEAVVQVALDKARKGRTTIVIAHRLSTVRNADVIAG
+FDDGVIVEKGNHDELMKEKGIYFKLVTMQTAGNEVELENAADESKSEIDALEMSSNDSRS
+SLIRKRSTRRSVRGSQAQDRKLSTKEALDESIPPVSFWRIMKLNLTEWPYFVVGVFCAII
+NGGLQPAFAIIFSKIIGVFTRIDDPETKRQNSNLFSLLFLALGIISFITFFLQGFTFGKA
+GEILTKRLRYMVFRSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGAIGSRLAVITQNI
+ANLGTGIIISFIYGWQLTLLLLAIVPIIAIAGVVEMKMLSGQALKDKKELEGSGKIATEA
+IENFRTVVSLTQEQKFEHMYAQSLQVPYRNSLRKAHIFGITFSFTQAMMYFSYAGCFRFG
+AYLVAHKLMSFEDVLLVFSAVVFGAMAVGQVSSFAPDYAKAKISAAHIIMIIEKTPLIDS
+YSTEGLMPNTLEGNVTFGEVVFNYPTRPDIPVLQGLSLEVKKGQTLALVGSSGCGKSTVV
+QLLERFYDPLAGKVLLDGKEIKRLNVQWLRAHLGIVSQEPILFDCSIAENIAYGDNSRVV
+SQEEIVRAAKEANIHAFIESLPNKYSTKVGDKGTQLSGGQKQRIAIARALVRQPHILLLD
+EATSALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVFQNGRVKEHGTHQQL
+LAQKGIYFSMVSVQAGTKRQ</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016291|Multidrug resistance protein 1 (ABCB1)
+ATGGATCTTGAAGGGGACCGCAATGGAGGAGCAAAGAAGAAGAACTTTTTTAAACTGAAC
+AATAAAAGTGAAAAAGATAAGAAGGAAAAGAAACCAACTGTCAGTGTATTTTCAATGTTT
+CGCTATTCAAATTGGCTTGACAAGTTGTATATGGTGGTGGGAACTTTGGCTGCCATCATC
+CATGGGGCTGGACTTCCTCTCATGATGCTGGTGTTTGGAGAAATGACAGATATCTTTGCA
+AATGCAGGAAATTTAGAAGATCTGATGTCAAACATCACTAATAGAAGTGATATCAATGAT
+ACAGGGTTCTTCATGAATCTGGAGGAAGACATGACCAGGTATGCCTATTATTACAGTGGA
+ATTGGTGCTGGGGTGCTGGTTGCTGCTTACATTCAGGTTTCATTTTGGTGCCTGGCAGCT
+GGAAGACAAATACACAAAATTAGAAAACAGTTTTTTCATGCTATAATGCGACAGGAGATA
+GGCTGGTTTGATGTGCACGATGTTGGGGAGCTTAACACCCGACTTACAGATGATGTCTCC
+AAGATTAATGAAGGAATTGGTGACAAAATTGGAATGTTCTTTCAGTCAATGGCAACATTT
+TTCACTGGGTTTATAGTAGGATTTACACGTGGTTGGAAGCTAACCCTTGTGATTTTGGCC
+ATCAGTCCTGTTCTTGGACTGTCAGCTGCTGTCTGGGCAAAGATACTATCTTCATTTACT
+GATAAAGAACTCTTAGCGTATGCAAAAGCTGGAGCAGTAGCTGAAGAGGTCTTGGCAGCA
+ATTAGAACTGTGATTGCATTTGGAGGACAAAAGAAAGAACTTGAAAGGTACAACAAAAAT
+TTAGAAGAAGCTAAAAGAATTGGGATAAAGAAAGCTATTACAGCCAATATTTCTATAGGT
+GCTGCTTTCCTGCTGATCTATGCATCTTATGCTCTGGCCTTCTGGTATGGGACCACCTTG
+GTCCTCTCAGGGGAATATTCTATTGGACAAGTACTCACTGTATTCTTTTCTGTATTAATT
+GGGGCTTTTAGTGTTGGACAGGCATCTCCAAGCATTGAAGCATTTGCAAATGCAAGAGGA
+GCAGCTTATGAAATCTTCAAGATAATTGATAATAAGCCAAGTATTGACAGCTATTCGAAG
+AGTGGGCACAAACCAGATAATATTAAGGGAAATTTGGAATTCAGAAATGTTCACTTCAGT
+TACCCATCTCGAAAAGAAGTTAAGATCTTGAAGGGTCTGAACCTGAAGGTGCAGAGTGGG
+CAGACGGTGGCCCTGGTTGGAAACAGTGGCTGTGGGAAGAGCACAACAGTCCAGCTGATG
+CAGAGGCTCTATGACCCCACAGAGGGGATGGTCAGTGTTGATGGACAGGATATTAGGACC
+ATAAATGTAAGGTTTCTACGGGAAATCATTGGTGTGGTGAGTCAGGAACCTGTATTGTTT
+GCCACCACGATAGCTGAAAACATTCGCTATGGCCGTGAAAATGTCACCATGGATGAGATT
+GAGAAAGCTGTCAAGGAAGCCAATGCCTATGACTTTATCATGAAACTGCCTCATAAATTT
+GACACCCTGGTTGGAGAGAGAGGGGCCCAGTTGAGTGGTGGGCAGAAGCAGAGGATCGCC
+ATTGCACGTGCCCTGGTTCGCAACCCCAAGATCCTCCTGCTGGATGAGGCCACGTCAGCC
+TTGGACACAGAAAGCGAAGCAGTGGTTCAGGTGGCTCTGGATAAGGCCAGAAAAGGTCGG
+ACCACCATTGTGATAGCTCATCGTTTGTCTACAGTTCGTAATGCTGACGTCATCGCTGGT
+TTCGATGATGGAGTCATTGTGGAGAAAGGAAATCATGATGAACTCATGAAAGAGAAAGGC
+ATTTACTTCAAACTTGTCACAATGCAGACAGCAGGAAATGAAGTTGAATTAGAAAATGCA
+GCTGATGAATCCAAAAGTGAAATTGATGCCTTGGAAATGTCTTCAAATGATTCAAGATCC
+AGTCTAATAAGAAAAAGATCAACTCGTAGGAGTGTCCGTGGATCACAAGCCCAAGACAGA
+AAGCTTAGTACCAAAGAGGCTCTGGATGAAAGTATACCTCCAGTTTCCTTTTGGAGGATT
+ATGAAGCTAAATTTAACTGAATGGCCTTATTTTGTTGTTGGTGTATTTTGTGCCATTATA
+AATGGAGGCCTGCAACCAGCATTTGCAATAATATTTTCAAAGATTATAGGGGTTTTTACA
+AGAATTGATGATCCTGAAACAAAACGACAGAATAGTAACTTGTTTTCACTATTGTTTCTA
+GCCCTTGGAATTATTTCTTTTATTACATTTTTCCTTCAGGGTTTCACATTTGGCAAAGCT
+GGAGAGATCCTCACCAAGCGGCTCCGATACATGGTTTTCCGATCCATGCTCAGACAGGAT
+GTGAGTTGGTTTGATGACCCTAAAAACACCACTGGAGCATTGACTACCAGGCTCGCCAAT
+GATGCTGCTCAAGTTAAAGGGGCTATAGGTTCCAGGCTTGCTGTAATTACCCAGAATATA
+GCAAATCTTGGGACAGGAATAATTATATCCTTCATCTATGGTTGGCAACTAACACTGTTA
+CTCTTAGCAATTGTACCCATCATTGCAATAGCAGGAGTTGTTGAAATGAAAATGTTGTCT
+GGACAAGCACTGAAAGATAAGAAAGAACTAGAAGGTTCTGGGAAGATCGCTACTGAAGCA
+ATAGAAAACTTCCGAACCGTTGTTTCTTTGACTCAGGAGCAGAAGTTTGAACATATGTAT
+GCTCAGAGTTTGCAGGTACCATACAGAAACTCTTTGAGGAAAGCACACATCTTTGGAATT
+ACATTTTCCTTCACCCAGGCAATGATGTATTTTTCCTATGCTGGATGTTTCCGGTTTGGA
+GCCTACTTGGTGGCACATAAACTCATGAGCTTTGAGGATGTTCTGTTAGTATTTTCAGCT
+GTTGTCTTTGGTGCCATGGCCGTGGGGCAAGTCAGTTCATTTGCTCCTGACTATGCCAAA
+GCCAAAATATCAGCAGCCCACATCATCATGATCATTGAAAAAACCCCTTTGATTGACAGC
+TACAGCACGGAAGGCCTAATGCCGAACACATTGGAAGGAAATGTCACATTTGGTGAAGTT
+GTATTCAACTATCCCACCCGACCGGACATCCCAGTGCTTCAGGGACTGAGCCTGGAGGTG
+AAGAAGGGCCAGACGCTGGCTCTGGTGGGCAGCAGTGGCTGTGGGAAGAGCACAGTGGTC
+CAGCTCCTGGAGCGGTTCTACGACCCCTTGGCAGGGAAAGTGCTGCTTGATGGCAAAGAA
+ATAAAGCGACTGAATGTTCAGTGGCTCCGAGCACACCTGGGCATCGTGTCCCAGGAGCCC
+ATCCTGTTTGACTGCAGCATTGCTGAGAACATTGCCTATGGAGACAACAGCCGGGTGGTG
+TCACAGGAAGAGATTGTGAGGGCAGCAAAGGAGGCCAACATACATGCCTTCATCGAGTCA
+CTGCCTAATAAATATAGCACTAAAGTAGGAGACAAAGGAACTCAGCTCTCTGGTGGCCAG
+AAACAACGCATTGCCATAGCTCGTGCCCTTGTTAGACAGCCTCATATTTTGCTTTTGGAT
+GAAGCCACGTCAGCTCTGGATACAGAAAGTGAAAAGGTTGTCCAAGAAGCCCTGGACAAA
+GCCAGAGAAGGCCGCACCTGCATTGTGATTGCTCACCGCCTGTCCACCATCCAGAATGCA
+GACTTAATAGTGGTGTTTCAGAATGGCAGAGTCAAGGAGCATGGCACGCATCAGCAGCTG
+CTGGCACAGAAAGGCATCTATTTTTCAATGGTCAGTGTCCAGGCTGGAACAAAGCGCCAG
+TGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00005</identifier>
+        <name>ABC_tran</name>
+      </pfam>
+      <pfam>
+        <identifier>PF00664</identifier>
+        <name>ABC_membrane</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell surface</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATPase activity, coupled to transmembrane movement of substances</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATP binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>xenobiotic-transporting ATPase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>G2/M transition of mitotic cell cycle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to drug</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>stem cell proliferation</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="3">
+      <id>BE0001004</id>
+      <name>Solute carrier organic anion transporter family member 1B1</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>no</known-action>
+      <polypeptide id="Q9Y6L6" source="Swiss-Prot">
+    <name>Solute carrier organic anion transporter family member 1B1</name>
+    <general-function>Sodium-independent organic anion transmembrane transporter activity</general-function>
+    <specific-function>Mediates the Na(+)-independent uptake of organic anions such as pravastatin, taurocholate, methotrexate, dehydroepiandrosterone sulfate, 17-beta-glucuronosyl estradiol, estrone sulfate, prostaglandin E2, thromboxane B2, leukotriene C3, leukotriene E4, thyroxine and triiodothyronine. Involved in the clearance of bile acids and organic anions from the liver.</specific-function>
+    <gene-name>SLCO1B1</gene-name>
+    <locus>12p</locus>
+    <cellular-location>Basolateral cell membrane</cellular-location>
+    <transmembrane-regions>29-48
+68-88
+95-119
+169-197
+217-237
+256-280
+332-353
+374-397
+402-425
+538-560
+570-595
+630-647</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>8.68</theoretical-pi>
+    <molecular-weight>76447.99</molecular-weight>
+    <chromosome-location>12</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:10959</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>SLCO1B1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>AF060500</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>5051630</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1220</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9Y6L6</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>SO1B1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Liver-specific organic anion transporter 1</synonym>
+      <synonym>LST-1</synonym>
+      <synonym>LST1</synonym>
+      <synonym>OATP-2</synonym>
+      <synonym>OATP-C</synonym>
+      <synonym>OATP1B1</synonym>
+      <synonym>OATP2</synonym>
+      <synonym>OATPC</synonym>
+      <synonym>SLC21A6</synonym>
+      <synonym>Sodium-independent organic anion-transporting polypeptide 2</synonym>
+      <synonym>Solute carrier family 21 member 6</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010701|Solute carrier organic anion transporter family member 1B1
+MDQNQHLNKTAEAQPSENKKTRYCNGLKMFLAALSLSFIAKTLGAIIMKSSIIHIERRFE
+ISSSLVGFIDGSFEIGNLLVIVFVSYFGSKLHRPKLIGIGCFIMGIGGVLTALPHFFMGY
+YRYSKETNINSSENSTSTLSTCLINQILSLNRASPEIVGKGCLKESGSYMWIYVFMGNML
+RGIGETPIVPLGLSYIDDFAKEGHSSLYLGILNAIAMIGPIIGFTLGSLFSKMYVDIGYV
+DLSTIRITPTDSRWVGAWWLNFLVSGLFSIISSIPFFFLPQTPNKPQKERKASLSLHVLE
+TNDEKDQTANLTNQGKNITKNVTGFFQSFKSILTNPLYVMFVLLTLLQVSSYIGAFTYVF
+KYVEQQYGQPSSKANILLGVITIPIFASGMFLGGYIIKKFKLNTVGIAKFSCFTAVMSLS
+FYLLYFFILCENKSVAGLTMTYDGNNPVTSHRDVPLSYCNSDCNCDESQWEPVCGNNGIT
+YISPCLAGCKSSSGNKKPIVFYNCSCLEVTGLQNRNYSAHLGECPRDDACTRKFYFFVAI
+QVLNLFFSALGGTSHVMLIVKIVQPELKSLALGFHSMVIRALGGILAPIYFGALIDTTCI
+KWSTNNCGTRGSCRTYNSTSFSRVYLGLSSMLRVSSLVLYIILIYAMKKKYQEKDINASE
+NGSVMDEANLESLNKNKHFVPSAGADSETHC</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0010702|Solute carrier organic anion transporter family member 1B1 (SLCO1B1)
+ATGGACCAAAATCAACATTTGAATAAAACAGCAGAGGCACAACCTTCAGAGAATAAGAAA
+ACAAGATACTGCAATGGATTGAAGATGTTCTTGGCAGCTCTGTCACTCAGCTTTATTGCT
+AAGACACTAGGTGCAATTATTATGAAAAGTTCCATCATTCATATAGAACGGAGATTTGAG
+ATATCCTCTTCTCTTGTTGGTTTTATTGACGGAAGCTTTGAAATTGGAAATTTGCTTGTG
+ATTGTATTTGTGAGTTACTTTGGATCCAAACTACATAGACCAAAGTTAATTGGAATCGGT
+TGTTTCATTATGGGAATTGGAGGTGTTTTGACTGCTTTGCCACATTTCTTCATGGGATAT
+TACAGGTATTCTAAAGAAACTAATATCAATTCATCAGAAAATTCAACATCGACCTTATCC
+ACTTGTTTAATTAATCAAATTTTATCACTCAATAGAGCATCACCTGAGATAGTGGGAAAA
+GGTTGTTTAAAGGAATCTGGGTCATACATGTGGATATATGTGTTCATGGGTAATATGCTT
+CGTGGAATAGGGGAGACTCCCATAGTACCATTGGGGCTTTCTTACATTGATGATTTCGCT
+AAAGAAGGACATTCTTCTTTGTATTTAGGTATATTGAATGCAATAGCAATGATTGGTCCA
+ATCATTGGCTTTACCCTGGGATCTCTGTTTTCTAAAATGTACGTGGATATTGGATATGTA
+GATCTAAGCACTATCAGGATAACTCCTACTGATTCTCGATGGGTTGGAGCTTGGTGGCTT
+AATTTCCTTGTGTCTGGACTATTCTCCATTATTTCTTCCATACCATTCTTTTTCTTGCCC
+CAAACTCCAAATAAACCACAAAAAGAAAGAAAAGCTTCACTGTCTTTGCATGTGCTGGAA
+ACAAATGATGAAAAGGATCAAACAGCTAATTTGACCAATCAAGGAAAAAATATTACCAAA
+AATGTGACTGGTTTTTTCCAGTCTTTTAAAAGCATCCTTACTAATCCCCTGTATGTTATG
+TTTGTGCTTTTGACGTTGTTACAAGTAAGCAGCTATATTGGTGCTTTTACTTATGTCTTC
+AAATACGTAGAGCAACAGTATGGTCAGCCTTCATCTAAGGCTAACATCTTATTGGGAGTC
+ATAACCATACCTATTTTTGCAAGTGGAATGTTTTTAGGAGGATATATCATTAAAAAATTC
+AAACTGAACACCGTTGGAATTGCCAAATTCTCATGTTTTACTGCTGTGATGTCATTGTCC
+TTTTACCTATTATATTTTTTCATACTCTGTGAAAACAAATCAGTTGCCGGACTAACCATG
+ACCTATGATGGAAATAATCCAGTGACATCTCATAGAGATGTACCACTTTCTTATTGCAAC
+TCAGACTGCAATTGTGATGAAAGTCAATGGGAACCAGTCTGTGGAAACAATGGAATAACT
+TACATCTCACCCTGTCTAGCAGGTTGCAAATCTTCAAGTGGCAATAAAAAGCCTATAGTG
+TTTTACAACTGCAGTTGTTTGGAAGTAACTGGTCTCCAGAACAGAAATTACTCAGCCCAT
+TTGGGTGAATGCCCAAGAGATGATGCTTGTACAAGGAAATTTTACTTTTTTGTTGCAATA
+CAAGTCTTGAATTTATTTTTCTCTGCACTTGGAGGCACCTCACATGTCATGCTGATTGTT
+AAAATTGTTCAACCTGAATTGAAATCACTTGCACTGGGTTTCCACTCAATGGTTATACGA
+GCACTAGGAGGAATTCTAGCTCCAATATATTTTGGGGCTCTGATTGATACAACGTGTATA
+AAGTGGTCCACCAACAACTGTGGCACACGTGGGTCATGTAGGACATATAATTCCACATCA
+TTTTCAAGGGTCTACTTGGGCTTGTCTTCAATGTTAAGAGTCTCATCACTTGTTTTATAT
+ATTATATTAATTTATGCCATGAAGAAAAAATATCAAGAGAAAGATATCAATGCATCAGAA
+AATGGAAGTGTCATGGATGAAGCAAACTTAGAATCCTTAAATAAAAATAAACATTTTGTC
+CCTTCTGCTGGGGCAGATAGTGAAACACATTGTTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF07648</identifier>
+        <name>Kazal_2</name>
+      </pfam>
+      <pfam>
+        <identifier>PF03137</identifier>
+        <name>OATP</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>basolateral plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>sodium-independent organic anion transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>bile acid transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>anion transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>bile acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>bile acid and bile salt transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sodium-independent organic anion transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>organic anion transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+    <transporter position="4">
+      <id>BE0003659</id>
+      <name>Solute carrier organic anion transporter family member 1B3</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>no</known-action>
+      <polypeptide id="Q9NPD5" source="Swiss-Prot">
+    <name>Solute carrier organic anion transporter family member 1B3</name>
+    <general-function>Sodium-independent organic anion transmembrane transporter activity</general-function>
+    <specific-function>Mediates the Na(+)-independent uptake of organic anions such as 17-beta-glucuronosyl estradiol, taurocholate, triiodothyronine (T3), leukotriene C4, dehydroepiandrosterone sulfate (DHEAS), methotrexate and sulfobromophthalein (BSP). Involved in the clearance of bile acids and organic anions from the liver.</specific-function>
+    <gene-name>SLCO1B3</gene-name>
+    <locus>12p12</locus>
+    <cellular-location>Basolateral cell membrane</cellular-location>
+    <transmembrane-regions>29-48
+68-88
+95-119
+169-197
+217-237
+256-280
+332-353
+374-397
+402-425
+538-560
+570-595
+630-647</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>8.95</theoretical-pi>
+    <molecular-weight>77402.175</molecular-weight>
+    <chromosome-location>12</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:10961</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>AJ251506</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>9187497</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1221</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9NPD5</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>SO1B3_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Liver-specific organic anion transporter 2</synonym>
+      <synonym>LST-2</synonym>
+      <synonym>LST2</synonym>
+      <synonym>OATP-8</synonym>
+      <synonym>OATP1B3</synonym>
+      <synonym>OATP8</synonym>
+      <synonym>Organic anion transporter 8</synonym>
+      <synonym>Organic anion-transporting polypeptide 8</synonym>
+      <synonym>SLC21A8</synonym>
+      <synonym>Solute carrier family 21 member 8</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0007032|Solute carrier organic anion transporter family member 1B3
+MDQHQHLNKTAESASSEKKKTRRCNGFKMFLAALSFSYIAKALGGIIMKISITQIERRFD
+ISSSLAGLIDGSFEIGNLLVIVFVSYFGSKLHRPKLIGIGCLLMGTGSILTSLPHFFMGY
+YRYSKETHINPSENSTSSLSTCLINQTLSFNGTSPEIVEKDCVKESGSHMWIYVFMGNML
+RGIGETPIVPLGISYIDDFAKEGHSSLYLGSLNAIGMIGPVIGFALGSLFAKMYVDIGYV
+DLSTIRITPKDSRWVGAWWLGFLVSGLFSIISSIPFFFLPKNPNKPQKERKISLSLHVLK
+TNDDRNQTANLTNQGKNVTKNVTGFFQSLKSILTNPLYVIFLLLTLLQVSSFIGSFTYVF
+KYMEQQYGQSASHANFLLGIITIPTVATGMFLGGFIIKKFKLSLVGIAKFSFLTSMISFL
+FQLLYFPLICESKSVAGLTLTYDGNNSVASHVDVPLSYCNSECNCDESQWEPVCGNNGIT
+YLSPCLAGCKSSSGIKKHTVFYNCSCVEVTGLQNRNYSAHLGECPRDNTCTRKFFIYVAI
+QVINSLFSATGGTTFILLTVKIVQPELKALAMGFQSMVIRTLGGILAPIYFGALIDKTCM
+KWSTNSCGAQGACRIYNSVFFGRVYLGLSIALRFPALVLYIVFIFAMKKKFQGKDTKASD
+NERKVMDEANLEFLNNGEHFVPSAGTDSKTCNLDMQDNAAAN</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0012544|Solute carrier organic anion transporter family member 1B3 (SLCO1B3)
+ATGGACCAACATCAACATTTGAATAAAACAGCAGAGTCAGCATCTTCAGAGAAAAAGAAA
+ACAAGACGCTGCAATGGATTCAAGATGTTCTTGGCAGCCCTGTCATTCAGCTATATTGCT
+AAAGCACTAGGTGGAATCATTATGAAAATTTCCATCACTCAAATAGAAAGGAGATTTGAC
+ATATCCTCTTCTCTTGCTGGTTTAATTGATGGAAGCTTTGAAATTGGAAATTTGCTTGTG
+ATTGTATTTGTAAGTTACTTTGGATCTAAACTACACAGACCGAAGTTAATTGGAATTGGT
+TGTCTCCTTATGGGAACTGGAAGTATTTTGACATCTTTACCACATTTCTTCATGGGATAT
+TATAGGTATTCTAAAGAAACCCATATTAATCCATCAGAAAATTCAACATCAAGTTTATCA
+ACCTGTTTAATTAATCAAACCTTATCATTCAATGGAACATCACCTGAGATAGTAGAAAAA
+GATTGTGTAAAGGAATCTGGGTCACACATGTGGATCTATGTCTTCATGGGGAATATGCTT
+CGTGGCATAGGGGAAACCCCCATAGTACCATTGGGGATTTCATACATTGATGATTTTGCA
+AAAGAAGGACATTCTTCCTTGTATTTAGGTAGTTTGAATGCAATAGGAATGATTGGTCCA
+GTCATTGGCTTTGCACTGGGATCTCTGTTTGCTAAAATGTACGTGGATATTGGATATGTA
+GATCTGAGCACTATCAGAATAACTCCTAAGGACTCTCGTTGGGTTGGAGCTTGGTGGCTT
+GGTTTCCTTGTGTCTGGACTATTTTCCATTATTTCTTCCATACCATTTTTTTTCTTGCCG
+AAAAATCCAAATAAACCACAAAAAGAAAGAAAAATTTCACTATCATTGCATGTGCTGAAA
+ACAAATGATGATAGAAATCAAACAGCTAATTTGACCAACCAAGGAAAAAATGTTACCAAA
+AATGTGACTGGTTTTTTCCAGTCTTTGAAAAGCATCCTTACCAATCCCCTGTATGTTATA
+TTTCTGCTTTTGACATTGTTACAAGTAAGCAGCTTTATTGGTTCTTTTACTTACGTCTTT
+AAATATATGGAGCAACAGTACGGTCAGTCTGCATCTCATGCTAACTTTTTGTTGGGAATC
+ATAACCATTCCTACGGTTGCAACTGGAATGTTTTTAGGAGGATTTATCATTAAAAAATTC
+AAATTGTCTTTAGTTGGAATTGCCAAATTTTCATTTCTTACTTCGATGATATCCTTCTTG
+TTTCAACTTCTATATTTCCCTCTAATCTGCGAAAGCAAATCAGTTGCCGGCCTAACCTTG
+ACCTATGATGGAAATAATTCAGTGGCATCTCATGTAGATGTACCACTTTCTTATTGCAAC
+TCAGAGTGCAATTGTGATGAAAGTCAGTGGGAACCAGTCTGTGGGAACAATGGAATAACT
+TACCTGTCACCTTGTCTAGCAGGATGCAAATCCTCAAGTGGTATTAAAAAGCATACAGTG
+TTTTATAACTGTAGTTGTGTGGAAGTAACTGGTCTCCAGAACAGAAATTACTCAGCACAC
+TTGGGTGAATGCCCAAGAGATAATACTTGTACAAGGAAATTTTTCATCTATGTTGCAATT
+CAAGTCATAAACTCTTTGTTCTCTGCAACAGGAGGTACCACATTTATCTTGTTGACTGTG
+AAGATTGTTCAACCTGAATTGAAAGCACTTGCAATGGGTTTCCAGTCAATGGTTATAAGA
+ACACTAGGAGGAATTCTAGCTCCAATATATTTTGGGGCTCTGATTGATAAAACATGTATG
+AAGTGGTCCACCAACAGCTGTGGAGCACAAGGAGCTTGTAGGATATATAATTCCGTATTT
+TTTGGAAGGGTCTACTTGGGCTTATCTATAGCTTTAAGATTCCCAGCACTTGTTTTATAT
+ATTGTTTTCATTTTTGCTATGAAGAAAAAATTTCAAGGAAAAGATACCAAGGCATCGGAC
+AATGAAAGAAAAGTAATGGATGAAGCAAACTTAGAATTCTTAAATAATGGTGAACATTTT
+GTACCTTCTGCTGGAACAGATAGTAAAACATGTAATTTGGACATGCAAGACAATGCTGCT
+GCCAACTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF07648</identifier>
+        <name>Kazal_2</name>
+      </pfam>
+      <pfam>
+        <identifier>PF03137</identifier>
+        <name>OATP</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>basolateral plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>organic anion transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>sodium-independent organic anion transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>bile acid transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>bile acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>bile acid and bile salt transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sodium-independent organic anion transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>organic anion transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>anion transmembrane transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </transporter>
+  </transporters>
+</drug>

@@ -1,0 +1,592 @@
+<drug type="small molecule" created="2016-08-26" updated="2016-08-26">
+  <drugbank-id primary="true">DB11619</drugbank-id>
+  <name>Gestrinone</name>
+  <description>Gestrinone, also known as ethylnorgestrienone, is a synthetic steroid of the 19-nortestosterone group that is marketed in Europe, Australia, and Latin America, though not the United States or Canada, and is used primarily in the treatment of endometriosis.</description>
+  <cas-number>16320-04-0</cas-number>
+  <unii>1421533RCM</unii>
+  <average-mass>308.4141</average-mass>
+  <monoisotopic-mass>308.177630012</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as estrogens and derivatives. These are steroids with a structure containing a 3-hydroxylated estrane.</description>
+    <direct-parent>Estrogens and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Lipids and lipid-like molecules</superclass>
+    <class>Steroids and steroid derivatives</class>
+    <subclass>Estrane steroids</subclass>
+    <alternative-parent>17-hydroxysteroids</alternative-parent>
+    <alternative-parent>3-oxosteroids</alternative-parent>
+    <alternative-parent>Acetylides</alternative-parent>
+    <alternative-parent>Cyclic alcohols and derivatives</alternative-parent>
+    <alternative-parent>Cyclohexenones</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Tertiary alcohols</alternative-parent>
+    <alternative-parent>Ynones</alternative-parent>
+    <substituent>17-hydroxysteroid</substituent>
+    <substituent>3-oxosteroid</substituent>
+    <substituent>Acetylide</substituent>
+    <substituent>Alcohol</substituent>
+    <substituent>Aliphatic homopolycyclic compound</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Cyclic alcohol</substituent>
+    <substituent>Cyclic ketone</substituent>
+    <substituent>Cyclohexenone</substituent>
+    <substituent>Estrogen-skeleton</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Hydroxysteroid</substituent>
+    <substituent>Ketone</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Oxosteroid</substituent>
+    <substituent>Tertiary alcohol</substituent>
+    <substituent>Ynone</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Ethylnorgestrienone</synonym>
+  </synonyms>
+  <products/>
+  <international-brands>
+    <international-brand>
+      <name>Dimetriose</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Dimetrose</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Nemestran</name>
+      <company/>
+    </international-brand>
+  </international-brands>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Antigonadotropins and Similar Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Contraceptive Agents</category>
+      <mesh-id>D003270</mesh-id>
+    </category>
+    <category>
+      <category>Contraceptive Agents, Female</category>
+      <mesh-id>D003271</mesh-id>
+    </category>
+    <category>
+      <category>Contraceptives, Oral</category>
+      <mesh-id>D003276</mesh-id>
+    </category>
+    <category>
+      <category>Genito Urinary System and Sex Hormones</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Hormones</category>
+      <mesh-id>D006728</mesh-id>
+    </category>
+    <category>
+      <category>Hormones, Hormone Substitutes, and Hormone Antagonists</category>
+      <mesh-id>D006730</mesh-id>
+    </category>
+    <category>
+      <category>Norgestrienone</category>
+      <mesh-id>D009645</mesh-id>
+    </category>
+    <category>
+      <category>Norpregnanes</category>
+      <mesh-id>D009650</mesh-id>
+    </category>
+    <category>
+      <category>Norpregnatrienes</category>
+      <mesh-id>D009651</mesh-id>
+    </category>
+    <category>
+      <category>Norsteroids</category>
+      <mesh-id>D009654</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Compounds</category>
+      <mesh-id>D011083</mesh-id>
+    </category>
+    <category>
+      <category>Progestins</category>
+      <mesh-id>D011372</mesh-id>
+    </category>
+    <category>
+      <category>Reproductive Control Agents</category>
+      <mesh-id>D012102</mesh-id>
+    </category>
+    <category>
+      <category>Sex Hormones and Modulators of the Genital System</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Steroids</category>
+      <mesh-id>D013256</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes>
+    <atc-code code="G03XA02">
+      <level code="G03XA">Antigonadotropins and similar agents</level>
+      <level code="G03X">OTHER SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM</level>
+      <level code="G03">SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM</level>
+      <level code="G">GENITO URINARY SYSTEM AND SEX HORMONES</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>The therapeutic efficacy of Abciximab can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>The therapeutic efficacy of Acenocoumarol can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05099</drugbank-id>
+      <name>Ancrod</name>
+      <description>The therapeutic efficacy of Ancrod can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11598</drugbank-id>
+      <name>Antithrombin III human</name>
+      <description>The therapeutic efficacy of Antithrombin III human can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06605</drugbank-id>
+      <name>Apixaban</name>
+      <description>The therapeutic efficacy of Apixaban can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00407</drugbank-id>
+      <name>Ardeparin</name>
+      <description>The therapeutic efficacy of Ardeparin can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00278</drugbank-id>
+      <name>Argatroban</name>
+      <description>The therapeutic efficacy of Argatroban can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00102</drugbank-id>
+      <name>Becaplermin</name>
+      <description>The therapeutic efficacy of Becaplermin can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00006</drugbank-id>
+      <name>Bivalirudin</name>
+      <description>The therapeutic efficacy of Bivalirudin can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06404</drugbank-id>
+      <name>C1 Esterase Inhibitor (Human)</name>
+      <description>Gestrinone may increase the thrombogenic activities of C1 Esterase Inhibitor (Human).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09228</drugbank-id>
+      <name>C1 Esterase Inhibitor (Recombinant)</name>
+      <description>Gestrinone may increase the thrombogenic activities of C1 Esterase Inhibitor (Recombinant).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09261</drugbank-id>
+      <name>Certoparin</name>
+      <description>The therapeutic efficacy of Certoparin can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04272</drugbank-id>
+      <name>Citric Acid</name>
+      <description>The therapeutic efficacy of Citric Acid can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06695</drugbank-id>
+      <name>Dabigatran etexilate</name>
+      <description>The therapeutic efficacy of Dabigatran etexilate can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06779</drugbank-id>
+      <name>Dalteparin</name>
+      <description>The therapeutic efficacy of Dalteparin can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06754</drugbank-id>
+      <name>Danaparoid</name>
+      <description>The therapeutic efficacy of Danaparoid can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11095</drugbank-id>
+      <name>Desirudin</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09255</drugbank-id>
+      <name>Dextran</name>
+      <description>The therapeutic efficacy of Dextran can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11122</drugbank-id>
+      <name>Dextran 40</name>
+      <description>The therapeutic efficacy of Dextran 40 can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11076</drugbank-id>
+      <name>Dextran 70</name>
+      <description>The therapeutic efficacy of Dextran 70 can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11241</drugbank-id>
+      <name>Dextran 75</name>
+      <description>The therapeutic efficacy of Dextran 75 can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00266</drugbank-id>
+      <name>Dicoumarol</name>
+      <description>The therapeutic efficacy of Dicoumarol can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00974</drugbank-id>
+      <name>Edetic Acid</name>
+      <description>The therapeutic efficacy of Edetic Acid can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09075</drugbank-id>
+      <name>Edoxaban</name>
+      <description>The therapeutic efficacy of Edoxaban can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01225</drugbank-id>
+      <name>Enoxaparin</name>
+      <description>The therapeutic efficacy of Enoxaparin can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08794</drugbank-id>
+      <name>Ethyl biscoumacetate</name>
+      <description>The therapeutic efficacy of Ethyl biscoumacetate can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13136</drugbank-id>
+      <name>Fluindione</name>
+      <description>The therapeutic efficacy of Fluindione can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11728</drugbank-id>
+      <name>Fondaparinux</name>
+      <description>The therapeutic efficacy of Fondaparinux can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00569</drugbank-id>
+      <name>Fondaparinux sodium</name>
+      <description>The therapeutic efficacy of Fondaparinux sodium can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12831</drugbank-id>
+      <name>Gabexate</name>
+      <description>The therapeutic efficacy of Gabexate can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>The therapeutic efficacy of Heparin can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06406</drugbank-id>
+      <name>idraparinux</name>
+      <description>The therapeutic efficacy of idraparinux can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00001</drugbank-id>
+      <name>Lepirudin</name>
+      <description>The therapeutic efficacy of Lepirudin can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08813</drugbank-id>
+      <name>Nadroparin</name>
+      <description>The therapeutic efficacy of Nadroparin can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12598</drugbank-id>
+      <name>Nafamostat</name>
+      <description>The therapeutic efficacy of Nafamostat can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06635</drugbank-id>
+      <name>Otamixaban</name>
+      <description>The therapeutic efficacy of Otamixaban can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00686</drugbank-id>
+      <name>Pentosan Polysulfate</name>
+      <description>The therapeutic efficacy of Pentosan Polysulfate can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00498</drugbank-id>
+      <name>Phenindione</name>
+      <description>The therapeutic efficacy of Phenindione can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00946</drugbank-id>
+      <name>Phenprocoumon</name>
+      <description>The therapeutic efficacy of Phenprocoumon can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11312</drugbank-id>
+      <name>Protein C</name>
+      <description>The therapeutic efficacy of Protein C can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13149</drugbank-id>
+      <name>Protein S human</name>
+      <description>The therapeutic efficacy of Protein S human can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11268</drugbank-id>
+      <name>Protocatechualdehyde</name>
+      <description>The therapeutic efficacy of Protocatechualdehyde can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09259</drugbank-id>
+      <name>Reviparin</name>
+      <description>The therapeutic efficacy of Reviparin can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06228</drugbank-id>
+      <name>Rivaroxaban</name>
+      <description>The therapeutic efficacy of Rivaroxaban can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06271</drugbank-id>
+      <name>Sulodexide</name>
+      <description>The therapeutic efficacy of Sulodexide can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08867</drugbank-id>
+      <name>Ulipristal</name>
+      <description>The therapeutic efficacy of Gestrinone can be decreased when used in combination with Ulipristal.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>The therapeutic efficacy of Warfarin can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04898</drugbank-id>
+      <name>Ximelagatran</name>
+      <description>The therapeutic efficacy of Ximelagatran can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12289</drugbank-id>
+      <name>YM150</name>
+      <description>The therapeutic efficacy of Ym150 can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>3.39</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-4.5</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>9.69e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>2.85</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(10S,11S,14R,15S)-15-ethyl-14-ethynyl-14-hydroxytetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadeca-1,6,16-trien-5-one</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>gestrinone</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>308.4141</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>308.177630012</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[H][C@@]12CC[C@@](O)(C#C)[C@@]1(CC)C=CC1=C3CCC(=O)C=C3CC[C@@]21[H]</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C21H24O2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C21H24O2/c1-3-20-11-9-17-16-8-6-15(22)13-14(16)5-7-18(17)19(20)10-12-21(20,23)4-2/h2,9,11,13,18-19,23H,3,5-8,10,12H2,1H3/t18-,19+,20+,21+/m1/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>BJJXHLWLUDYTGC-ANULTFPQSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>37.3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>93.73</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>35.65</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>17.88</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-1.5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>89642</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D04317</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Gestrinone</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1868702</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

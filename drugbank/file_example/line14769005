@@ -1,0 +1,211 @@
+<drug type="biotech" created="2016-06-24" updated="2016-08-17">
+  <drugbank-id primary="true">DB11608</drugbank-id>
+  <name>Eftrenonacog alfa</name>
+  <description/>
+  <cas-number>1270012-74-2</cas-number>
+  <unii>02E00T2QDE</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Coagulation factor IX recombinant immunoglubulin g1 fusion protein</synonym>
+    <synonym language="" coder="">Recombinant human coagulation factor IX, FC Fusion protein</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Alprolix</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02422905</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>250 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Alprolix</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02422921</dpd-id>
+      <started-marketing-on>2016-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>1000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Alprolix</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02422956</dpd-id>
+      <started-marketing-on>2016-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>3000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Alprolix</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02422913</dpd-id>
+      <started-marketing-on>2015-12-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>500 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Alprolix</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02422948</dpd-id>
+      <started-marketing-on>2015-12-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>2000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Alprolix</name>
+      <ingredients>Eftrenonacog alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alprolix</name>
+      <ingredients>Eftrenonacog alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alprolix</name>
+      <ingredients>Eftrenonacog alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alprolix</name>
+      <ingredients>Eftrenonacog alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alprolix</name>
+      <ingredients>Eftrenonacog alfa</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>2000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>250 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>3000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>500 unit</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>22263</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

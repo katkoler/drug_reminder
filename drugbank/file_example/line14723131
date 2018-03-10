@@ -1,0 +1,158 @@
+<drug type="biotech" created="2015-12-03" updated="2017-03-25">
+  <drugbank-id primary="true">DB11166</drugbank-id>
+  <name>Antithrombin Alfa</name>
+  <description>Antithrombin Alfa is a recombinant antithrombin , an anticoagulant, that is used for the  prevention of thromboembolic events in patients that have hereditary deficiency  of antithrombin in high risk situations.</description>
+  <cas-number>84720-88-7</cas-number>
+  <unii>AWV6I5L6H2</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>19141163</pubmed-id>
+        <citation>Patnaik MM, Moll S: Inherited antithrombin deficiency: a review. Haemophilia. 2008 Nov;14(6):1229-39. doi: 10.1111/j.1365-2516.2008.01830.x.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Antithrombin alfa is a recombinant antithrombin it is indicated for the prevention of peri-operative and peri-partum thromboembolic events in hereditary antithrombin deficient patients. &#13;
+</indication>
+  <pharmacodynamics>Hereditary antithrombin deficiency causes an increased risk of venous thromboembolism (VTE). In high risk situations such as surgery or trauma or for pregnant women, during the peri-partum period, the risk of development of VTEs as compared to the normal population in these situations is increased by a factor 10 - 50. In hereditary antithrombin deficient patients antithrombin alfa normalizes plasma antthrombin activity levels during peri-operative and peri-partum periods.&#13;
+Pharmacokinetics may be influenced by concomitant heparin administration, as well as surgical&#13;
+procedures, delivery, or bleeding.</pharmacodynamics>
+  <mechanism-of-action>Antithrombin is the main inhibitor of thrombin and Factor Xa , the serine proteases that involved in blood coagulation. Antithrombin neutralizes the activity of thrombin and Factor Xa by forming a complex which is rapidly removed from the circulation. </mechanism-of-action>
+  <toxicity>Highest dose tested was 360mg/kg/day in rats resulted in transient limb swelling. </toxicity>
+  <metabolism>Not metabolized.</metabolism>
+  <absorption>Given IV so not absorbed.</absorption>
+  <half-life>Dose of:&#13;
+50IU/kg: 11.6 h&#13;
+100IU/kg: 17.7 h</half-life>
+  <protein-binding>No protein binding</protein-binding>
+  <route-of-elimination>Irreversible complexes formed between antithrombin III and its target protease are rapidly removed by the liver.</route-of-elimination>
+  <volume-of-distribution>Dose of:&#13;
+50IU/kg: 126.2 ml/kg&#13;
+100IU/kg: 156.1 ml/kg&#13;
+Vd in hereditary deficient pregnant women in high risk situations had increased Vd of 14.3L.</volume-of-distribution>
+  <clearance>Dose of:&#13;
+50IU/kg: 9.6 ml/hr/kg&#13;
+100IU/kg: 7.2 ml/hr/kg&#13;
+Cl in hereditary deficient pregnant women in high risk situations had increased Cl of 1.38L/h.</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Antithrombin (recombinant)</synonym>
+    <synonym language="" coder="">Antithrombin III, recombinant</synonym>
+    <synonym language="" coder="">Antithrombin III,recombinant</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Atryn</name>
+      <labeller>Gtc Biotherapeutics, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>42976-121</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-05-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>1750 [iU]/1</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125284</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Atryn</name>
+      <labeller>R Evo Bioloigics, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>42976-125</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2009-05-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>525 [iU]/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125284</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Atryn</name>
+      <ingredients>Antithrombin Alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Atryn</name>
+      <ingredients>Antithrombin Alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Atryn</name>
+      <ingredients>Antithrombin Alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Atryn</name>
+      <ingredients>Antithrombin Alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Atryn</name>
+      <ingredients>Antithrombin Alfa</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1750 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>1750 [iU]/1</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>525 [iU]/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

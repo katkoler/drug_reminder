@@ -1,0 +1,1985 @@
+<drug type="small molecule" created="2016-02-25" updated="2017-01-27">
+  <drugbank-id primary="true">DB11371</drugbank-id>
+  <name>Alfaxalone</name>
+  <description>Alfaxalone, also known as alphaxalone or alphaxolone, is a neuroactive steroid and general anaesthetic. It is used in veterinary practice under the trade name Alfaxan, and is licensed for use in both dogs and cats. Along with alfadolone, it is also one of the constituents of anesthetic drug mixture althesin.</description>
+  <cas-number>23930-19-0</cas-number>
+  <unii>BD07M97B2A</unii>
+  <average-mass>332.484</average-mass>
+  <monoisotopic-mass>332.23514489</monoisotopic-mass>
+  <groups>
+    <group>vet_approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>19202182</pubmed-id>
+        <citation>Roan R: Use of alfaxalone in rabbits. Vet Rec. 2009 Feb 7;164(6):188.</citation>
+      </article>
+      <article>
+        <pubmed-id>18194193</pubmed-id>
+        <citation>Strachan FA, Mansel JC, Clutton RE: A comparison of microbial growth in alfaxalone, propofol and thiopental. J Small Anim Pract. 2008 Apr;49(4):186-90. doi: 10.1111/j.1748-5827.2007.00473.x. Epub 2008 Jan 11.</citation>
+      </article>
+      <article>
+        <pubmed-id>23611452</pubmed-id>
+        <citation>Vettorato E: Prolonged intravenous infusion of alfaxalone in a cat. Vet Anaesth Analg. 2013 Sep;40(5):551-2. doi: 10.1111/vaa.12044. Epub 2013 Apr 24.</citation>
+      </article>
+      <article>
+        <pubmed-id>23385007</pubmed-id>
+        <citation>Herbert GL, Murison PJ: Eye position of cats anaesthetised with alfaxalone or propofol. Vet Rec. 2013 Apr 6;172(14):365. doi: 10.1136/vr.101404. Epub 2013 Feb 5.</citation>
+      </article>
+      <article>
+        <pubmed-id>22642499</pubmed-id>
+        <citation>Goodwin W, Keates H, Pasloske K, Pearson M, Sauer B, Ranasinghe MG: Plasma pharmacokinetics and pharmacodynamics of alfaxalone in neonatal foals after an intravenous bolus of alfaxalone following premedication with butorphanol tartrate. Vet Anaesth Analg. 2012 Sep;39(5):503-10. doi: 10.1111/j.1467-2995.2012.00734.x.  Epub 2012 May 30.</citation>
+      </article>
+      <article>
+        <pubmed-id>21831051</pubmed-id>
+        <citation>Bertelsen MF, Sauer CD: Alfaxalone anaesthesia in the green iguana (Iguana iguana). Vet Anaesth Analg. 2011 Sep;38(5):461-6. doi: 10.1111/j.1467-2995.2011.00640.x.</citation>
+      </article>
+      <article>
+        <pubmed-id>6846760</pubmed-id>
+        <citation>Jungck E, Kloss T, Blendl M, Hoerster W, Klaucke D: [Experiences with the steroid narcotic alfaxalone/alfadolone (Aurantex) in emergency patients in rescue service]. Anasth Intensivther Notfallmed. 1983 Feb;18(1):8-13.</citation>
+      </article>
+      <article>
+        <pubmed-id>2600731</pubmed-id>
+        <citation>Brewster ME, Estes KS, Bodor N: Development of a non-surfactant formulation for alfaxalone through the use of chemically-modified cyclodextrins. J Parenter Sci Technol. 1989 Nov-Dec;43(6):262-5.</citation>
+      </article>
+      <article>
+        <pubmed-id>26306614</pubmed-id>
+        <citation>Adami C, d'Ovidio D, Casoni D: Alfaxalone-butorphanol versus alfaxalone-morphine combination for immersion anaesthesia in oriental fire-bellied toads (Bombina orientalis). Lab Anim. 2015 Aug 25. pii: 0023677215601300.</citation>
+      </article>
+      <article>
+        <pubmed-id>25786416</pubmed-id>
+        <citation>Tamura J, Ishizuka T, Fukui S, Oyama N, Kawase K, Itami T, Miyoshi K, Sano T, Pasloske K, Yamashita K: Sedative effects of intramuscular alfaxalone administered to cats. J Vet Med Sci. 2015 Aug;77(8):897-904. doi: 10.1292/jvms.14-0200. Epub 2015 Mar 19.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as gluco/mineralocorticoids, progestogins and derivatives. These are steroids with a structure based on a hydroxylated prostane moiety.</description>
+    <direct-parent>Gluco/mineralocorticoids, progestogins and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Lipids and lipid-like molecules</superclass>
+    <class>Steroids and steroid derivatives</class>
+    <subclass>Pregnane steroids</subclass>
+    <alternative-parent>11-oxosteroids</alternative-parent>
+    <alternative-parent>20-oxosteroids</alternative-parent>
+    <alternative-parent>3-alpha-hydroxysteroids</alternative-parent>
+    <alternative-parent>Cyclic alcohols and derivatives</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Ketones</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Secondary alcohols</alternative-parent>
+    <substituent>11-oxosteroid</substituent>
+    <substituent>20-oxosteroid</substituent>
+    <substituent>3-alpha-hydroxysteroid</substituent>
+    <substituent>3-hydroxysteroid</substituent>
+    <substituent>Alcohol</substituent>
+    <substituent>Aliphatic homopolycyclic compound</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Cyclic alcohol</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Hydroxysteroid</substituent>
+    <substituent>Ketone</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Oxosteroid</substituent>
+    <substituent>Progestogin-skeleton</substituent>
+    <substituent>Secondary alcohol</substituent>
+  </classification>
+  <salts/>
+  <synonyms/>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Anesthetics</category>
+      <mesh-id>D000777</mesh-id>
+    </category>
+    <category>
+      <category>Anesthetics, General</category>
+      <mesh-id>D018681</mesh-id>
+    </category>
+    <category>
+      <category>Central Nervous System Agents</category>
+      <mesh-id>D002491</mesh-id>
+    </category>
+    <category>
+      <category>Central Nervous System Depressants</category>
+      <mesh-id>D002492</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Nervous System</category>
+      <mesh-id>D009420</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Compounds</category>
+      <mesh-id>D011083</mesh-id>
+    </category>
+    <category>
+      <category>Pregnanes</category>
+      <mesh-id>D011278</mesh-id>
+    </category>
+    <category>
+      <category>Steroids</category>
+      <mesh-id>D013256</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes>
+    <atc-code code="N01AX05">
+      <level code="N01AX">Other general anesthetics</level>
+      <level code="N01A">ANESTHETICS, GENERAL</level>
+      <level code="N01">ANESTHETICS</level>
+      <level code="N">NERVOUS SYSTEM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB02207</drugbank-id>
+      <name>7-Nitroindazole</name>
+      <description>The risk or severity of adverse effects can be increased when 7-Nitroindazole is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01614</drugbank-id>
+      <name>Acepromazine</name>
+      <description>The risk or severity of adverse effects can be increased when Acepromazine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01615</drugbank-id>
+      <name>Aceprometazine</name>
+      <description>The risk or severity of adverse effects can be increased when Aceprometazine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06579</drugbank-id>
+      <name>Adipiplon</name>
+      <description>The risk or severity of adverse effects can be increased when adipiplon is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06594</drugbank-id>
+      <name>Agomelatine</name>
+      <description>The risk or severity of adverse effects can be increased when Agomelatine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00802</drugbank-id>
+      <name>Alfentanil</name>
+      <description>The risk or severity of adverse effects can be increased when Alfentanil is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01555</drugbank-id>
+      <name>Alphacetylmethadol</name>
+      <description>The risk or severity of adverse effects can be increased when Alphacetylmethadol is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00404</drugbank-id>
+      <name>Alprazolam</name>
+      <description>The risk or severity of adverse effects can be increased when Alprazolam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06288</drugbank-id>
+      <name>Amisulpride</name>
+      <description>The risk or severity of adverse effects can be increased when Amisulpride is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00321</drugbank-id>
+      <name>Amitriptyline</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Amitriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01351</drugbank-id>
+      <name>Amobarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Amobarbital is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00543</drugbank-id>
+      <name>Amoxapine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Amoxapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08927</drugbank-id>
+      <name>Amperozide</name>
+      <description>The risk or severity of adverse effects can be increased when Amperozide is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01238</drugbank-id>
+      <name>Aripiprazole</name>
+      <description>The risk or severity of adverse effects can be increased when Aripiprazole is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09009</drugbank-id>
+      <name>Articaine</name>
+      <description>The risk or severity of adverse effects can be increased when Articaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06216</drugbank-id>
+      <name>Asenapine</name>
+      <description>The risk or severity of adverse effects can be increased when Asenapine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11376</drugbank-id>
+      <name>Azaperone</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Azaperone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00972</drugbank-id>
+      <name>Azelastine</name>
+      <description>Alfaxalone may increase the central nervous system depressant (CNS depressant) activities of Azelastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00972</drugbank-id>
+      <name>Azelastine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Azelastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00181</drugbank-id>
+      <name>Baclofen</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Baclofen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01483</drugbank-id>
+      <name>Barbital</name>
+      <description>The risk or severity of adverse effects can be increased when Barbital is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12867</drugbank-id>
+      <name>Benperidol</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Benperidol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01086</drugbank-id>
+      <name>Benzocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Benzocaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06770</drugbank-id>
+      <name>Benzyl alcohol</name>
+      <description>The risk or severity of adverse effects can be increased when Benzyl alcohol is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09128</drugbank-id>
+      <name>Brexpiprazole</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Brexpiprazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00484</drugbank-id>
+      <name>Brimonidine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Brimonidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00484</drugbank-id>
+      <name>Brimonidine</name>
+      <description>Brimonidine may increase the central nervous system depressant (CNS depressant) activities of Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01558</drugbank-id>
+      <name>Bromazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Bromazepam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00835</drugbank-id>
+      <name>Brompheniramine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Brompheniramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09017</drugbank-id>
+      <name>Brotizolam</name>
+      <description>The risk or severity of adverse effects can be increased when Brotizolam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00297</drugbank-id>
+      <name>Bupivacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Bupivacaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00921</drugbank-id>
+      <name>Buprenorphine</name>
+      <description>Alfaxalone may increase the central nervous system depressant (CNS depressant) activities of Buprenorphine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00490</drugbank-id>
+      <name>Buspirone</name>
+      <description>The risk or severity of adverse effects can be increased when Buspirone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00237</drugbank-id>
+      <name>Butabarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Butabarbital is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11502</drugbank-id>
+      <name>Butacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Butacaine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00241</drugbank-id>
+      <name>Butalbital</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Butalbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11148</drugbank-id>
+      <name>Butamben</name>
+      <description>The risk or severity of adverse effects can be increased when Butamben is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01353</drugbank-id>
+      <name>Butethal</name>
+      <description>The risk or severity of adverse effects can be increased when Butethal is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00611</drugbank-id>
+      <name>Butorphanol</name>
+      <description>The risk or severity of adverse effects can be increased when Butorphanol is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The risk or severity of adverse effects can be increased when Carbamazepine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00748</drugbank-id>
+      <name>Carbinoxamine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Carbinoxamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01535</drugbank-id>
+      <name>Carfentanil</name>
+      <description>The risk or severity of adverse effects can be increased when Carfentanil is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00395</drugbank-id>
+      <name>Carisoprodol</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Carisoprodol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00341</drugbank-id>
+      <name>Cetirizine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Cetirizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01563</drugbank-id>
+      <name>Chloral hydrate</name>
+      <description>The risk or severity of adverse effects can be increased when Chloral hydrate is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00475</drugbank-id>
+      <name>Chlordiazepoxide</name>
+      <description>The risk or severity of adverse effects can be increased when Chlordiazepoxide is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01178</drugbank-id>
+      <name>Chlormezanone</name>
+      <description>The risk or severity of adverse effects can be increased when Chlormezanone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01161</drugbank-id>
+      <name>Chloroprocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Chloroprocaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01114</drugbank-id>
+      <name>Chlorphenamine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Chlorphenamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00477</drugbank-id>
+      <name>Chlorpromazine</name>
+      <description>The risk or severity of adverse effects can be increased when Chlorpromazine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01239</drugbank-id>
+      <name>Chlorprothixene</name>
+      <description>The risk or severity of adverse effects can be increased when Chlorprothixene is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00356</drugbank-id>
+      <name>Chlorzoxazone</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Chlorzoxazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00527</drugbank-id>
+      <name>Cinchocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Cinchocaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00215</drugbank-id>
+      <name>Citalopram</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Citalopram.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00283</drugbank-id>
+      <name>Clemastine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Clemastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00771</drugbank-id>
+      <name>Clidinium</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Clidinium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00349</drugbank-id>
+      <name>Clobazam</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Clobazam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06470</drugbank-id>
+      <name>clomethiazole</name>
+      <description>The risk or severity of adverse effects can be increased when clomethiazole is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01242</drugbank-id>
+      <name>Clomipramine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Clomipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01068</drugbank-id>
+      <name>Clonazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Clonazepam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00575</drugbank-id>
+      <name>Clonidine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Clonidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00628</drugbank-id>
+      <name>Clorazepate</name>
+      <description>The risk or severity of adverse effects can be increased when Clorazepate is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00363</drugbank-id>
+      <name>Clozapine</name>
+      <description>The risk or severity of adverse effects can be increased when Clozapine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00907</drugbank-id>
+      <name>Cocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Cocaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00318</drugbank-id>
+      <name>Codeine</name>
+      <description>The risk or severity of adverse effects can be increased when Codeine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01176</drugbank-id>
+      <name>Cyclizine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Cyclizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00924</drugbank-id>
+      <name>Cyclobenzaprine</name>
+      <description>The risk or severity of adverse effects can be increased when Cyclobenzaprine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00434</drugbank-id>
+      <name>Cyproheptadine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Cyproheptadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01219</drugbank-id>
+      <name>Dantrolene</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Dantrolene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00298</drugbank-id>
+      <name>Dapiprazole</name>
+      <description>The risk or severity of adverse effects can be increased when Dapiprazole is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04884</drugbank-id>
+      <name>Dapoxetine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Dapoxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06512</drugbank-id>
+      <name>Deramciclane</name>
+      <description>The risk or severity of adverse effects can be increased when deramciclane is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01189</drugbank-id>
+      <name>Desflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Desflurane is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01151</drugbank-id>
+      <name>Desipramine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Desipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00967</drugbank-id>
+      <name>Desloratadine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Desloratadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06700</drugbank-id>
+      <name>Desvenlafaxine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Desvenlafaxine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11556</drugbank-id>
+      <name>Detomidine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Detomidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00405</drugbank-id>
+      <name>Dexbrompheniramine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Dexbrompheniramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00633</drugbank-id>
+      <name>Dexmedetomidine</name>
+      <description>The risk or severity of adverse effects can be increased when Dexmedetomidine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01529</drugbank-id>
+      <name>Dextromoramide</name>
+      <description>The risk or severity of adverse effects can be increased when Dextromoramide is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00647</drugbank-id>
+      <name>Dextropropoxyphene</name>
+      <description>The risk or severity of adverse effects can be increased when Dextropropoxyphene is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01209</drugbank-id>
+      <name>Dezocine</name>
+      <description>The risk or severity of adverse effects can be increased when Dezocine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00829</drugbank-id>
+      <name>Diazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Diazepam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01501</drugbank-id>
+      <name>Difenoxin</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Difenoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01551</drugbank-id>
+      <name>Dihydrocodeine</name>
+      <description>The risk or severity of adverse effects can be increased when Dihydrocodeine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01450</drugbank-id>
+      <name>Dihydroetorphine</name>
+      <description>The risk or severity of adverse effects can be increased when Dihydroetorphine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01565</drugbank-id>
+      <name>Dihydromorphine</name>
+      <description>The risk or severity of adverse effects can be increased when Dihydromorphine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00985</drugbank-id>
+      <name>Dimenhydrinate</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Dimenhydrinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01075</drugbank-id>
+      <name>Diphenhydramine</name>
+      <description>The risk or severity of adverse effects can be increased when Diphenhydramine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01081</drugbank-id>
+      <name>Diphenoxylate</name>
+      <description>The risk or severity of adverse effects can be increased when Diphenoxylate is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11400</drugbank-id>
+      <name>Doramectin</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Doramectin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01142</drugbank-id>
+      <name>Doxepin</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Doxepin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00366</drugbank-id>
+      <name>Doxylamine</name>
+      <description>Doxylamine may increase the central nervous system depressant (CNS depressant) activities of Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08861</drugbank-id>
+      <name>DPDPE</name>
+      <description>The risk or severity of adverse effects can be increased when DPDPE is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00470</drugbank-id>
+      <name>Dronabinol</name>
+      <description>Dronabinol may increase the central nervous system depressant (CNS depressant) activities of Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00450</drugbank-id>
+      <name>Droperidol</name>
+      <description>Droperidol may increase the central nervous system depressant (CNS depressant) activities of Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01547</drugbank-id>
+      <name>Drotebanol</name>
+      <description>The risk or severity of adverse effects can be increased when Drotebanol is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00476</drugbank-id>
+      <name>Duloxetine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Duloxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00645</drugbank-id>
+      <name>Dyclonine</name>
+      <description>The risk or severity of adverse effects can be increased when Dyclonine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01525</drugbank-id>
+      <name>Ecgonine</name>
+      <description>The risk or severity of adverse effects can be increased when Ecgonine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04688</drugbank-id>
+      <name>ECGONINE METHYL ESTER</name>
+      <description>The risk or severity of adverse effects can be increased when ECGONINE METHYL ESTER is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12273</drugbank-id>
+      <name>Ecopipam</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Ecopipam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00625</drugbank-id>
+      <name>Efavirenz</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Efavirenz.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00228</drugbank-id>
+      <name>Enflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Enflurane is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00494</drugbank-id>
+      <name>Entacapone</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Entacapone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01175</drugbank-id>
+      <name>Escitalopram</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Escitalopram.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01215</drugbank-id>
+      <name>Estazolam</name>
+      <description>The risk or severity of adverse effects can be increased when Estazolam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00402</drugbank-id>
+      <name>Eszopiclone</name>
+      <description>The risk or severity of adverse effects can be increased when Eszopiclone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00898</drugbank-id>
+      <name>Ethanol</name>
+      <description>Alfaxalone may increase the central nervous system depressant (CNS depressant) activities of Ethanol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00189</drugbank-id>
+      <name>Ethchlorvynol</name>
+      <description>The risk or severity of adverse effects can be increased when Ethchlorvynol is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00593</drugbank-id>
+      <name>Ethosuximide</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Ethosuximide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00754</drugbank-id>
+      <name>Ethotoin</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Ethotoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04827</drugbank-id>
+      <name>Ethyl carbamate</name>
+      <description>The risk or severity of adverse effects can be increased when Ethyl carbamate is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01545</drugbank-id>
+      <name>Ethyl loflazepate</name>
+      <description>The risk or severity of adverse effects can be increased when Ethyl loflazepate is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01466</drugbank-id>
+      <name>Ethylmorphine</name>
+      <description>The risk or severity of adverse effects can be increased when Ethylmorphine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08987</drugbank-id>
+      <name>Etidocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Etidocaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08986</drugbank-id>
+      <name>Etifoxine</name>
+      <description>The risk or severity of adverse effects can be increased when Etifoxine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09166</drugbank-id>
+      <name>Etizolam</name>
+      <description>The risk or severity of adverse effects can be increased when Etizolam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00292</drugbank-id>
+      <name>Etomidate</name>
+      <description>The risk or severity of adverse effects can be increased when Etomidate is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09194</drugbank-id>
+      <name>Etoperidone</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Etoperidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01497</drugbank-id>
+      <name>Etorphine</name>
+      <description>The risk or severity of adverse effects can be increased when Etorphine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04953</drugbank-id>
+      <name>Ezogabine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Ezogabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00949</drugbank-id>
+      <name>Felbamate</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Felbamate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01463</drugbank-id>
+      <name>Fencamfamine</name>
+      <description>The risk or severity of adverse effects can be increased when Fencamfamine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00813</drugbank-id>
+      <name>Fentanyl</name>
+      <description>The risk or severity of adverse effects can be increased when Fentanyl is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00950</drugbank-id>
+      <name>Fexofenadine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Fexofenadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04908</drugbank-id>
+      <name>Flibanserin</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Flibanserin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01567</drugbank-id>
+      <name>Fludiazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Fludiazepam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04841</drugbank-id>
+      <name>Flunarizine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Flunarizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01544</drugbank-id>
+      <name>Flunitrazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Flunitrazepam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00472</drugbank-id>
+      <name>Fluoxetine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Fluoxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00875</drugbank-id>
+      <name>Flupentixol</name>
+      <description>The risk or severity of adverse effects can be increased when Flupentixol is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00623</drugbank-id>
+      <name>Fluphenazine</name>
+      <description>The risk or severity of adverse effects can be increased when Fluphenazine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00690</drugbank-id>
+      <name>Flurazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Flurazepam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04842</drugbank-id>
+      <name>Fluspirilene</name>
+      <description>The risk or severity of adverse effects can be increased when Fluspirilene is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00588</drugbank-id>
+      <name>Fluticasone Propionate</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Fluticasone Propionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00176</drugbank-id>
+      <name>Fluvoxamine</name>
+      <description>The risk or severity of adverse effects can be increased when Fluvoxamine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01320</drugbank-id>
+      <name>Fosphenytoin</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Fosphenytoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06716</drugbank-id>
+      <name>Fospropofol</name>
+      <description>The risk or severity of adverse effects can be increased when Fospropofol is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00996</drugbank-id>
+      <name>Gabapentin</name>
+      <description>The risk or severity of adverse effects can be increased when Gabapentin is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08872</drugbank-id>
+      <name>gabapentin enacarbil</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with gabapentin enacarbil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01440</drugbank-id>
+      <name>Gamma Hydroxybutyric Acid</name>
+      <description>The risk or severity of adverse effects can be increased when Gamma Hydroxybutyric Acid is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12184</drugbank-id>
+      <name>Gepirone</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Gepirone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01437</drugbank-id>
+      <name>Glutethimide</name>
+      <description>The risk or severity of adverse effects can be increased when Glutethimide is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01018</drugbank-id>
+      <name>Guanfacine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Guanfacine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00801</drugbank-id>
+      <name>Halazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Halazepam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00502</drugbank-id>
+      <name>Haloperidol</name>
+      <description>The risk or severity of adverse effects can be increased when Haloperidol is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01159</drugbank-id>
+      <name>Halothane</name>
+      <description>The risk or severity of adverse effects can be increased when Halothane is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01452</drugbank-id>
+      <name>Heroin</name>
+      <description>The risk or severity of adverse effects can be increased when Heroin is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01355</drugbank-id>
+      <name>Hexobarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Hexobarbital is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00956</drugbank-id>
+      <name>Hydrocodone</name>
+      <description>Alfaxalone may increase the central nervous system depressant (CNS depressant) activities of Hydrocodone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00327</drugbank-id>
+      <name>Hydromorphone</name>
+      <description>The risk or severity of adverse effects can be increased when Hydromorphone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00557</drugbank-id>
+      <name>Hydroxyzine</name>
+      <description>Hydroxyzine may increase the central nervous system depressant (CNS depressant) activities of Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04946</drugbank-id>
+      <name>Iloperidone</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Iloperidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00458</drugbank-id>
+      <name>Imipramine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Imipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08953</drugbank-id>
+      <name>Indalpine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Indalpine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00753</drugbank-id>
+      <name>Isoflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Isoflurane is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01221</drugbank-id>
+      <name>Ketamine</name>
+      <description>The risk or severity of adverse effects can be increased when Ketamine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01587</drugbank-id>
+      <name>Ketazolam</name>
+      <description>The risk or severity of adverse effects can be increased when Ketazolam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06738</drugbank-id>
+      <name>Ketobemidone</name>
+      <description>The risk or severity of adverse effects can be increased when Ketobemidone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00555</drugbank-id>
+      <name>Lamotrigine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Lamotrigine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01202</drugbank-id>
+      <name>Levetiracetam</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Levetiracetam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01002</drugbank-id>
+      <name>Levobupivacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Levobupivacaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01106</drugbank-id>
+      <name>Levocabastine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Levocabastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06282</drugbank-id>
+      <name>Levocetirizine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Levocetirizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01235</drugbank-id>
+      <name>Levodopa</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Levodopa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01227</drugbank-id>
+      <name>Levomethadyl Acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Levomethadyl Acetate is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08918</drugbank-id>
+      <name>Levomilnacipran</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Levomilnacipran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00854</drugbank-id>
+      <name>Levorphanol</name>
+      <description>The risk or severity of adverse effects can be increased when Levorphanol is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00281</drugbank-id>
+      <name>Lidocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Lidocaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01356</drugbank-id>
+      <name>Lithium</name>
+      <description>The risk or severity of adverse effects can be increased when Lithium is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09174</drugbank-id>
+      <name>Lofentanil</name>
+      <description>The risk or severity of adverse effects can be increased when Lofentanil is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00455</drugbank-id>
+      <name>Loratadine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Loratadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00186</drugbank-id>
+      <name>Lorazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Lorazepam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00408</drugbank-id>
+      <name>Loxapine</name>
+      <description>The risk or severity of adverse effects can be increased when Loxapine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05700</drugbank-id>
+      <name>Lu AA21004</name>
+      <description>The risk or severity of adverse effects can be increased when Lu AA21004 is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08815</drugbank-id>
+      <name>Lurasidone</name>
+      <description>The risk or severity of adverse effects can be increased when Lurasidone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00653</drugbank-id>
+      <name>Magnesium Sulfate</name>
+      <description>Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00934</drugbank-id>
+      <name>Maprotiline</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Maprotiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00737</drugbank-id>
+      <name>Meclizine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Meclizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11428</drugbank-id>
+      <name>Medetomidine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Medetomidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01065</drugbank-id>
+      <name>Melatonin</name>
+      <description>The risk or severity of adverse effects can be increased when Melatonin is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09224</drugbank-id>
+      <name>Melperone</name>
+      <description>The risk or severity of adverse effects can be increased when Melperone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00961</drugbank-id>
+      <name>Mepivacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Mepivacaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00371</drugbank-id>
+      <name>Meprobamate</name>
+      <description>The risk or severity of adverse effects can be increased when Meprobamate is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00933</drugbank-id>
+      <name>Mesoridazine</name>
+      <description>The risk or severity of adverse effects can be increased when Mesoridazine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00660</drugbank-id>
+      <name>Metaxalone</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Metaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00333</drugbank-id>
+      <name>Methadone</name>
+      <description>The risk or severity of adverse effects can be increased when Methadone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01433</drugbank-id>
+      <name>Methadyl Acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Methadyl Acetate is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04819</drugbank-id>
+      <name>Methapyrilene</name>
+      <description>The risk or severity of adverse effects can be increased when Methapyrilene is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04833</drugbank-id>
+      <name>Methaqualone</name>
+      <description>The risk or severity of adverse effects can be increased when Methaqualone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00423</drugbank-id>
+      <name>Methocarbamol</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Methocarbamol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00474</drugbank-id>
+      <name>Methohexital</name>
+      <description>The risk or severity of adverse effects can be increased when Methohexital is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01403</drugbank-id>
+      <name>Methotrimeprazine</name>
+      <description>Alfaxalone may increase the central nervous system depressant (CNS depressant) activities of Methotrimeprazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01028</drugbank-id>
+      <name>Methoxyflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Methoxyflurane is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05246</drugbank-id>
+      <name>Methsuximide</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Methsuximide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00849</drugbank-id>
+      <name>Methylphenobarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Methylphenobarbital is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00765</drugbank-id>
+      <name>Metyrosine</name>
+      <description>Alfaxalone may increase the sedative activities of Metyrosine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00683</drugbank-id>
+      <name>Midazolam</name>
+      <description>The risk or severity of adverse effects can be increased when Midazolam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04896</drugbank-id>
+      <name>Milnacipran</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Milnacipran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01017</drugbank-id>
+      <name>Minocycline</name>
+      <description>Minocycline may increase the central nervous system depressant (CNS depressant) activities of Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00370</drugbank-id>
+      <name>Mirtazapine</name>
+      <description>Alfaxalone may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01618</drugbank-id>
+      <name>Molindone</name>
+      <description>The risk or severity of adverse effects can be increased when Molindone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00295</drugbank-id>
+      <name>Morphine</name>
+      <description>The risk or severity of adverse effects can be increased when Morphine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00486</drugbank-id>
+      <name>Nabilone</name>
+      <description>Nabilone may increase the central nervous system depressant (CNS depressant) activities of Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00844</drugbank-id>
+      <name>Nalbuphine</name>
+      <description>The risk or severity of adverse effects can be increased when Nalbuphine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01149</drugbank-id>
+      <name>Nefazodone</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Nefazodone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01595</drugbank-id>
+      <name>Nitrazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Nitrazepam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06690</drugbank-id>
+      <name>Nitrous oxide</name>
+      <description>The risk or severity of adverse effects can be increased when Nitrous oxide is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13116</drugbank-id>
+      <name>Norflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with 1,1,1,2 Tetrafluoroethane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11609</drugbank-id>
+      <name>Normethadone</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Normethadone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00540</drugbank-id>
+      <name>Nortriptyline</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Nortriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00334</drugbank-id>
+      <name>Olanzapine</name>
+      <description>The risk or severity of adverse effects can be increased when Olanzapine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00768</drugbank-id>
+      <name>Olopatadine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Olopatadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00904</drugbank-id>
+      <name>Ondansetron</name>
+      <description>The risk or severity of adverse effects can be increased when Ondansetron is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11130</drugbank-id>
+      <name>Opium</name>
+      <description>The risk or severity of adverse effects can be increased when Opium is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01173</drugbank-id>
+      <name>Orphenadrine</name>
+      <description>Alfaxalone may increase the central nervous system depressant (CNS depressant) activities of Orphenadrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04872</drugbank-id>
+      <name>Osanetant</name>
+      <description>The risk or severity of adverse effects can be increased when Osanetant is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00842</drugbank-id>
+      <name>Oxazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Oxazepam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12532</drugbank-id>
+      <name>Oxetacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Oxetacaine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01580</drugbank-id>
+      <name>Oxprenolol</name>
+      <description>The risk or severity of adverse effects can be increased when Oxprenolol is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00892</drugbank-id>
+      <name>Oxybuprocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Oxybuprocaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00497</drugbank-id>
+      <name>Oxycodone</name>
+      <description>The risk or severity of adverse effects can be increased when Oxycodone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01192</drugbank-id>
+      <name>Oxymorphone</name>
+      <description>The risk or severity of adverse effects can be increased when Oxymorphone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01267</drugbank-id>
+      <name>Paliperidone</name>
+      <description>The risk or severity of adverse effects can be increased when Paliperidone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09117</drugbank-id>
+      <name>Paraldehyde</name>
+      <description>Alfaxalone may increase the central nervous system depressant (CNS depressant) activities of Paraldehyde.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00715</drugbank-id>
+      <name>Paroxetine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Paroxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00652</drugbank-id>
+      <name>Pentazocine</name>
+      <description>The risk or severity of adverse effects can be increased when Pentazocine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00312</drugbank-id>
+      <name>Pentobarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Pentobarbital is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08883</drugbank-id>
+      <name>Perampanel</name>
+      <description>Perampanel may increase the central nervous system depressant (CNS depressant) activities of Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12710</drugbank-id>
+      <name>Perazine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Perazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08922</drugbank-id>
+      <name>Perospirone</name>
+      <description>The risk or severity of adverse effects can be increased when Perospirone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00850</drugbank-id>
+      <name>Perphenazine</name>
+      <description>The risk or severity of adverse effects can be increased when Perphenazine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00454</drugbank-id>
+      <name>Pethidine</name>
+      <description>The risk or severity of adverse effects can be increased when Pethidine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01174</drugbank-id>
+      <name>Phenobarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Phenobarbital is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11304</drugbank-id>
+      <name>Phenoxyethanol</name>
+      <description>The risk or severity of adverse effects can be increased when Phenoxyethanol is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00252</drugbank-id>
+      <name>Phenytoin</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Phenytoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01100</drugbank-id>
+      <name>Pimozide</name>
+      <description>The risk or severity of adverse effects can be increased when Pimozide is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09286</drugbank-id>
+      <name>Pipamperone</name>
+      <description>The risk or severity of adverse effects can be increased when Pipamperone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01621</drugbank-id>
+      <name>Pipotiazine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Pipotiazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12492</drugbank-id>
+      <name>Piritramide</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Piritramide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06153</drugbank-id>
+      <name>Pizotifen</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Pizotifen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08910</drugbank-id>
+      <name>Pomalidomide</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Pomalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00413</drugbank-id>
+      <name>Pramipexole</name>
+      <description>Alfaxalone may increase the sedative activities of Pramipexole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09345</drugbank-id>
+      <name>Pramocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Pramocaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01588</drugbank-id>
+      <name>Prazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Prazepam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00230</drugbank-id>
+      <name>Pregabalin</name>
+      <description>The risk or severity of adverse effects can be increased when Pregabalin is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12308</drugbank-id>
+      <name>Pregnanolone</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Pregnanolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00750</drugbank-id>
+      <name>Prilocaine</name>
+      <description>The risk or severity of adverse effects can be increased when Prilocaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00794</drugbank-id>
+      <name>Primidone</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Primidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00721</drugbank-id>
+      <name>Procaine</name>
+      <description>The risk or severity of adverse effects can be increased when Procaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00433</drugbank-id>
+      <name>Prochlorperazine</name>
+      <description>The risk or severity of adverse effects can be increased when Prochlorperazine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00420</drugbank-id>
+      <name>Promazine</name>
+      <description>The risk or severity of adverse effects can be increased when Promazine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01069</drugbank-id>
+      <name>Promethazine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Promethazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00807</drugbank-id>
+      <name>Proparacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Proparacaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00818</drugbank-id>
+      <name>Propofol</name>
+      <description>The risk or severity of adverse effects can be increased when Propofol is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09342</drugbank-id>
+      <name>Propoxycaine</name>
+      <description>The risk or severity of adverse effects can be increased when Propoxycaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00344</drugbank-id>
+      <name>Protriptyline</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Protriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06671</drugbank-id>
+      <name>PSD502</name>
+      <description>The risk or severity of adverse effects can be increased when PSD502 is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01589</drugbank-id>
+      <name>Quazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Quazepam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01224</drugbank-id>
+      <name>Quetiapine</name>
+      <description>The risk or severity of adverse effects can be increased when Quetiapine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12518</drugbank-id>
+      <name>Raclopride</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Raclopride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00980</drugbank-id>
+      <name>Ramelteon</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Ramelteon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00899</drugbank-id>
+      <name>Remifentanil</name>
+      <description>The risk or severity of adverse effects can be increased when Remifentanil is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00409</drugbank-id>
+      <name>Remoxipride</name>
+      <description>The risk or severity of adverse effects can be increased when Remoxipride is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00206</drugbank-id>
+      <name>Reserpine</name>
+      <description>The risk or severity of adverse effects can be increased when Reserpine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00734</drugbank-id>
+      <name>Risperidone</name>
+      <description>The risk or severity of adverse effects can be increased when Risperidone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12693</drugbank-id>
+      <name>Ritanserin</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Ritanserin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11543</drugbank-id>
+      <name>Romifidine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Romifidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00268</drugbank-id>
+      <name>Ropinirole</name>
+      <description>Alfaxalone may increase the sedative activities of Ropinirole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00296</drugbank-id>
+      <name>Ropivacaine</name>
+      <description>The risk or severity of adverse effects can be increased when Ropivacaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05271</drugbank-id>
+      <name>Rotigotine</name>
+      <description>Alfaxalone may increase the sedative activities of Rotigotine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06201</drugbank-id>
+      <name>Rufinamide</name>
+      <description>The risk or severity of adverse effects can be increased when Rufinamide is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02539</drugbank-id>
+      <name>S-Ethylisothiourea</name>
+      <description>The risk or severity of adverse effects can be increased when S-Ethylisothiourea is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11859</drugbank-id>
+      <name>SAGE-547</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Sage 547.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00747</drugbank-id>
+      <name>Scopolamine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Scopolamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00418</drugbank-id>
+      <name>Secobarbital</name>
+      <description>The risk or severity of adverse effects can be increased when Secobarbital is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06144</drugbank-id>
+      <name>Sertindole</name>
+      <description>The risk or severity of adverse effects can be increased when Sertindole is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01104</drugbank-id>
+      <name>Sertraline</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Sertraline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01236</drugbank-id>
+      <name>Sevoflurane</name>
+      <description>The risk or severity of adverse effects can be increased when Sevoflurane is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09072</drugbank-id>
+      <name>Sodium oxybate</name>
+      <description>Sodium oxybate may increase the central nervous system depressant (CNS depressant) activities of Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09118</drugbank-id>
+      <name>Stiripentol</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Stiripentol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00708</drugbank-id>
+      <name>Sufentanil</name>
+      <description>The risk or severity of adverse effects can be increased when Sufentanil is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00391</drugbank-id>
+      <name>Sulpiride</name>
+      <description>The risk or severity of adverse effects can be increased when Sulpiride is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09034</drugbank-id>
+      <name>Suvorexant</name>
+      <description>Alfaxalone may increase the central nervous system depressant (CNS depressant) activities of Suvorexant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12833</drugbank-id>
+      <name>Tandospirone</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Tandospirone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06204</drugbank-id>
+      <name>Tapentadol</name>
+      <description>Tapentadol may increase the central nervous system depressant (CNS depressant) activities of Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09071</drugbank-id>
+      <name>Tasimelteon</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Tasimelteon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00231</drugbank-id>
+      <name>Temazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Temazepam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04844</drugbank-id>
+      <name>Tetrabenazine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Tetrabenazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09085</drugbank-id>
+      <name>Tetracaine</name>
+      <description>The risk or severity of adverse effects can be increased when Tetracaine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05232</drugbank-id>
+      <name>Tetrodotoxin</name>
+      <description>The risk or severity of adverse effects can be increased when Tetrodotoxin is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01041</drugbank-id>
+      <name>Thalidomide</name>
+      <description>Alfaxalone may increase the central nervous system depressant (CNS depressant) activities of Thalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01154</drugbank-id>
+      <name>Thiamylal</name>
+      <description>The risk or severity of adverse effects can be increased when Thiamylal is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00599</drugbank-id>
+      <name>Thiopental</name>
+      <description>The risk or severity of adverse effects can be increased when Thiopental is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00679</drugbank-id>
+      <name>Thioridazine</name>
+      <description>The risk or severity of adverse effects can be increased when Thioridazine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01623</drugbank-id>
+      <name>Thiothixene</name>
+      <description>The risk or severity of adverse effects can be increased when Thiothixene is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00906</drugbank-id>
+      <name>Tiagabine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Tiagabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13025</drugbank-id>
+      <name>Tiapride</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Tiapride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11549</drugbank-id>
+      <name>Tiletamine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Tiletamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00697</drugbank-id>
+      <name>Tizanidine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Tizanidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00323</drugbank-id>
+      <name>Tolcapone</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Tolcapone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00273</drugbank-id>
+      <name>Topiramate</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Topiramate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00193</drugbank-id>
+      <name>Tramadol</name>
+      <description>The risk or severity of adverse effects can be increased when Tramadol is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02665</drugbank-id>
+      <name>Trans-2-Phenylcyclopropylamine</name>
+      <description>The risk or severity of adverse effects can be increased when Trans-2-Phenylcyclopropylamine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00752</drugbank-id>
+      <name>Tranylcypromine</name>
+      <description>The risk or severity of adverse effects can be increased when Tranylcypromine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00656</drugbank-id>
+      <name>Trazodone</name>
+      <description>The risk or severity of adverse effects can be increased when Trazodone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00897</drugbank-id>
+      <name>Triazolam</name>
+      <description>The risk or severity of adverse effects can be increased when Triazolam is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00831</drugbank-id>
+      <name>Trifluoperazine</name>
+      <description>The risk or severity of adverse effects can be increased when Trifluoperazine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00508</drugbank-id>
+      <name>Triflupromazine</name>
+      <description>The risk or severity of adverse effects can be increased when Triflupromazine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00726</drugbank-id>
+      <name>Trimipramine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Trimipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00427</drugbank-id>
+      <name>Triprolidine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Triprolidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12972</drugbank-id>
+      <name>UC1010</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Uc1010.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00313</drugbank-id>
+      <name>Valproic Acid</name>
+      <description>The risk or severity of adverse effects can be increased when Valproic Acid is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00285</drugbank-id>
+      <name>Venlafaxine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Venlafaxine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01080</drugbank-id>
+      <name>Vigabatrin</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Vigabatrin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09068</drugbank-id>
+      <name>Vortioxetine</name>
+      <description>The risk or severity of adverse effects can be increased when Vortioxetine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11477</drugbank-id>
+      <name>Xylazine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Xylazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00962</drugbank-id>
+      <name>Zaleplon</name>
+      <description>The risk or severity of adverse effects can be increased when Zaleplon is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06283</drugbank-id>
+      <name>Ziconotide</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Ziconotide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04832</drugbank-id>
+      <name>Zimelidine</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Zimelidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00246</drugbank-id>
+      <name>Ziprasidone</name>
+      <description>The risk or severity of adverse effects can be increased when Ziprasidone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11555</drugbank-id>
+      <name>Zolazepam</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Zolazepam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00425</drugbank-id>
+      <name>Zolpidem</name>
+      <description>Alfaxalone may increase the central nervous system depressant (CNS depressant) activities of Zolpidem.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00909</drugbank-id>
+      <name>Zonisamide</name>
+      <description>The risk or severity of adverse effects can be increased when Alfaxalone is combined with Zonisamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01198</drugbank-id>
+      <name>Zopiclone</name>
+      <description>The risk or severity of adverse effects can be increased when Zopiclone is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09225</drugbank-id>
+      <name>Zotepine</name>
+      <description>The risk or severity of adverse effects can be increased when Zotepine is combined with Alfaxalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01624</drugbank-id>
+      <name>Zuclopenthixol</name>
+      <description>The risk or severity of adverse effects can be increased when Zuclopenthixol is combined with Alfaxalone.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>3.23</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-4.1</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>2.42e-02 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>3.06</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(1S,2S,5R,7S,10S,11S,14S,15S)-14-acetyl-5-hydroxy-2,15-dimethyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadecan-17-one</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>alfaxalone</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>332.484</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>332.23514489</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@@]4([H])C[C@]([H])(O)CC[C@]4(C)[C@@]3([H])C(=O)C[C@]12C)C(C)=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C21H32O3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C21H32O3/c1-12(22)16-6-7-17-15-5-4-13-10-14(23)8-9-20(13,2)19(15)18(24)11-21(16,17)3/h13-17,19,23H,4-11H2,1-3H3/t13-,14+,15-,16+,17-,19+,20-,21+/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>DUHUCHOQIDJXAT-OLVMNOGESA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>54.37</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>93.57</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>38.64</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>18.3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-1.4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>2348</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>34531</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C13803</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D07282</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Alfaxalone</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL190279</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

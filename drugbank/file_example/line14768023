@@ -1,0 +1,102 @@
+<drug type="biotech" created="2016-06-01" updated="2016-08-17">
+  <drugbank-id primary="true">DB11604</drugbank-id>
+  <name>Human clostridium tetani toxoid immune globulin</name>
+  <description/>
+  <cas-number/>
+  <unii>V4SWI4RF4J</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Human clostridium tetani immune globulin</synonym>
+    <synonym language="" coder="">Tetanus immune globulin</synonym>
+    <synonym language="" coder="">Tetanus immune globulin human</synonym>
+    <synonym language="" coder="">Tetanus immune globulin, human</synonym>
+    <synonym language="" coder="">Tetanus immune globulin,human</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Hypertet S/d</name>
+      <labeller>Grifols</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-634</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1996-08-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>250 [iU]/mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA101142</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Hypertet S/d</name>
+      <ingredients>Human clostridium tetani toxoid immune globulin</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Intramuscular</route>
+      <strength>250 [iU]/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB11604.pdf?1464814757</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

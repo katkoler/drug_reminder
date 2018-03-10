@@ -1,0 +1,468 @@
+<drug type="small molecule" created="2016-06-01" updated="2017-03-25">
+  <drugbank-id primary="true">DB11605</drugbank-id>
+  <name>Myrrh</name>
+  <description>Extractives and their physically modified derivatives such as tinctures, concretes, absolutes, essential oils, oleoresins, terpenes, terpene-free fractions, distillates, residues, obtained from Commiphora abyssinica, Burseraceae.</description>
+  <cas-number>9000-45-7</cas-number>
+  <unii>JC71GJ1F3L</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Myrrh Monograph Natural Medicines Database</title>
+        <url>https://naturalmedicines.therapeuticresearch.com/databases/food,-herbs-supplements/professional.aspx?productid=570</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>FDA approved only for use in food.  Historically used for indigestion, ulcers, colds, cough, asthma, bronchial congestion, arthritic pain, cancer, leprosy, and syphilis. It is also used orally as a stimulant, antispasmodic, and to increase menstrual flow. Topically, myrrh is used for mild inflammation of the oral and pharyngeal mucosa, aphthous ulcers, gingivitis, chapped lips, hemorrhoids, bedsores, wounds, abrasions, furunculosis, bad breath, and loose teeth. In foods and beverages, myrrh is used as a flavoring component. In manufacturing, myrrh is used as a fragrance and fixative in cosmetics. It is also used in embalming and as incense.</indication>
+  <pharmacodynamics/>
+  <mechanism-of-action>May be an inducer of these enzymes CYP2C9; minor pathways include CYP2C8, 2C18, 2C19, 1A2, and 3A4. Interaction with warfarin - induced metabolism.</mechanism-of-action>
+  <toxicity>Categorized as safe fot use in flavouring. </toxicity>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Bola resin</synonym>
+    <synonym language="" coder="">Commiphora molmol resin</synonym>
+    <synonym language="" coder="">Commiphora myrrha gum resin</synonym>
+    <synonym language="" coder="">Commiphora myrrha resin</synonym>
+    <synonym language="" coder="">Commiphora myrrha resin extract</synonym>
+    <synonym language="" coder="">Common myrrh</synonym>
+    <synonym language="" coder="">Hirabol myrrh</synonym>
+    <synonym language="" coder="">Mo yao</synonym>
+    <synonym language="" coder="">Moyao (commiphora molmol)</synonym>
+    <synonym language="" coder="">Moyao (commiphora myrrha)</synonym>
+    <synonym language="" coder="">Myrrh (commiphora molmol)</synonym>
+    <synonym language="" coder="">Myrrh (commiphora myrrha)</synonym>
+    <synonym language="" coder="">Myrrha</synonym>
+    <synonym language="" coder="">Myrrha (commiphora molmol)</synonym>
+    <synonym language="" coder="">Myrrha (commiphora myrrha)</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Chase Coldsorex</name>
+      <labeller>Stella Pharmaceutical Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02231933</dpd-id>
+      <started-marketing-on>1997-09-04</started-marketing-on>
+      <ended-marketing-on>2003-11-20</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Cold Sore Lotion</name>
+      <labeller>D.C. Labs Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00096075</dpd-id>
+      <started-marketing-on>1966-12-31</started-marketing-on>
+      <ended-marketing-on>2003-07-11</ended-marketing-on>
+      <dosage-form>Lotion</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lotion Pour Feux Sauvages</name>
+      <labeller>Sabex Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00740853</dpd-id>
+      <started-marketing-on>1990-12-31</started-marketing-on>
+      <ended-marketing-on>2001-08-02</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Plaster Mandaherbalplaster</name>
+      <labeller>Dah Wei Chem &amp; Pharm Co., Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>14319-3118</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2005-04-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Patch</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number>part348</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Teinture De Myrrhe</name>
+      <labeller>Lab Valmo EnregistrÉ, Division Of Technilab Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00532525</dpd-id>
+      <started-marketing-on>1982-12-31</started-marketing-on>
+      <ended-marketing-on>2000-08-24</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>20 g</strength>
+      <route>Dental; Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Plaster Mandaherbalplaster</name>
+      <ingredients>Menthol + Methyl salicylate + Camphor + Myrrh + Sesame oil</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cold Sore Lotion</name>
+      <ingredients>Menthol + Benzoin + Myrrh + Benzocaine + Camphor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Teinture De Myrrhe</name>
+      <ingredients>Myrrh</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lotion Pour Feux Sauvages</name>
+      <ingredients>Menthol + Benzoin + Myrrh + Camphor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Chase Coldsorex</name>
+      <ingredients>Menthol + Benzoin + Myrrh + Camphor</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Cytochrome P-450 CYP2C9 Inducers</category>
+      <mesh-id>D065698</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Lotion</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Patch</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Dental; Topical</route>
+      <strength>20 g</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>6952</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Myrrh</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0002793</id>
+      <name>Cytochrome P450 2C9</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inducer</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P11712" source="Swiss-Prot">
+    <name>Cytochrome P450 2C9</name>
+    <general-function>Steroid hydroxylase activity</general-function>
+    <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It oxidizes a variety of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. This enzyme contributes to the wide pharmacokinetics variability of the metabolism of drugs such as S-warfarin, diclofenac, phenytoin, tolbutamide and losartan.</specific-function>
+    <gene-name>CYP2C9</gene-name>
+    <locus>10q24</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>7.99</theoretical-pi>
+    <molecular-weight>55627.365</molecular-weight>
+    <chromosome-location>10</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2623</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP2C9</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>AY341248</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1326</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P11712</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP2C9_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>(R)-limonene 6-monooxygenase</synonym>
+      <synonym>(S)-limonene 6-monooxygenase</synonym>
+      <synonym>(S)-limonene 7-monooxygenase</synonym>
+      <synonym>1.14.13.-</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYP2C10</synonym>
+      <synonym>CYPIIC9</synonym>
+      <synonym>Cytochrome P-450MP</synonym>
+      <synonym>Cytochrome P450 MP-4</synonym>
+      <synonym>Cytochrome P450 MP-8</synonym>
+      <synonym>Cytochrome P450 PB-1</synonym>
+      <synonym>S-mephenytoin 4-hydroxylase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0005471|Cytochrome P450 2C9
+MDSLVVLVLCLSCLLLLSLWRQSSGRGKLPPGPTPLPVIGNILQIGIKDISKSLTNLSKV
+YGPVFTLYFGLKPIVVLHGYEAVKEALIDLGEEFSGRGIFPLAERANRGFGIVFSNGKKW
+KEIRRFSLMTLRNFGMGKRSIEDRVQEEARCLVEELRKTKASPCDPTFILGCAPCNVICS
+IIFHKRFDYKDQQFLNLMEKLNENIKILSSPWIQICNNFSPIIDYFPGTHNKLLKNVAFM
+KSYILEKVKEHQESMDMNNPQDFIDCFLMKMEKEKHNQPSEFTIESLENTAVDLFGAGTE
+TTSTTLRYALLLLLKHPEVTAKVQEEIERVIGRNRSPCMQDRSHMPYTDAVVHEVQRYID
+LLPTSLPHAVTCDIKFRNYLIPKGTTILISLTSVLHDNKEFPNPEMFDPHHFLDEGGNFK
+KSKYFMPFSAGKRICVGEALAGMELFLFLTSILQNFNLKSLVDPKNLDTTPVVNGFASVP
+PFYQLCFIPV</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016893|Cytochrome P450 2C9 (CYP2C9)
+ATGGATTCTCTTGTGGTCCTTGTGCTCTGTCTCTCATGTTTGCTTCTCCTTTCACTCTGG
+AGACAGAGCTCTGGGAGAGGAAAACTCCCTCCTGGCCCCACTCCTCTCCCAGTGATTGGA
+AATATCCTACAGATAGGTATTAAGGACATCAGCAAATCCTTAACCAATCTCTCAAAGGTC
+TATGGCCCTGTGTTCACTCTGTATTTTGGCCTGAAACCCATAGTGGTGCTGCATGGATAT
+GAAGCAGTGAAGGAAGCCCTGATTGATCTTGGAGAGGAGTTTTCTGGAAGAGGCATTTTC
+CCACTGGCTGAAAGAGCTAACAGAGGATTTGGAATTGTTTTCAGCAATGGAAAGAAATGG
+AAGGAGATCCGGCGTTTCTCCCTCATGACGCTGCGGAATTTTGGGATGGGGAAGAGGAGC
+ATTGAGGACCGTGTTCAAGAGGAAGCCCGCTGCCTTGTGGAGGAGTTGAGAAAAACCAAG
+GCCTCACCCTGTGATCCCACTTTCATCCTGGGCTGTGCTCCCTGCAATGTGATCTGCTCC
+ATTATTTTCCATAAACGTTTTGATTATAAAGATCAGCAATTTCTTAACTTAATGGAAAAG
+TTGAATGAAAACATCAAGATTTTGAGCAGCCCCTGGATCCAGATCTGCAATAATTTTTCT
+CCTATCATTGATTACTTCCCGGGAACTCACAACAAATTACTTAAAAACGTTGCTTTTATG
+AAAAGTTATATTTTGGAAAAAGTAAAAGAACACCAAGAATCAATGGACATGAACAACCCT
+CAGGACTTTATTGATTGCTTCCTGATGAAAATGGAGAAGGAAAAGCACAACCAACCATCT
+GAATTTACTATTGAAAGCTTGGAAAACACTGCAGTTGACTTGTTTGGAGCTGGGACAGAG
+ACGACAAGCACAACCCTGAGATATGCTCTCCTTCTCCTGCTGAAGCACCCAGAGGTCACA
+GCTAAAGTCCAGGAAGAGATTGAACGTGTGATTGGCAGAAACCGGAGCCCCTGCATGCAA
+GACAGGAGCCACATGCCCTACACAGATGCTGTGGTGCACGAGGTCCAGAGATACATTGAC
+CTTCTCCCCACCAGCCTGCCCCATGCAGTGACCTGTGACATTAAATTCAGAAACTATCTC
+ATTCCCAAGGGCACAACCATATTAATTTCCCTGACTTCTGTGCTACATGACAACAAAGAA
+TTTCCCAACCCAGAGATGTTTGACCCTCATCACTTTCTGGATGAAGGTGGCAATTTTAAG
+AAAAGTAAATACTTCATGCCTTTCTCAGCAGGAAAACGGATTTGTGTGGGAGAAGCCCTG
+GCCGGCATGGAGCTGTTTTTATTCCTGACCTCCATTTTACAGAACTTTAACCTGAAATCT
+CTGGTTGACCCAAAGAACCTTGACACCACTCCAGTTGTCAATGGATTTGCCTCTGTGCCG
+CCCTTCTACCAGCTGTGCTTCATTCCTGTCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>(R)-limonene 6-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>(S)-limonene 6-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>(S)-limonene 7-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>caffeine oxidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>drug binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>arachidonic acid epoxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>epoxygenase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monocarboxylic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular amide metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>urea metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>omega-hydroxylase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>arachidonic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

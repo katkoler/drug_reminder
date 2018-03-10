@@ -1,0 +1,249 @@
+<drug type="biotech" created="2016-06-01" updated="2017-02-26">
+  <drugbank-id primary="true">DB11603</drugbank-id>
+  <name>Human rabies virus immune globulin</name>
+  <description>IMOGAM Rabies Pasteurized is indicated for post-exposure prophylaxis in persons suspected of exposure to rabies, who have not previously received a complete immunization regimen with a cell culture produced rabies vaccine.&#13;
+&#13;
+Persons previously vaccinated with other types of rabies vaccines in whom adequate antibody levels have not been demonstrated should receive full post-exposure prophylaxis with RIG and a cell culture-produced rabies vaccine.&#13;
+&#13;
+IMOGAM Rabies Pasteurized should be administered promptly after exposure, in conjunction with rabies vaccine. If IMOGAM Rabies Pasteurized is not administered as recommended at the initiation of the post-exposure rabies vaccine series, it can be administered up to seven days following the first dose of the rabies vaccine. Since rabies vaccine-induced antibody begins to appear within one week, there is no value in administering rabies immune globulin more than seven days after rabies vaccination has begun.&#13;
+&#13;
+Recommendations for passive and/or active immunization after exposure to an animal suspected of having rabies have been outlined by the National Advisory Committee on Immunization (NACI), the Advisory Committee on Immunization Practices (ACIP), and the World Health Organization (WHO).</description>
+  <cas-number/>
+  <unii>95F619ATQ2</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>IMOGAM Monograph</title>
+        <url>https://www.vaccineshoppecanada.com/document.cfm?file=imogam_rabies_e.pdf</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Rabies immune globulin</synonym>
+    <synonym language="" coder="">Rabies immune globulin (human)</synonym>
+    <synonym language="" coder="">Rabies immune globulin human</synonym>
+    <synonym language="" coder="">Rabies immune globulin, human</synonym>
+    <synonym language="" coder="">Rabies immune globulin,human</synonym>
+    <synonym language="" coder="">Rabies immunoglobulins</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Hyperab Rabies Immune Globulin Human</name>
+      <labeller>Cutter Med &amp; Biol, Division Of Miles Canada Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00345733</dpd-id>
+      <started-marketing-on>1985-12-31</started-marketing-on>
+      <ended-marketing-on>1998-09-25</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>16.5 %</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Hyperrab S/d</name>
+      <labeller>Grifols</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-618</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1996-08-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>150 [iU]/mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA101144</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Hyperrab S/d</name>
+      <labeller>Grifols Therapeutics Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230700</dpd-id>
+      <started-marketing-on>1997-10-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>150 unit</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Imogam Rabies Inj 150unit/ml</name>
+      <labeller>Pasteur mÉrieux Serums Et Vaccins, s.a.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01910477</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on>1999-08-12</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>150 unit</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Imogam Rabies Pasteurized</name>
+      <labeller>Sanofi Pasteur Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237328</dpd-id>
+      <started-marketing-on>1999-04-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>150 unit</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Imogam Rabies-HT</name>
+      <labeller>Sanofi Pasteur Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code>49281-190</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1984-04-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>150 [iU]/mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103932</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Hyperrab S/d</name>
+      <ingredients>Human rabies virus immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Imogam Rabies-HT</name>
+      <ingredients>Human rabies virus immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Hyperrab S/d</name>
+      <ingredients>Human rabies virus immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Imogam Rabies Pasteurized</name>
+      <ingredients>Human rabies virus immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Imogam Rabies Inj 150unit/ml</name>
+      <ingredients>Human rabies virus immune globulin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Hyperab Rabies Immune Globulin Human</name>
+      <ingredients>Human rabies virus immune globulin</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular</route>
+      <strength>16.5 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intramuscular</route>
+      <strength>150 [iU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular</route>
+      <strength>150 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular</route>
+      <strength>150 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular</route>
+      <strength>150 [iU]/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB11603.pdf?1464814444</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7918</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

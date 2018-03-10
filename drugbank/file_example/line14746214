@@ -1,0 +1,1334 @@
+<drug type="small molecule" created="2016-03-09" updated="2017-04-01">
+  <drugbank-id primary="true">DB11560</drugbank-id>
+  <name>Lesinurad</name>
+  <description>Lesinurad is an oral uric acid transporter 1 (URAT1) inhibitor indicated for the treatment of hyperuricemia associated with gout. It reduces serum uric acid concentration through the inhibition of URAT1,  an enzyme responsible for reuptake of uric acid from the renal tubule, and OAT4, another uric acid transporter associated with diuretic-induced hyperuricemia.&#13;
+&#13;
+Marketed as the product Zurampic, it is indicated for use in combination with a xanthine oxidase inhibitor for the treatment of hyperuricemia associated with gout in&#13;
+patients who have not achieved target serum uric acid levels with a xanthine oxidase inhibitor alone.</description>
+  <cas-number>878672-00-5</cas-number>
+  <unii>09ERP08I3W</unii>
+  <average-mass>404.28</average-mass>
+  <monoisotopic-mass>402.999011</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>26861027</pubmed-id>
+        <citation>Hoy SM: Lesinurad: First Global Approval. Drugs. 2016 Mar;76(4):509-16. doi: 10.1007/s40265-016-0550-y.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For use, in combination with a xanthine oxidase inhibitor, for the treatment of hyperuricemia associated with gout in patients who have not achieved target serum uric acid levels with a xanthine oxidase inhibitor alone.</indication>
+  <pharmacodynamics>Dose-dependent reductions in serum uric acid levels and increases in urinary uric acid excretion have been observed following single and multiple oral doses of lesinurad.</pharmacodynamics>
+  <mechanism-of-action>Lesinurad inhibits the activity of uric acid transporter 1 (URAT1) and organic anion transporter 4 (OAT4). URAT1 is a major transporter enzyme responsible for reuptake of uric acid from the renal tubules; inhibition of URAT1 function thereby increases excretion of uric acid. </mechanism-of-action>
+  <toxicity/>
+  <metabolism>Lesinurad undergoes oxidative metabolism mainly via the polymorphic cytochrome P450 CYP2C9 enzyme.  </metabolism>
+  <absorption>Oral lesinurad is rapidly absorbed, reaching maximum plasma concentrations (Cmax) within 1–4 h following the administration a single 200 mg dose (in either the fed or fasted state).</absorption>
+  <half-life/>
+  <protein-binding>Lesinurad is extensively bound to proteins in plasma (greater than 98%), mainly to albumin. </protein-binding>
+  <route-of-elimination>Within 7 days following single dosing of radiolabeled lesinurad, 63% of administered radioactive dose was recovered in urine and 32% of administered radioactive dose was recovered in feces. Most of the radioactivity recovered in urine (&gt; 60% of dose) occurred in the first 24 hours. Unchanged lesinurad in urine accounted for approximately 30% of the dose. </route-of-elimination>
+  <volume-of-distribution>The mean steady state volume of distribution of lesinurad was approximately 20 L following intravenous dosing.</volume-of-distribution>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as phenyl-1,2,4-triazoles. These are organic compounds containing a 1,2,4-triazole substituted by a phenyl group.</description>
+    <direct-parent>Phenyl-1,2,4-triazoles</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organoheterocyclic compounds</superclass>
+    <class>Azoles</class>
+    <subclass>Triazoles</subclass>
+    <alternative-parent>Alkylarylthioethers</alternative-parent>
+    <alternative-parent>Aryl bromides</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Naphthalenes</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organobromides</alternative-parent>
+    <alternative-parent>Organonitrogen compounds</alternative-parent>
+    <alternative-parent>Sulfenyl compounds</alternative-parent>
+    <substituent>Alkylarylthioether</substituent>
+    <substituent>Aromatic heteropolycyclic compound</substituent>
+    <substituent>Aryl bromide</substituent>
+    <substituent>Aryl halide</substituent>
+    <substituent>Aryl thioether</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>Naphthalene</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organobromide</substituent>
+    <substituent>Organohalogen compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Organosulfur compound</substituent>
+    <substituent>Phenyl-1,2,4-triazole</substituent>
+    <substituent>Sulfenyl compound</substituent>
+    <substituent>Thioether</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="IUPAC">{[5-bromo-4-(4-cyclopropylnaphthalen-1-yl)-4H-1,2,4-triazol-3-yl]sulfanyl}acetic acid</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Zurampic</name>
+      <labeller>Astra Zeneca Lp</labeller>
+      <ndc-id/>
+      <ndc-product-code>0310-1475</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2015-12-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength>200 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA207988</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Zurampic</name>
+      <ingredients>Lesinurad</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zurampic</name>
+      <ingredients>Lesinurad</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zurampic</name>
+      <ingredients>Lesinurad</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zurampic</name>
+      <ingredients>Lesinurad</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zurampic</name>
+      <ingredients>Lesinurad</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zurampic</name>
+      <ingredients>Lesinurad</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acetates</category>
+      <mesh-id>D000085</mesh-id>
+    </category>
+    <category>
+      <category>Acids, Acyclic</category>
+      <mesh-id>D000144</mesh-id>
+    </category>
+    <category>
+      <category>Antigout Preparations</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Antirheumatic Agents</category>
+      <mesh-id>D018501</mesh-id>
+    </category>
+    <category>
+      <category>Azoles</category>
+      <mesh-id>D001393</mesh-id>
+    </category>
+    <category>
+      <category>Carboxylic Acids</category>
+      <mesh-id>D002264</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP2C9 Substrates</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Fatty Acids</category>
+      <mesh-id>D005227</mesh-id>
+    </category>
+    <category>
+      <category>Fatty Acids, Volatile</category>
+      <mesh-id>D005232</mesh-id>
+    </category>
+    <category>
+      <category>Gout Suppressants</category>
+      <mesh-id>D006074</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 1-Ring</category>
+      <mesh-id>D006573</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Lipids</category>
+      <mesh-id>D008055</mesh-id>
+    </category>
+    <category>
+      <category>Musculo-Skeletal System</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Preparations Increasing Uric Acid Excretion</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Renal Agents</category>
+      <mesh-id>D012076</mesh-id>
+    </category>
+    <category>
+      <category>Sulfhydryl Compounds</category>
+      <mesh-id>D013438</mesh-id>
+    </category>
+    <category>
+      <category>Sulfur Compounds</category>
+      <mesh-id>D013457</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+    <category>
+      <category>Uricosuric Agents</category>
+      <mesh-id>D014528</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Tablet, film coated</form>
+      <route>Oral</route>
+      <strength>200 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, film coated</form>
+      <route>Oral</route>
+      <strength>200 mg/1</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="M04AB05">
+      <level code="M04AB">Preparations increasing uric acid excretion</level>
+      <level code="M04A">ANTIGOUT PREPARATIONS</level>
+      <level code="M04">ANTIGOUT PREPARATIONS</level>
+      <level code="M">MUSCULO-SKELETAL SYSTEM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB11560.pdf?1457580478</fda-label>
+  <patents>
+    <patent>
+      <number>8003681</number>
+      <country>United States</country>
+      <approved>2005-08-25</approved>
+      <expires>2025-08-25</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8084483</number>
+      <country>United States</country>
+      <approved>2009-08-17</approved>
+      <expires>2029-08-17</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8283369</number>
+      <country>United States</country>
+      <approved>2008-11-26</approved>
+      <expires>2028-11-26</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8357713</number>
+      <country>United States</country>
+      <approved>2008-11-26</approved>
+      <expires>2028-11-26</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8546436</number>
+      <country>United States</country>
+      <approved>2012-02-29</approved>
+      <expires>2032-02-29</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8546437</number>
+      <country>United States</country>
+      <approved>2009-04-29</approved>
+      <expires>2029-04-29</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9216179</number>
+      <country>United States</country>
+      <approved>2010-08-02</approved>
+      <expires>2030-08-02</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB05812</drugbank-id>
+      <name>Abiraterone</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Abiraterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01118</drugbank-id>
+      <name>Amiodarone</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Amiodarone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00673</drugbank-id>
+      <name>Aprepitant</name>
+      <description>The metabolism of Lesinurad can be increased when combined with Aprepitant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01101</drugbank-id>
+      <name>Capecitabine</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Capecitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The metabolism of Lesinurad can be increased when combined with Carbamazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09063</drugbank-id>
+      <name>Ceritinib</name>
+      <description>The serum concentration of Lesinurad can be increased when it is combined with Ceritinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00169</drugbank-id>
+      <name>Cholecalciferol</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Cholecalciferol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00257</drugbank-id>
+      <name>Clotrimazole</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Clotrimazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00091</drugbank-id>
+      <name>Cyclosporine</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Cyclosporine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08912</drugbank-id>
+      <name>Dabrafenib</name>
+      <description>The serum concentration of Lesinurad can be decreased when it is combined with Dabrafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00705</drugbank-id>
+      <name>Delavirdine</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Delavirdine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00625</drugbank-id>
+      <name>Efavirenz</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Efavirenz.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06414</drugbank-id>
+      <name>Etravirine</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Etravirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00322</drugbank-id>
+      <name>Floxuridine</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Floxuridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00196</drugbank-id>
+      <name>Fluconazole</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Fluconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00544</drugbank-id>
+      <name>Fluorouracil</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Fluorouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01095</drugbank-id>
+      <name>Fluvastatin</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Fluvastatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00176</drugbank-id>
+      <name>Fluvoxamine</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Fluvoxamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01320</drugbank-id>
+      <name>Fosphenytoin</name>
+      <description>The metabolism of Lesinurad can be increased when combined with Fosphenytoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01241</drugbank-id>
+      <name>Gemfibrozil</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Gemfibrozil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00224</drugbank-id>
+      <name>Indinavir</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Indinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01029</drugbank-id>
+      <name>Irbesartan</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Irbesartan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01026</drugbank-id>
+      <name>Ketoconazole</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Ketoconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01097</drugbank-id>
+      <name>Leflunomide</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Leflunomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00678</drugbank-id>
+      <name>Losartan</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Losartan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00227</drugbank-id>
+      <name>Lovastatin</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Lovastatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09280</drugbank-id>
+      <name>Lumacaftor</name>
+      <description>The serum concentration of Lesinurad can be decreased when it is combined with Lumacaftor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00834</drugbank-id>
+      <name>Mifepristone</name>
+      <description>The serum concentration of Lesinurad can be increased when it is combined with Mifepristone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00622</drugbank-id>
+      <name>Nicardipine</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Nicardipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00338</drugbank-id>
+      <name>Omeprazole</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Omeprazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01174</drugbank-id>
+      <name>Phenobarbital</name>
+      <description>The metabolism of Lesinurad can be increased when combined with Phenobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00252</drugbank-id>
+      <name>Phenytoin</name>
+      <description>The metabolism of Lesinurad can be increased when combined with Phenytoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00794</drugbank-id>
+      <name>Primidone</name>
+      <description>The metabolism of Lesinurad can be increased when combined with Primidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00205</drugbank-id>
+      <name>Pyrimethamine</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Pyrimethamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00468</drugbank-id>
+      <name>Quinine</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Quinine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01045</drugbank-id>
+      <name>Rifampicin</name>
+      <description>The metabolism of Lesinurad can be increased when combined with Rifampicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01201</drugbank-id>
+      <name>Rifapentine</name>
+      <description>The metabolism of Lesinurad can be increased when combined with Rifapentine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00418</drugbank-id>
+      <name>Secobarbital</name>
+      <description>The metabolism of Lesinurad can be increased when combined with Secobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00203</drugbank-id>
+      <name>Sildenafil</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Sildenafil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00398</drugbank-id>
+      <name>Sorafenib</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Sorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00359</drugbank-id>
+      <name>Sulfadiazine</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Sulfadiazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01015</drugbank-id>
+      <name>Sulfamethoxazole</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Sulfamethoxazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00263</drugbank-id>
+      <name>Sulfisoxazole</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Sulfisoxazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08816</drugbank-id>
+      <name>Ticagrelor</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Ticagrelor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00208</drugbank-id>
+      <name>Ticlopidine</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Ticlopidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01124</drugbank-id>
+      <name>Tolbutamide</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Tolbutamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00440</drugbank-id>
+      <name>Trimethoprim</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Trimethoprim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00313</drugbank-id>
+      <name>Valproic Acid</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Valproic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00177</drugbank-id>
+      <name>Valsartan</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Valsartan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00582</drugbank-id>
+      <name>Voriconazole</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Voriconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00549</drugbank-id>
+      <name>Zafirlukast</name>
+      <description>The metabolism of Lesinurad can be decreased when combined with Zafirlukast.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>3.42</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-4.7</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>7.79e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>4.09</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>2-{[5-bromo-4-(4-cyclopropylnaphthalen-1-yl)-4H-1,2,4-triazol-3-yl]sulfanyl}acetic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>{[5-bromo-4-(4-cyclopropylnaphthalen-1-yl)-1,2,4-triazol-3-yl]sulfanyl}acetic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>404.28</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>402.999011</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>OC(=O)CSC1=NN=C(Br)N1C1=CC=C(C2CC2)C2=C1C=CC=C2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C17H14BrN3O2S</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C17H14BrN3O2S/c18-16-19-20-17(24-9-15(22)23)21(16)14-8-7-11(10-5-6-10)12-3-1-2-4-13(12)14/h1-4,7-8,10H,5-6,9H2,(H,22,23)</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>FGQFOYHRJSUHMR-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>68.01</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>109.15</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>36.59</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>3.13</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-0.05</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>90929</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D09921</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Lesinurad</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2105720</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/zurampic-drug.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>https://www.drugs.com/mtm/lesinurad.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0004782</id>
+      <name>Solute carrier family 22 member 12</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q96S37" source="Swiss-Prot">
+    <name>Solute carrier family 22 member 12</name>
+    <general-function>Urate transmembrane transporter activity</general-function>
+    <specific-function>Required for efficient urate re-absorption in the kidney. Regulates blood urate levels. Mediates saturable urate uptake by facilitating the exchange of urate against organic anions.</specific-function>
+    <gene-name>SLC22A12</gene-name>
+    <locus/>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>9-29
+146-166
+174-194
+195-215
+232-252
+260-280
+351-371
+378-398
+407-427
+435-455
+466-486
+495-515</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight>59629.57</molecular-weight>
+    <chromosome-location>11</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:17989</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1031</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q96S37</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>S22AC_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>OATL4</synonym>
+      <synonym>Organic anion transporter 4-like protein</synonym>
+      <synonym>Renal-specific transporter</synonym>
+      <synonym>RST</synonym>
+      <synonym>URAT1</synonym>
+      <synonym>Urate anion exchanger 1</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0008631|Solute carrier family 22 member 12
+MAFSELLDLVGGLGRFQVLQTMALMVSIMWLCTQSMLENFSAAVPSHRCWAPLLDNSTAQ
+ASILGSLSPEALLAISIPPGPNQRPHQCRRFRQPQWQLLDPNATATSWSEADTEPCVDGW
+VYDRSIFTSTIVAKWNLVCDSHALKPMAQSIYLAGILVGAAACGPASDRFGRRLVLTWSY
+LQMAVMGTAAAFAPAFPVYCLFRFLLAFAVAGVMMNTGTLLMEWTAARARPLVMTLNSLG
+FSFGHGLTAAVAYGVRDWTLLQLVVSVPFFLCFLYSWWLAESARWLLTTGRLDWGLQELW
+RVAAINGKGAVQDTLTPEVLLSAMREELSMGQPPASLGTLLRMPGLRFRTCISTLCWFAF
+GFTFFGLALDLQALGSNIFLLQMFIGVVDIPAKMGALLLLSHLGRRPTLAASLLLAGLCI
+LANTLVPHEMGALRSALAVLGLGGVGAAFTCITIYSSELFPTVLRMTAVGLGQMAARGGA
+ILGPLVRLLGVHGPWLPLLVYGTVPVLSGLAALLLPETQSLPLPDTIQDVQNQAVKKATH
+GTLGNSVLKSTQF</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0013316|Solute carrier family 22 member 12 (SLC22A12)
+ATGGCATTTTCTGAACTCCTGGACCTCGTGGGTGGCCTGGGCAGGTTCCAGGTTCTCCAG
+ACGATGGCTCTGATGGTCTCCATCATGTGGCTGTGTACCCAGAGCATGCTGGAGAACTTC
+TCGGCCGCCGTGCCCAGCCACCGCTGCTGGGCACCCCTCCTGGACAACAGCACGGCTCAG
+GCCAGCATCCTAGGGAGCTTGAGTCCTGAGGCCCTCCTGGCTATTTCCATCCCGCCGGGC
+CCCAACCAGAGGCCCCACCAGTGCCGCCGCTTCCGCCAGCCACAGTGGCAGCTCTTGGAC
+CCCAATGCCACGGCCACCAGCTGGAGCGAGGCCGACACGGAGCCGTGTGTGGATGGCTGG
+GTCTATGACCGCAGCATCTTCACCTCCACAATCGTGGCCAAGTGGAACCTCGTGTGTGAC
+TCTCATGCTCTGAAGCCCATGGCCCAGTCCATCTACCTGGCTGGGATTCTGGTGGGAGCT
+GCTGCGTGCGGCCCTGCCTCAGACAGGTTTGGGCGCAGGCTGGTGCTAACCTGGAGCTAC
+CTTCAGATGGCTGTGATGGTGATGGAGTGGACGGCGGCACGGGCCCGACCCTTGGTGATG
+ACCTTGAACTCTCTGGGCTTCAGCTTCGGCCATGGCCTGACAGCTGCAGTGGCCTACGGT
+GTGCGGGACTGGACACTGCTGCAGCTGGTGGTCTCGGTCCCCTTCTTCCTCTGCTTTTTG
+TACTCCTGGTGGCTGGCAGAGTCGGCACGATGGCTCCTCACCACAGGCAGGCTGGATTGG
+GGCCTGCAGGAGCTGTGGAGGGTGGCTGCCATCAACGGAAAGGGGGCAGTGCAGGACACC
+CTGACCCCTGAGGTCTTGCTTTCAGCCATGCGGGAGGAGCTGAGCATGGGCCAGCCTCCT
+GCCAGCCTGGGCACCCTGCTCCGCATGCCCGGACTGCGCTTCCGGACCTGTATCTCCACG
+TTGTGCTGGTTCGCCTTTGGCTTCACCTTCTTCGGCCTGGCCCTGGACCTGCAGGCCCTG
+GGCAGCAACATCTTCCTGCTCCAAATGTTCATTGGTGTCGTGGACATCCCAGCCAAGATG
+GGCGCCCTGCTGCTGCTGAGCCACCTGGGCCGCCGCCCCACGCTGGCCGCATCCCTGTTG
+CTGGCAGGGCTCTGCATTCTGGCCAACACGCTGGTGCCCCACGAAATGGGGGCTCTGCGC
+TCAGCCTTGGCCGTGCTGGGGCTGGGCGGGGTGGGGGCTGCCTTCACCTGCATCACCATC
+TACAGCAGCGAGCTCTTCCCCACTGTGCTCAGGATGACGGCAGTGGGCTTGGGCCAGATG
+GCAGCCCGTGGAGGAGCCATCCTGGGGCCTCTGGTCCGGCTGCTGGGTGTCCATGGCCCC
+TGGCTGCCCTTGCTGGTGTATGGGACGGTGCCAGTGCTGAGTGGCCTGGCCGCACTGCTT
+CTGCCCGAGACCCAGAGCTTGCCGCTGCCCGACACCATCCAAGATGTGCAGAACCAGGCA
+GTAAAGAAGGCAACACATGGCACGCTGGGGAACTCTGTCCTAAAATCCACACAGTTTTAG
+</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF07690</identifier>
+        <name>MFS_1</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>apical plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>brush border membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>urate transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>PDZ domain binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>inorganic anion exchanger activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>sodium-independent organic anion transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>anion transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>organic acid transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>urate transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sodium-independent organic anion transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to drug</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>urate metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular homeostasis</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0000879</id>
+      <name>Solute carrier family 22 member 11</name>
+      <organism>Human</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q9NSA0" source="Swiss-Prot">
+    <name>Solute carrier family 22 member 11</name>
+    <general-function>Sodium-independent organic anion transmembrane transporter activity</general-function>
+    <specific-function>Mediates saturable uptake of estrone sulfate, dehydroepiandrosterone sulfate and related compounds.</specific-function>
+    <gene-name>SLC22A11</gene-name>
+    <locus>11q13.1</locus>
+    <cellular-location>Cell membrane</cellular-location>
+    <transmembrane-regions>11-31
+143-163
+175-195
+201-221
+232-252
+257-277
+347-367
+379-399
+403-423
+431-451
+464-484
+491-511</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>8.71</theoretical-pi>
+    <molecular-weight>59970.945</molecular-weight>
+    <chromosome-location>11</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:18120</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>SLC22A11</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>AB026116</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>7707622</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1030</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9NSA0</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>S22AB_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>OAT4</synonym>
+      <synonym>Organic anion transporter 4</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001752|Solute carrier family 22 member 11
+MAFSKLLEQAGGVGLFQTLQVLTFILPCLMIPSQMLLENFSAAIPGHRCWTHMLDNGSAV
+STNMTPKALLTISIPPGPNQGPHQCRRFRQPQWQLLDPNATATSWSEADTEPCVDGWVYD
+RSVFTSTIVAKWDLVCSSQGLKPLSQSIFMSGILVGSFIWGLLSYRFGRKPMLSWCCLQL
+AVAGTSTIFAPTFVIYCGLRFVAAFGMAGIFLSSLTLMVEWTTTSRRAVTMTVVGCAFSA
+GQAALGGLAFALRDWRTLQLAASVPFFAISLISWWLPESARWLIIKGKPDQALQELRKVA
+RINGHKEAKNLTIEVLMSSVKEEVASAKEPRSVLDLFCVPVLRWRSCAMLVVNFSLLISY
+YGLVFDLQSLGRDIFLLQALFGAVDFLGRATTALLLSFLGRRTIQAGSQAMAGLAILANM
+LVPQDLQTLRVVFAVLGKGCFGISLTCLTIYKAELFPTPVRMTADGILHTVGRLGAMMGP
+LILMSRQALPLLPPLLYGVISIASSLVVLFFLPETQGLPLPDTIQDLESQKSTAAQGNRQ
+EAVTVESTSL</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0010620|Solute carrier family 22 member 11 (SLC22A11)
+ATGGCGTTCTCGAAGCTCTTGGAGCAAGCCGGAGGCGTGGGCCTCTTCCAGACCCTGCAG
+GTGCTCACCTTCATCCTCCCCTGCCTCATGATACCTTCCCAGATGCTCCTGGAGAACTTC
+TCAGCCGCCATCCCAGGCCACCGATGCTGGACACACATGCTGGACAATGGCTCTGCGGTT
+TCCACAAACATGACCCCCAAGGCCCTTCTGACCATCTCCATCCCGCCAGGCCCCAACCAG
+GGGCCCCACCAGTGCCGCCGCTTCCGCCAGCCACAGTGGCAGCTCTTGGACCCCAATGCC
+ACGGCCACCAGCTGGAGCGAAGCTGACACGGAGCCGTGTGTGGACGGCTGGGTCTATGAC
+CGCAGCGTCTTCACCTCCACCATCGTGGCCAAGTGGGACCTGGTGTGCAGCTCCCAGGGC
+TTGAAGCCCCTAAGCCAGTCCATCTTCATGTCCGGGATCCTGGTGGGCTCCTTTATCTGG
+GGCCTCCTCTCCTACCGGTTTGGGAGGAAGCCGATGCTGAGCTGGTGCTGCCTGCAGTTG
+GCCGTGGCGGGCACCAGCACCATCTTCGCCCCAACATTCGTCATCTACTGCGGCCTGCGG
+TTCGTGGCCGCTTTTGGGATGGCCGGCATCTTTCTGAGTTCACTGACACTGATGGTGGAG
+TGGACCACGACCAGCAGGAGGGCGGTCACCATGACGGTGGTGGGATGTGCCTTCAGCGCA
+GGCCAGGCGGCGCTGGGCGGCCTGGCCTTTGCCCTGCGGGACTGGAGGACTCTCCAGCTG
+GCAGCATCAGTGCCCTTCTTTGCCATCTCCCTGATATCCTGGTGGCTGCCAGAATCCGCC
+CGGTGGCTGATTATTAAGGGCAAACCAGACCAAGCACTTCAGGAGCTCAGAAAGGTGGCC
+AGGATAAATGGCCACAAGGAGGCCAAGAACCTGACCATAGAGGTGCTGATGTCCAGCGTG
+AAGGAGGAGGTGGCCTCTGCAAAGGAGCCGCGGTCGGTGCTGGACCTGTTCTGCGTGCCC
+GTGCTCCGCTGGAGGAGCTGCGCCATGCTGGTGGTGAAGATGACAGCAGATGGCATTCTG
+CATACAGTGGGCCGGCTGGGGGCTATGATGGGTCCCCTGATCCTGATGAGCCGCCAAGCC
+CTGCCCCTGCTGCCTCCTCTCCTCTATGGCGTTATCTCCATTGCTTCCAGCCTGGTTGTG
+CTGTTCTTCCTCCCGGAGACCCAGGGACTTCCGCTCCCTGACACTATCCAGGACCTGGAG
+AGCCAGAAATCAACAGCAGCCCAGGGCAACCGGCAAGAGGCCGTCACTGTGGAAAGTACC
+TCGCTCTAG</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00083</identifier>
+        <name>Sugar_tr</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>apical plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>external side of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral component of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>inorganic anion exchanger activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>organic anion transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>sodium-independent organic anion transmembrane transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>anion transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transmembrane transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>sodium-independent organic anion transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>organic anion transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>urate metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes>
+    <enzyme position="3">
+      <id>BE0002793</id>
+      <name>Cytochrome P450 2C9</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>no</known-action>
+      <polypeptide id="P11712" source="Swiss-Prot">
+    <name>Cytochrome P450 2C9</name>
+    <general-function>Steroid hydroxylase activity</general-function>
+    <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It oxidizes a variety of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. This enzyme contributes to the wide pharmacokinetics variability of the metabolism of drugs such as S-warfarin, diclofenac, phenytoin, tolbutamide and losartan.</specific-function>
+    <gene-name>CYP2C9</gene-name>
+    <locus>10q24</locus>
+    <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>7.99</theoretical-pi>
+    <molecular-weight>55627.365</molecular-weight>
+    <chromosome-location>10</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2623</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CYP2C9</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>AY341248</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1326</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P11712</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CP2C9_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>(R)-limonene 6-monooxygenase</synonym>
+      <synonym>(S)-limonene 6-monooxygenase</synonym>
+      <synonym>(S)-limonene 7-monooxygenase</synonym>
+      <synonym>1.14.13.-</synonym>
+      <synonym>Cholesterol 25-hydroxylase</synonym>
+      <synonym>CYP2C10</synonym>
+      <synonym>CYPIIC9</synonym>
+      <synonym>Cytochrome P-450MP</synonym>
+      <synonym>Cytochrome P450 MP-4</synonym>
+      <synonym>Cytochrome P450 MP-8</synonym>
+      <synonym>Cytochrome P450 PB-1</synonym>
+      <synonym>S-mephenytoin 4-hydroxylase</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0005471|Cytochrome P450 2C9
+MDSLVVLVLCLSCLLLLSLWRQSSGRGKLPPGPTPLPVIGNILQIGIKDISKSLTNLSKV
+YGPVFTLYFGLKPIVVLHGYEAVKEALIDLGEEFSGRGIFPLAERANRGFGIVFSNGKKW
+KEIRRFSLMTLRNFGMGKRSIEDRVQEEARCLVEELRKTKASPCDPTFILGCAPCNVICS
+IIFHKRFDYKDQQFLNLMEKLNENIKILSSPWIQICNNFSPIIDYFPGTHNKLLKNVAFM
+KSYILEKVKEHQESMDMNNPQDFIDCFLMKMEKEKHNQPSEFTIESLENTAVDLFGAGTE
+TTSTTLRYALLLLLKHPEVTAKVQEEIERVIGRNRSPCMQDRSHMPYTDAVVHEVQRYID
+LLPTSLPHAVTCDIKFRNYLIPKGTTILISLTSVLHDNKEFPNPEMFDPHHFLDEGGNFK
+KSKYFMPFSAGKRICVGEALAGMELFLFLTSILQNFNLKSLVDPKNLDTTPVVNGFASVP
+PFYQLCFIPV</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016893|Cytochrome P450 2C9 (CYP2C9)
+ATGGATTCTCTTGTGGTCCTTGTGCTCTGTCTCTCATGTTTGCTTCTCCTTTCACTCTGG
+AGACAGAGCTCTGGGAGAGGAAAACTCCCTCCTGGCCCCACTCCTCTCCCAGTGATTGGA
+AATATCCTACAGATAGGTATTAAGGACATCAGCAAATCCTTAACCAATCTCTCAAAGGTC
+TATGGCCCTGTGTTCACTCTGTATTTTGGCCTGAAACCCATAGTGGTGCTGCATGGATAT
+GAAGCAGTGAAGGAAGCCCTGATTGATCTTGGAGAGGAGTTTTCTGGAAGAGGCATTTTC
+CCACTGGCTGAAAGAGCTAACAGAGGATTTGGAATTGTTTTCAGCAATGGAAAGAAATGG
+AAGGAGATCCGGCGTTTCTCCCTCATGACGCTGCGGAATTTTGGGATGGGGAAGAGGAGC
+ATTGAGGACCGTGTTCAAGAGGAAGCCCGCTGCCTTGTGGAGGAGTTGAGAAAAACCAAG
+GCCTCACCCTGTGATCCCACTTTCATCCTGGGCTGTGCTCCCTGCAATGTGATCTGCTCC
+ATTATTTTCCATAAACGTTTTGATTATAAAGATCAGCAATTTCTTAACTTAATGGAAAAG
+TTGAATGAAAACATCAAGATTTTGAGCAGCCCCTGGATCCAGATCTGCAATAATTTTTCT
+CCTATCATTGATTACTTCCCGGGAACTCACAACAAATTACTTAAAAACGTTGCTTTTATG
+AAAAGTTATATTTTGGAAAAAGTAAAAGAACACCAAGAATCAATGGACATGAACAACCCT
+CAGGACTTTATTGATTGCTTCCTGATGAAAATGGAGAAGGAAAAGCACAACCAACCATCT
+GAATTTACTATTGAAAGCTTGGAAAACACTGCAGTTGACTTGTTTGGAGCTGGGACAGAG
+ACGACAAGCACAACCCTGAGATATGCTCTCCTTCTCCTGCTGAAGCACCCAGAGGTCACA
+GCTAAAGTCCAGGAAGAGATTGAACGTGTGATTGGCAGAAACCGGAGCCCCTGCATGCAA
+GACAGGAGCCACATGCCCTACACAGATGCTGTGGTGCACGAGGTCCAGAGATACATTGAC
+CTTCTCCCCACCAGCCTGCCCCATGCAGTGACCTGTGACATTAAATTCAGAAACTATCTC
+ATTCCCAAGGGCACAACCATATTAATTTCCCTGACTTCTGTGCTACATGACAACAAAGAA
+TTTCCCAACCCAGAGATGTTTGACCCTCATCACTTTCTGGATGAAGGTGGCAATTTTAAG
+AAAAGTAAATACTTCATGCCTTTCTCAGCAGGAAAACGGATTTGTGTGGGAGAAGCCCTG
+GCCGGCATGGAGCTGTTTTTATTCCTGACCTCCATTTTACAGAACTTTAACCTGAAATCT
+CTGGTTGACCCAAAGAACCTTGACACCACTCCAGTTGTCAATGGATTTGCCTCTGTGCCG
+CCCTTCTACCAGCTGTGCTTCATTCCTGTCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00067</identifier>
+        <name>p450</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>endoplasmic reticulum membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hydroxylase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>(R)-limonene 6-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxygen binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>(S)-limonene 6-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>aromatase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>(S)-limonene 7-monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>caffeine oxidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>drug binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>oxidoreductase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>iron ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>heme binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>arachidonic acid epoxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>monooxygenase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>epoxygenase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>exogenous drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monocarboxylic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular amide metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>urea metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug catabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidation-reduction process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>monoterpenoid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>steroid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>omega-hydroxylase P450 pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>oxidative demethylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>arachidonic acid metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>drug metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

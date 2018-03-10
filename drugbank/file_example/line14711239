@@ -1,0 +1,1681 @@
+<drug type="biotech" created="2015-12-03" updated="2017-03-01">
+  <drugbank-id primary="true">DB11095</drugbank-id>
+  <name>Desirudin</name>
+  <description>Desirudin is a direct inhibitor of human thrombin. It has a protein structure that is similar to that of hirudin, the naturally occurring anticoagulant present in the peripharyngeal glands in the medicinal leech, Hirudo medicinalis. Hirudin is a single polypeptide chain of 65 amino acids residues and contains three disulfide bridges. Desirudin has a chemical formula of C287H440N80O110S6 with a molecular weight of 6963.52.&#13;
+&#13;
+It is mainly indicated for the prevention of deep vein thrombosis in hip replacement surgery patients. &#13;
+Common side effects include: Bleeding gums, collection of blood under the skin, coughing up blood, deep, dark purple bruise and difficulty with breathing or swallowing.</description>
+  <cas-number>120993-53-5</cas-number>
+  <unii>U0JZ726775</unii>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Monograph</title>
+        <url>https://www.drugs.com/ppa/desirudin.html</url>
+      </link>
+      <link>
+        <title>FDA label</title>
+        <url>http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021271s006lbl.pdf</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Indicated as prophylaxis of deep vein thrombosis for patients undergoing hip replacement surgery. </indication>
+  <pharmacodynamics>Desirudin results in dose-dependent prolongation of the activated partial thromboplastin time (aPTT). </pharmacodynamics>
+  <mechanism-of-action>Desirudin is a direct, highly selective thrombin inhibitor. Reversibly binds to the active thrombin site of free and clot-associated thrombin. Inhibits fibrin formation, activation of coagulation factors V, VII, and XIII, and thrombin-induced platelet aggregation resulting in a dose-dependent prolongation of the activated partial thromboplastin time (aPTT). </mechanism-of-action>
+  <toxicity>No data available.</toxicity>
+  <metabolism>Human and animal data suggest that desirudin is primarily eliminated and metabolized by the kidney. The total urinary excretion of unchanged desirudin&#13;
+amounts to 40 to 50% of the administered dose. Metabolites lacking one or two C-terminal amino acids constitute a minor proportion of the material&#13;
+recovered from urine (&lt; 7%). There is no evidence for the presence of other metabolites. This indicates that desirudin is metabolized by stepwise&#13;
+degradation from the C-terminus probably catalyzed by carboxypeptidase(s) such as  carboxypeptidase A. </metabolism>
+  <absorption>Absorption is complete after subcutaneous administration.  Time to peak in plasma is 1 to 3 hours. </absorption>
+  <half-life>~2 hours. </half-life>
+  <protein-binding>Desirudin binds specifically and directly to thrombin, forming an extremely tight, non-covalent complex with an inhibitionconstant of approximately 2.6 x 10-13 M. Thus, free or protein bound desirudin immediately binds circulating thrombin. </protein-binding>
+  <route-of-elimination>Urine (40% to 50% as unchanged drug). </route-of-elimination>
+  <volume-of-distribution>0.25 L/kg. </volume-of-distribution>
+  <clearance>1.5 to 2.7 mL/min/kg. </clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">63-Desulfohirudin</synonym>
+    <synonym language="" coder="">63-Desulfohirudin (Hirudo Medicinalis Isoform HV1)</synonym>
+    <synonym language="" coder="">63-Desulfohirudin (recombinant)</synonym>
+    <synonym language="" coder="">Desirudin recombinant</synonym>
+    <synonym language="" coder="">Hirudin desirudin</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Iprivask</name>
+      <labeller>Marathon Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>42998-715</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-12-31</started-marketing-on>
+      <ended-marketing-on>2016-08-31</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route/>
+      <fda-application-number>NDA021271</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Iprivask</name>
+      <labeller>Valeant Pharmaceuticals North America</labeller>
+      <ndc-id/>
+      <ndc-product-code>0187-0011</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number>NDA021271</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Iprivask</name>
+      <ingredients>Desirudin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Iprivask</name>
+      <ingredients>Desirudin</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Anticoagulants</category>
+      <mesh-id>D000925</mesh-id>
+    </category>
+    <category>
+      <category>Antithrombin Proteins</category>
+      <mesh-id>D058833</mesh-id>
+    </category>
+    <category>
+      <category>Antithrombins</category>
+      <mesh-id>D000991</mesh-id>
+    </category>
+    <category>
+      <category>Blood and Blood Forming Organs</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Cardiovascular Agents</category>
+      <mesh-id>D002317</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Fibrin Modulating Agents</category>
+      <mesh-id>D050299</mesh-id>
+    </category>
+    <category>
+      <category>Fibrinolytic Agents</category>
+      <mesh-id>D005343</mesh-id>
+    </category>
+    <category>
+      <category>Hematologic Agents</category>
+      <mesh-id>D006401</mesh-id>
+    </category>
+    <category>
+      <category>Molecular Mechanisms of Pharmacological Action</category>
+      <mesh-id>D045504</mesh-id>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Serpins</category>
+      <mesh-id>D015843</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="B01AE01">
+      <level code="B01AE">Direct thrombin inhibitors</level>
+      <level code="B01A">ANTITHROMBOTIC AGENTS</level>
+      <level code="B01">ANTITHROMBOTIC AGENTS</level>
+      <level code="B">BLOOD AND BLOOD FORMING ORGANS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>Abciximab may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06736</drugbank-id>
+      <name>Aceclofenac</name>
+      <description>Aceclofenac may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>Acenocoumarol may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12618</drugbank-id>
+      <name>Acetovanillone</name>
+      <description>Acetovanillone may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00945</drugbank-id>
+      <name>Acetylsalicylic acid</name>
+      <description>Acetylsalicylic acid may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00210</drugbank-id>
+      <name>Adapalene</name>
+      <description>Adapalene may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01431</drugbank-id>
+      <name>Allylestrenol</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Allylestrenol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00770</drugbank-id>
+      <name>Alprostadil</name>
+      <description>Alprostadil may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00009</drugbank-id>
+      <name>Alteplase</name>
+      <description>Alteplase may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11372</drugbank-id>
+      <name>Altrenogest</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Altrenogest.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06081</drugbank-id>
+      <name>ALX-0081</name>
+      <description>ALX-0081 may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00233</drugbank-id>
+      <name>Aminosalicylic Acid</name>
+      <description>Aminosalicylic Acid may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00261</drugbank-id>
+      <name>Anagrelide</name>
+      <description>Anagrelide may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05099</drugbank-id>
+      <name>Ancrod</name>
+      <description>Ancrod may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11785</drugbank-id>
+      <name>Anisodamine</name>
+      <description>Anisodamine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00029</drugbank-id>
+      <name>Anistreplase</name>
+      <description>Anistreplase may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01435</drugbank-id>
+      <name>Antipyrine</name>
+      <description>Antipyrine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11598</drugbank-id>
+      <name>Antithrombin III human</name>
+      <description>Desirudin may increase the anticoagulant activities of Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06605</drugbank-id>
+      <name>Apixaban</name>
+      <description>Apixaban may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05676</drugbank-id>
+      <name>Apremilast</name>
+      <description>Apremilast may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06692</drugbank-id>
+      <name>Aprotinin</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Aprotinin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00407</drugbank-id>
+      <name>Ardeparin</name>
+      <description>Ardeparin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00278</drugbank-id>
+      <name>Argatroban</name>
+      <description>Argatroban may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06543</drugbank-id>
+      <name>Astaxanthin</name>
+      <description>Astaxanthin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07402</drugbank-id>
+      <name>Azapropazone</name>
+      <description>Azapropazone may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00972</drugbank-id>
+      <name>Azelastine</name>
+      <description>Azelastine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01014</drugbank-id>
+      <name>Balsalazide</name>
+      <description>Balsalazide may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09005</drugbank-id>
+      <name>Batroxobin</name>
+      <description>Batroxobin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06401</drugbank-id>
+      <name>Bazedoxifene</name>
+      <description>Bazedoxifene may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00102</drugbank-id>
+      <name>Becaplermin</name>
+      <description>Becaplermin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09258</drugbank-id>
+      <name>Bemiparin</name>
+      <description>Bemiparin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04812</drugbank-id>
+      <name>Benoxaprofen</name>
+      <description>Benoxaprofen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05229</drugbank-id>
+      <name>Beraprost</name>
+      <description>Beraprost may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12480</drugbank-id>
+      <name>Betulinic Acid</name>
+      <description>Betulinic Acid may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00006</drugbank-id>
+      <name>Bivalirudin</name>
+      <description>Bivalirudin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00963</drugbank-id>
+      <name>Bromfenac</name>
+      <description>Bromfenac may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12160</drugbank-id>
+      <name>Bucillamine</name>
+      <description>Bucillamine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12749</drugbank-id>
+      <name>Butylphthalide</name>
+      <description>Butylphthalide may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06441</drugbank-id>
+      <name>Cangrelor</name>
+      <description>Cangrelor may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00821</drugbank-id>
+      <name>Carprofen</name>
+      <description>Carprofen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01816</drugbank-id>
+      <name>Castanospermine</name>
+      <description>Castanospermine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00482</drugbank-id>
+      <name>Celecoxib</name>
+      <description>Celecoxib may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09261</drugbank-id>
+      <name>Certoparin</name>
+      <description>Certoparin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00608</drugbank-id>
+      <name>Chloroquine</name>
+      <description>Chloroquine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00269</drugbank-id>
+      <name>Chlorotrianisene</name>
+      <description>Chlorotrianisene may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01166</drugbank-id>
+      <name>Cilostazol</name>
+      <description>Cilostazol may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04272</drugbank-id>
+      <name>Citric Acid</name>
+      <description>Citric Acid may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09218</drugbank-id>
+      <name>Clonixin</name>
+      <description>Clonixin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00758</drugbank-id>
+      <name>Clopidogrel</name>
+      <description>Clopidogrel may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11249</drugbank-id>
+      <name>Collagenase</name>
+      <description>The risk or severity of adverse effects can be increased when Desirudin is combined with Collagenase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00286</drugbank-id>
+      <name>Conjugated Equine Estrogens</name>
+      <description>Conjugated Equine Estrogens may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11672</drugbank-id>
+      <name>Curcumin</name>
+      <description>Curcumin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08921</drugbank-id>
+      <name>D-Limonene</name>
+      <description>D-Limonene may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06695</drugbank-id>
+      <name>Dabigatran etexilate</name>
+      <description>Dabigatran etexilate may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06779</drugbank-id>
+      <name>Dalteparin</name>
+      <description>Dalteparin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06754</drugbank-id>
+      <name>Danaparoid</name>
+      <description>Danaparoid may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>Dasatinib may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01609</drugbank-id>
+      <name>Deferasirox</name>
+      <description>The risk or severity of adverse effects can be increased when Desirudin is combined with Deferasirox.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04932</drugbank-id>
+      <name>Defibrotide</name>
+      <description>Defibrotide may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03619</drugbank-id>
+      <name>Deoxycholic Acid</name>
+      <description>The risk or severity of adverse effects can be increased when Desirudin is combined with Deoxycholic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06251</drugbank-id>
+      <name>dersalazine</name>
+      <description>dersalazine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04925</drugbank-id>
+      <name>Desmoteplase</name>
+      <description>Desmoteplase may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00304</drugbank-id>
+      <name>Desogestrel</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Desogestrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09255</drugbank-id>
+      <name>Dextran</name>
+      <description>Dextran may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11122</drugbank-id>
+      <name>Dextran 40</name>
+      <description>Desirudin may increase the anticoagulant activities of Dextran 40.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11076</drugbank-id>
+      <name>Dextran 70</name>
+      <description>Dextran 70 may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11241</drugbank-id>
+      <name>Dextran 75</name>
+      <description>Desirudin may increase the anticoagulant activities of Dextran 75.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00586</drugbank-id>
+      <name>Diclofenac</name>
+      <description>Diclofenac may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00266</drugbank-id>
+      <name>Dicoumarol</name>
+      <description>Dicoumarol may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00890</drugbank-id>
+      <name>Dienestrol</name>
+      <description>Dienestrol may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09123</drugbank-id>
+      <name>Dienogest</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Dienogest.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00255</drugbank-id>
+      <name>Diethylstilbestrol</name>
+      <description>Diethylstilbestrol may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00861</drugbank-id>
+      <name>Diflunisal</name>
+      <description>Diflunisal may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00975</drugbank-id>
+      <name>Dipyridamole</name>
+      <description>Dipyridamole may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08994</drugbank-id>
+      <name>Ditazole</name>
+      <description>Ditazole may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01395</drugbank-id>
+      <name>Drospirenone</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Drospirenone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00055</drugbank-id>
+      <name>Drotrecogin alfa</name>
+      <description>Drotrecogin alfa may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09215</drugbank-id>
+      <name>Droxicam</name>
+      <description>Droxicam may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11952</drugbank-id>
+      <name>Duvelisib</name>
+      <description>Duvelisib may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00378</drugbank-id>
+      <name>Dydrogesterone</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Dydrogesterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11687</drugbank-id>
+      <name>E6201</name>
+      <description>E6201 may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12610</drugbank-id>
+      <name>Ebselen</name>
+      <description>Ebselen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00974</drugbank-id>
+      <name>Edetic Acid</name>
+      <description>Edetic Acid may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09075</drugbank-id>
+      <name>Edoxaban</name>
+      <description>Edoxaban may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01225</drugbank-id>
+      <name>Enoxaparin</name>
+      <description>Enoxaparin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00751</drugbank-id>
+      <name>Epinastine</name>
+      <description>Epinastine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08991</drugbank-id>
+      <name>Epirizole</name>
+      <description>Epirizole may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06392</drugbank-id>
+      <name>eplivanserine</name>
+      <description>eplivanserine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01240</drugbank-id>
+      <name>Epoprostenol</name>
+      <description>Epoprostenol may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00063</drugbank-id>
+      <name>Eptifibatide</name>
+      <description>Eptifibatide may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00783</drugbank-id>
+      <name>Estradiol</name>
+      <description>Estradiol may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04573</drugbank-id>
+      <name>Estriol</name>
+      <description>Estriol may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>Estrone may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00005</drugbank-id>
+      <name>Etanercept</name>
+      <description>Etanercept may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00977</drugbank-id>
+      <name>Ethinyl Estradiol</name>
+      <description>Ethinyl Estradiol may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08794</drugbank-id>
+      <name>Ethyl biscoumacetate</name>
+      <description>Ethyl biscoumacetate may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00823</drugbank-id>
+      <name>Ethynodiol diacetate</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Ethynodiol diacetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00749</drugbank-id>
+      <name>Etodolac</name>
+      <description>Etodolac may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08984</drugbank-id>
+      <name>Etofenamate</name>
+      <description>Etofenamate may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00294</drugbank-id>
+      <name>Etonogestrel</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Etonogestrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01628</drugbank-id>
+      <name>Etoricoxib</name>
+      <description>Etoricoxib may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11358</drugbank-id>
+      <name>Evening primrose oil</name>
+      <description>Evening primrose oil may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06246</drugbank-id>
+      <name>exisulind</name>
+      <description>exisulind may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08981</drugbank-id>
+      <name>Fenbufen</name>
+      <description>Fenbufen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00573</drugbank-id>
+      <name>Fenoprofen</name>
+      <description>Fenoprofen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08977</drugbank-id>
+      <name>Fibrinolysin</name>
+      <description>Fibrinolysin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08976</drugbank-id>
+      <name>Floctafenine</name>
+      <description>Floctafenine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13136</drugbank-id>
+      <name>Fluindione</name>
+      <description>Desirudin may increase the anticoagulant activities of Fluindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11518</drugbank-id>
+      <name>Flunixin</name>
+      <description>Flunixin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00712</drugbank-id>
+      <name>Flurbiprofen</name>
+      <description>Flurbiprofen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11728</drugbank-id>
+      <name>Fondaparinux</name>
+      <description>Desirudin may increase the anticoagulant activities of Fondaparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00569</drugbank-id>
+      <name>Fondaparinux sodium</name>
+      <description>Fondaparinux sodium may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12831</drugbank-id>
+      <name>Gabexate</name>
+      <description>Desirudin may increase the anticoagulant activities of Gabexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01645</drugbank-id>
+      <name>Genistein</name>
+      <description>Genistein may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06730</drugbank-id>
+      <name>Gestodene</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Gestodene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11619</drugbank-id>
+      <name>Gestrinone</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Gestrinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03404</drugbank-id>
+      <name>Hemin</name>
+      <description>Hemin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>Heparin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07931</drugbank-id>
+      <name>Hexestrol</name>
+      <description>Hexestrol may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12779</drugbank-id>
+      <name>Higenamine</name>
+      <description>Higenamine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05767</drugbank-id>
+      <name>HMPL-004</name>
+      <description>HMPL-004 may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06789</drugbank-id>
+      <name>Hydroxyprogesterone caproate</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Hydroxyprogesterone caproate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00078</drugbank-id>
+      <name>Ibritumomab tiuxetan</name>
+      <description>The risk or severity of adverse effects can be increased when Desirudin is combined with Ibritumomab tiuxetan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09053</drugbank-id>
+      <name>Ibrutinib</name>
+      <description>The risk or severity of adverse effects can be increased when Ibrutinib is combined with Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05266</drugbank-id>
+      <name>Ibudilast</name>
+      <description>Ibudilast may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01050</drugbank-id>
+      <name>Ibuprofen</name>
+      <description>Ibuprofen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08955</drugbank-id>
+      <name>Ibuproxam</name>
+      <description>Ibuproxam may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06196</drugbank-id>
+      <name>Icatibant</name>
+      <description>Icatibant may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08887</drugbank-id>
+      <name>Icosapent ethyl</name>
+      <description>Icosapent ethyl may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06406</drugbank-id>
+      <name>idraparinux</name>
+      <description>Desirudin may increase the anticoagulant activities of idraparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08954</drugbank-id>
+      <name>Ifenprodil</name>
+      <description>Ifenprodil may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01088</drugbank-id>
+      <name>Iloprost</name>
+      <description>Iloprost may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12545</drugbank-id>
+      <name>Indobufen</name>
+      <description>Indobufen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00328</drugbank-id>
+      <name>Indomethacin</name>
+      <description>Indomethacin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08951</drugbank-id>
+      <name>Indoprofen</name>
+      <description>Indoprofen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08942</drugbank-id>
+      <name>Isoxicam</name>
+      <description>Isoxicam may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12017</drugbank-id>
+      <name>KCT-0809</name>
+      <description>Kct 0809 may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08940</drugbank-id>
+      <name>Kebuzone</name>
+      <description>Kebuzone may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12465</drugbank-id>
+      <name>Ketanserin</name>
+      <description>Ketanserin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01009</drugbank-id>
+      <name>Ketoprofen</name>
+      <description>Ketoprofen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00465</drugbank-id>
+      <name>Ketorolac</name>
+      <description>Ketorolac may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01097</drugbank-id>
+      <name>Leflunomide</name>
+      <description>Leflunomide may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00001</drugbank-id>
+      <name>Lepirudin</name>
+      <description>Lepirudin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00367</drugbank-id>
+      <name>Levonorgestrel</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Levonorgestrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09211</drugbank-id>
+      <name>Limaprost</name>
+      <description>The risk or severity of adverse effects can be increased when Limaprost is combined with Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12406</drugbank-id>
+      <name>Lisofylline</name>
+      <description>Lisofylline may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06725</drugbank-id>
+      <name>Lornoxicam</name>
+      <description>Lornoxicam may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09212</drugbank-id>
+      <name>Loxoprofen</name>
+      <description>Loxoprofen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01283</drugbank-id>
+      <name>Lumiracoxib</name>
+      <description>Lumiracoxib may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12474</drugbank-id>
+      <name>Lynestrenol</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Lynestrenol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01397</drugbank-id>
+      <name>Magnesium salicylate</name>
+      <description>Magnesium salicylate may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00179</drugbank-id>
+      <name>Masoprocol</name>
+      <description>Masoprocol may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00939</drugbank-id>
+      <name>Meclofenamic acid</name>
+      <description>Meclofenamic acid may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09124</drugbank-id>
+      <name>Medrogestone</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Medrogestone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00603</drugbank-id>
+      <name>Medroxyprogesterone acetate</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Medroxyprogesterone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00784</drugbank-id>
+      <name>Mefenamic acid</name>
+      <description>Mefenamic acid may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00351</drugbank-id>
+      <name>Megestrol acetate</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Megestrol acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00814</drugbank-id>
+      <name>Meloxicam</name>
+      <description>Meloxicam may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00244</drugbank-id>
+      <name>Mesalazine</name>
+      <description>Mesalazine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01357</drugbank-id>
+      <name>Mestranol</name>
+      <description>Mestranol may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04817</drugbank-id>
+      <name>Metamizole</name>
+      <description>Metamizole may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13143</drugbank-id>
+      <name>Methallenestril</name>
+      <description>Methallenestril may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00235</drugbank-id>
+      <name>Milrinone</name>
+      <description>Milrinone may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12617</drugbank-id>
+      <name>Mizoribine</name>
+      <description>Mizoribine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00688</drugbank-id>
+      <name>Mycophenolate mofetil</name>
+      <description>Mycophenolate mofetil may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01024</drugbank-id>
+      <name>Mycophenolic acid</name>
+      <description>Mycophenolic acid may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00461</drugbank-id>
+      <name>Nabumetone</name>
+      <description>Nabumetone may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08813</drugbank-id>
+      <name>Nadroparin</name>
+      <description>Nadroparin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12598</drugbank-id>
+      <name>Nafamostat</name>
+      <description>Nafamostat may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00735</drugbank-id>
+      <name>Naftifine</name>
+      <description>Naftifine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12092</drugbank-id>
+      <name>Naftopidil</name>
+      <description>Naftopidil may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00788</drugbank-id>
+      <name>Naproxen</name>
+      <description>Naproxen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05822</drugbank-id>
+      <name>NCX 4016</name>
+      <description>NCX 4016 may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06802</drugbank-id>
+      <name>Nepafenac</name>
+      <description>Nepafenac may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04552</drugbank-id>
+      <name>Niflumic Acid</name>
+      <description>Niflumic Acid may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04743</drugbank-id>
+      <name>Nimesulide</name>
+      <description>Nimesulide may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09079</drugbank-id>
+      <name>Nintedanib</name>
+      <description>The risk or severity of adverse effects can be increased when Desirudin is combined with Nintedanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12445</drugbank-id>
+      <name>Nitroaspirin</name>
+      <description>Nitroaspirin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11636</drugbank-id>
+      <name>Nomegestrol</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Nomegestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00717</drugbank-id>
+      <name>Norethisterone</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Norethisterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Desirudin is combined with Obinutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00768</drugbank-id>
+      <name>Olopatadine</name>
+      <description>Olopatadine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01250</drugbank-id>
+      <name>Olsalazine</name>
+      <description>Olsalazine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04865</drugbank-id>
+      <name>Omacetaxine mepesuccinate</name>
+      <description>The risk or severity of adverse effects can be increased when Desirudin is combined with Omacetaxine mepesuccinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11133</drugbank-id>
+      <name>Omega-3 fatty acids</name>
+      <description>Omega-3 fatty acids may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11444</drugbank-id>
+      <name>Orgotein</name>
+      <description>Orgotein may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06635</drugbank-id>
+      <name>Otamixaban</name>
+      <description>Otamixaban may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00991</drugbank-id>
+      <name>Oxaprozin</name>
+      <description>Oxaprozin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03585</drugbank-id>
+      <name>Oxyphenbutazone</name>
+      <description>Oxyphenbutazone may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08439</drugbank-id>
+      <name>Parecoxib</name>
+      <description>Parecoxib may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09260</drugbank-id>
+      <name>Parnaparin</name>
+      <description>Parnaparin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00686</drugbank-id>
+      <name>Pentosan Polysulfate</name>
+      <description>Pentosan Polysulfate may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00806</drugbank-id>
+      <name>Pentoxifylline</name>
+      <description>Pentoxifylline may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00498</drugbank-id>
+      <name>Phenindione</name>
+      <description>Phenindione may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00946</drugbank-id>
+      <name>Phenprocoumon</name>
+      <description>Phenprocoumon may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00812</drugbank-id>
+      <name>Phenylbutazone</name>
+      <description>Phenylbutazone may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00337</drugbank-id>
+      <name>Pimecrolimus</name>
+      <description>Pimecrolimus may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04951</drugbank-id>
+      <name>Pirfenidone</name>
+      <description>Pirfenidone may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00554</drugbank-id>
+      <name>Piroxicam</name>
+      <description>Piroxicam may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05254</drugbank-id>
+      <name>Plasmin</name>
+      <description>Plasmin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09369</drugbank-id>
+      <name>Polyestradiol phosphate</name>
+      <description>Polyestradiol phosphate may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06209</drugbank-id>
+      <name>Prasugrel</name>
+      <description>Prasugrel may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00396</drugbank-id>
+      <name>Progesterone</name>
+      <description>The therapeutic efficacy of Desirudin can be decreased when used in combination with Progesterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12487</drugbank-id>
+      <name>Promestriene</name>
+      <description>Promestriene may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09288</drugbank-id>
+      <name>Propacetamol</name>
+      <description>Propacetamol may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11312</drugbank-id>
+      <name>Protein C</name>
+      <description>Desirudin may increase the anticoagulant activities of Protein C.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13149</drugbank-id>
+      <name>Protein S human</name>
+      <description>Desirudin may increase the anticoagulant activities of Protein S human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11268</drugbank-id>
+      <name>Protocatechualdehyde</name>
+      <description>Desirudin may increase the anticoagulant activities of Protocatechualdehyde.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05173</drugbank-id>
+      <name>PTC299</name>
+      <description>PTC299 may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04575</drugbank-id>
+      <name>Quinestrol</name>
+      <description>Quinestrol may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13036</drugbank-id>
+      <name>Ramatroban</name>
+      <description>Ramatroban may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02709</drugbank-id>
+      <name>Resveratrol</name>
+      <description>Resveratrol may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00015</drugbank-id>
+      <name>Reteplase</name>
+      <description>Reteplase may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09259</drugbank-id>
+      <name>Reviparin</name>
+      <description>Reviparin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01207</drugbank-id>
+      <name>Ridogrel</name>
+      <description>Ridogrel may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06228</drugbank-id>
+      <name>Rivaroxaban</name>
+      <description>Desirudin may increase the anticoagulant activities of Rivaroxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00533</drugbank-id>
+      <name>Rofecoxib</name>
+      <description>Rofecoxib may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00412</drugbank-id>
+      <name>Rosiglitazone</name>
+      <description>Rosiglitazone may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11674</drugbank-id>
+      <name>S Equol</name>
+      <description>S Equol may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08797</drugbank-id>
+      <name>Salicylamide</name>
+      <description>Salicylamide may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00936</drugbank-id>
+      <name>Salicylic acid</name>
+      <description>Salicylic acid may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01399</drugbank-id>
+      <name>Salsalate</name>
+      <description>Salsalate may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05692</drugbank-id>
+      <name>SCH-530348</name>
+      <description>SCH-530348 may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12179</drugbank-id>
+      <name>Secoisolariciresinol</name>
+      <description>Secoisolariciresinol may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11362</drugbank-id>
+      <name>Selexipag</name>
+      <description>Selexipag may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06739</drugbank-id>
+      <name>Seratrodast</name>
+      <description>Seratrodast may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01236</drugbank-id>
+      <name>Sevoflurane</name>
+      <description>Sevoflurane may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05073</drugbank-id>
+      <name>SRT501</name>
+      <description>SRT501 may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00086</drugbank-id>
+      <name>Streptokinase</name>
+      <description>Streptokinase may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06206</drugbank-id>
+      <name>Sugammadex</name>
+      <description>Sugammadex may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00795</drugbank-id>
+      <name>Sulfasalazine</name>
+      <description>Sulfasalazine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00605</drugbank-id>
+      <name>Sulindac</name>
+      <description>Sulindac may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06271</drugbank-id>
+      <name>Sulodexide</name>
+      <description>Sulodexide may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00870</drugbank-id>
+      <name>Suprofen</name>
+      <description>Suprofen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09317</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, A</name>
+      <description>Synthetic Conjugated Estrogens, A may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09318</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, B</name>
+      <description>Synthetic Conjugated Estrogens, B may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00031</drugbank-id>
+      <name>Tenecteplase</name>
+      <description>Tenecteplase may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00469</drugbank-id>
+      <name>Tenoxicam</name>
+      <description>Tenoxicam may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11466</drugbank-id>
+      <name>Tepoxalin</name>
+      <description>Tepoxalin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08880</drugbank-id>
+      <name>Teriflunomide</name>
+      <description>Teriflunomide may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04905</drugbank-id>
+      <name>Tesmilifene</name>
+      <description>Tesmilifene may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01600</drugbank-id>
+      <name>Tiaprofenic acid</name>
+      <description>Tiaprofenic acid may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09070</drugbank-id>
+      <name>Tibolone</name>
+      <description>Tibolone may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08816</drugbank-id>
+      <name>Ticagrelor</name>
+      <description>Ticagrelor may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00208</drugbank-id>
+      <name>Ticlopidine</name>
+      <description>Ticlopidine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13001</drugbank-id>
+      <name>Tinoridine</name>
+      <description>Tinoridine may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06822</drugbank-id>
+      <name>Tinzaparin</name>
+      <description>Tinzaparin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00932</drugbank-id>
+      <name>Tipranavir</name>
+      <description>Tipranavir may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00775</drugbank-id>
+      <name>Tirofiban</name>
+      <description>Tirofiban may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09216</drugbank-id>
+      <name>Tolfenamic Acid</name>
+      <description>Tolfenamic Acid may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00500</drugbank-id>
+      <name>Tolmetin</name>
+      <description>Tolmetin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00081</drugbank-id>
+      <name>Tositumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Desirudin is combined with Tositumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07615</drugbank-id>
+      <name>Tranilast</name>
+      <description>Tranilast may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09283</drugbank-id>
+      <name>Trapidil</name>
+      <description>Trapidil may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00374</drugbank-id>
+      <name>Treprostinil</name>
+      <description>Treprostinil may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08814</drugbank-id>
+      <name>Triflusal</name>
+      <description>Triflusal may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01401</drugbank-id>
+      <name>Trisalicylate-choline</name>
+      <description>Trisalicylate-choline may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00013</drugbank-id>
+      <name>Urokinase</name>
+      <description>Urokinase may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00580</drugbank-id>
+      <name>Valdecoxib</name>
+      <description>Valdecoxib may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00163</drugbank-id>
+      <name>Vitamin E</name>
+      <description>Vitamin E may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09030</drugbank-id>
+      <name>Vorapaxar</name>
+      <description>The risk or severity of adverse effects can be increased when Vorapaxar is combined with Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>Warfarin may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04898</drugbank-id>
+      <name>Ximelagatran</name>
+      <description>Ximelagatran may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12289</drugbank-id>
+      <name>YM150</name>
+      <description>Desirudin may increase the anticoagulant activities of Ym150.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06737</drugbank-id>
+      <name>Zaltoprofen</name>
+      <description>Zaltoprofen may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11478</drugbank-id>
+      <name>Zeranol</name>
+      <description>Zeranol may decrease the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00744</drugbank-id>
+      <name>Zileuton</name>
+      <description>Zileuton may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04828</drugbank-id>
+      <name>Zomepirac</name>
+      <description>Zomepirac may increase the anticoagulant activities of Desirudin.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences/>
+  <experimental-properties>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C287H440N80O110S6</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0003753</id>
+      <name>Carboxypeptidase A1</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P15085" source="Swiss-Prot">
+    <name>Carboxypeptidase A1</name>
+    <general-function>Zinc ion binding</general-function>
+    <specific-function>Carboxypeptidase that catalyzes the release of a C-terminal amino acid, but has little or no action with -Asp, -Glu, -Arg, -Lys or -Pro.</specific-function>
+    <gene-name>CPA1</gene-name>
+    <locus>7q32</locus>
+    <cellular-location>Secreted</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions>1-16</signal-regions>
+    <theoretical-pi>5.55</theoretical-pi>
+    <molecular-weight>47139.86</molecular-weight>
+    <chromosome-location>7</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:2296</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>X67318</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>35330</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1587</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P15085</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CBPA1_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>3.4.17.1</synonym>
+      <synonym>CPA</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0017215|Carboxypeptidase A1
+MRGLLVLSVLLGAVFGKEDFVGHQVLRISVADEAQVQKVKELEDLEHLQLDFWRGPAHPG
+SPIDVRVPFPSIQAVKIFLESHGISYETMIEDVQSLLDEEQEQMFAFRSRARSTDTFNYA
+TYHTLEEIYDFLDLLVAENPHLVSKIQIGNTYEGRPIYVLKFSTGGSKRPAIWIDTGIHS
+REWVTQASGVWFAKKITQDYGQDAAFTAILDTLDIFLEIVTNPDGFAFTHSTNRMWRKTR
+SHTAGSLCIGVDPNRNWDAGFGLSGASSNPCSETYHGKFANSEVEVKSIVDFVKDHGNIK
+AFISIHSYSQLLMYPYGYKTEPVPDQDELDQLSKAAVTALASLYGTKFNYGSIIKAIYQA
+SGSTIDWTYSQGIKYSFTFELRDTGRYGFLLPASQIIPTAKETWLALLTIMEHTLNHPY</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0017216|Carboxypeptidase A1 (CPA1)
+ATGCGGGGGTTGCTGGTGTTGAGTGTCCTGTTGGGGGCTGTCTTTGGCAAGGAGGACTTT
+GTGGGGCATCAGGTGCTCCGAATCTCTGTAGCCGATGAGGCCCAGGTACAGAAGGTGAAG
+GAGCTGGAGGACCTGGAGCACCTGCAGCTGGACTTCTGGCGGGGGCCTGCCCACCCTGGC
+TCCCCCATCGACGTCCGAGTGCCCTTCCCCAGCATCCAGGCGGTCAAGATCTTTCTGGAG
+TCCCACGGCATCAGCTATGAGACCATGATCGAGGACGTGCAGTCGCTGCTGGACGAGGAG
+CAGGAGCAGATGTTCGCCTTCCGGTCCCGGGCGCGCTCCACCGACACTTTTAACTACGCC
+ACCTACCACACCCTGGAGGAGATCTATGACTTCCTGGACCTGCTGGTGGCGGAGAACCCG
+CACCTTGTCAGCAAGATCCAGATTGGCAACACCTATGAAGGGCGTCCCATTTACGTGCTG
+AAGTTCAGCACGGGGGGCAGTAAGCGTCCAGCCATCTGGATCGACACGGGCATCCATTCC
+CGGGAGTGGGTCACCCAGGCCAGTGGGGTCTGGTTTGCAAAGAAGATCACTCAAGACTAC
+GGGCAGGATGCAGCTTTCACCGCCATTCTCGACACCTTGGACATCTTCCTGGAGATCGTC
+ACCAACCCTGATGGCTTTGCCTTCACGCACAGCACGAATCGCATGTGGCGCAAGACTCGG
+TCCCACACAGCAGGCTCCCTCTGTATTGGCGTGGACCCCAACAGGAACTGGGACGCTGGC
+TTTGGGTTGTCCGGAGCCAGCAGTAACCCCTGCTCGGAGACTTACCACGGCAAGTTTGCC
+AATTCCGAAGTGGAGGTCAAGTCCATTGTAGACTTTGTGAAGGACCATGGGAACATCAAG
+GCCTTCATCTCCATCCACAGCTACTCCCAGCTCCTCATGTATCCCTATGGCTACAAAACA
+GAACCAGTCCCTGACCAGGATGAGCTGGATCAGCTTTCCAAGGCTGCTGTGACAGCCCTG
+GCCTCTCTCTACGGGACCAAGTTCAACTATGGCAGCATCATCAAGGCAATTTATCAAGCC
+AGTGGAAGCACTATTGACTGGACCTACAGCCAGGGCATCAAGTACTCCTTCACCTTCGAG
+CTCCGGGACACTGGGCGCTATGGCTTCCTGCTGCCAGCCTCCCAGATCATCCCCACAGCC
+AAGGAGACGTGGCTGGCGCTTCTGACCATCATGGAGCACACCCTGAATCACCCCTACTGA
+</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00246</identifier>
+        <name>Peptidase_M14</name>
+      </pfam>
+      <pfam>
+        <identifier>PF02244</identifier>
+        <name>Propep_M14</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular space</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>metallocarboxypeptidase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>zinc ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>proteolysis</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

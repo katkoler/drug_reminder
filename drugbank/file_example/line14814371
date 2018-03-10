@@ -1,0 +1,331 @@
+<drug type="small molecule" created="2016-11-16" updated="2017-03-15">
+  <drugbank-id primary="true">DB13146</drugbank-id>
+  <name>Fluciclovine</name>
+  <description>Fluciclovine is a [18F]-tagged synthetic analog of the amino acid L-leucine. It is a diagnostic agent indicated for positron emission tomography (PET) imaging in men with suspected prostate cancer recurrence based on elevated prostate specific antigen (PSA) levels.</description>
+  <cas-number>222727-39-1</cas-number>
+  <unii>38R1Q0L1ZE</unii>
+  <average-mass>132.125</average-mass>
+  <monoisotopic-mass>132.056441169</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Fluciclovine_(18F)</url>
+      </link>
+      <link>
+        <title>Pubchem</title>
+        <url>https://pubchem.ncbi.nlm.nih.gov/compound/450601</url>
+      </link>
+      <link>
+        <title>ACCESSDATA</title>
+        <url>http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/208054s000lbl.pdf</url>
+      </link>
+      <link>
+        <title>RxList</title>
+        <url>http://www.rxlist.com/axumin-drug/indications-dosage.htm</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Axumin is indicated for positron emission tomography (PET) in men with suspected prostate cancer &#13;
+recurrence based on elevated blood prostate specific antigen (PSA) levels following prior treatment. </indication>
+  <pharmacodynamics>Following intravenous administration, the tumor-to-normal tissue contrast is highest between 4 and 10 &#13;
+minutes after injection, with a 61% reduction in mean tumor uptake at 90 minutes after injection. </pharmacodynamics>
+  <mechanism-of-action>Fluciclovine F 18 is a synthetic amino acid transported across mammalian cell membranes by amino acid &#13;
+transporters, such as LAT-1 and ASCT2, which are upregulated in prostate cancer cells. Fluciclovine F &#13;
+18 is taken up to a greater extent in prostate cancer cells compared with surrounding normal tissues. </mechanism-of-action>
+  <toxicity>No long term studies in animals have been performed to evaluate the carcinogenic potential of  fluciclovine. &#13;
+Fluciclovine was not mutagenic in vitro in reverse mutation assay in bacterial cells and in chromosome  aberration test in cultured mammalian cells, and was negative in an in vivo clastogenicity assay in rats after intravenous injection of doses up to 43 mcg/kg. However, fluciclovine F 18 has the potential to be mutagenic because of the F 18 radioisotope. </toxicity>
+  <metabolism>Fluciclovine  F18  is not metabolized nor is	it incorporated into newly synthesized	proteins.</metabolism>
+  <absorption>The organs receiving the highest radiation absorbed doses are the pancreas (38 mGy), cardiac wall (19 mGy), and uterine wall (17 mGy), for an administered radioactivity of 370MBq (10 mCi).</absorption>
+  <half-life>Fluorine 18 (F 18) is a cyclotron produced radionuclide that decays by positron emission (ß+ decay, 96.7%) and orbital electron capture (3.3%) to stable oxygen 18 with a physical half-life of 109.7 minutes.</half-life>
+  <protein-binding/>
+  <route-of-elimination>Across the first four hours post-injection, 3% of administered radioactivity was excreted in the urine.&#13;
+ &#13;
+Across the first 24 hours post-injection, 5% of administered radioactivity was excreted in the urine.&#13;
+</route-of-elimination>
+  <volume-of-distribution>Following intravenous administration, fluciclovine F 18 distributes to the liver (14% of administered &#13;
+activity), pancreas (3%), lung (7%), red bone marrow (12%) and myocardium (4%). With increasing &#13;
+time, fluciclovine F 18 distributes to skeletal muscle. </volume-of-distribution>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as l-alpha-amino acids. These are alpha amino acids which have the L-configuration of the alpha-carbon atom.</description>
+    <direct-parent>L-alpha-amino acids</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic acids and derivatives</superclass>
+    <class>Carboxylic acids and derivatives</class>
+    <subclass>Amino acids, peptides, and analogues</subclass>
+    <alternative-parent>Alkyl fluorides</alternative-parent>
+    <alternative-parent>Amino acids</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>D-alpha-amino acids</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Monoalkylamines</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organofluorides</alternative-parent>
+    <substituent>Aliphatic homomonocyclic compound</substituent>
+    <substituent>Alkyl fluoride</substituent>
+    <substituent>Alkyl halide</substituent>
+    <substituent>Amine</substituent>
+    <substituent>Amino acid</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>D-alpha-amino acid</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>L-alpha-amino acid</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organofluoride</substituent>
+    <substituent>Organohalogen compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Primary aliphatic amine</substituent>
+    <substituent>Primary amine</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">(18F)FACBC</synonym>
+    <synonym language="" coder="">(1R,3R)-1-amino-3(18F)fluorocyclobutane-1-carboxylic acid</synonym>
+    <synonym language="" coder="">Anti-1-amino-3-(18F)fluorocyclobutane-1-carboxylic acid</synonym>
+    <synonym language="" coder="">FACBC F-18</synonym>
+    <synonym language="" coder="">Fluciclovine (18F)</synonym>
+    <synonym language="" coder="">Fluciclovine F 18</synonym>
+    <synonym language="" coder="">Fluciclovine F-18</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Axumin</name>
+      <labeller>Blue Earth Diagnostics</labeller>
+      <ndc-id/>
+      <ndc-product-code>69932-001</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-05-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>221 mCi/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA208054</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Axumin</name>
+      <ingredients>Fluciclovine</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Cycloparaffins</category>
+      <mesh-id>D003516</mesh-id>
+    </category>
+    <category>
+      <category>Hydrocarbons</category>
+      <mesh-id>D006838</mesh-id>
+    </category>
+    <category>
+      <category>Hydrocarbons, Alicyclic</category>
+      <mesh-id>D006840</mesh-id>
+    </category>
+    <category>
+      <category>Hydrocarbons, Cyclic</category>
+      <mesh-id>D006844</mesh-id>
+    </category>
+    <category>
+      <category>Macrocyclic Compounds</category>
+      <mesh-id>D047028</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Compounds</category>
+      <mesh-id>D011083</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>221 mCi/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-3</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>0.11</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.73e+02 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-2.9</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(1r,3r)-1-amino-3-(¹⁸F)fluorocyclobutane-1-carboxylic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>(1r,3r)-1-amino-3-(¹⁸F)fluorocyclobutane-1-carboxylic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>132.125</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>132.056441169</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>N[C@]1(C[C@H]([18F])C1)C(O)=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C5H8FNO2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C5H8FNO2/c6-3-1-5(7,2-3)4(8)9/h3H,1-2,7H2,(H,8,9)/t3-,5-/i6-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>NTEDWGYJNHZKQW-DGMDOPGDSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>63.32</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>27.75</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>11.65</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>2.07</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>9.42</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Fluciclovine</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,904 @@
+<drug type="small molecule" created="2016-10-20" updated="2017-03-15">
+  <drugbank-id primary="true">DB11730</drugbank-id>
+  <name>Ribociclib</name>
+  <description>Ribociclib is a selective cyclin-dependent kinase inhibitor, a class of drugs that help slow the progression of cancer by inhibiting two proteins called cyclin-dependent kinase 4 and 6 (CDK4/6). These proteins, when over-activated, can enable cancer cells to grow and divide too quickly. Targeting CDK4/6 with enhanced precision may play a role in ensuring that cancer cells do not continue to replicate uncontrollably. Ribociclib was approved by the U.S. FDA in March, 2017 as Kisqali.</description>
+  <cas-number>1211441-98-3</cas-number>
+  <unii>TK8ERE8P56</unii>
+  <average-mass>434.548</average-mass>
+  <monoisotopic-mass>434.254257618</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>16413469</pubmed-id>
+        <citation>Yu Q, Sicinska E, Geng Y, Ahnstrom M, Zagozdzon A, Kong Y, Gardner H, Kiyokawa H, Harris LN, Stal O, Sicinski P: Requirement for CDK4 kinase function in breast cancer. Cancer Cell. 2006 Jan;9(1):23-32.</citation>
+      </article>
+      <article>
+        <pubmed-id>24045179</pubmed-id>
+        <citation>Rader J, Russell MR, Hart LS, Nakazawa MS, Belcastro LT, Martinez D, Li Y, Carpenter EL, Attiyeh EF, Diskin SJ, Kim S, Parasuraman S, Caponigro G, Schnepp RW, Wood AC, Pawel B, Cole KA, Maris JM: Dual CDK4/CDK6 inhibition induces cell-cycle arrest and senescence in neuroblastoma. Clin Cancer Res. 2013 Nov 15;19(22):6173-82. doi: 10.1158/1078-0432.CCR-13-1675.  Epub 2013 Sep 17.</citation>
+      </article>
+      <article>
+        <pubmed-id>27542767</pubmed-id>
+        <citation>Infante JR, Cassier PA, Gerecitano JF, Witteveen PO, Chugh R, Ribrag V, Chakraborty A, Matano A, Dobson JR, Crystal AS, Parasuraman S, Shapiro GI: A Phase I Study of the Cyclin-Dependent Kinase 4/6 Inhibitor Ribociclib (LEE011) in Patients with Advanced Solid Tumors and Lymphomas. Clin Cancer Res. 2016 Dec 1;22(23):5696-5705. Epub 2016 Aug 19.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <title>PDF Article- Ribociclib as First-Line Therapy for HR-Positive, Advanced Breast Cancer</title>
+        <url>http://www.nejm.org/doi/pdf/10.1056/NEJMoa1609709</url>
+      </link>
+      <link>
+        <title>FDA approval</title>
+        <url>https://novartis.gcs-web.com/LEE011-US-FDA-Approval</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Kisqali (ribociclib) is a selective cyclin-dependent kinase inhibitor, a class of drugs that help slow the progression of cancer by inhibiting two proteins called cyclin-dependent kinase 4 and 6 (CDK4/6). These proteins, when over-activated, can enable cancer cells to grow and divide too quickly. Targeting CDK4/6 with enhanced precision may play a role in ensuring that cancer cells do not continue to replicate uncontrollably.</indication>
+  <pharmacodynamics/>
+  <mechanism-of-action>Inhibition of cyclin-dependent kinase 4 and 6 (CDK4/6) may provide protection against oncogenic processes in specific tissue types. For example, CDK4 is not required for normal mammary tissue development based on knockout mouse studies, but it is needed for growth of Ras-induced mammary tumors, suggesting a potential therapeutic window for treatment with lower toxicity.&#13;
+Ribociclib was reported to be a most selective CDK4/6 inhibitor and to have dose dependent antitumor activity in a number of preclinical models. It  inhibited growth of tumor cells by arresting the cells at the G1 checkpoint, which prevents the tumor cells from proliferating.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption>Ribociclib is orally bioavailable, highly selective inhibitor of CDK4/6 kinases with inhibitory IC50 concentrations in the low nanomolar range. &#13;
+Following oral dosing, ribociclib was rapidly absorbed with median Tmax ranging from 1 to 5 hours. Plasma concentrations increased approximately 2- to 3-fold from Cycle 1 Day 1 to Cycle 1 Day 18/21 due to accumulation, with steady state reached by approximately Day 8 on the basis of trough concentrations after repeated daily dosing. Dose-proportionality analyses demonstrated that exposure to ribociclib increased with dose, with both Cmax and area under the curve (AUC) increasing slightly more than proportional to dose, over the dose range 50–1,200 mg/day</absorption>
+  <half-life>32.6 hours</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as pyridinylpiperazines. These are compounds containing a pyridinylpiperazine skeleton, which consists of a pyridine linked (not fused) to a piperazine by a bond by a single bond that is not part of a ring.</description>
+    <direct-parent>Pyridinylpiperazines</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organoheterocyclic compounds</superclass>
+    <class>Diazinanes</class>
+    <subclass>Piperazines</subclass>
+    <alternative-parent>2-heteroaryl carboxamides</alternative-parent>
+    <alternative-parent>Amino acids and derivatives</alternative-parent>
+    <alternative-parent>Aminopyridines and derivatives</alternative-parent>
+    <alternative-parent>Aminopyrimidines and derivatives</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Dialkylamines</alternative-parent>
+    <alternative-parent>Dialkylarylamines</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Imidolactams</alternative-parent>
+    <alternative-parent>N-arylpiperazines</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organooxygen compounds</alternative-parent>
+    <alternative-parent>Pyrimidinecarboxamides</alternative-parent>
+    <alternative-parent>Pyrrole carboxamides</alternative-parent>
+    <alternative-parent>Pyrrolo[2,3-d]pyrimidines</alternative-parent>
+    <alternative-parent>Substituted pyrroles</alternative-parent>
+    <alternative-parent>Tertiary carboxylic acid amides</alternative-parent>
+    <substituent>2-heteroaryl carboxamide</substituent>
+    <substituent>Amine</substituent>
+    <substituent>Amino acid or derivatives</substituent>
+    <substituent>Aminopyridine</substituent>
+    <substituent>Aminopyrimidine</substituent>
+    <substituent>Aromatic heteropolycyclic compound</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Carboxamide group</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Dialkylarylamine</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Imidolactam</substituent>
+    <substituent>N-arylpiperazine</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Pyridine</substituent>
+    <substituent>Pyridinylpiperazine</substituent>
+    <substituent>Pyrimidine</substituent>
+    <substituent>Pyrimidinecarboxamide</substituent>
+    <substituent>Pyrrole</substituent>
+    <substituent>Pyrrole-2-carboxamide</substituent>
+    <substituent>Pyrrole-2-carboxylic acid or derivatives</substituent>
+    <substituent>Pyrrolo[2,3-d]pyrimidine</substituent>
+    <substituent>Pyrrolopyrimidine</substituent>
+    <substituent>Secondary aliphatic amine</substituent>
+    <substituent>Secondary amine</substituent>
+    <substituent>Substituted pyrrole</substituent>
+    <substituent>Tertiary aliphatic/aromatic amine</substituent>
+    <substituent>Tertiary amine</substituent>
+    <substituent>Tertiary carboxylic acid amide</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT002059</drugbank-id>
+      <name>Ribociclib Hydrochloride</name>
+      <unii>63YF7YKW7E</unii>
+      <cas-number>1211443-80-9</cas-number>
+      <inchikey>JZRSIQPIKASMEV-UHFFFAOYSA-N</inchikey>
+      <average-mass>471.01</average-mass>
+      <monoisotopic-mass>470.2309354</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">RIBOCICLIB</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Kisqali</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code>0078-0860</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2017-03-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength>200 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA209092</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Kisqali</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code>0078-0867</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2017-03-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength>200 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA209092</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Kisqali</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code>0078-0874</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2017-03-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, film coated</dosage-form>
+      <strength>200 mg/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA209092</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Kisqali</name>
+      <ingredients>Ribociclib</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kisqali</name>
+      <ingredients>Ribociclib</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kisqali</name>
+      <ingredients>Ribociclib</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amines</category>
+      <mesh-id>D000588</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 1-Ring</category>
+      <mesh-id>D006573</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 2-Ring</category>
+      <mesh-id>D006574</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Pyridines</category>
+      <mesh-id>D011725</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Tablet, film coated</form>
+      <route>Oral</route>
+      <strength>200 mg/1</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>2.5</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-3.3</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>2.31e-01 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>2.38</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>7-cyclopentyl-N,N-dimethyl-2-{[5-(piperazin-1-yl)pyridin-2-yl]amino}-7H-pyrrolo[2,3-d]pyrimidine-6-carboxamide</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>7-cyclopentyl-N,N-dimethyl-2-{[5-(piperazin-1-yl)pyridin-2-yl]amino}pyrrolo[2,3-d]pyrimidine-6-carboxamide</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>434.548</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>434.254257618</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CN(C)C(=O)C1=CC2=CN=C(NC3=CC=C(C=N3)N3CCNCC3)N=C2N1C1CCCC1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C23H30N8O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C23H30N8O/c1-29(2)22(32)19-13-16-14-26-23(28-21(16)31(19)17-5-3-4-6-17)27-20-8-7-18(15-25-20)30-11-9-24-10-12-30/h7-8,13-15,17,24H,3-6,9-12H2,1-2H3,(H,25,26,27,28)</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>RHXHGRAEPCAFML-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>91.21</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>125.59</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>49.13</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>11.59</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>8.87</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>PDB</resource>
+      <identifier>6ZZ</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL3545110</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0002216</id>
+      <name>Cyclin-dependent kinase 4</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>24045179</pubmed-id>
+            <citation>Rader J, Russell MR, Hart LS, Nakazawa MS, Belcastro LT, Martinez D, Li Y, Carpenter EL, Attiyeh EF, Diskin SJ, Kim S, Parasuraman S, Caponigro G, Schnepp RW, Wood AC, Pawel B, Cole KA, Maris JM: Dual CDK4/CDK6 inhibition induces cell-cycle arrest and senescence in neuroblastoma. Clin Cancer Res. 2013 Nov 15;19(22):6173-82. doi: 10.1158/1078-0432.CCR-13-1675.  Epub 2013 Sep 17.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P11802" source="Swiss-Prot">
+    <name>Cyclin-dependent kinase 4</name>
+    <general-function>Cyclin-dependent protein serine/threonine kinase regulator activity</general-function>
+    <specific-function>Ser/Thr-kinase component of cyclin D-CDK4 (DC) complexes that phosphorylate and inhibit members of the retinoblastoma (RB) protein family including RB1 and regulate the cell-cycle during G(1)/S transition. Phosphorylation of RB1 allows dissociation of the transcription factor E2F from the RB/E2F complexes and the subsequent transcription of E2F target genes which are responsible for the progression through the G(1) phase. Hypophosphorylates RB1 in early G(1) phase. Cyclin D-CDK4 complexes are major integrators of various mitogenenic and antimitogenic signals. Also phosphorylates SMAD3 in a cell-cycle-dependent manner and represses its transcriptional activity. Component of the ternary complex, cyclin D/CDK4/CDKN1B, required for nuclear translocation and activity of the cyclin D-CDK4 complex.</specific-function>
+    <gene-name>CDK4</gene-name>
+    <locus>12q14</locus>
+    <cellular-location>Cytoplasm</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>7.01</theoretical-pi>
+    <molecular-weight>33729.55</molecular-weight>
+    <chromosome-location>12</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:1773</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CDK4</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M14505</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>456427</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1976</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P11802</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CDK4_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>2.7.11.22</synonym>
+      <synonym>Cell division protein kinase 4</synonym>
+      <synonym>PSK-J3</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004349|Cyclin-dependent kinase 4
+MATSRYEPVAEIGVGAYGTVYKARDPHSGHFVALKSVRVPNGGGGGGGLPISTVREVALL
+RRLEAFEHPNVVRLMDVCATSRTDREIKVTLVFEHVDQDLRTYLDKAPPPGLPAETIKDL
+MRQFLRGLDFLHANCIVHRDLKPENILVTSGGTVKLADFGLARIYSYQMALTPVVVTLWY
+RAPEVLLQSTYATPVDMWSVGCIFAEMFRRKPLFCGNSEADQLGKIFDLIGLPPEDDWPR
+DVSLPRGAFPPRGPRPVQSVVPEMEESGAQLLLEMLTFNPHKRISAFRALQHSYLHKDEG
+NPE</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0020596|Cyclin-dependent kinase 4 (CDK4)
+ATGGCTACCTCTCGATATGAGCCAGTGGCTGAAATTGGTGTCGGTGCCTATGGGACAGTG
+TACAAGGCCCGTGATCCCCACAGTGGCCACTTTGTGGCCCTCAAGAGTGTGAGAGTCCCC
+AATGGAGGAGGAGGTGGAGGAGGCCTTCCCATCAGCACAGTTCGTGAGGTGGCTTTACTG
+AGGCGACTGGAGGCTTTTGAGCATCCCAATGTTGTCCGGCTGATGGACGTCTGTGCCACA
+TCCCGAACTGACCGGGAGATCAAGGTAACCCTGGTGTTTGAGCATGTAGACCAGGACCTA
+AGGACATATCTGGACAAGGCACCCCCACCAGGCTTGCCAGCCGAAACGATCAAGGATCTG
+ATGCGCCAGTTTCTAAGAGGCCTAGATTTCCTTCATGCCAATTGCATCGTTCACCGAGAT
+CTGAAGCCAGAGAACATTCTGGTGACAAGTGGTGGAACAGTCAAGCTGGCTGACTTTGGC
+CTGGCCAGAATCTACAGCTACCAGATGGCACTTACACCCGTGGTTGTTACACTCTGGTAC
+CGAGCTCCCGAAGTTCTTCTGCAGTCCACATATGCAACACCTGTGGACATGTGGAGTGTT
+GGCTGTATCTTTGCAGAGATGTTTCGTCGAAAGCCTCTCTTCTGTGGAAACTCTGAAGCC
+GACCAGTTGGGCAAAATCTTTGACCTGATTGGGCTGCCTCCAGAGGATGACTGGCCTCGA
+GATGTATCCCTGCCCCGTGGAGCCTTTCCCCCCAGAGGGCCCCGCCCAGTGCAGTCGGTG
+GTACCTGAGATGGAGGAGTCGGGAGCACAGCTGCTGCTGGAAATGCTGACTTTTAACCCA
+CACAAGCGAATCTCTGCCTTTCGAGCTCTGCAGCACTCTTATCTACATAAGGATGAAGGT
+AATCCGGAGTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00069</identifier>
+        <name>Pkinase</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cyclin-dependent protein kinase holoenzyme complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>chromatin</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>bicellular tight junction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>transcription factor complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nuclear membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleolus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>perinuclear region of cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>cyclin binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>cyclin-dependent protein serine/threonine kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATP binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>cyclin-dependent protein serine/threonine kinase regulator activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of apoptotic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>organ regeneration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to hyperoxia</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of G2/M transition of mitotic cell cycle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to drug</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of translation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to testosterone</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell division</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of gene expression</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of protein kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>circadian rhythm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to toxic substance</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of cell cycle arrest</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>mitotic cell cycle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>chromatin organization</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>G1/S transition of mitotic cell cycle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of fibroblast proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>lens development in camera-type eye</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cell size</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to lead ion</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0002212</id>
+      <name>Cyclin-dependent kinase 6</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>24045179</pubmed-id>
+            <citation>Rader J, Russell MR, Hart LS, Nakazawa MS, Belcastro LT, Martinez D, Li Y, Carpenter EL, Attiyeh EF, Diskin SJ, Kim S, Parasuraman S, Caponigro G, Schnepp RW, Wood AC, Pawel B, Cole KA, Maris JM: Dual CDK4/CDK6 inhibition induces cell-cycle arrest and senescence in neuroblastoma. Clin Cancer Res. 2013 Nov 15;19(22):6173-82. doi: 10.1158/1078-0432.CCR-13-1675.  Epub 2013 Sep 17.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q00534" source="Swiss-Prot">
+    <name>Cyclin-dependent kinase 6</name>
+    <general-function>Cyclin-dependent protein serine/threonine kinase activity</general-function>
+    <specific-function>Serine/threonine-protein kinase involved in the control of the cell cycle and differentiation; promotes G1/S transition. Phosphorylates pRB/RB1 and NPM1. Interacts with D-type G1 cyclins during interphase at G1 to form a pRB/RB1 kinase and controls the entrance into the cell cycle. Involved in initiation and maintenance of cell cycle exit during cell differentiation; prevents cell proliferation and regulates negatively cell differentiation, but is required for the proliferation of specific cell types (e.g. erythroid and hematopoietic cells). Essential for cell proliferation within the dentate gyrus of the hippocampus and the subventricular zone of the lateral ventricles. Required during thymocyte development. Promotes the production of newborn neurons, probably by modulating G1 length. Promotes, at least in astrocytes, changes in patterns of gene expression, changes in the actin cytoskeleton including loss of stress fibers, and enhanced motility during cell differentiation. Prevents myeloid differentiation by interfering with RUNX1 and reducing its transcription transactivation activity, but promotes proliferation of normal myeloid progenitors. Delays senescence. Promotes the proliferation of beta-cells in pancreatic islets of Langerhans. May play a role in the centrosome organization during the cell cycle phases (PubMed:23918663).</specific-function>
+    <gene-name>CDK6</gene-name>
+    <locus>7q21-q22</locus>
+    <cellular-location>Cytoplasm</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>6.43</theoretical-pi>
+    <molecular-weight>36938.025</molecular-weight>
+    <chromosome-location>7</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:1777</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CDK6</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>X66365</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>36623</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>1978</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q00534</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>CDK6_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>2.7.11.22</synonym>
+      <synonym>CDKN6</synonym>
+      <synonym>Cell division protein kinase 6</synonym>
+      <synonym>Serine/threonine-protein kinase PLSTIRE</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016713|Cyclin-dependent kinase 6
+MEKDGLCRADQQYECVAEIGEGAYGKVFKARDLKNGGRFVALKRVRVQTGEEGMPLSTIR
+EVAVLRHLETFEHPNVVRLFDVCTVSRTDRETKLTLVFEHVDQDLTTYLDKVPEPGVPTE
+TIKDMMFQLLRGLDFLHSHRVVHRDLKPQNILVTSSGQIKLADFGLARIYSFQMALTSVV
+VTLWYRAPEVLLQSSYATPVDLWSVGCIFAEMFRRKPLFRGSSDVDQLGKILDVIGLPGE
+EDWPRDVALPRQAFHSKSAQPIEKFVTDIDELGKDLLLKCLTFNPAKRISAYSALSHPYF
+QDLERCKENLDSHLPPSQNTSELNTA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0016714|Cyclin-dependent kinase 6 (CDK6)
+ATGGAGAAGGACGGCCTGTGCCGCGCTGACCAGCAGTACGAATGCGTGGCGGAGATCGGG
+GAGGGCGCCTATGGGAAGGTGTTCAAGGCCCGCGACTTGAAGAACGGAGGCCGTTTCGTG
+GCGTTGAAGCGCGTGCGGGTGCAGACCGGCGAGGAGGGCATGCCGCTCTCCACCATCCGC
+GAGGTGGCGGTGCTGAGGCACCTGGAGACCTTCGAGCACCCCAACGTGGTCAGGTTGTTT
+GATGTGTGCACAGTGTCACGAACAGACAGAGAAACCAAACTAACTTTAGTGTTTGAACAT
+GTCGATCAAGACTTGACCACTTACTTGGATAAAGTTCCAGAGCCTGGAGTGCCCACTGAA
+ACCATAAAGGATATGATGTTTCAGCTTCTCCGAGGTCTGGACTTTCTTCATTCACACCGA
+GTAGTGCATCGCGATCTAAAACCACAGAACATTCTGGTGACCAGCAGCGGACAAATAAAA
+CTCGCTGACTTCGGCCTTGCCCGCATCTATAGTTTCCAGATGGCTCTAACCTCAGTGGTC
+GTCACGCTGTGGTACAGAGCACCCGAAGTCTTGCTCCAGTCCAGCTACGCCACCCCCGTG
+GATCTCTGGAGTGTTGGCTGCATATTTGCAGAAATGTTTCGTAGAAAGCCTCTTTTTCGT
+GGAAGTTCAGATGTTGATCAACTAGGAAAAATCTTGGACGTGATTGGACTCCCAGGAGAA
+GAAGACTGGCCTAGAGATGTTGCCCTTCCCAGGCAGGCTTTTCATTCAAAATCTGCCCAA
+CCAATTGAGAAGTTTGTAACAGATATCGATGAACTAGGCAAAGACCTACTTCTGAAGTGT
+TTGACATTTAACCCAGCCAAAAGAATATCTGCCTACAGTGCCCTGTCTCACCCATACTTC
+CAGGACCTGGAAAGGTGCAAAGAAAACCTGGATTCCCACCTGCCGCCCAGCCAGAACACC
+TCGGAGCTGAATACAGCCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00069</identifier>
+        <name>Pkinase</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>centrosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cyclin-dependent protein kinase holoenzyme complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>ruffle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>cyclin-dependent protein serine/threonine kinase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>cyclin binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATP binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of fibroblast proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of cell motility</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of cellular senescence</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>response to virus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of erythrocyte differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>type B pancreatic cell development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>gliogenesis</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>generation of neurons</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of osteoblast differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of cell cycle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>astrocyte development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>protein phosphorylation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>lateral ventricle development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of gene expression</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of epithelial cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of cell differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>negative regulation of myeloid cell differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>dentate gyrus development</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>mitotic cell cycle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of cell-matrix adhesion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of gene expression</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>T cell differentiation in thymus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell dedifferentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell cycle arrest</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>G1/S transition of mitotic cell cycle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>hematopoietic stem cell differentiation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell division</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>Notch signaling pathway</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

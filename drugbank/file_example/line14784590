@@ -1,0 +1,268 @@
+<drug type="biotech" created="2016-10-20" updated="2017-03-08">
+  <drugbank-id primary="true">DB11776</drugbank-id>
+  <name>Brodalumab</name>
+  <description>Brodalumab has been used in trials studying the treatment of Asthma, Psoriasis, Crohn's Disease, Psoriatic Arthritis, and Rheumatoid Arthritis. Brodalumab was FDA approved in February, 2017 as Siliq for the treatment of moderate-to-severe plaque psoriasis.</description>
+  <cas-number>1174395-19-7</cas-number>
+  <unii>6ZA31Y954Z</unii>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>article</title>
+        <url>https://www.ncbi.nlm.nih.gov/pubmed/27577550</url>
+      </link>
+      <link>
+        <title>article</title>
+        <url>https://www.ncbi.nlm.nih.gov/pubmed/24846347</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Brodalumab has been approved for the treatment of psoriasis vulgaris, psoriatic arthritis, pustular psoriasis and psoriatic erythroderma. </indication>
+  <pharmacodynamics>Increase in the level of IL-17 due to blocking of its receptors. </pharmacodynamics>
+  <mechanism-of-action>Brodalumab binds with high affinity to interleukin (IL)-17 receptor A, thereby inhibiting several pro-inflammatory cytokines from the IL-17 family.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution>4.62 L. </volume-of-distribution>
+  <clearance> 0.223 L/day. </clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Siliq</name>
+      <labeller>Valeant Pharmaceuticals North America</labeller>
+      <ndc-id/>
+      <ndc-product-code>0187-0004</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2017-02-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>210 mg/1</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA761032</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Siliq</name>
+      <ingredients>Brodalumab</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies</category>
+      <mesh-id>D000906</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic and Immunomodulating Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Globulins</category>
+      <mesh-id>D005916</mesh-id>
+    </category>
+    <category>
+      <category>Immunoglobulins</category>
+      <mesh-id>D007136</mesh-id>
+    </category>
+    <category>
+      <category>Immunoproteins</category>
+      <mesh-id>D007162</mesh-id>
+    </category>
+    <category>
+      <category>Immunosuppressive Agents</category>
+      <mesh-id>D007166</mesh-id>
+    </category>
+    <category>
+      <category>Interleukin Inhibitors</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Serum Globulins</category>
+      <mesh-id>D012712</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Subcutaneous</route>
+      <strength>210 mg/1</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="L04AC12">
+      <level code="L04AC">Interleukin inhibitors</level>
+      <level code="L04A">IMMUNOSUPPRESSANTS</level>
+      <level code="L04">IMMUNOSUPPRESSANTS</level>
+      <level code="L">ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB12768</drugbank-id>
+      <name>BCG</name>
+      <description>The therapeutic efficacy of Bcg can be decreased when used in combination with Amg 827.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06643</drugbank-id>
+      <name>Denosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Denosumab is combined with Amg 827.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08868</drugbank-id>
+      <name>Fingolimod</name>
+      <description>Amg 827 may increase the immunosuppressive activities of Fingolimod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04914</drugbank-id>
+      <name>G17DT</name>
+      <description>The risk or severity of adverse effects can be increased when Amg 827 is combined with G17DT.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05942</drugbank-id>
+      <name>GI-5005</name>
+      <description>The risk or severity of adverse effects can be increased when Amg 827 is combined with GI-5005.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05322</drugbank-id>
+      <name>INGN 201</name>
+      <description>The risk or severity of adverse effects can be increased when Amg 827 is combined with INGN 201.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05325</drugbank-id>
+      <name>INGN 225</name>
+      <description>The risk or severity of adverse effects can be increased when Amg 827 is combined with INGN 225.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01097</drugbank-id>
+      <name>Leflunomide</name>
+      <description>The risk or severity of adverse effects can be increased when Amg 827 is combined with Leflunomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00108</drugbank-id>
+      <name>Natalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Amg 827 is combined with Natalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00337</drugbank-id>
+      <name>Pimecrolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Pimecrolimus is combined with Amg 827.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10283</drugbank-id>
+      <name>Rabies vaccine</name>
+      <description>The risk or severity of adverse effects can be increased when Amg 827 is combined with Rabies vaccine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10283</drugbank-id>
+      <name>Rabies vaccine</name>
+      <description>The therapeutic efficacy of Rabies vaccine can be decreased when used in combination with Amg 827.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05374</drugbank-id>
+      <name>Rindopepimut</name>
+      <description>The risk or severity of adverse effects can be increased when Amg 827 is combined with CDX-110.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01656</drugbank-id>
+      <name>Roflumilast</name>
+      <description>Roflumilast may increase the immunosuppressive activities of Amg 827.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06688</drugbank-id>
+      <name>Sipuleucel-T</name>
+      <description>The therapeutic efficacy of Sipuleucel-T can be decreased when used in combination with Amg 827.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05440</drugbank-id>
+      <name>SRP 299</name>
+      <description>The risk or severity of adverse effects can be increased when Amg 827 is combined with SRP 299.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00864</drugbank-id>
+      <name>Tacrolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Tacrolimus is combined with Amg 827.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06584</drugbank-id>
+      <name>TG4010</name>
+      <description>The risk or severity of adverse effects can be increased when Amg 827 is combined with TG4010.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08895</drugbank-id>
+      <name>Tofacitinib</name>
+      <description>Amg 827 may increase the immunosuppressive activities of Tofacitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00072</drugbank-id>
+      <name>Trastuzumab</name>
+      <description>Trastuzumab may increase the neutropenic activities of Amg 827.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D10061</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Brodalumab</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

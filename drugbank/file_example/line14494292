@@ -1,0 +1,540 @@
+<drug type="biotech" created="2015-12-01" updated="2017-02-26">
+  <drugbank-id primary="true">DB10989</drugbank-id>
+  <name>Hepatitis A Vaccine</name>
+  <description>Two types of HAV vaccines are currently available internationally:&#13;
+1. Formaldehyde-inactivated vaccines: Inactivated HAV vaccines are used in most countries. Monovalent inactivated HAV vaccines are available in paediatric dose (0.5 ml) for children aged 1 year to 15 years, and in adult dose (1 ml).&#13;
+2. Live attenuated vaccines (based on H2 or LA-1 HAV strains): These vaccines are manufactured and used mainly in China and India. &#13;
+&#13;
+ Inactivated hepatitis A vaccines are safe and highly effective. Traditionally, a two-dose schedule is recommended, particularly in travellers at substantial risk of contracting hepatitis A and in immunocompromised individuals. However, in healthy individuals, comparable effectiveness has been achieved with a single dose. &#13;
+&#13;
+The Chinese live attenuated hepatitis A vaccines have been shown to be safe and highly protective (95%) against clinical infection for at least 3 years. &#13;
+Among the adverse effects from Hepatitis A vaccine injection are fatigue, fever &gt; 99.5°F (37.5°C), induration, redness, and swelling of the injection site and malaise. Anorexia and nausea could be possible side effects.</description>
+  <cas-number/>
+  <unii/>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>MSDS</title>
+        <url>http://www.msds-gsk.com/Product.aspx?id=227</url>
+      </link>
+      <link>
+        <title>WHO website</title>
+        <url>http://www.who.int/ith/vaccines/hepatitisA/en/</url>
+      </link>
+      <link>
+        <title>product info</title>
+        <url>http://www.rxlist.com/havrix-drug/side-effects-interactions.htm</url>
+      </link>
+      <link>
+        <title>Havrix Monograph</title>
+        <url>http://healthsensetravelclinic.ca/wp-content/uploads/havrix.pdf</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Hepatitis A vaccine is indicated for active immunization against disease caused by hepatitis A virus (HAV). It is approved for use in persons 12 months of age and older. Primary immunization should be administered at least 2 weeks prior to expected exposure to HAV.&#13;
+&#13;
+HAVRIX® will not prevent hepatitis infection caused by other agents such as hepatitis B virus, hepatitis C virus, hepatitis E virus or other pathogens known to infect the liver.&#13;
+In areas of low to intermediate prevalence of hepatitis A, immunization with HAVRIX® is particularly recommended in subjects who are, or will be, at increased risk of infection such as:&#13;
+* Travelers: Persons traveling to areas where the prevalence of hepatitis A is high. These areas include Africa, Asia, the Mediterranean basin, the Middle East, Central and South America.&#13;
+&#13;
+* Armed Forces: Armed Forces personnel who travel to higher endemicity areas or to areas where hygiene is poor have an increased risk of HAV infection. Active immunization is indicated for these individuals.&#13;
+* Persons for whom Hepatitis A is an Occupational Hazard: These include employees in day-care centres, nursing, medical and paramedical personnel in hospitals and institutions, especially gastroenterology and pediatric units, sewage workers, and food handlers, among others.&#13;
+* Persons for whom there is an Increased Risk of Transmission of Hepatitis A: e.g. homosexuals, persons with multiple sexual partners, abusers of injectable drugs, hemophiliac patients.&#13;
+* Contacts of Infected Persons: Since virus shedding of infected persons may occur for a prolonged period, active immunization of close contacts is recommended.&#13;
+* Specific Population Groups known to have Higher Incidence of Hepatitis A: e.g. North American Indians, Inuits, recognized community-wide HAV epidemics.&#13;
+* Subjects with chronic liver disease or who are at risk of developing chronic liver disease e.g. Hepatitis B (HB) and Hepatitis C (HC) chronic carriers and alcohol abusers.</indication>
+  <pharmacodynamics>Elevation of Anti-Hepatitis A antibodies which gives protection against Hepatitis A infection. </pharmacodynamics>
+  <mechanism-of-action>The hepatitis A virus belongs to the picornavirus family. It is one of several hepatitis viruses that cause systemic disease with pathology in the liver. The incubation period for hepatitis A averages 28 days (range: 15 to 50 days). The course of hepatitis A infection is extremely variable, ranging from asymptomatic infection to icteric hepatitis and death. The presence of antibodies to HAV confers protection against hepatitis A infection. However, the lowest titer needed to confer protection has not been determined.</mechanism-of-action>
+  <toxicity>Health injuries are not known or expected under normal use.&#13;
+LD50: No data available.  </toxicity>
+  <metabolism>Evaluation of pharmacokinetic properties is not required for vaccines. </metabolism>
+  <absorption>Vaccine is intended for intramuscular injection. Evaluation of pharmacokinetic properties is not required for vaccines. </absorption>
+  <half-life>Evaluation of pharmacokinetic properties is not required for vaccines. </half-life>
+  <protein-binding>Evaluation of pharmacokinetic properties is not required for vaccines. </protein-binding>
+  <route-of-elimination>Evaluation of pharmacokinetic properties is not required for vaccines. </route-of-elimination>
+  <volume-of-distribution>Evaluation of pharmacokinetic properties is not required for vaccines. </volume-of-distribution>
+  <clearance>Evaluation of pharmacokinetic properties is not required for vaccines. </clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001981</drugbank-id>
+      <name>Hepatitis A virus strain CR 326F antigen (formaldehyde inactivated)</name>
+      <unii/>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+    <salt>
+      <drugbank-id primary="true">DBSALT001980</drugbank-id>
+      <name>Hepatitis A virus strain HM175 antigen (formaldehyde inactivated)</name>
+      <unii>5BFC8LZ6LQ</unii>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">Hepatitis A vaccine, inactivated</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Avaxim</name>
+      <labeller>Sanofi Pasteur Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237792</dpd-id>
+      <started-marketing-on>1999-05-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength>160 unit</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Avaxim - Pediatric -(5ml Vial)</name>
+      <labeller>Sanofi Pasteur Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02243750</dpd-id>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength>800 unit</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Avaxim - Pediatric -(syringe)</name>
+      <labeller>Sanofi Pasteur Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02243741</dpd-id>
+      <started-marketing-on>2003-04-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength>80 unit</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Epaxal</name>
+      <labeller>Berna Biotech Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239910</dpd-id>
+      <started-marketing-on>2000-01-11</started-marketing-on>
+      <ended-marketing-on>2015-01-01</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>500 unit</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Havrix</name>
+      <labeller>Glaxo Smith Kline Biologicals Sa</labeller>
+      <ndc-id/>
+      <ndc-product-code>58160-825</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-02-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength>720 [iU]/.5mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103475</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Havrix</name>
+      <labeller>Glaxo Smith Kline Biologicals Sa</labeller>
+      <ndc-id/>
+      <ndc-product-code>58160-826</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-04-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength>1440 [iU]/mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103475</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Havrix</name>
+      <labeller>Dispensing Solutions, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>68258-8912</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-04-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength>1440 [iU]/mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103475</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Havrix</name>
+      <labeller>Dispensing Solutions, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>55045-3841</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-04-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength>1440 [iU]/mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103475</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Havrix - 720unit/ml Sus</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02108216</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>2001-10-03</ended-marketing-on>
+      <dosage-form>Suspension</dosage-form>
+      <strength>720 unit</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Havrix - Sus Im 1440 Elisa Units/ml</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02187078</dpd-id>
+      <started-marketing-on>1996-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength>1440 unit</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Havrix 720 Junior</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02231056</dpd-id>
+      <started-marketing-on>1997-09-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength>720 unit</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Twinrix</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230578</dpd-id>
+      <started-marketing-on>1997-09-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Twinrix</name>
+      <labeller>Glaxo Smith Kline Biologicals Sa</labeller>
+      <ndc-id/>
+      <ndc-product-code>58160-815</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2007-06-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, suspension</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103850</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Twinrix Junior</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237548</dpd-id>
+      <started-marketing-on>1998-11-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Vaqta</name>
+      <labeller>Merck Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02229702</dpd-id>
+      <started-marketing-on>1996-11-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Suspension</dosage-form>
+      <strength>50 unit</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Havrix</name>
+      <ingredients>Hepatitis A Vaccine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Havrix</name>
+      <ingredients>Hepatitis A Vaccine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Twinrix</name>
+      <ingredients>Hepatitis A Vaccine + Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Havrix</name>
+      <ingredients>Hepatitis A Vaccine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Havrix</name>
+      <ingredients>Hepatitis A Vaccine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Havrix - Sus Im 1440 Elisa Units/ml</name>
+      <ingredients>Hepatitis A Vaccine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vaqta</name>
+      <ingredients>Hepatitis A Vaccine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Twinrix</name>
+      <ingredients>Hepatitis A Vaccine + Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Havrix 720 Junior</name>
+      <ingredients>Hepatitis A Vaccine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Twinrix Junior</name>
+      <ingredients>Hepatitis A Vaccine + Hepatitis B Vaccine (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avaxim</name>
+      <ingredients>Hepatitis A Vaccine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avaxim - Pediatric -(syringe)</name>
+      <ingredients>Hepatitis A Vaccine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Havrix - 720unit/ml Sus</name>
+      <ingredients>Hepatitis A Vaccine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Epaxal</name>
+      <ingredients>Hepatitis A Vaccine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avaxim - Pediatric -(5ml Vial)</name>
+      <ingredients>Hepatitis A Vaccine</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Biological Products</category>
+      <mesh-id>D001688</mesh-id>
+    </category>
+    <category>
+      <category>Complex Mixtures</category>
+      <mesh-id>D045424</mesh-id>
+    </category>
+    <category>
+      <category>Vaccines</category>
+      <mesh-id>D014612</mesh-id>
+    </category>
+    <category>
+      <category>Viral Hepatitis Vaccines</category>
+      <mesh-id>D014761</mesh-id>
+    </category>
+    <category>
+      <category>Viral Vaccines</category>
+      <mesh-id>D014765</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Suspension</form>
+      <route>Intramuscular</route>
+      <strength>160 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Intramuscular</route>
+      <strength>800 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Intramuscular</route>
+      <strength>80 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular</route>
+      <strength>500 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, suspension</form>
+      <route>Intramuscular</route>
+      <strength>1440 [iU]/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, suspension</form>
+      <route>Intramuscular</route>
+      <strength>720 [iU]/.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Intramuscular</route>
+      <strength>1440 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Intramuscular</route>
+      <strength>720 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, suspension</form>
+      <route>Intramuscular</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Intramuscular</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Intramuscular</route>
+      <strength>50 unit</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>348</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Hepatitis_A_vaccine</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>https://www.drugs.com/cdi/hepatitis-a-vaccine.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

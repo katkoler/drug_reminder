@@ -1,0 +1,2170 @@
+<drug type="small molecule" created="2015-11-30" updated="2017-03-08">
+  <drugbank-id primary="true">DB09395</drugbank-id>
+  <drugbank-id>DB09470</drugbank-id>
+  <name>Sodium acetate</name>
+  <description>Sodium Acetate is chemically designated CH3COONa, a hygroscopic powder very soluble in water. Sodium acetate could be used as additives in food, industry, concrete manufacture, heating pads and in buffer solutions. Medically, sodium acetate is important component as an electrolyte replenisher when given intravenously. It is mainly indicated to correct sodium levels in hyponatremic patients. It can be used also in metabolic acidosis and for urine alkalinization.</description>
+  <cas-number>127-09-3</cas-number>
+  <unii>NVG71ZZ7P0</unii>
+  <average-mass>82.0338</average-mass>
+  <monoisotopic-mass>82.003074015</monoisotopic-mass>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Sodium_acetate</url>
+      </link>
+      <link>
+        <title>rxlist</title>
+        <url>http://www.rxlist.com/sodium-acetate-drug/indications-dosage.htm</url>
+      </link>
+      <link>
+        <title>monograph</title>
+        <url>http://www.medsafe.govt.nz/Profs/datasheet/d/dblsodiumacetatesol.pdf</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Injection, USP 40 mEq is indicated as a source of sodium, for addition to large volume intravenous fluids to prevent or correct hyponatremia in patients with restricted or no oral intake. It is also useful as an additive for preparing specific intravenous fluid formulas when the needs of the patient cannot be met by standard electrolyte or nutrient solutions. Sodium acetate and other bicarbonate precursors are alkalinising agents, and can be used to correct metabolic acidosis, or for alkalinisation of the urine.</indication>
+  <pharmacodynamics>Sodium is the principal cation of extracellular fluid. It comprises more than 90% of total cations at its normal plasma concentration of approximately 140 mEq/liter. The sodium ion exerts a primary role in controlling total body water and its distribution. Acetate ions acts as hydrogen ion acceptor which is alternative to bicarbonate. </pharmacodynamics>
+  <mechanism-of-action>It works as a source of sodium ions especially in cases of hyponatremic patients. Sodium has a primary role in regulating extracellular fluid volume. It controls water distribution, fluid and electrolyte balance and the osmotic pressure of body fluids. Sodium is also involved in nerve conduction, muscle contraction, acid-base balance and cell nutrient uptake.</mechanism-of-action>
+  <toxicity>LD50: 25956 mg/kg (Rat.)</toxicity>
+  <metabolism>In liver, sodium acetate is being metabolized into bicarbonate. To form bicarbonate, acetate is slowly hydrolyzed to carbon dioxide and water, which are then converted to bicarbonate by the addition of a hydrogen ion. </metabolism>
+  <absorption>It is readily available in the circulation after IV administration. </absorption>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination> Both the sodium and bicarbonate ions are excreted mainly in the urine. Some sodium is excreted in the feces, and small amounts may also be excreted in saliva, sweat, bile and pancreatic secretions.</route-of-elimination>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as acetate salts. These are organic compounds containing acetic acid as its acid component.</description>
+    <direct-parent>Acetate salts</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic acids and derivatives</superclass>
+    <class>Carboxylic acids and derivatives</class>
+    <subclass>Carboxylic acid derivatives</subclass>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Organic sodium salts</alternative-parent>
+    <alternative-parent>Organic zwitterions</alternative-parent>
+    <substituent>Acetate salt</substituent>
+    <substituent>Aliphatic acyclic compound</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>Organic alkali metal salt</substituent>
+    <substituent>Organic salt</substituent>
+    <substituent>Organic sodium salt</substituent>
+    <substituent>Organic zwitterion</substituent>
+    <substituent>Organooxygen compound</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001896</drugbank-id>
+      <name>Sodium acetate trihydrate</name>
+      <unii>4550K0SC9B</unii>
+      <cas-number>6131-90-4</cas-number>
+      <inchikey>AYRVGWHSXIMRAB-UHFFFAOYSA-M</inchikey>
+      <average-mass>136.079</average-mass>
+      <monoisotopic-mass>136.03476767</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">acetic acid, sodium salt</synonym>
+    <synonym language="" coder="">Acetic acid, sodium salt (1:1)</synonym>
+    <synonym language="" coder="">anhydrous sodium acetate</synonym>
+    <synonym language="German" coder="">Natriumazetat</synonym>
+    <synonym language="" coder="">Sodium acetate anhydrous</synonym>
+    <synonym language="" coder="">Sodium acetate, anhydrous</synonym>
+    <synonym language="" coder="">Sodium acetate,anhydrous</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>16.4% Sodium Acetate Injection, USP</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02247204</dpd-id>
+      <started-marketing-on>2003-02-13</started-marketing-on>
+      <ended-marketing-on>2011-05-10</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>16.4 %</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Aminosyn 10% W Electrolytes</name>
+      <labeller>Abbott</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00558966</dpd-id>
+      <started-marketing-on>1984-12-31</started-marketing-on>
+      <ended-marketing-on>1999-08-09</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Amo Endosol Solution</name>
+      <labeller>Amo Canada Company</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02007967</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intraocular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Balanced Salt</name>
+      <labeller>Akorn</labeller>
+      <ndc-id/>
+      <ndc-product-code>17478-920</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2006-09-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>ANDA075503</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Balanced Salt</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-2514</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-02-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Irrigation</route>
+      <fda-application-number>ANDA091387</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Balanced Salt</name>
+      <labeller>Akorn</labeller>
+      <ndc-id/>
+      <ndc-product-code>17478-921</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-11-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>ANDA075503</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Balanced Salt Solution</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00708127</dpd-id>
+      <started-marketing-on>1987-12-31</started-marketing-on>
+      <ended-marketing-on>2012-08-03</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Irrigation</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Bss</name>
+      <labeller>Alcon, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0065-0795</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1969-03-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>NDA020742</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bss</name>
+      <labeller>Alcon, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0065-1795</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1969-03-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>NDA020742</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1107</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1109</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1113</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1115</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1119</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1123</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1125</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1127</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1142</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1143</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1144</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1145</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1146</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1147</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1148</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Clinimix E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-1149</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1997-03-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020678</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>D-12043 Sol Conc Electrolyt Pour Dialy</name>
+      <labeller>Bio Pharm, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00703397</dpd-id>
+      <started-marketing-on>1986-12-31</started-marketing-on>
+      <ended-marketing-on>1997-04-10</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Hemodialysis</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>D12006</name>
+      <labeller>Bio Pharm, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00665444</dpd-id>
+      <started-marketing-on>1985-12-31</started-marketing-on>
+      <ended-marketing-on>1997-04-10</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Hemodialysis</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>D12046 Conc Electrolyte Renal Dialysis</name>
+      <labeller>Bio Pharm, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00732745</dpd-id>
+      <started-marketing-on>1986-12-31</started-marketing-on>
+      <ended-marketing-on>1997-04-10</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Hemodialysis</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Dioptic's Balanced Salt Solution</name>
+      <labeller>Dioptic Pharmaceuticals Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02023709</dpd-id>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>H.E.L.P. Acetate Buffer Ph 4.85</name>
+      <labeller>B. Braun Avitum Ag</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02373807</dpd-id>
+      <started-marketing-on>2012-03-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Hemodialysis</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Hyperlyte (multi-electrolyte Concentrate)</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01963910</dpd-id>
+      <started-marketing-on>1998-09-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Hyperlyte CR</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-1943</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-04-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Hyperlyte CR Multi-electrolyte Concentrate</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01924311</dpd-id>
+      <started-marketing-on>1998-09-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Intersol</name>
+      <labeller>Fenwal, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0942-9601</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2012-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN080041</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Iocare Balanced Salt Solution</name>
+      <labeller>Iolab Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00760064</dpd-id>
+      <started-marketing-on>1989-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-09</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intraocular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Isolyte S</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-7703</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1989-09-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA019711</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Isolyte S (multi-electrolyte Injection)</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01931628</dpd-id>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Isolyte S Ph 7.4</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-7707</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1989-09-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA019696</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Isoplate</name>
+      <labeller>Terumo Bct</labeller>
+      <ndc-id/>
+      <ndc-product-code>14537-408</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2013-03-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>BN090067</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Lypholyte</name>
+      <labeller>Partners Health Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02139618</dpd-id>
+      <started-marketing-on>1996-08-14</started-marketing-on>
+      <ended-marketing-on>2008-01-10</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lypholyte Multi-electrolyte Conc Inj</name>
+      <labeller>Lyphomed, Division Of Fujisawa Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01944940</dpd-id>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-10</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Multiple Electrolyte Additive Liq Formula 1</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00809551</dpd-id>
+      <started-marketing-on>1989-12-31</started-marketing-on>
+      <ended-marketing-on>2015-10-07</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Normosol R</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00039500</dpd-id>
+      <started-marketing-on>1965-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Normosol-R</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-7670</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-10-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017586</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Normosol-R</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-7967</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2010-09-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017586</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nutrilyte</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-3120</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nutrilyte II</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-2000</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-10-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nutrilyte II</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-2020</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-10-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Odan Balanced Salt Solution</name>
+      <labeller>Odan Laboratories Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00622893</dpd-id>
+      <started-marketing-on>1985-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Irrigation</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Physiolyte</name>
+      <labeller>B. Braun Medical Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0264-2205</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1984-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Irrigant</dosage-form>
+      <strength/>
+      <route>Irrigation</route>
+      <fda-application-number>NDA019024</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Physiosol</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-6141</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2011-02-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Irrigant</dosage-form>
+      <strength/>
+      <route>Irrigation</route>
+      <fda-application-number>NDA017637</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Plasma-lyte 148</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-0179</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1979-02-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017378</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Plasma-lyte A</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-0221</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1979-02-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017378</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Plasma-lyte A Injection</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02339358</dpd-id>
+      <started-marketing-on>2010-12-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Plasmalyte 148 In Water</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00260576</dpd-id>
+      <started-marketing-on>1968-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Prenatal Plus</name>
+      <labeller>Seton Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>13925-509</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2014-03-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Acetate</name>
+      <labeller>APP Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-032</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2000-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength>328 mg/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Acetate</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-2096</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength>164 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Acetate</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-7299</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1983-05-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength>3.28 g/20mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA018893</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Acetate</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-3299</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-04-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength>164 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA018893</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sodium Acetate Inj 328mg/ml USP</name>
+      <labeller>Sabex Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00780642</dpd-id>
+      <started-marketing-on>1988-12-31</started-marketing-on>
+      <ended-marketing-on>2008-08-07</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>328 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sodium Acetate Inj 328mg/ml USP</name>
+      <labeller>Lyphomed, Division Of Fujisawa Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01944843</dpd-id>
+      <started-marketing-on>1984-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-10</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>328 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sodium Acetate Injection, USP</name>
+      <labeller>Fresenius Kabi</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02139529</dpd-id>
+      <started-marketing-on>1996-08-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>328 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sodium Acetate-omega</name>
+      <labeller>Omega Laboratories Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02181746</dpd-id>
+      <started-marketing-on>1999-05-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength>328 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sodum Acetate</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-5023</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength>328 mg/mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Tpn Electrolytes</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0409-5779</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>1984-07-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA018895</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Tpn Electrolytes</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00590215</dpd-id>
+      <started-marketing-on>1983-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Travasol Amino Acid Inj 5.5%</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00306444</dpd-id>
+      <started-marketing-on>1981-12-31</started-marketing-on>
+      <ended-marketing-on>2007-08-02</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Travasol Amino Acid Inj 8.5%</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00306436</dpd-id>
+      <started-marketing-on>1980-12-31</started-marketing-on>
+      <ended-marketing-on>2008-03-26</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Travasol E</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00285528</dpd-id>
+      <started-marketing-on>1974-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Sodium Acetate</name>
+      <ingredients>Sodium acetate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Acetate</name>
+      <ingredients>Sodium acetate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Acetate</name>
+      <ingredients>Sodium acetate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodum Acetate</name>
+      <ingredients>Sodium acetate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Acetate</name>
+      <ingredients>Sodium acetate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Acetate-omega</name>
+      <ingredients>Sodium acetate</ingredients>
+    </mixture>
+    <mixture>
+      <name>H.E.L.P. Acetate Buffer Ph 4.85</name>
+      <ingredients>Sodium acetate + Acetic acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Acetate Inj 328mg/ml USP</name>
+      <ingredients>Sodium acetate</ingredients>
+    </mixture>
+    <mixture>
+      <name>16.4% Sodium Acetate Injection, USP</name>
+      <ingredients>Sodium acetate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Acetate Inj 328mg/ml USP</name>
+      <ingredients>Sodium acetate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Prenatal Plus</name>
+      <ingredients>Beta carotene + Sodium acetate + Vitamin C + Cholecalciferol + Vitamin E + Thiamine + Riboflavin + Nicotinamide + Pyridoxine + Folic Acid + Cyanocobalamin + Calcium carbonate + Iron + Zinc oxide + Cupric oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sodium Acetate Injection, USP</name>
+      <ingredients>Sodium acetate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Bss</name>
+      <ingredients>Sodium Chloride + Potassium Chloride + Calcium Chloride + Magnesium chloride + Sodium acetate + Sodium Citrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Bss</name>
+      <ingredients>Sodium Chloride + Potassium Chloride + Calcium Chloride + Magnesium chloride + Sodium acetate + Sodium Citrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Hyperlyte CR</name>
+      <ingredients>Potassium + Sodium Chloride + Sodium acetate + Magnesium chloride + Calcium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Balanced Salt</name>
+      <ingredients>Sodium Chloride + Potassium Chloride + Calcium Chloride + Magnesium chloride + Sodium acetate + Sodium Citrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nutrilyte II</name>
+      <ingredients>Potassium + Sodium Chloride + Sodium acetate + Magnesium chloride + Calcium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nutrilyte II</name>
+      <ingredients>Potassium + Sodium Chloride + Sodium acetate + Magnesium chloride + Calcium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Amo Endosol Solution</name>
+      <ingredients>Sodium Citrate + Sodium acetate + Magnesium chloride + Calcium Chloride + Potassium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Hyperlyte CR Multi-electrolyte Concentrate</name>
+      <ingredients>Sodium acetate + Potassium + Magnesium chloride + Calcium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tpn Electrolytes</name>
+      <ingredients>Sodium acetate + Magnesium chloride + Calcium Chloride + Potassium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>D12006</name>
+      <ingredients>Sodium acetate + Magnesium chloride + Calcium Chloride + Potassium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>D-12043 Sol Conc Electrolyt Pour Dialy</name>
+      <ingredients>Sodium acetate + Magnesium chloride + Calcium Chloride + Potassium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>D12046 Conc Electrolyte Renal Dialysis</name>
+      <ingredients>Sodium acetate + Magnesium chloride + Calcium Chloride + Potassium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Balanced Salt Solution</name>
+      <ingredients>Sodium Citrate + Sodium acetate + Magnesium chloride + Calcium Chloride + Potassium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Iocare Balanced Salt Solution</name>
+      <ingredients>Sodium Citrate + Sodium acetate + Magnesium chloride + Calcium Chloride + Potassium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Multiple Electrolyte Additive Liq Formula 1</name>
+      <ingredients>Sodium acetate + Magnesium chloride + Calcium Chloride + Potassium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tpn Electrolytes</name>
+      <ingredients>Sodium Chloride + Calcium Chloride + Potassium Chloride + Magnesium chloride + Sodium acetate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Odan Balanced Salt Solution</name>
+      <ingredients>Sodium Citrate + Sodium acetate + Magnesium chloride + Calcium Chloride + Potassium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dioptic's Balanced Salt Solution</name>
+      <ingredients>Sodium Citrate + Sodium acetate + Magnesium chloride + Calcium Chloride + Potassium Chloride + Sodium Chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Balanced Salt</name>
+      <ingredients>Sodium Chloride + Potassium Chloride + Calcium Chloride + Magnesium chloride + Sodium acetate + Trisodium citrate dihydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Balanced Salt</name>
+      <ingredients>Calcium Chloride + Magnesium chloride + Potassium Chloride + Sodium acetate + Sodium Chloride + Sodium Citrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Physiolyte</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isolyte S</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasma-lyte 148</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasma-lyte A</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nutrilyte</name>
+      <ingredients>Sodium acetate + Potassium Chloride + Sodium gluconate + Magnesium + Potassium + Calcium Acetate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isolyte S (multi-electrolyte Injection)</name>
+      <ingredients>Sodium acetate + Magnesium chloride + Potassium Chloride + Sodium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasmalyte 148 In Water</name>
+      <ingredients>Sodium acetate + Magnesium chloride + Potassium Chloride + Sodium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Normosol R</name>
+      <ingredients>Sodium acetate + Magnesium chloride + Potassium Chloride + Sodium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Hyperlyte (multi-electrolyte Concentrate)</name>
+      <ingredients>Sodium acetate + Potassium + Calcium Acetate + Magnesium + Potassium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasma-lyte A Injection</name>
+      <ingredients>Sodium acetate + Magnesium chloride + Potassium Chloride + Sodium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lypholyte Multi-electrolyte Conc Inj</name>
+      <ingredients>Sodium acetate + Potassium + Calcium Acetate + Magnesium + Potassium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lypholyte</name>
+      <ingredients>Sodium acetate + Potassium + Calcium Acetate + Magnesium + Potassium Chloride + Sodium gluconate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Physiosol</name>
+      <ingredients>Sodium Chloride + Sodium acetate + Sodium gluconate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Normosol-R</name>
+      <ingredients>Sodium Chloride + Sodium acetate + Sodium gluconate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Normosol-R</name>
+      <ingredients>Sodium Chloride + Sodium acetate + Sodium gluconate + Potassium Chloride + Magnesium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Travasol E</name>
+      <ingredients>L-Phenylalanine + L-Histidine + L-Tryptophan + L-Leucine + L-Arginine + L-Threonine + Sodium acetate + L-Lysine + L-Alanine + Magnesium chloride + Dipotassium phosphate + Sodium Chloride + L-Methionine + Glycine + L-Proline + L-Tyrosine + L-Valine + L-Isoleucine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Travasol Amino Acid Inj 8.5%</name>
+      <ingredients>L-Phenylalanine + L-Histidine + L-Tryptophan + L-Leucine + L-Arginine + L-Threonine + Sodium acetate + L-Lysine + L-Alanine + Magnesium chloride + Dipotassium phosphate + Sodium Chloride + L-Methionine + Glycine + L-Proline + L-Tyrosine + L-Valine + L-Isoleucine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Travasol Amino Acid Inj 5.5%</name>
+      <ingredients>L-Phenylalanine + L-Histidine + L-Tryptophan + L-Leucine + L-Arginine + L-Threonine + Sodium acetate + L-Lysine + L-Alanine + Magnesium chloride + Dipotassium phosphate + Sodium Chloride + L-Methionine + Glycine + L-Proline + L-Tyrosine + L-Valine + L-Isoleucine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aminosyn 10% W Electrolytes</name>
+      <ingredients>L-Phenylalanine + L-Histidine + L-Tryptophan + L-Leucine + L-Arginine + L-Threonine + Sodium acetate + L-Lysine + L-Alanine + Magnesium chloride + Dipotassium phosphate + Sodium Chloride + L-Methionine + Glycine + L-Proline + L-Tyrosine + L-Serine + L-Valine + L-Isoleucine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Threonine + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Clinimix E</name>
+      <ingredients>L-Leucine + L-Phenylalanine + L-Lysine + L-Methionine + L-Isoleucine + L-Valine + L-Histidine + L-Threonine + L-Tryptophan + L-Alanine + Glycine + L-Arginine + L-Proline + L-Serine + L-Tyrosine + Sodium acetate + Dipotassium phosphate + Magnesium chloride + Sodium Chloride + Calcium Chloride + Glucose</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isoplate</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride + Sodium phosphates + Monopotassium phosphate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Intersol</name>
+      <ingredients>Sodium Chloride + Sodium acetate + Trisodium citrate dihydrate + Sodium phosphates + Sodium phosphate, monobasic, monohydrate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isolyte S Ph 7.4</name>
+      <ingredients>Sodium Chloride + Sodium gluconate + Sodium acetate + Potassium Chloride + Magnesium chloride + Sodium phosphates + Monopotassium phosphate</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acetates</category>
+      <mesh-id>D000085</mesh-id>
+    </category>
+    <category>
+      <category>Acetic Acid</category>
+      <mesh-id>D019342</mesh-id>
+    </category>
+    <category>
+      <category>Acids, Acyclic</category>
+      <mesh-id>D000144</mesh-id>
+    </category>
+    <category>
+      <category>Blood and Blood Forming Organs</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Blood Substitutes and Perfusion Solutions</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Carboxylic Acids</category>
+      <mesh-id>D002264</mesh-id>
+    </category>
+    <category>
+      <category>Electrolyte Solutions</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Fatty Acids</category>
+      <mesh-id>D005227</mesh-id>
+    </category>
+    <category>
+      <category>Fatty Acids, Volatile</category>
+      <mesh-id>D005232</mesh-id>
+    </category>
+    <category>
+      <category>I.V. Solution Additives</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Lipids</category>
+      <mesh-id>D008055</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>16.4 %</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intraocular</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Irrigation</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Ophthalmic</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Hemodialysis</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Hemodialysis</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intraocular</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Irrigant</form>
+      <route>Irrigation</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>164 mg/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>3.28 g/20mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>328 mg/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>328 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intravenous</route>
+      <strength>328 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>328 mg/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="B05XA08">
+      <level code="B05XA">Electrolyte solutions</level>
+      <level code="B05X">I.V. SOLUTION ADDITIVES</level>
+      <level code="B05">BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS</level>
+      <level code="B">BLOOD AND BLOOD FORMING ORGANS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-0.2</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>0.72</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>4.29e+02 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-0.22</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>sodium acetate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>sodium acetate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>82.0338</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>82.003074015</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[Na+].CC([O-])=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C2H3NaO2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C2H4O2.Na/c1-2(3)4;/h1H3,(H,3,4);/q;+1/p-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>VMHLLURERBWHNL-UHFFFAOYSA-M</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>40.13</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>23.48</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>4.96</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>4.54</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>10292</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>11338</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>11968</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>32954</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA451369</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Sodium_Acetate</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1354</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0000350</id>
+      <name>Acetyl-coenzyme A synthetase, cytoplasmic</name>
+      <organism>Human</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>article</title>
+            <url>http://jn.nutrition.org/content/137/7/1750.full</url>
+          </link>
+        </links>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q9NR19" source="Swiss-Prot">
+    <name>Acetyl-coenzyme A synthetase, cytoplasmic</name>
+    <general-function>Atp binding</general-function>
+    <specific-function>Activates acetate so that it can be used for lipid synthesis or for energy generation.</specific-function>
+    <gene-name>ACSS2</gene-name>
+    <locus>20q11.22</locus>
+    <cellular-location>Cytoplasm</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>6.43</theoretical-pi>
+    <molecular-weight>78579.11</molecular-weight>
+    <chromosome-location>20</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:15814</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>ACSS2</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>AF263614</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>8439651</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q9NR19</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>ACSA_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>6.2.1.1</synonym>
+      <synonym>ACAS2</synonym>
+      <synonym>AceCS</synonym>
+      <synonym>Acetate--CoA ligase</synonym>
+      <synonym>Acetyl-CoA synthetase</synonym>
+      <synonym>ACS</synonym>
+      <synonym>Acyl-activating enzyme</synonym>
+      <synonym>Acyl-CoA synthetase short-chain family member 2</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000697|Acetyl-coenzyme A synthetase, cytoplasmic
+MGLPEERVRSGSGSRGQEEAGAGGRARSWSPPPEVSRSAHVPSLQRYRELHRRSVEEPRE
+FWGDIAKEFYWKTPCPGPFLRYNFDVTKGKIFIEWMKGATTNICYNVLDRNVHEKKLGDK
+VAFYWEGNEPGETTQITYHQLLVQVCQFSNVLRKQGIQKGDRVAIYMPMIPELVVAMLAC
+ARIGALHSIVFAGFSSESLCERILDSSCSLLITTDAFYRGEKLVNLKELADEALQKCQEK
+GFPVRCCIVVKHLGRAELGMGDSTSQSPPIKRSCPDVQISWNQGIDLWWHELMQEAGDEC
+EPEWCDAEDPLFILYTSGSTGKPKGVVHTVGGYMLYVATTFKYVFDFHAEDVFWCTADIG
+WITGHSYVTYGPLANGATSVLFEGIPTYPDVNRLWSIVDKYKVTKFYTAPTAIRLLMKFG
+DEPVTKHSRASLQVLGTVGEPINPEAWLWYHRVVGAQRCPIVDTFWQTETGGHMLTPLPG
+ATPMKPGSATFPFFGVAPAILNESGEELEGEAEGYLVFKQPWPGIMRTVYGNHERFETTY
+FKKFPGYYVTGDGCQRDQDGYYWITGRIDDMLNVSGHLLSTAEVESALVEHEAVAEAAVV
+GHPHPVKGECLYCFVTLCDGHTFSPKLTEELKKQIREKIGPIATPDYIQNAPGLPKTRSG
+KIMRRVLRKIAQNDHDLGDMSTVADPSVISHLFSHRCLTIQ</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0010104|Acetyl-coenzyme A synthetase, cytoplasmic (ACSS2)
+ATGGGGCTTCCTGAGGAGCGGGTCCGGAGCGGCAGCGGGAGCCGGGGCCAGGAGGAAGCT
+GGAGCCGGAGGCCGGGCGCGGAGTTGGTCTCCGCCGCCCGAGGTCAGCCGCTCCGCGCAC
+GTCCCCTCGCTGCAGCGCTACCGCGAGCTGCACCGGCGCTCCGTGGAGGAGCCGCGGGAA
+TTCTGGGGAGACATTGCCAAGGAATTTTACTGGAAGACTCCATGCCCTGGCCCATTCCTT
+CGGTACAACTTTGATGTGACTAAAGGGAAAATCTTCATTGAGTGGATGAAAGGAGCAACT
+ACCAACATCTGCTACAATGTACTGGATCGAAATGTCCATGAGAAAAAGCTTGGAGATAAA
+GTTGCTTTTTACTGGGAGGGCAATGAGCCAGGGGAGACCACTCAGATCACATACCATCAG
+CTTCTGGTCCAAGTGTGTCAGTTCAGCAATGTTCTCCGAAAACAGGGCATTCAGAAGGGG
+GACCGAGTGGCCATCTACATGCCTATGATCCCAGAGCTTGTGGTGGCCATGCTGGCATGT
+GCCCGCATTGGGGCTTTGCACTCCATTGTGTTTGCAGGCTTCTCTTCAGAGTCTCTATGT
+GAACGGATCTTGGATTCCAGCTGCAGTCTTCTCATCACTACAGATGCCTTCTACAGGGGG
+GAAAAGCTTGTGAACCTGAAGGAGCTGGCTGACGAGGCCCTGCAGAAGTGTCAGGAGAAG
+GGTTTCCCAGTAAGATGCTGCATTGTGGTCAAGCACCTGGGGCGGGCAGAGCTCGGCATG
+GGTGACTCCACCAGCCAGTCCCCCCCAATTAAGAGGTCATGCCCAGATGTGCAGGGTAAA
+CTGAAAGAGAAATCCAAGCGTGTTCAGCCCCAGATCTCATGGAACCAAGGGATTGACTTG
+TGGTGGCATGAGCTCATGCAAGAGGCAGGGGATGAGTGTGAGCCCGAGTGGTGTGATGCC
+GAGGACCCACTCTTCATCCTGTACACCAGTGGCTCCACAGGCAAACCCAAGGGTGTGGTT
+CACACAGTTGGGGGCTACATGCTCTATGTAGCCACAACCTTCAAGTATGTGTTTGACTTC
+CATGCAGAGGATGTGTTCTGGTGCACGGCAGACATTGGTTGGATCACTGGTCATTCCTAC
+GTCACCTATGGGCCACTGGCCAATGGTGCCACCAGTGTTTTGTTTGAGGGGATTCCCACA
+TATCCGGACGTGAACCGCCTGTGGAGCATTGTGGACAAATACAAGGTGACCAAGTTCTAC
+ACAGCACCCACAGCCATCCGTCTGCTCATGAAGTTTGGAGATGAGCCTGTCACCAAGCAT
+AGCCGGGCATCCTTGCAGGTGTTAGGCACAGTGGGTGAACCCATCAACCCTGAGGCCTGG
+CTATGGTACCACCGGGTGGTAGGTGCCCAGCGCTGCCCCATCGTGGACACCTTCTGGCAA
+ACAGAGACAGGTGGCCACATGTTGACTCCCCTTCCTGGTGCCACACCCATGAAACCCGGT
+TCTGCTACTTTCCCATTCTTTGGTGTAGCTCCTGCAATCCTGAATGAGTCCGGGGAAGAG
+TTGGAAGGTGAAGCTGAAGGTTATCTGGTGTTCAAGCAGCCCTGGCCAGGGATCATGCGC
+ACAGTCTATGGGAACCACGAACGCTTTGAGACAACCTACTTTAAGAAGTTTCCTGGATAC
+TATGTTACAGGAGATGGCTGCCAGCGGGACCAGGATGGCTATTACTGGATCACTGGCAGG
+ATTGATGACATGCTCAATGTATCTGGACACCTGCTGAGTACAGCAGAGGTGGAGTCAGCA
+CTTGTGGAACATGAGGCTGTTGCAGAGGCAGCTGTGGTGGGCCACCCTCATCCTGTGAAG
+GGTGAATGCCTCTACTGCTTTGTCACCTTGTGTGATGGCCACACCTTCAGCCCCAAGCTC
+ACCGAGGAGCTCAAGAAGCAGATTAGAGAAAAGATTGGCCCCATTGCCACACCAGACTAC
+ATCCAGAATGCACCTGGCTTGCCTAAAACCCGCTCAGGGAAAATCATGAGGCGAGTGCTT
+CGGAAGATTGCTCAGAATGACCATGACCTCGGGGACATGTCTACTGTGGCTGACCCATCT
+GTCATCAGTCACCTCTTCAGCCACCGCTGCCTGACCATCCAGTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00501</identifier>
+        <name>AMP-binding</name>
+      </pfam>
+      <pfam>
+        <identifier>PF16177</identifier>
+        <name>ACAS_N</name>
+      </pfam>
+      <pfam>
+        <identifier>PF13193</identifier>
+        <name>AMP-binding_C</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cytosol</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intracellular membrane-bounded organelle</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ATP binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>AMP binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>acetate-CoA ligase activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>ethanol oxidation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>xenobiotic metabolic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>acetate biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>acetyl-CoA biosynthetic process from acetate</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>lipid biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>propionate biosynthetic process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>small molecule metabolic process</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength>unknown</induction-strength>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

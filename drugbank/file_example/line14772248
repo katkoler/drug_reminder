@@ -1,0 +1,644 @@
+<drug type="small molecule" created="2016-07-13" updated="2017-03-11">
+  <drugbank-id primary="true">DB11611</drugbank-id>
+  <name>Lifitegrast</name>
+  <description>Lifitegrast is an FDA approved drug for the treatment of keratoconjunctivitis sicca (dry eye syndrome). It was approved in July, 2016 under the trade name Xiidra.</description>
+  <cas-number>1025967-78-5</cas-number>
+  <unii>038E5L962W</unii>
+  <average-mass>615.48</average-mass>
+  <monoisotopic-mass>614.0681277</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <pubmed-id>26365210</pubmed-id>
+        <citation>Tauber J, Karpecki P, Latkany R, Luchs J, Martel J, Sall K, Raychaudhuri A, Smith V, Semba CP: Lifitegrast Ophthalmic Solution 5.0% versus Placebo for Treatment of Dry Eye Disease: Results of the Randomized Phase III OPUS-2 Study. Ophthalmology. 2015 Dec;122(12):2423-31. doi: 10.1016/j.ophtha.2015.08.001. Epub  2015 Sep 11.</citation>
+      </article>
+      <article>
+        <pubmed-id>28163544</pubmed-id>
+        <citation>Abidi A, Shukla P, Ahmad A: Lifitegrast: A novel drug for treatment of dry eye disease. J Pharmacol Pharmacother. 2016 Oct-Dec;7(4):194-198. doi: 10.4103/0976-500X.195920.</citation>
+      </article>
+      <article>
+        <pubmed-id>27883115</pubmed-id>
+        <citation>Paton DM: Lifitegrast: First LFA-1/ICAM-1 antagonist for treatment of dry eye disease. Drugs Today (Barc). 2016 Sep;52(9):485-493.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For the treatment of keratoconjunctivitis sicca (dry eye syndrome).</indication>
+  <pharmacodynamics/>
+  <mechanism-of-action>Lifitegrast binds to the integrin lymphocyte function-associated antigen-1 (LFA-1), a cell surface protein found on leukocytes and blocks the interaction of LFA-1 with its cognate ligand intercellular adhesion molecule-1 (ICAM-1). ICAM-1 may be overexpressed in corneal and conjunctival tissues in dry eye disease. LFA-1/ICAM-1 interaction can contribute to the formation of an immunological synapse resulting in T-cell activation and migration to target tissues. In vitro studies demonstrated that lifitegrast may inhibit T-cell adhesion to ICAM-1 in a human T-cell line and may inhibit secretion of inflammatory cytokines in human peripheral blood mononuclear cells. The exact mechanism of action of lifitegrast in dry eye disease is not known.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as phenylalanine and derivatives. These are compounds containing phenylalanine or a derivative thereof resulting from reaction of phenylalanine at the amino group or the carboxy group, or from the replacement of any hydrogen of glycine by a heteroatom.</description>
+    <direct-parent>Phenylalanine and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic acids and derivatives</superclass>
+    <class>Carboxylic acids and derivatives</class>
+    <subclass>Amino acids, peptides, and analogues</subclass>
+    <alternative-parent>2-halobenzoic acids and derivatives</alternative-parent>
+    <alternative-parent>Amphetamines and derivatives</alternative-parent>
+    <alternative-parent>Aryl chlorides</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Benzenesulfonyl compounds</alternative-parent>
+    <alternative-parent>Benzofurans</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Furans</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>N-acyl-alpha amino acids</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organochlorides</alternative-parent>
+    <alternative-parent>Organonitrogen compounds</alternative-parent>
+    <alternative-parent>Oxacyclic compounds</alternative-parent>
+    <alternative-parent>Phenylpropanoic acids</alternative-parent>
+    <alternative-parent>Secondary carboxylic acid amides</alternative-parent>
+    <alternative-parent>Sulfones</alternative-parent>
+    <alternative-parent>Tertiary carboxylic acid amides</alternative-parent>
+    <alternative-parent>Tetrahydroisoquinolines</alternative-parent>
+    <alternative-parent>Vinylogous halides</alternative-parent>
+    <substituent>2-halobenzoic acid or derivatives</substituent>
+    <substituent>3-phenylpropanoic-acid</substituent>
+    <substituent>Amphetamine or derivatives</substituent>
+    <substituent>Aromatic heteropolycyclic compound</substituent>
+    <substituent>Aryl chloride</substituent>
+    <substituent>Aryl halide</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Benzenesulfonyl group</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Benzofuran</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxamide group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Furan</substituent>
+    <substituent>Halobenzoic acid or derivatives</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>Monocyclic benzene moiety</substituent>
+    <substituent>N-acyl-alpha amino acid or derivatives</substituent>
+    <substituent>N-acyl-alpha-amino acid</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organochloride</substituent>
+    <substituent>Organohalogen compound</substituent>
+    <substituent>Organoheterocyclic compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Organosulfur compound</substituent>
+    <substituent>Oxacycle</substituent>
+    <substituent>Phenylalanine or derivatives</substituent>
+    <substituent>Secondary carboxylic acid amide</substituent>
+    <substituent>Sulfone</substituent>
+    <substituent>Sulfonyl</substituent>
+    <substituent>Tertiary carboxylic acid amide</substituent>
+    <substituent>Tetrahydroisoquinoline</substituent>
+    <substituent>Vinylogous halide</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001921</drugbank-id>
+      <name>Lifitegrast sodium</name>
+      <unii>QG18FLP1KP</unii>
+      <cas-number>1119276-80-0</cas-number>
+      <inchikey>BPWOKOSRORLLIN-BQAIUKQQSA-M</inchikey>
+      <average-mass>637.46</average-mass>
+      <monoisotopic-mass>636.0500719</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Xiidra</name>
+      <labeller>Shire</labeller>
+      <ndc-id/>
+      <ndc-product-code>54092-606</ndc-product-code>
+      <dpd-id/>
+      <started-marketing-on>2016-07-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength>50 mg/mL</strength>
+      <route>Ophthalmic</route>
+      <fda-application-number>NDA208073</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Xiidra</name>
+      <ingredients>Lifitegrast</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids</category>
+      <mesh-id>D000596</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Aromatic</category>
+      <mesh-id>D024322</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Cyclic</category>
+      <mesh-id>D000598</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Essential</category>
+      <mesh-id>D000601</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Lymphocyte Function-Associated Antigen-1</category>
+      <mesh-id>D016169</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Sulfur Compounds</category>
+      <mesh-id>D013457</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Solution / drops</form>
+      <route>Ophthalmic</route>
+      <strength>50 mg/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>3.96</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-5</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>5.71e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>4.02</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(2S)-2-{[2-(1-benzofuran-6-carbonyl)-5,7-dichloro-1,2,3,4-tetrahydroisoquinolin-6-yl]formamido}-3-(3-methanesulfonylphenyl)propanoic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>(2S)-2-{[2-(1-benzofuran-6-carbonyl)-5,7-dichloro-3,4-dihydro-1H-isoquinolin-6-yl]formamido}-3-(3-methanesulfonylphenyl)propanoic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>615.48</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>614.0681277</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CS(=O)(=O)C1=CC(C[C@H](NC(=O)C2=C(Cl)C3=C(CN(CC3)C(=O)C3=CC=C4C=COC4=C3)C=C2Cl)C(O)=O)=CC=C1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C29H24Cl2N2O7S</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C29H24Cl2N2O7S/c1-41(38,39)20-4-2-3-16(11-20)12-23(29(36)37)32-27(34)25-22(30)13-19-15-33(9-7-21(19)26(25)31)28(35)18-6-5-17-8-10-40-24(17)14-18/h2-6,8,10-11,13-14,23H,7,9,12,15H2,1H3,(H,32,34)(H,36,37)/t23-/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>JFOZKMSJYSPYLN-QHCPKHFHSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>133.99</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>154.48</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>59.49</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>3.27</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-1.3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D10374</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Lifitegrast</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2048028</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000516</id>
+      <name>Integrin alpha-L</name>
+      <organism>Human</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <pubmed-id>27883115</pubmed-id>
+            <citation>Paton DM: Lifitegrast: First LFA-1/ICAM-1 antagonist for treatment of dry eye disease. Drugs Today (Barc). 2016 Sep;52(9):485-493.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P20701" source="Swiss-Prot">
+    <name>Integrin alpha-L</name>
+    <general-function>Metal ion binding</general-function>
+    <specific-function>Integrin alpha-L/beta-2 is a receptor for ICAM1, ICAM2, ICAM3 and ICAM4. It is involved in a variety of immune phenomena including leukocyte-endothelial cell interaction, cytotoxic T-cell mediated killing, and antibody dependent killing by granulocytes and monocytes.</specific-function>
+    <gene-name>ITGAL</gene-name>
+    <locus>16p11.2</locus>
+    <cellular-location>Membrane</cellular-location>
+    <transmembrane-regions>1091-1111</transmembrane-regions>
+    <signal-regions>1-25</signal-regions>
+    <theoretical-pi>5.35</theoretical-pi>
+    <molecular-weight>128768.495</molecular-weight>
+    <chromosome-location>16</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:6148</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>ITGAL</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>Y00796</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>31422</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>2451</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P20701</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>ITAL_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>CD11 antigen-like family member A</synonym>
+      <synonym>CD11A</synonym>
+      <synonym>Leukocyte adhesion glycoprotein LFA-1 alpha chain</synonym>
+      <synonym>Leukocyte function-associated molecule 1 alpha chain</synonym>
+      <synonym>LFA-1A</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001030|Integrin alpha-L
+MKDSCITVMAMALLSGFFFFAPASSYNLDVRGARSFSPPRAGRHFGYRVLQVGNGVIVGA
+PGEGNSTGSLYQCQSGTGHCLPVTLRGSNYTSKYLGMTLATDPTDGSILACDPGLSRTCD
+QNTYLSGLCYLFRQNLQGPMLQGRPGFQECIKGNVDLVFLFDGSMSLQPDEFQKILDFMK
+DVMKKLSNTSYQFAAVQFSTSYKTEFDFSDYVKRKDPDALLKHVKHMLLLTNTFGAINYV
+ATEVFREELGARPDATKVLIIITDGEATDSGNIDAAKDIIRYIIGIGKHFQTKESQETLH
+KFASKPASEFVKILDTFEKLKDLFTELQKKIYVIEGTSKQDLTSFNMELSSSGISADLSR
+GHAVVGAVGAKDWAGGFLDLKADLQDDTFIGNEPLTPEVRAGYLGYTVTWLPSRQKTSLL
+ASGAPRYQHMGRVLLFQEPQGGGHWSQVQTIHGTQIGSYFGGELCGVDVDQDGETELLLI
+GAPLFYGEQRGGRVFIYQRRQLGFEEVSELQGDPGYPLGRFGEAITALTDINGDGLVDVA
+VGAPLEEQGAVYIFNGRHGGLSPQPSQRIEGTQVLSGIQWFGRSIHGVKDLEGDGLADVA
+VGAESQMIVLSSRPVVDMVTLMSFSPAEIPVHEVECSYSTSNKMKEGVNITICFQIKSLI
+PQFQGRLVANLTYTLQLDGHRTRRRGLFPGGRHELRRNIAVTTSMSCTDFSFHFPVCVQD
+LISPINVSLNFSLWEEEGTPRDQRAQGKDIPPILRPSLHSETWEIPFEKNCGEDKKCEAN
+LRVSFSPARSRALRLTAFASLSVELSLSNLEEDAYWVQLDLHFPPGLSFRKVEMLKPHSQ
+IPVSCEELPEESRLLSRALSCNVSSPIFKAGHSVALQMMFNTLVNSSWGDSVELHANVTC
+NNEDSDLLEDNSATTIIPILYPINILIQDQEDSTLYVSFTPKGPKIHQVKHMYQVRIQPS
+IHDHNIPTLEAVVGVPQPPSEGPITHQWSVQMEPPVPCHYEDLERLPDAAEPCLPGALFR
+CPVVFRQEILVQVIGTLELVGEIEASSMFSLCSSLSISFNSSKHFHLYGSNASLAQVVMK
+VDVVYEKQMLYLYVLSGIGGLLLLLLIFIVLYKVGFFKRNLKEKMEAGRGVPNGIPAEDS
+EQLASGQEAGDPGCLKPLHEKDSESGGGKD</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0021647|Integrin alpha-L (ITGAL)
+ATGAAGGATTCCTGCATCACTGTGATGGCCATGGCGCTGCTGTCTGGGTTCTTTTTCTTC
+GCGCCGGCCTCGAGCTACAACCTGGACGTGCGGGGCGCGCGGAGCTTCTCCCCACCGCGC
+GCCGGGAGGCACTTTGGATACCGCGTCCTGCAGGTCGGAAACGGGGTCATCGTGGGAGCT
+CCAGGGGAGGGGAACAGCACAGGAAGCCTCTATCAGTGCCAGTCGGGCACAGGACACTGC
+CTGCCAGTCACCCTGAGAGGTTCCAACTATACCTCCAAGTACTTGGGAATGACCTTGGCA
+ACAGACCCCACAGATGGAAGCATTTTGTTTGCTGCTGTTCAGTTTTCCACAAGCTACAAA
+ACAGAATTTGATTTCTCAGATTATGTTAAACGGAAGGACCCTGATGCTCTGCTGAAGCAT
+GTAAAGCACATGTTGCTGTTGACCAATACCTTTGGTGCCATCAATTATGTCGCGACAGAG
+GTGTTCCGGGAGGAGCTGGGGGCCCGGCCAGATGCCACCAAAGTGCTTATCATCATCACG
+GATGGGGAGGCCACTGACAGTGGCAACATCGATGCGGCCAAAGACATCATCCGCTACATC
+ATCGGGATTGGAAAGCATTTTCAGACCAAGGAGAGTCAGGAGACCCTCCACAAATTTGCA
+TCAAAACCCGCGAGCGAGTTTGTGAAAATTCTGGACACATTTGAGAAGCTGAAAGATCTA
+TTCACTGAGCTGCAGAAGAAGATCTATGTCATTGAGGGCACAAGCAAACAGGACCTGACT
+TCCTTCAACATGGAGCTGTCCTCCAGCGGCATCAGTGCTGACCTCAGCAGGGGCCATGCA
+GTCGTGGGGGCAGTAGGAGCCAAGGACTGGGCTGGGGGCTTTCTTGACCTGAAGGCAGAC
+CTGCAGGATGACACATTTATTGGGAATGAACCATTGACACCAGAAGTGAGAGCAGGCTAT
+TTGGGTTACACCGTGACCTGGCTGCCCTCCCGGCAAAAGACTTCGTTGCTGGCCTCGGGA
+GCCCCTCGATACCAGCACATGGGCCGAGTGCTGCTGTTCCAAGAGCCACAGGGCGGAGGA
+CACTGGAGCCAGGTCCAGACAATCCATGGGACCCAGATTGGCTCTTATTTCGGTGGGGAG
+CTGTGTGGCGTCGACGTGGACCAAGATGGGGAGACAGAGCTGCTGCTGATTGGTGCCCCA
+CTGTTCTATGGGGAGCAGAGAGGAGGCCGGGTGTTTATCTACCAGAGAAGACAGTTGGGG
+TTTGAAGAAGTCTCAGAGCTGCAGGGGGACCCCGGCTACCCACTCGGGCGGTTTGGAGAA
+GCCATCACTGCTCTGACAGACATCAACGGCGATGGGCTGGTAGACGTGGCTGTGGGGGCC
+CCTCTGGAGGAGCAGGGGGCTGTGTACATCTTCAATGGGAGGCACGGGGGGCTTAGTCCC
+CAGCCAAGTCAGCGGATAGAAGGGACCCAAGTGCTCTCAGGAATTCAGTGGTTTGGACGC
+TCCATCCATGGGGTGAAGGACCTTGAAGGGGATGGCTTGGCAGATGTGGCTGTGGGGGCT
+GAGAGCCAGATGATCGTGCTGAGCTCCCGGCCCGTGGTGGATATGGTCACCCTGATGTCC
+TTCTCTCCAGCTGAGATCCCAGTGCATGAAGTGGAGTGCTCCTATTCAACCAGTAACAAG
+ATGAAAGAAGGAGTTAATATCACAATCTGTTTCCAGATCAAGTCTCTCATCCCCCAGTTC
+CAAGGCCGCCTGGTTGCCAATCTCACTTACACTCTGCAGCTGGATGGCCACCGGACCAGA
+AGACGGGGGTTGTTCCCAGGAGGGAGACATGAACTCAGAAGGAATATAGCTGTCACCACC
+AGCATGTCATGCACTGACTTCTCATTTCATTTCCCGGTATGTGTTCAAGACCTCATCTCC
+CCCATCAATGTTTCCCTGAATTTCTCTCTTTGGGAGGAGGAAGGGACACCGAGGGACCAA
+AGGGCGGGCAAGGACATACCGCCCATCCTGAGACCCTCCCTGCACTCGGAAACCTGGGAG
+ATCCCTTTTGAGAAGAACTGTGGGGAGGACAAGAAGTGTGAGGCAAACTTGAGAGTGTCC
+TTCTCTCCTGCAAGATCCAGAGCCCTGCGTCTAACTGCTTTTGCCAGCCTCTCTGTGGAG
+CTGAGCCTGAGTAACTTGGAAGAAGATGCTTACTGGGTCCAGCTGGACCTGCACTTCCCC
+CCGGGACTCTCCTTCCGCAAGGTGGAGATGCTGAAGCCCCATAGCCAGATACCTGTGAGC
+TGCGAGGAGCTTCCTGAAGAGTCCAGGCTTCTGTCCAGGGCATTATCTTGCAATGTGAGC
+TCTCCCATCTTCAAAGCAGGCCACTCGGTTGCTCTGCAGATGATGTTTAATACACTGGTA
+AACAGCTCCTGGGGGGACTCGGTTGAATTGCACGCCAATGTGACCTGTAACAATGAGGAC
+TCAGACCTCCTGGAGGACAACTCAGCCACTACCATCATCCCCATCCTGTACCCCATCAAC
+ATCCTCATCCAGGACCAAGAAGACTCCACACTCTATGTCAGTTTCACCCCCAAAGGCCCC
+AAGATCCACCAAGTCAAGCACATGTACCAGGTGAGGATCCAGCCTTCCATCCACGACCAC
+AACATACCCACCCTGGAGGCTGTGGTTGGGGTGCCACAGCCTCCCAGCGAGGGGCCCATC
+ACACACCAGTGGAGCGTGCAGATGGAGCCTCCCGTGCCCTGCCACTATGAGGATCTGGAG
+AGGCTCCCGGATGCAGCTGAGCCTTGTCTCCCCGGAGCCCTGTTCCGCTGCCCTGTTGTC
+TTCAGGCAGGAGATCCTCGTCCAAGTGATCGGGACTCTGGAGCTGGTGGGAGAGATCGAG
+GCCTCTTCCATGTTCAGCCTCTGCAGCTCCCTCTCCATCTCCTTCAACAGCAGCAAGCAT
+TTCCACCTCTATGGCAGCAACGCCTCCCTGGCCCAGGTTGTCATGAAGGTTGACGTGGTG
+TATGAGAAGCAGATGCTCTACCTCTACGTGCTGAGCGGCATCGGGGGGCTGCTGCTGCTG
+CTGCTCATTTTCATAGTGCTGTACAAGGTTGGTTTCTTCAAACGGAACCTGAAGGAGAAG
+ATGGAGGCTGGCAGAGGTGTCCCGAATGGAATCCCTGCAGAAGACTCTGAGCAGCTGGCA
+TCTGGGCAAGAGGCTGGGGATCCCGGCTGCCTGAAGCCCCTCCATGAGAAGGACTCTGAG
+AGTGGTGGTGGCAAGGACTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF01839</identifier>
+        <name>FG-GAP</name>
+      </pfam>
+      <pfam>
+        <identifier>PF00357</identifier>
+        <name>Integrin_alpha</name>
+      </pfam>
+      <pfam>
+        <identifier>PF08441</identifier>
+        <name>Integrin_alpha2</name>
+      </pfam>
+      <pfam>
+        <identifier>PF00092</identifier>
+        <name>VWA</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>integrin alphaL-beta2 complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integrin complex</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell-cell junction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell surface</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>immunological synapse</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>extracellular exosome</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>external side of plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>plasma membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ICAM-3 receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>metal ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>cell adhesion molecule binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell-matrix adhesion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>integrin-mediated signaling pathway</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>movement of cell or subcellular component</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>inflammatory response</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of T cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>receptor clustering</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of calcium-mediated signaling</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell adhesion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>extracellular matrix organization</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>leukocyte cell-cell adhesion</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>blood coagulation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>leukocyte migration</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>activated T cell proliferation</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of immune response</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

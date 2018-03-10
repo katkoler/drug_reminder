@@ -1,0 +1,419 @@
+<drug type="small molecule" created="2016-12-03" updated="2017-03-31">
+  <drugbank-id primary="true">DB13156</drugbank-id>
+  <name>Inosine pranobex</name>
+  <description>Inosine pranobex (Isoprinosine or Methisoprinol) is a combination of inosine, acetamidobenzoic acid, and dimethylaminoisopropanol used as an antiviral drug.</description>
+  <cas-number>36703-88-5</cas-number>
+  <unii>W1SO0V223F</unii>
+  <average-mass>1115.249</average-mass>
+  <monoisotopic-mass>1114.554641092</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Inosine_pranobex</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Inosine pranobex is also indicated for mucocutaneous infections due to herpes simplex virus (type 1 and type II) and for treatment of genital warts as adjunctive therapy to podophyllin or carbon dioxide laser. </indication>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">IAD</synonym>
+    <synonym language="" coder="">Inosine acedobene dimepranol</synonym>
+    <synonym language="" coder="">Inosine-2-hydroxypropyldimethylammonium 4-acetamidobenzoate (1:3)</synonym>
+    <synonym language="" coder="">Inosiplex</synonym>
+    <synonym language="" coder="">Isoprinosine</synonym>
+    <synonym language="" coder="">Methisoprinol</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Imunovir</name>
+      <labeller>Kora Healthcare</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02240713</dpd-id>
+      <started-marketing-on>2000-01-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength>500 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Isoprinosine</name>
+      <labeller>Newport Pharmaceuticals International</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230591</dpd-id>
+      <started-marketing-on>1997-06-05</started-marketing-on>
+      <ended-marketing-on>2000-02-04</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>500 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Isoprinosine Tab 500mg</name>
+      <labeller>Systemed Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02018640</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-10</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>500 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Isoprinosine Tab 500mg</name>
+      <labeller>Newport Pharms International Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00582328</dpd-id>
+      <started-marketing-on>1983-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-10</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength>500 mg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Imunovir</name>
+      <ingredients>Inosine pranobex</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isoprinosine Tab 500mg</name>
+      <ingredients>Inosine pranobex</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isoprinosine</name>
+      <ingredients>Inosine pranobex</ingredients>
+    </mixture>
+    <mixture>
+      <name>Isoprinosine Tab 500mg</name>
+      <ingredients>Inosine pranobex</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Acetanilides</category>
+      <mesh-id>D000083</mesh-id>
+    </category>
+    <category>
+      <category>Adjuvants, Immunologic</category>
+      <mesh-id>D000276</mesh-id>
+    </category>
+    <category>
+      <category>Amides</category>
+      <mesh-id>D000577</mesh-id>
+    </category>
+    <category>
+      <category>Anilides</category>
+      <mesh-id>D000813</mesh-id>
+    </category>
+    <category>
+      <category>Anti-Infective Agents</category>
+      <mesh-id>D000890</mesh-id>
+    </category>
+    <category>
+      <category>Antiinfectives for Systemic Use</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Antiviral Agents</category>
+      <mesh-id>D000998</mesh-id>
+    </category>
+    <category>
+      <category>Antivirals for Systemic Use</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Direct Acting Antivirals</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Glycosides</category>
+      <mesh-id>D006027</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 2-Ring</category>
+      <mesh-id>D006574</mesh-id>
+    </category>
+    <category>
+      <category>Immunologic Factors</category>
+      <mesh-id>D007155</mesh-id>
+    </category>
+    <category>
+      <category>Inosine</category>
+      <mesh-id>D007288</mesh-id>
+    </category>
+    <category>
+      <category>Nucleic Acids, Nucleotides, and Nucleosides</category>
+      <mesh-id>D009706</mesh-id>
+    </category>
+    <category>
+      <category>Nucleosides</category>
+      <mesh-id>D009705</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Purine Nucleosides</category>
+      <mesh-id>D011684</mesh-id>
+    </category>
+    <category>
+      <category>Purines</category>
+      <mesh-id>D011687</mesh-id>
+    </category>
+    <category>
+      <category>Ribonucleosides</category>
+      <mesh-id>D012263</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>500 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="J05AX05">
+      <level code="J05AX">Other antivirals</level>
+      <level code="J05A">DIRECT ACTING ANTIVIRALS</level>
+      <level code="J05">ANTIVIRALS FOR SYSTEMIC USE</level>
+      <level code="J">ANTIINFECTIVES FOR SYSTEMIC USE</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-1.9</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-1.3</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.38e+01 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-2.5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>tris((2R)-1-(dimethylamino)propan-2-ol); tris(4-acetamidobenzoic acid); 9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-6,9-dihydro-1H-purin-6-one</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>tris((2R)-1-(dimethylamino)propan-2-ol); tris(4-acetamidobenzoic acid); 9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1H-purin-6-one</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>1115.249</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>1114.554641092</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>C[C@@H](O)CN(C)C.C[C@@H](O)CN(C)C.C[C@@H](O)CN(C)C.CC(=O)NC1=CC=C(C=C1)C(O)=O.CC(=O)NC1=CC=C(C=C1)C(O)=O.CC(=O)NC1=CC=C(C=C1)C(O)=O.OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C1N=CNC2=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C52H78N10O17</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C10H12N4O5.3C9H9NO3.3C5H13NO/c15-1-4-6(16)7(17)10(19-4)14-3-13-5-8(14)11-2-12-9(5)18;3*1-6(11)10-8-4-2-7(3-5-8)9(12)13;3*1-5(7)4-6(2)3/h2-4,6-7,10,15-17H,1H2,(H,11,12,18);3*2-5H,1H3,(H,10,11)(H,12,13);3*5,7H,4H2,1-3H3/t4-,6-,7-,10-;;;;3*5-/m1...111/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>YLDCUKJMEKGGFI-KSIULYHRSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>129.2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>61.33</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>24.6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>14</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>8.93</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>0.58</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>11879</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D01995</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Inosine_pranobex</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

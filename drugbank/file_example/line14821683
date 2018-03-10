@@ -1,0 +1,744 @@
+<drug type="small molecule" created="2016-12-04" updated="2017-03-14">
+  <drugbank-id primary="true">DB13158</drugbank-id>
+  <name>Clobetasone</name>
+  <description>Clobetasone  is a corticosteroid used in dermatology, for treating such skin inflammation as seen in eczema, psoriasis and other forms of dermatitis, and ophthalmology. Topical clobetasone butyrate has shown minimal suppression of the Hypothalamic-pituitary-adrenal axis.</description>
+  <cas-number>54063-32-0</cas-number>
+  <unii>LT69WY1J6D</unii>
+  <average-mass>408.89</average-mass>
+  <monoisotopic-mass>408.1503652</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <title>Wikipedia</title>
+        <url>https://en.wikipedia.org/wiki/Clobetasone</url>
+      </link>
+      <link>
+        <title>Medsafe</title>
+        <url>http://www.medsafe.govt.nz/profs/Datasheet/e/Eumovatecrm.pdf</url>
+      </link>
+      <link>
+        <title>ChemIdplus</title>
+        <url>https://chem.nlm.nih.gov/chemidplus/rn/25122-57-0</url>
+      </link>
+    </links>
+  </general-references>
+  <synthesis-reference/>
+  <indication>In dermatology, topical clobestasone butyrate helps to reduce the itchiness and erythema associated with eczema and dermatitis.&#13;
+In ophthalmology, clobetasone butyrate 0.1% eye drops have been shown to be safe and effective in the treatment of dry eyes in Sjögren's Syndrome.</indication>
+  <pharmacodynamics>Topical corticosteroid like clobetasone are synthetic derivatives of cortisone which produce anti-inflammatory, antiproliferative, immunosuppressive and vasoconstrictor effects when applied to the skin.</pharmacodynamics>
+  <mechanism-of-action>Topically applied clobeyasone are thought to bind with cytoplasmic receptors in the dermal and intradermal cells and to induce inhibitory proteins, thus leading to decreased activity of prostaglandins, kinins, histamine, liposomal enzymes and other endogenous mediators of inflammation. Topical corticosteroids inhibit the migration of macrophages and leukocytes into areas of inflamed skin by reversing vascular dilation and permeability, resulting in decreased erythema, edema and pruritus.</mechanism-of-action>
+  <toxicity>Organism : Mouse&#13;
+Test type: LD50 Oral (Reported dose: &gt;6gm/kg)&#13;
+LD50 Subcutaneous ( &gt;3600mg/kg )&#13;
+Effects : Behavioral : somnolence ( general depressed activity )&#13;
+Blood changes in spleen &#13;
+&#13;
+Organism : Mouse&#13;
+Test type: LD50&#13;
+Route: Intraperitoneal&#13;
+Reported dose: 500 mg/kg&#13;
+&#13;
+LD50 rat : 1510mg/kg Intraperitoneal&#13;
+LD50 rat &gt;6gm/kg Oral&#13;
+LD 50 rat : &gt; 2600mg/kg subcutaneous</toxicity>
+  <metabolism>Once absorbed through the skin, topical corticosteroids are handled through  pharmacokinetic pathways similar to systemically administered corticosteroids. They  are metabolised, primarily in the liver.</metabolism>
+  <absorption>Absorption is dependent on many drug-related factors including: intrinsic properties of the steroid itself; concentration of the drug (increased concentration generally leads to more drug being absorbed but may plateau at higher concentrations); vehicle used (optimized or augmented vehicles &gt; ointments or gels &gt; creams or lotions); duration of exposure; frequency of application; combination with other products that break down the skin barrier and increase absorption (e.g., salicylic acid, urea). Patient-related factors that influence absorption include: patient age (infants and children absorb topical medications more quickly and to a greater degree than adults, and have a greater total skin surface to body weight ratio; the elderly have thinner skin and absorb drug more readily); disruption of the skin due to inflammation or disease (e.g., absorption increased in atopic dermatitis); total skin area treated; skin site treated (absorption is much greater from thin-skinned areas such as scalp, face, eyelid, axilla, and scrotum than from areas with thicker skin such as forearm, knee, elbow, palm and sole); absorption is increased with increased temperature or humidity of the skin or the environment; occlusion of the treated skin (via plastic wrap, oily vehicles, dressings, tape, diapers, tight-fitting clothing, etc.) can increase absorption up to 10-fold.&#13;
+</absorption>
+  <half-life>N/A</half-life>
+  <protein-binding/>
+  <route-of-elimination>Clobetasone and its metabolites are excreted in urine.</route-of-elimination>
+  <volume-of-distribution>The use of pharmacodynamic endpoints for assessing the systemic exposure of  topical corticosteroids is necessary due to the fact that circulating levels are well below the level of detection.</volume-of-distribution>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as gluco/mineralocorticoids, progestogins and derivatives. These are steroids with a structure based on a hydroxylated prostane moiety.</description>
+    <direct-parent>Gluco/mineralocorticoids, progestogins and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Lipids and lipid-like molecules</superclass>
+    <class>Steroids and steroid derivatives</class>
+    <subclass>Pregnane steroids</subclass>
+    <alternative-parent>11-oxosteroids</alternative-parent>
+    <alternative-parent>17-hydroxysteroids</alternative-parent>
+    <alternative-parent>20-oxosteroids</alternative-parent>
+    <alternative-parent>3-oxo delta-1,4-steroids</alternative-parent>
+    <alternative-parent>Aldehydes</alternative-parent>
+    <alternative-parent>Alkyl chlorides</alternative-parent>
+    <alternative-parent>Alkyl fluorides</alternative-parent>
+    <alternative-parent>Alpha-chloroketones</alternative-parent>
+    <alternative-parent>Alpha-hydroxy ketones</alternative-parent>
+    <alternative-parent>Cyclic alcohols and derivatives</alternative-parent>
+    <alternative-parent>Cyclic ketones</alternative-parent>
+    <alternative-parent>Delta-1,4-steroids</alternative-parent>
+    <alternative-parent>Halogenated steroids</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organochlorides</alternative-parent>
+    <alternative-parent>Organofluorides</alternative-parent>
+    <alternative-parent>Tertiary alcohols</alternative-parent>
+    <substituent>11-oxosteroid</substituent>
+    <substituent>17-hydroxysteroid</substituent>
+    <substituent>20-oxosteroid</substituent>
+    <substituent>3-oxo-delta-1,4-steroid</substituent>
+    <substituent>3-oxosteroid</substituent>
+    <substituent>9-halo-steroid</substituent>
+    <substituent>Alcohol</substituent>
+    <substituent>Aldehyde</substituent>
+    <substituent>Aliphatic homopolycyclic compound</substituent>
+    <substituent>Alkyl chloride</substituent>
+    <substituent>Alkyl fluoride</substituent>
+    <substituent>Alkyl halide</substituent>
+    <substituent>Alpha-chloroketone</substituent>
+    <substituent>Alpha-haloketone</substituent>
+    <substituent>Alpha-hydroxy ketone</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Cyclic alcohol</substituent>
+    <substituent>Cyclic ketone</substituent>
+    <substituent>Delta-1,4-steroid</substituent>
+    <substituent>Halo-steroid</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Hydroxysteroid</substituent>
+    <substituent>Ketone</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organochloride</substituent>
+    <substituent>Organofluoride</substituent>
+    <substituent>Organohalogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Oxosteroid</substituent>
+    <substituent>Progestogin-skeleton</substituent>
+    <substituent>Tertiary alcohol</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001967</drugbank-id>
+      <name>Clobetasone butyrate</name>
+      <unii>8U0H6XI6EO</unii>
+      <cas-number>25122-57-0</cas-number>
+      <inchikey>FBRAWBYQGRLCEK-AVVSTMBFSA-N</inchikey>
+      <average-mass>478.99</average-mass>
+      <monoisotopic-mass>478.19223</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Eumovate</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02214423</dpd-id>
+      <started-marketing-on>2001-06-25</started-marketing-on>
+      <ended-marketing-on>2007-08-02</ended-marketing-on>
+      <dosage-form>Ointment</dosage-form>
+      <strength>0.05 %</strength>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eumovate Crm 0.05%</name>
+      <labeller>Glaxo Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00456543</dpd-id>
+      <started-marketing-on>1979-12-31</started-marketing-on>
+      <ended-marketing-on>2000-08-02</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength>0.05 %</strength>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eumovate Ont 0.05%</name>
+      <labeller>Glaxo Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00456551</dpd-id>
+      <started-marketing-on>1979-12-31</started-marketing-on>
+      <ended-marketing-on>2001-08-01</ended-marketing-on>
+      <dosage-form>Ointment</dosage-form>
+      <strength>0.05 %</strength>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Spectro Eczemacare Medicated Cream</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02214415</dpd-id>
+      <started-marketing-on>1999-09-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength>0.05 %</strength>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Eumosone</name>
+      <company>GlaxoSmithKline</company>
+    </international-brand>
+    <international-brand>
+      <name>Eumovate</name>
+      <company>GlaxoSmithKline</company>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Spectro Eczemacare Medicated Cream</name>
+      <ingredients>Clobetasone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eumovate Crm 0.05%</name>
+      <ingredients>Clobetasone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eumovate Ont 0.05%</name>
+      <ingredients>Clobetasone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eumovate</name>
+      <ingredients>Clobetasone</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Adrenal Cortex Hormones</category>
+      <mesh-id>D000305</mesh-id>
+    </category>
+    <category>
+      <category>Anti-Inflammatory Agents</category>
+      <mesh-id>D000893</mesh-id>
+    </category>
+    <category>
+      <category>Betamethasone</category>
+      <mesh-id>D001623</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Corticosteroids, Dermatological Preparations</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Corticosteroids, Moderately Potent (Group II)</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Corticosteroids, Plain</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Dermatologicals</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Glucocorticoids</category>
+      <mesh-id>D005938</mesh-id>
+    </category>
+    <category>
+      <category>Hormones</category>
+      <mesh-id>D006728</mesh-id>
+    </category>
+    <category>
+      <category>Hormones, Hormone Substitutes, and Hormone Antagonists</category>
+      <mesh-id>D006730</mesh-id>
+    </category>
+    <category>
+      <category>Ointments</category>
+      <mesh-id>D009824</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Compounds</category>
+      <mesh-id>D011083</mesh-id>
+    </category>
+    <category>
+      <category>Pregnadienes</category>
+      <mesh-id>D011245</mesh-id>
+    </category>
+    <category>
+      <category>Pregnadienetriols</category>
+      <mesh-id>D011246</mesh-id>
+    </category>
+    <category>
+      <category>Pregnanes</category>
+      <mesh-id>D011278</mesh-id>
+    </category>
+    <category>
+      <category>Steroids</category>
+      <mesh-id>D013256</mesh-id>
+    </category>
+    <category>
+      <category>Steroids, Fluorinated</category>
+      <mesh-id>D013259</mesh-id>
+    </category>
+    <category>
+      <category>Therapeutic Uses</category>
+      <mesh-id>D045506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Ointment</form>
+      <route>Topical</route>
+      <strength>0.05 %</strength>
+    </dosage>
+    <dosage>
+      <form>Cream</form>
+      <route>Topical</route>
+      <strength>0.05 %</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="S01BA09">
+      <level code="S01BA">Corticosteroids, plain</level>
+      <level code="S01B">ANTIINFLAMMATORY AGENTS</level>
+      <level code="S01">OPHTHALMOLOGICALS</level>
+      <level code="S">SENSORY ORGANS</level>
+    </atc-code>
+    <atc-code code="S01CA11">
+      <level code="S01CA">Corticosteroids and antiinfectives in combination</level>
+      <level code="S01C">ANTIINFLAMMATORY AGENTS AND ANTIINFECTIVES IN COMBINATION</level>
+      <level code="S01">OPHTHALMOLOGICALS</level>
+      <level code="S">SENSORY ORGANS</level>
+    </atc-code>
+    <atc-code code="D07AB01">
+      <level code="D07AB">Corticosteroids, moderately potent (group II)</level>
+      <level code="D07A">CORTICOSTEROIDS, PLAIN</level>
+      <level code="D07">CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS</level>
+      <level code="D">DERMATOLOGICALS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>2.88</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-4.8</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>6.91e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>3.6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(1R,2S,10S,11S,13S,14R,15S)-14-(2-chloroacetyl)-1-fluoro-14-hydroxy-2,13,15-trimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadeca-3,6-diene-5,17-dione</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>(1R,2S,10S,11S,13S,14R,15S)-14-(2-chloroacetyl)-1-fluoro-14-hydroxy-2,13,15-trimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadeca-3,6-diene-5,17-dione</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>408.89</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>408.1503652</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[H][C@]1(C)C[C@@]2([H])[C@]3([H])CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)C(=O)C[C@]2(C)[C@@]1(O)C(=O)CCl</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C22H26ClFO4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C22H26ClFO4/c1-12-8-16-15-5-4-13-9-14(25)6-7-19(13,2)21(15,24)17(26)10-20(16,3)22(12,28)18(27)11-23/h6-7,9,12,15-16,28H,4-5,8,10-11H2,1-3H3/t12-,15-,16-,19-,20-,21-,22-/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>XXIFVOHLGBURIG-OZCCCYNHSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>71.44</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>104.72</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>41.36</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>12.49</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-3.9</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7557</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D07717</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Clobetasone</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000794</id>
+      <name>Glucocorticoid receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links>
+          <link>
+            <title>UniProt</title>
+            <url>http://www.uniprot.org/uniprot/P04150</url>
+          </link>
+          <link>
+            <title>KEGG</title>
+            <url>http://www.kegg.jp/dbget-bin/www_bget?hsa:2908</url>
+          </link>
+        </links>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P04150" source="Swiss-Prot">
+    <name>Glucocorticoid receptor</name>
+    <general-function>Zinc ion binding</general-function>
+    <specific-function>Receptor for glucocorticoids (GC). Has a dual mode of action: as a transcription factor that binds to glucocorticoid response elements (GRE), both for nuclear and mitochondrial DNA, and as a modulator of other transcription factors. Affects inflammatory responses, cellular proliferation and differentiation in target tissues. Could act as a coactivator for STAT5-dependent transcription upon growth hormone (GH) stimulation and could reveal an essential role of hepatic GR in the control of body growth. Involved in chromatin remodeling. May play a negative role in adipogenesis through the regulation of lipolytic and antilipogenic genes expression.</specific-function>
+    <gene-name>NR3C1</gene-name>
+    <locus>5q31.3</locus>
+    <cellular-location>Cytoplasm</cellular-location>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi>6.31</theoretical-pi>
+    <molecular-weight>85658.57</molecular-weight>
+    <chromosome-location>5</chromosome-location>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:7978</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>NR3C1</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>X03225</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>31680</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>IUPHAR</resource>
+        <identifier>625</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>625</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P04150</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>GCR_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>GR</synonym>
+      <synonym>GRL</synonym>
+      <synonym>Nuclear receptor subfamily 3 group C member 1</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001584|Glucocorticoid receptor
+MDSKESLTPGREENPSSVLAQERGDVMDFYKTLRGGATVKVSASSPSLAVASQSDSKQRR
+LLVDFPKGSVSNAQQPDLSKAVSLSMGLYMGETETKVMGNDLGFPQQGQISLSSGETDLK
+LLEESIANLNRSTSVPENPKSSASTAVSAAPTEKEFPKTHSDVSSEQQHLKGQTGTNGGN
+VKLYTTDQSTFDILQDLEFSSGSPGKETNESPWRSDLLIDENCLLSPLAGEDDSFLLEGN
+SNEDCKPLILPDTKPKIKDNGDLVLSSPSNVTLPQVKTEKEDFIELCTPGVIKQEKLGTV
+YCQASFPGANIIGNKMSAISVHGVSTSGGQMYHYDMNTASLSQQQDQKPIFNVIPPIPVG
+SENWNRCQGSGDDNLTSLGTLNFPGRTVFSNGYSSPSMRPDVSSPPSSSSTATTGPPPKL
+CLVCSDEASGCHYGVLTCGSCKVFFKRAVEGQHNYLCAGRNDCIIDKIRRKNCPACRYRK
+CLQAGMNLEARKTKKKIKGIQQATTGVSQETSENPGNKTIVPATLPQLTPTLVSLLEVIE
+PEVLYAGYDSSVPDSTWRIMTTLNMLGGRQVIAAVKWAKAIPGFRNLHLDDQMTLLQYSW
+MFLMAFALGWRSYRQSSANLLCFAPDLIINEQRMTLPCMYDQCKHMLYVSSELHRLQVSY
+EEYLCMKTLLLLSSVPKDGLKSQELFDEIRMTYIKELGKAIVKREGNSSQNWQRFYQLTK
+LLDSMHEVVENLLNYCFQTFLDKTMSIEFPEMLAEIITNQIPKYSNGNIKKLLFHQK</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;lcl|BSEQ0020486|Glucocorticoid receptor (NR3C1)
+ATGGACTCCAAAGAATCATTAACTCCTGGTAGAGAAGAAAACCCCAGCAGTGTGCTTGCT
+CAGGAGAGGGGAGATGTGATGGACTTCTATAAAACCCTAAGAGGAGGAGCTACTGTGAAG
+GTTTCTGCGTCTTCACCCTCACTGGCTGTCGCTTCTCAATCAGACTCCAAGCAGCGAAGA
+CTTTTGGTTGATTTTCCAAAAGGCTCAGTAAGCAATGCGCAGCAGCCAGATCTGTCCAAA
+GCAGTTTCACTCTCAATGGGACTGTATATGGGAGAGACAGAAACAAAAGTGATGGGAAAT
+GACCTGGGATTCCCACAGCAGGGCCAAATCAGCCTTTCCTCGGGGGAAACAGACTTAAAG
+CTTTTGGAAGAAAGCATTGCAAACCTCAATAGGTCGACCAGTGTTCCAGAGAACCCCAAG
+AGTTCAGCATCCACTGCTGTGTCTGCTGCCCCCACAGAGAAGGAGTTTCCAAAAACTCAC
+TCTGATGTATCTTCAGAACAGCAACATTTGAAGGGCCAGACTGGCACCAACGGTGGCAAT
+GTGAAATTGTATACCACAGACCAAAGCACCTTTGACATTTTGCAGGATTTGGAGTTTTCT
+TCTGGGTCCCCAGGTAAAGAGACGAATGAGAGTCCTTGGAGATCAGACCTGTTGATAGAT
+GAAAACTGTTTGCTTTCTCCTCTGGCGGGAGAAGACGATTCATTCCTTTTGGAAGGAAAC
+TCGAATGAGGACTGCAAGCCTCTCATTTTACCGGACACTAAACCCAAAATTAAGGATAAT
+GGAGATCTGGTTTTGTCAAGCCCCAGTAATGTAACACTGCCCCAAGTGAAAACAGAAAAA
+GAAGATTTCATCGAACTCTGCACCCCTGGGGTAATTAAGCAAGAGAAACTGGGCACAGTT
+TACTGTCAGGCAAGCTTTCCTGGAGCAAATATAATTGGTAATAAAATGTCTGCCATTTCT
+GTTCATGGTGTGAGTACCTCTGGAGGACAGATGTACCACTATGACATGAATACAGCATCC
+CTTTCTCAACAGCAGGATCAGAAGCCTATTTTTAATGTCATTCCACCAATTCCCGTTGGT
+TCCGAAAATTGGAATAGGTGCCAAGGATCTGGAGATGACAACTTGACTTCTCTGGGGACT
+CTGAACTTCCCTGGTCGAACAGTTTTTTCTAATGGCTATTCAAGCCCCAGCATGAGACCA
+GATGTAAGCTCTCCTCCATCCAGCTCCTCAACAGCAACAACAGGACCACCTCCCAAACTC
+TGCCTGGTGTGCTCTGATGAAGCTTCAGGATGTCATTATGGAGTCTTAACTTGTGGAAGC
+TGTAAAGTTTTCTTCAAAAGAGCAGTGGAAGGACAGCACAATTACCTATGTGCTGGAAGG
+AATGATTGCATCATCGATAAAATTCGAAGAAAAAACTGCCCAGCATGCCGCTATCGAAAA
+TGTCTTCAGGCTGGAATGAACCTGGAAGCTCGAAAAACAAAGAAAAAAATAAAAGGAATT
+CAGCAGGCCACTACAGGAGTCTCACAAGAAACCTCTGAAAATCCTGGTAACAAAACAATA
+GTTCCTGCAACGTTACCACAACTCACCCCTACCCTGGTGTCACTGTTGGAGGTTATTGAA
+CCTGAAGTGTTATATGCAGGATATGATAGCTCTGTTCCAGACTCAACTTGGAGGATCATG
+ACTACGCTCAACATGTTAGGAGGGCGGCAAGTGATTGCAGCAGTGAAATGGGCAAAGGCA
+ATACCAGGTTTCAGGAACTTACACCTGGATGACCAAATGACCCTACTGCAGTACTCCTGG
+ATGTTTCTTATGGCATTTGCTCTGGGGTGGAGATCATATAGACAATCAAGTGCAAACCTG
+CTGTGTTTTGCTCCTGATCTGATTATTAATGAGCAGAGAATGACTCTACCCTGCATGTAC
+GACCAATGTAAACACATGCTGTATGTTTCCTCTGAGTTACACAGGCTTCAGGTATCTTAT
+GAAGAGTATCTCTGTATGAAAACCTTACTGCTTCTCTCTTCAGTTCCTAAGGACGGTCTG
+AAGAGCCAAGAGCTATTTGATGAAATTAGAATGACCTACATCAAAGAGCTAGGAAAAGCC
+ATTGTCAAGAGGGAAGGAAACTCCAGCCAGAACTGGCAGCGGTTTTATCAACTGACAAAA
+CTCTTGGATTCTATGCATGAAGTGGTTGAAAATCTCCTTAACTATTGCTTCCAAACATTT
+TTGGATAAGACCATGAGTATTGAATTCCCCGAGATGTTAGCTGAAATCATCACCAATCAG
+ATACCAAAATATTCAAATGGAAATATCAAAAAACTTCTGTTTCATCAAAAGTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00104</identifier>
+        <name>Hormone_recep</name>
+      </pfam>
+      <pfam>
+        <identifier>PF00105</identifier>
+        <name>zf-C4</name>
+      </pfam>
+      <pfam>
+        <identifier>PF02155</identifier>
+        <name>GCR</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>mitochondrial matrix</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cytoplasm</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>nucleus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucocorticoid receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid hormone binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>glucocorticoid-activated RNA polymerase II transcription factor binding transcription factor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>zinc ion binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transcription factor activity, sequence-specific DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>steroid binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>RNA polymerase II core promoter proximal region sequence-specific DNA binding</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>chromatin modification</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transcription from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular response to steroid hormone stimulus</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>gene expression</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transcription initiation from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>regulation of transcription, DNA-templated</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>positive regulation of transcription from RNA polymerase II promoter</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transcription, DNA-templated</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

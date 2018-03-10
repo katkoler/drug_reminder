@@ -1,0 +1,458 @@
+<drug type="small molecule" created="2016-04-28" updated="2016-08-17">
+  <drugbank-id primary="true">DB11588</drugbank-id>
+  <name>Carbon monoxide</name>
+  <description>Carbon monoxide (CO) is a colorless, odorless, and tasteless gas that is slightly less dense than air. It is toxic to hemoglobic animals (including humans) when encountered in concentrations above about 35 ppm, although it is also produced in normal animal metabolism in low quantities, and is thought to have some normal biological functions.</description>
+  <cas-number>630-08-0</cas-number>
+  <unii>7U1EE4V452</unii>
+  <average-mass>28.01</average-mass>
+  <monoisotopic-mass>27.99491462</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of chemical entities known as homogeneous other non-metal compounds. These are inorganic non-metallic compounds in which the largest atom belongs to the class of 'other non-metals'.</description>
+    <direct-parent>Homogeneous other non-metal compounds</direct-parent>
+    <kingdom>Chemical entities</kingdom>
+    <superclass>Inorganic compounds</superclass>
+    <class>Homogeneous non-metal compounds</class>
+    <subclass>Homogeneous other non-metal compounds</subclass>
+    <substituent>Homogeneous other non metal</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">carbon(II) oxide</synonym>
+    <synonym language="Latin" coder="">Carboneum oxygenisatum</synonym>
+    <synonym language="" coder="">CO</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Carbon Monox, Helium, Oxygen, Nitrogen L.D.M.</name>
+      <labeller>Praxair, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02014424</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Gas</dosage-form>
+      <strength/>
+      <route>Respiratory (inhalation)</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Carbon Monoxide, Compressed Air Medical G.M.</name>
+      <labeller>Praxair, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02014351</dpd-id>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Gas</dosage-form>
+      <strength/>
+      <route>Respiratory (inhalation)</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Co-HE-O2-N2 Mixture</name>
+      <labeller>Linde Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02154773</dpd-id>
+      <started-marketing-on>1995-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Gas</dosage-form>
+      <strength/>
+      <route>Respiratory (inhalation)</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Co-NE-O2-N2 Mixture</name>
+      <labeller>Linde Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02182238</dpd-id>
+      <started-marketing-on>1995-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Gas</dosage-form>
+      <strength/>
+      <route>Respiratory (inhalation)</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lung Diffusion Test Mix No Ne Co</name>
+      <labeller>Praxair, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00588075</dpd-id>
+      <started-marketing-on>1968-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Gas</dosage-form>
+      <strength/>
+      <route>Respiratory (inhalation)</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lung Diffusion Test Mix Nohco</name>
+      <labeller>Liquid Carbonic Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00588067</dpd-id>
+      <started-marketing-on>1968-12-31</started-marketing-on>
+      <ended-marketing-on>1998-06-09</ended-marketing-on>
+      <dosage-form>Gas</dosage-form>
+      <strength/>
+      <route>Respiratory (inhalation)</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lung Diffusion Test Mixture</name>
+      <labeller>Matheson Gas Products Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00580740</dpd-id>
+      <started-marketing-on>1982-12-31</started-marketing-on>
+      <ended-marketing-on>1997-12-24</ended-marketing-on>
+      <dosage-form>Gas</dosage-form>
+      <strength/>
+      <route>Respiratory (inhalation)</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lung Diffusion Test Mixture</name>
+      <labeller>Matheson Gas Products Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00580759</dpd-id>
+      <started-marketing-on>1982-12-31</started-marketing-on>
+      <ended-marketing-on>1997-12-24</ended-marketing-on>
+      <dosage-form>Gas</dosage-form>
+      <strength/>
+      <route>Respiratory (inhalation)</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lung Diffusion Test Mixture Gas</name>
+      <labeller>Praxair, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00823066</dpd-id>
+      <started-marketing-on>1997-05-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Gas</dosage-form>
+      <strength/>
+      <route>Respiratory (inhalation)</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Carbon Monoxide, Compressed Air Medical G.M.</name>
+      <ingredients>Carbon monoxide + Medical air</ingredients>
+    </mixture>
+    <mixture>
+      <name>Carbon Monox, Helium, Oxygen, Nitrogen L.D.M.</name>
+      <ingredients>Carbon monoxide + Nitrogen + Oxygen + Helium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Co-NE-O2-N2 Mixture</name>
+      <ingredients>Carbon monoxide + Neon + Nitrogen + Oxygen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Co-HE-O2-N2 Mixture</name>
+      <ingredients>Carbon monoxide + Nitrogen + Oxygen + Helium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lung Diffusion Test Mixture Gas</name>
+      <ingredients>Carbon monoxide + Nitrogen + Oxygen + Helium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lung Diffusion Test Mix No Ne Co</name>
+      <ingredients>Carbon monoxide + Neon + Nitrogen + Oxygen</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lung Diffusion Test Mixture</name>
+      <ingredients>Carbon monoxide + Medical air</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lung Diffusion Test Mixture</name>
+      <ingredients>Carbon monoxide + Nitrogen + Oxygen + Helium</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lung Diffusion Test Mix Nohco</name>
+      <ingredients>Carbon monoxide + Nitrogen + Oxygen + Helium</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Anions</category>
+      <mesh-id>D000838</mesh-id>
+    </category>
+    <category>
+      <category>Antimetabolites</category>
+      <mesh-id>D000963</mesh-id>
+    </category>
+    <category>
+      <category>Carbon Compounds, Inorganic</category>
+      <mesh-id>D017554</mesh-id>
+    </category>
+    <category>
+      <category>Chemical Actions and Uses</category>
+      <mesh-id>D020164</mesh-id>
+    </category>
+    <category>
+      <category>Electrolytes</category>
+      <mesh-id>D004573</mesh-id>
+    </category>
+    <category>
+      <category>Gases</category>
+      <mesh-id>D005740</mesh-id>
+    </category>
+    <category>
+      <category>Gasotransmitters</category>
+      <mesh-id>D064426</mesh-id>
+    </category>
+    <category>
+      <category>Inorganic Chemicals</category>
+      <mesh-id>D007287</mesh-id>
+    </category>
+    <category>
+      <category>Ions</category>
+      <mesh-id>D007477</mesh-id>
+    </category>
+    <category>
+      <category>Molecular Mechanisms of Pharmacological Action</category>
+      <mesh-id>D045504</mesh-id>
+    </category>
+    <category>
+      <category>Neurotransmitter Agents</category>
+      <mesh-id>D018377</mesh-id>
+    </category>
+    <category>
+      <category>Noxae</category>
+      <mesh-id>D009676</mesh-id>
+    </category>
+    <category>
+      <category>Oxides</category>
+      <mesh-id>D010087</mesh-id>
+    </category>
+    <category>
+      <category>Oxygen Compounds</category>
+      <mesh-id>D017601</mesh-id>
+    </category>
+    <category>
+      <category>Pharmacologic Actions</category>
+      <mesh-id>D020228</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Effects of Drugs</category>
+      <mesh-id>D045505</mesh-id>
+    </category>
+    <category>
+      <category>Toxic Actions</category>
+      <mesh-id>D004786</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Gas</form>
+      <route>Respiratory (inhalation)</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>28.01</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>27.99491462</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>CO</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/CO/c1-2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>UGFAIRIUMAVXCW-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>26.23</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>1.94</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>1938</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>17245</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C00237</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D09706</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PDB</resource>
+      <identifier>CMO</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Carbon_monoxide</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

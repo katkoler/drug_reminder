@@ -1,0 +1,1449 @@
+<drug type="small molecule" created="2016-11-02" updated="2016-11-02">
+  <drugbank-id primary="true">DB13141</drugbank-id>
+  <name>Ambroxol acefyllinate</name>
+  <description/>
+  <cas-number>96989-76-3</cas-number>
+  <unii>0HM1E174TN</unii>
+  <average-mass>616.311</average-mass>
+  <monoisotopic-mass>614.048794</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>experimental</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+  </general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Acebrophylline</synonym>
+    <synonym language="" coder="">Ambromucil</synonym>
+    <synonym language="" coder="">Ambroxol theophyllinacetate</synonym>
+    <synonym language="" coder="">Broncomnes</synonym>
+    <synonym language="" coder="">Surfolase</synonym>
+  </synonyms>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Alkaloids</category>
+      <mesh-id>D000470</mesh-id>
+    </category>
+    <category>
+      <category>Amines</category>
+      <mesh-id>D000588</mesh-id>
+    </category>
+    <category>
+      <category>Aniline Compounds</category>
+      <mesh-id>D000814</mesh-id>
+    </category>
+    <category>
+      <category>Bromhexine</category>
+      <mesh-id>D001964</mesh-id>
+    </category>
+    <category>
+      <category>Cyclohexanes</category>
+      <mesh-id>D003510</mesh-id>
+    </category>
+    <category>
+      <category>Cyclohexylamines</category>
+      <mesh-id>D003514</mesh-id>
+    </category>
+    <category>
+      <category>Cycloparaffins</category>
+      <mesh-id>D003516</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds</category>
+      <mesh-id>D006571</mesh-id>
+    </category>
+    <category>
+      <category>Heterocyclic Compounds, 2-Ring</category>
+      <mesh-id>D006574</mesh-id>
+    </category>
+    <category>
+      <category>Hydrocarbons</category>
+      <mesh-id>D006838</mesh-id>
+    </category>
+    <category>
+      <category>Hydrocarbons, Alicyclic</category>
+      <mesh-id>D006840</mesh-id>
+    </category>
+    <category>
+      <category>Hydrocarbons, Cyclic</category>
+      <mesh-id>D006844</mesh-id>
+    </category>
+    <category>
+      <category>Macrocyclic Compounds</category>
+      <mesh-id>D047028</mesh-id>
+    </category>
+    <category>
+      <category>Organic Chemicals</category>
+      <mesh-id>D009930</mesh-id>
+    </category>
+    <category>
+      <category>Polycyclic Compounds</category>
+      <mesh-id>D011083</mesh-id>
+    </category>
+    <category>
+      <category>Purines</category>
+      <mesh-id>D011687</mesh-id>
+    </category>
+    <category>
+      <category>Purinones</category>
+      <mesh-id>D011688</mesh-id>
+    </category>
+    <category>
+      <category>Theophylline Derivatives</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Xanthines</category>
+      <mesh-id>D014970</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB02365</drugbank-id>
+      <name>1,10-Phenanthroline</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with 1,10-Phenanthroline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04459</drugbank-id>
+      <name>3,4-Dichloroisocoumarin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with 3,4-Dichloroisocoumarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07347</drugbank-id>
+      <name>4-(2-AMINOETHYL)BENZENESULFONYL FLUORIDE</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with 4-(2-AMINOETHYL)BENZENESULFONYL FLUORIDE.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01193</drugbank-id>
+      <name>Acebutolol</name>
+      <description>Acebutolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00051</drugbank-id>
+      <name>Adalimumab</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Adalimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00640</drugbank-id>
+      <name>Adenosine</name>
+      <description>The therapeutic efficacy of Adenosine can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05396</drugbank-id>
+      <name>Albumin-interferon alpha</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Albumin-interferon alpha.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00437</drugbank-id>
+      <name>Allopurinol</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Allopurinol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06203</drugbank-id>
+      <name>Alogliptin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Alogliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00058</drugbank-id>
+      <name>Alpha-1-proteinase inhibitor</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Alpha-1-proteinase inhibitor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00404</drugbank-id>
+      <name>Alprazolam</name>
+      <description>The therapeutic efficacy of Alprazolam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00866</drugbank-id>
+      <name>Alprenolol</name>
+      <description>Alprenolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01351</drugbank-id>
+      <name>Amobarbital</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Amobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00701</drugbank-id>
+      <name>Amprenavir</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Amprenavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11598</drugbank-id>
+      <name>Antithrombin III human</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06605</drugbank-id>
+      <name>Apixaban</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Apixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06692</drugbank-id>
+      <name>Aprotinin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Aprotinin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00278</drugbank-id>
+      <name>Argatroban</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Argatroban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11586</drugbank-id>
+      <name>Asunaprevir</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Asunaprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01072</drugbank-id>
+      <name>Atazanavir</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Atazanavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00335</drugbank-id>
+      <name>Atenolol</name>
+      <description>Atenolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09001</drugbank-id>
+      <name>Barbexaclone</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Barbexaclone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01483</drugbank-id>
+      <name>Barbital</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Barbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03880</drugbank-id>
+      <name>Batimastat</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Batimastat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06401</drugbank-id>
+      <name>Bazedoxifene</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Bazedoxifene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00542</drugbank-id>
+      <name>Benazepril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Benazepril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03127</drugbank-id>
+      <name>Benzamidine</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Benzamidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00195</drugbank-id>
+      <name>Betaxolol</name>
+      <description>Betaxolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11808</drugbank-id>
+      <name>Bi201335</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Bi201335.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00612</drugbank-id>
+      <name>Bisoprolol</name>
+      <description>Bisoprolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00006</drugbank-id>
+      <name>Bivalirudin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Bivalirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08873</drugbank-id>
+      <name>Boceprevir</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Boceprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08807</drugbank-id>
+      <name>Bopindolol</name>
+      <description>Bopindolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01558</drugbank-id>
+      <name>Bromazepam</name>
+      <description>The therapeutic efficacy of Bromazepam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08808</drugbank-id>
+      <name>Bupranolol</name>
+      <description>Bupranolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01489</drugbank-id>
+      <name>Camazepam</name>
+      <description>The therapeutic efficacy of Camazepam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00616</drugbank-id>
+      <name>Candoxatril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Candoxatril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11623</drugbank-id>
+      <name>Candoxatrilat</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Candoxatrilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01197</drugbank-id>
+      <name>Captopril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Captopril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Carbamazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00389</drugbank-id>
+      <name>Carbimazole</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Carbimazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11383</drugbank-id>
+      <name>Carbomycin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Carbomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00521</drugbank-id>
+      <name>Carteolol</name>
+      <description>Carteolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04846</drugbank-id>
+      <name>Celiprolol</name>
+      <description>Celiprolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00475</drugbank-id>
+      <name>Chlordiazepoxide</name>
+      <description>The therapeutic efficacy of Chlordiazepoxide can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00269</drugbank-id>
+      <name>Chlorotrianisene</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Chlorotrianisene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01683</drugbank-id>
+      <name>Chymostatin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Chymostatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01597</drugbank-id>
+      <name>Cilastatin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Cilastatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01340</drugbank-id>
+      <name>Cilazapril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Cilazapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00501</drugbank-id>
+      <name>Cimetidine</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Cimetidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00827</drugbank-id>
+      <name>Cinoxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Cinoxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00537</drugbank-id>
+      <name>Ciprofloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Ciprofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01211</drugbank-id>
+      <name>Clarithromycin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Clarithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01068</drugbank-id>
+      <name>Clonazepam</name>
+      <description>The therapeutic efficacy of Clonazepam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00628</drugbank-id>
+      <name>Clorazepate</name>
+      <description>The therapeutic efficacy of Clorazepate can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00286</drugbank-id>
+      <name>Conjugated Equine Estrogens</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Conjugated Equine Estrogens.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06695</drugbank-id>
+      <name>Dabigatran etexilate</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Dabigatran etexilate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01264</drugbank-id>
+      <name>Darunavir</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Darunavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01511</drugbank-id>
+      <name>Delorazepam</name>
+      <description>The therapeutic efficacy of Delorazepam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00829</drugbank-id>
+      <name>Diazepam</name>
+      <description>The therapeutic efficacy of Diazepam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00890</drugbank-id>
+      <name>Dienestrol</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Dienestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00255</drugbank-id>
+      <name>Diethylstilbestrol</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Diethylstilbestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00822</drugbank-id>
+      <name>Disulfiram</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Disulfiram.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09273</drugbank-id>
+      <name>Doxofylline</name>
+      <description>The risk or severity of adverse effects can be increased when Ambroxol acefyllinate is combined with Doxofylline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05265</drugbank-id>
+      <name>Ecabet</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Ecabet.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09075</drugbank-id>
+      <name>Edoxaban</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Edoxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05161</drugbank-id>
+      <name>Elafin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Elafin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00584</drugbank-id>
+      <name>Enalapril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Enalapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09477</drugbank-id>
+      <name>Enalaprilat</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Enalaprilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03395</drugbank-id>
+      <name>Enalkiren</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Enalkiren.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00467</drugbank-id>
+      <name>Enoxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Enoxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00199</drugbank-id>
+      <name>Erythromycin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Erythromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00187</drugbank-id>
+      <name>Esmolol</name>
+      <description>Esmolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01215</drugbank-id>
+      <name>Estazolam</name>
+      <description>The therapeutic efficacy of Estazolam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00783</drugbank-id>
+      <name>Estradiol</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Estradiol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04573</drugbank-id>
+      <name>Estriol</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Estriol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Estrone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00977</drugbank-id>
+      <name>Ethinyl Estradiol</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Ethinyl Estradiol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09166</drugbank-id>
+      <name>Etizolam</name>
+      <description>The therapeutic efficacy of Etizolam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04854</drugbank-id>
+      <name>Febuxostat</name>
+      <description>The serum concentration of the active metabolites of Ambroxol acefyllinate can be increased when Ambroxol acefyllinate is used in combination with Febuxostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04576</drugbank-id>
+      <name>Fleroxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Fleroxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01567</drugbank-id>
+      <name>Fludiazepam</name>
+      <description>The therapeutic efficacy of Fludiazepam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01205</drugbank-id>
+      <name>Flumazenil</name>
+      <description>The therapeutic efficacy of Flumazenil can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08972</drugbank-id>
+      <name>Flumequine</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Flumequine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01544</drugbank-id>
+      <name>Flunitrazepam</name>
+      <description>The therapeutic efficacy of Flunitrazepam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00690</drugbank-id>
+      <name>Flurazepam</name>
+      <description>The therapeutic efficacy of Flurazepam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00176</drugbank-id>
+      <name>Fluvoxamine</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Fluvoxamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00983</drugbank-id>
+      <name>Formoterol</name>
+      <description>The risk or severity of adverse effects can be increased when Ambroxol acefyllinate is combined with Formoterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00492</drugbank-id>
+      <name>Fosinopril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Fosinopril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01320</drugbank-id>
+      <name>Fosphenytoin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Fosphenytoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12831</drugbank-id>
+      <name>Gabexate</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Gabexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06160</drugbank-id>
+      <name>Garenoxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Garenoxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01044</drugbank-id>
+      <name>Gatifloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Gatifloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02424</drugbank-id>
+      <name>Geldanamycin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Geldanamycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01155</drugbank-id>
+      <name>Gemifloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Gemifloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01645</drugbank-id>
+      <name>Genistein</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Genistein.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02255</drugbank-id>
+      <name>GM6001</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with GM6001.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00365</drugbank-id>
+      <name>Grepafloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Grepafloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07931</drugbank-id>
+      <name>Hexestrol</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Hexestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01355</drugbank-id>
+      <name>Hexobarbital</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Hexobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06406</drugbank-id>
+      <name>idraparinux</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with idraparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06348</drugbank-id>
+      <name>IFNa</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with IFNa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11783</drugbank-id>
+      <name>Imidapril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Imidapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05039</drugbank-id>
+      <name>Indacaterol</name>
+      <description>The risk or severity of adverse effects can be increased when Ambroxol acefyllinate is combined with Indacaterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00224</drugbank-id>
+      <name>Indinavir</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Indinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00034</drugbank-id>
+      <name>Interferon Alfa-2a, Recombinant</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Interferon Alfa-2a, Recombinant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00105</drugbank-id>
+      <name>Interferon Alfa-2b, Recombinant</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Interferon Alfa-2b, Recombinant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00011</drugbank-id>
+      <name>Interferon alfa-n1</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Interferon alfa-n1.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00018</drugbank-id>
+      <name>Interferon alfa-n3</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Interferon alfa-n3.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00069</drugbank-id>
+      <name>Interferon alfacon-1</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Interferon alfacon-1.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00060</drugbank-id>
+      <name>Interferon beta-1a</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00068</drugbank-id>
+      <name>Interferon beta-1b</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Interferon beta-1b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00033</drugbank-id>
+      <name>Interferon gamma-1b</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Interferon gamma-1b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00677</drugbank-id>
+      <name>Isoflurophate</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Isoflurophate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00951</drugbank-id>
+      <name>Isoniazid</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Isoniazid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01064</drugbank-id>
+      <name>Isoprenaline</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Isoprenaline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09570</drugbank-id>
+      <name>Ixazomib</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Ixazomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01321</drugbank-id>
+      <name>Josamycin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Josamycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09309</drugbank-id>
+      <name>Kitasamycin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Kitasamycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00001</drugbank-id>
+      <name>Lepirudin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Lepirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01137</drugbank-id>
+      <name>Levofloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Levofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00451</drugbank-id>
+      <name>Levothyroxine</name>
+      <description>The metabolism of Ambroxol acefyllinate can be increased when combined with Levothyroxine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08882</drugbank-id>
+      <name>Linagliptin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Linagliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00279</drugbank-id>
+      <name>Liothyronine</name>
+      <description>The metabolism of Ambroxol acefyllinate can be increased when combined with Liothyronine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01583</drugbank-id>
+      <name>Liotrix</name>
+      <description>The metabolism of Ambroxol acefyllinate can be increased when combined with Liotrix.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00722</drugbank-id>
+      <name>Lisinopril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Lisinopril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01356</drugbank-id>
+      <name>Lithium</name>
+      <description>The serum concentration of Lithium can be decreased when it is combined with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00978</drugbank-id>
+      <name>Lomefloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Lomefloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01601</drugbank-id>
+      <name>Lopinavir</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Lopinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00186</drugbank-id>
+      <name>Lorazepam</name>
+      <description>The therapeutic efficacy of Lorazepam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01357</drugbank-id>
+      <name>Mestranol</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Mestranol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13143</drugbank-id>
+      <name>Methallenestril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00763</drugbank-id>
+      <name>Methimazole</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Methimazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00474</drugbank-id>
+      <name>Methohexital</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Methohexital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00563</drugbank-id>
+      <name>Methotrexate</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Methotrexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00849</drugbank-id>
+      <name>Methylphenobarbital</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Methylphenobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00264</drugbank-id>
+      <name>Metoprolol</name>
+      <description>Metoprolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00379</drugbank-id>
+      <name>Mexiletine</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Mexiletine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00683</drugbank-id>
+      <name>Midazolam</name>
+      <description>The therapeutic efficacy of Midazolam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00691</drugbank-id>
+      <name>Moexipril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Moexipril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00218</drugbank-id>
+      <name>Moxifloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Moxifloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02855</drugbank-id>
+      <name>N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01203</drugbank-id>
+      <name>Nadolol</name>
+      <description>Nadolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12598</drugbank-id>
+      <name>Nafamostat</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Nafamostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00779</drugbank-id>
+      <name>Nalidixic Acid</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Nalidixic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05258</drugbank-id>
+      <name>Natural alpha interferon</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Natural alpha interferon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05822</drugbank-id>
+      <name>NCX 4016</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with NCX 4016.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04861</drugbank-id>
+      <name>Nebivolol</name>
+      <description>Nebivolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00220</drugbank-id>
+      <name>Nelfinavir</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Nelfinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06600</drugbank-id>
+      <name>Nemonoxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Nemonoxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12355</drugbank-id>
+      <name>Netazepide</name>
+      <description>The therapeutic efficacy of Netazepide can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01595</drugbank-id>
+      <name>Nitrazepam</name>
+      <description>The therapeutic efficacy of Nitrazepam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12445</drugbank-id>
+      <name>Nitroaspirin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Nitroaspirin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01059</drugbank-id>
+      <name>Norfloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Norfloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01165</drugbank-id>
+      <name>Ofloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Ofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11442</drugbank-id>
+      <name>Oleandomycin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Oleandomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09080</drugbank-id>
+      <name>Olodaterol</name>
+      <description>The risk or severity of adverse effects can be increased when Ambroxol acefyllinate is combined with Olodaterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00886</drugbank-id>
+      <name>Omapatrilat</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Omapatrilat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06635</drugbank-id>
+      <name>Otamixaban</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Otamixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00842</drugbank-id>
+      <name>Oxazepam</name>
+      <description>The therapeutic efficacy of Oxazepam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01580</drugbank-id>
+      <name>Oxprenolol</name>
+      <description>Oxprenolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01337</drugbank-id>
+      <name>Pancuronium</name>
+      <description>The risk or severity of adverse effects can be increased when Ambroxol acefyllinate is combined with Pancuronium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11774</drugbank-id>
+      <name>Pazufloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Pazufloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00487</drugbank-id>
+      <name>Pefloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Pefloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00008</drugbank-id>
+      <name>Peginterferon alfa-2a</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Peginterferon alfa-2a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00022</drugbank-id>
+      <name>Peginterferon alfa-2b</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Peginterferon alfa-2b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09122</drugbank-id>
+      <name>Peginterferon beta-1a</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Peginterferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01359</drugbank-id>
+      <name>Penbutolol</name>
+      <description>Penbutolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00312</drugbank-id>
+      <name>Pentobarbital</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Pentobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00806</drugbank-id>
+      <name>Pentoxifylline</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Pentoxifylline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00790</drugbank-id>
+      <name>Perindopril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Perindopril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12611</drugbank-id>
+      <name>PF-00477736</name>
+      <description>The therapeutic efficacy of Pf 00477736 can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01174</drugbank-id>
+      <name>Phenobarbital</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Phenobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00252</drugbank-id>
+      <name>Phenytoin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Phenytoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02557</drugbank-id>
+      <name>Phosphoramidon</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Phosphoramidon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00960</drugbank-id>
+      <name>Pindolol</name>
+      <description>Pindolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00670</drugbank-id>
+      <name>Pirenzepine</name>
+      <description>The therapeutic efficacy of Pirenzepine can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09369</drugbank-id>
+      <name>Polyestradiol phosphate</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Polyestradiol phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01588</drugbank-id>
+      <name>Prazepam</name>
+      <description>The therapeutic efficacy of Prazepam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00794</drugbank-id>
+      <name>Primidone</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Primidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05100</drugbank-id>
+      <name>Prinomastat</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Prinomastat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01032</drugbank-id>
+      <name>Probenecid</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Probenecid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12487</drugbank-id>
+      <name>Promestriene</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Promestriene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01182</drugbank-id>
+      <name>Propafenone</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Propafenone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00571</drugbank-id>
+      <name>Propranolol</name>
+      <description>Propranolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00550</drugbank-id>
+      <name>Propylthiouracil</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Propylthiouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11892</drugbank-id>
+      <name>Prulifloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Prulifloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00881</drugbank-id>
+      <name>Quinapril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Quinapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04575</drugbank-id>
+      <name>Quinestrol</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Quinestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00468</drugbank-id>
+      <name>Quinine</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Quinine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11696</drugbank-id>
+      <name>Racecadotril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Racecadotril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00178</drugbank-id>
+      <name>Ramipril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Ramipril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00212</drugbank-id>
+      <name>Remikiren</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Remikiren.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08931</drugbank-id>
+      <name>Riociguat</name>
+      <description>Ambroxol acefyllinate may increase the hypotensive activities of Riociguat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00503</drugbank-id>
+      <name>Ritonavir</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Ritonavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06228</drugbank-id>
+      <name>Rivaroxaban</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Rivaroxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00817</drugbank-id>
+      <name>Rosoxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Rosoxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11674</drugbank-id>
+      <name>S Equol</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with S Equol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01232</drugbank-id>
+      <name>Saquinavir</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Saquinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06335</drugbank-id>
+      <name>Saxagliptin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Saxagliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00418</drugbank-id>
+      <name>Secobarbital</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Secobarbital.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12179</drugbank-id>
+      <name>Secoisolariciresinol</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Secoisolariciresinol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06290</drugbank-id>
+      <name>Simeprevir</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Simeprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01261</drugbank-id>
+      <name>Sitagliptin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Sitagliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09308</drugbank-id>
+      <name>Solithromycin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Solithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00489</drugbank-id>
+      <name>Sotalol</name>
+      <description>Sotalol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01208</drugbank-id>
+      <name>Sparfloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Sparfloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01348</drugbank-id>
+      <name>Spirapril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Spirapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09317</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, A</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Synthetic Conjugated Estrogens, A.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09318</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, B</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Synthetic Conjugated Estrogens, B.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05521</drugbank-id>
+      <name>Telaprevir</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Telaprevir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01405</drugbank-id>
+      <name>Temafloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Temafloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00231</drugbank-id>
+      <name>Temazepam</name>
+      <description>The therapeutic efficacy of Temazepam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08836</drugbank-id>
+      <name>Temocapril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Temocapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00730</drugbank-id>
+      <name>Thiabendazole</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Thiabendazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01154</drugbank-id>
+      <name>Thiamylal</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Thiamylal.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00599</drugbank-id>
+      <name>Thiopental</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Thiopental.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08626</drugbank-id>
+      <name>Thiorphan</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Thiorphan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09100</drugbank-id>
+      <name>Thyroid, porcine</name>
+      <description>The metabolism of Ambroxol acefyllinate can be increased when combined with Thyroid, porcine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09070</drugbank-id>
+      <name>Tibolone</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Tibolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00208</drugbank-id>
+      <name>Ticlopidine</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Ticlopidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00373</drugbank-id>
+      <name>Timolol</name>
+      <description>Timolol may decrease the bronchodilatory activities of Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00932</drugbank-id>
+      <name>Tipranavir</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Tipranavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00519</drugbank-id>
+      <name>Trandolapril</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Trandolapril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00897</drugbank-id>
+      <name>Triazolam</name>
+      <description>The therapeutic efficacy of Triazolam can be decreased when used in combination with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01361</drugbank-id>
+      <name>Troleandomycin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Troleandomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00685</drugbank-id>
+      <name>Trovafloxacin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Trovafloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11475</drugbank-id>
+      <name>Tylosin</name>
+      <description>The metabolism of Ambroxol acefyllinate can be decreased when combined with Tylosin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03424</drugbank-id>
+      <name>Ubenimex</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Ubenimex.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12038</drugbank-id>
+      <name>Ulinastatin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Ulinastatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04876</drugbank-id>
+      <name>Vildagliptin</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Vildagliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04898</drugbank-id>
+      <name>Ximelagatran</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Ximelagatran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12289</drugbank-id>
+      <name>YM150</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be decreased when it is combined with Ym150.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00549</drugbank-id>
+      <name>Zafirlukast</name>
+      <description>The serum concentration of Zafirlukast can be decreased when it is combined with Ambroxol acefyllinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11478</drugbank-id>
+      <name>Zeranol</name>
+      <description>The serum concentration of Ambroxol acefyllinate can be increased when it is combined with Zeranol.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-0.8</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-1.2</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.47e+01 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>2.65</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(1s,4s)-4-{[(2-amino-3,5-dibromophenyl)methyl]amino}cyclohexan-1-ol; 2-(1,3-dimethyl-2,6-dioxo-2,3,6,7-tetrahydro-1H-purin-7-yl)acetic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>(1s,4s)-4-{[(2-amino-3,5-dibromophenyl)methyl]amino}cyclohexan-1-ol; acefylline</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>616.311</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>614.048794</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CN1C2=C(N(CC(O)=O)C=N2)C(=O)N(C)C1=O.NC1=C(Br)C=C(Br)C=C1CN[C@@H]1CC[C@H](O)CC1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C22H28Br2N6O5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C13H18Br2N2O.C9H10N4O4/c14-9-5-8(13(16)12(15)6-9)7-17-10-1-3-11(18)4-2-10;1-11-7-6(8(16)12(2)9(11)17)13(4-10-7)3-5(14)15/h5-6,10-11,17-18H,1-4,7,16H2;4H,3H2,1-2H3,(H,14,15)/t10-,11+;</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>IPUHJDQWESJTGD-NJJJQDLFSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>58.28</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>81.94</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>32.18</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>15.26</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>9.01</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>
