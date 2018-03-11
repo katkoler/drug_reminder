@@ -1,34 +1,8 @@
-# Drug:
-#   id
-#   Name
-#   ExternalIdentifiers
-#   food interactions
-#   drug interactions
-#   toxicity
-
-# ExternalIdentifier
-#   id
-#   drug-id
-#   name
-#   resource
-
-# Food Interactions
-#   id
-#   drug-id
-#   description
-#
-
-# Drug interactions (drug interaction partners)
-#  id
-#  drug-target-id
-#  drug-partner-id
-#  description
-
-from flask import Flask
+from flask import Flask, jsonify
 from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///C:\\Users\\me1kv\\Desktop\\drug_reminder\\drugbank\\drugs.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///C:\\Users\\me1kv\\Desktop\\drug_reminder\\drugs.db'
 db = SQLAlchemy(app)
 
 class Drug(db.Model):
@@ -56,9 +30,10 @@ drug_interaction = db.Table("drug_interaction",
     db.Column("description", db.Text)
 )
 
+@app.route("/api/drugs")
 def get_all_drugs():
     drugs = Drug.query.all()
-    return [drug.name for drug in drugs]
+    return jsonify({"drugs": [drug.name for drug in drugs]})
 
 
 if __name__ == '__main__':
