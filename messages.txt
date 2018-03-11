@@ -1,0 +1,14 @@
+first_message = """
+    Hi {name}, we will reminding you to take {drug_name}. Here's what you should be careful with:
+      drug interactions: {drug_interactions}
+      food interactions: {food_interactions}
+      toxicity: {toxicity}
+
+    We are aware this is very technical. If you have any questions, please consult your doctor.
+    """
+
+    general_message = "Hi {name}, don't forget to take {drug_name}"
+
+    last_message = """
+    Hi {name}, don't forget to take the last {drug_name}. If you want to use this service again, visit {link}.
+    """
