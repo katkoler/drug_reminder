@@ -1,12 +1,13 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Flask Intro - login page</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="static/bootstrap.min.css" rel="stylesheet" media="screen">
-  </head>
-  <body>
-    <div class="container">
+{% include "header.html" %}
+
+<!--header-->
+  <!--header image-->
+<div class="header">
+  <h1 class="text-center"><strong>Login page</strong>
+  </h1>
+</div>
+</div>
+    <div class="container" style="text-align:center;">
       <h1>Please login</h1>
       <br>
       <form action="" method="post">
@@ -14,7 +15,9 @@
           request.form.username }}">
          <input type="password" placeholder="Password" name="password" value="{{
           request.form.password }}">
-        <input class="btn btn-default" type="submit" value="Login">
+        <div class="form-group" style="text-align:center;">
+            <input class="btn btn-default" type="submit" value="Login">
+        </div>
       </form>
       {% if error %}
         <p class="error"><strong>Error:</strong> {{ error }}
