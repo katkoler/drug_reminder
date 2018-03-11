@@ -37,6 +37,7 @@ class Drug(db.Model):
     toxicity = db.Column(db.Text)
     group = db.Column(db.String(100))
     food_interactions = db.relationship("FoodInteraction", backref="drug")
+    external_identifiers = db.relationship("ExternalIdentifier", backref="drug")
 
 class FoodInteraction(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -55,6 +56,14 @@ drug_interaction = db.Table("drug_interaction",
     db.Column("description", db.Text)
 )
 
+def get_all_drugs():
+    drugs = Drug.query.all()
+    return [drug.name for drug in drugs]
+
 
 if __name__ == '__main__':
-    db.create_all()
+    # db.create_all()
+    di = drug_interaction.select(whereclause="drug_target_id='DB00063'")
+    result = db.session.execute(di)
+    for row in result:
+        print(row)
