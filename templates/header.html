@@ -2,14 +2,23 @@
 <html lang="en">
 
 <head>
-	<meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="25 Days of GIPHY" />
-  <meta name="twitter:description" content="Join in the Christmas countdown with GIPHY! #GIPVEGOODNESS #SHEFCODEFIRST" />
-  <meta name="twitter:image" content="https://image.ibb.co/gMR7QG/Screen_Shot_2017_12_02_at_18_26_09.png" />
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>25 Days of Giphiness</title>
-  <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
-  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-
+	<!--link to bootstrap-->
+		<!-- '../'' is to direct it to look back to main-->
+		<link href="{{ url_for('static', filename='css/bootstrap.css') }}" rel='stylesheet'>
+	<!--link to stylesheet-->
+		<link rel='stylesheet' type='text/css' href="{{ url_for('static', filename='css/stylesheet.css') }}">
+	<!--link to jquery-->
+    	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    	<script src="static/js/bootstrap.min.js"></script>  
+    <!--Title on tab bar-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- JS autocomplete file -->
+		<script src="../static/EasyAutocomplete-1.3.5/jquery.easy-autocomplete.min.js"></script> 
+    <!-- CSS autocomplete file -->
+		<link rel="stylesheet" href="../static/EasyAutocomplete-1.3.5/easy-autocomplete.min.css"> 
+	<!--Glyphicon-->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+   	 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	
 </head>
