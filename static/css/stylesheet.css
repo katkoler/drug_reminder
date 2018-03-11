@@ -59,7 +59,7 @@ input[type=submit]:hover {
     padding: 20px;
 }
 
-
+/*About*/
 .about-container {
     display: grid;
     grid-template-rows: 2fr 2fr;
@@ -95,11 +95,19 @@ input[type=submit]:hover {
   }
 }
 
-
 @supports not (display: grid) {
   .about-container {
     margin-bottom: 25px;
   }
 }
 
+@media screen and (max-width: 500px) {
+  .blocks {
+    flex: 1 1 100%;
+  }
+}
+
+.block {
+  text-align: center;
+}
 
