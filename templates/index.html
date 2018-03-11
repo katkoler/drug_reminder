@@ -17,14 +17,20 @@
       <center>
  <!--Autocomplete form for drugs-->
         <h4>Drug type</h4>
-        <input id="basics"/>
+        <input id="maxsize"/>
         <script type="text/javascript">
           $.get("/api/drugs").done((data) => {
             console.log(data);
             var options = {
-                data: data.drugs
+                data: data.drugs,
+                list: {
+                        maxNumberOfElements: 10,
+                        match: {
+                          enabled: true
+                        }
+                      }
             };
-            $("#basics").easyAutocomplete(options);
+            $("#maxsize").easyAutocomplete(options);
           });
         </script>
         <br> <br>
