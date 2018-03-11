@@ -16,6 +16,22 @@
   background-color: rgba(0,0,0, .5);
 }
 
+/*Header image*/
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.header-image {
+  background-image: url("pills.jpg");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
 
 /*Content*/
 body {font-family: Arial, Helvetica, sans-serif;}
