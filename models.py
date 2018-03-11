@@ -1,8 +1,12 @@
+import os
+
 from flask import Flask, jsonify
 from flask_sqlalchemy import SQLAlchemy
+from dotenv import load_dotenv
 
+load_dotenv()
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///C:\\Users\\me1kv\\Desktop\\drug_reminder\\drugs.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv("DB_PATH")
 db = SQLAlchemy(app)
 
 class Drug(db.Model):

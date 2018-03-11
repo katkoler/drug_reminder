@@ -17,6 +17,10 @@ def about():
     profiles = get_profiles()
     return render_template("about.html", members=profiles, enumerate=enumerate)
 
+@app.route("/sign-up")
+def sign_up():
+    return render_template("signupform.html")
+
 # Route for handling the login page logic
 @app.route('/login', methods=['GET', 'POST'])
 def login():
