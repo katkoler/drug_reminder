@@ -1,13 +1,14 @@
 from flask import Flask, render_template, redirect, url_for, request
 from graphiql_request import get_profiles
 
-# create the application object
-app = Flask(__name__)
+# importing the already made the application object
+from models import app, get_all_drugs
 
 # use decorators to link the function to a url
 @app.route('/')
 def home():
-    return render_template('index.html')  # return a string
+    drugs = get_all_drugs()
+    return render_template('index.html', drugs=drugs)  # return a string
 
 # start the server with the 'run()' method
 

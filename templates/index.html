@@ -1,50 +1,4 @@
-<!DOCTYPE html>
-
-<html>
-<head>
-	<!--link to bootstrap-->
-		<!-- '../'' is to direct it to look back to main-->
-		<link href="../static/css/bootstrap.css" rel='stylesheet'>
-	<!--link to stylesheet-->
-		<link rel='stylesheet' type='text/css' href="../static/css/stylesheet.css">
-	<!--link to jquery-->
-    	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-   		<script src"ourscript.js"></script>
-    	<script src="static/js/bootstrap.min.js"></script>  
-    <!--Title on tab bar-->
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- JS autocomplete file -->
-		<script src="../static/EasyAutocomplete-1.3.5/jquery.easy-autocomplete.min.js"></script> 
-    <!-- CSS autocomplete file -->
-		<link rel="stylesheet" href="../static/EasyAutocomplete-1.3.5/easy-autocomplete.min.css"> 
-	<!--Glyphicon-->
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-    	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-   	 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	
-</head>
-
-<body>
-	
-<!--Navbar-->
-	<!--# put in place of pages not set up-->
-<nav class="navbar navbar-inverse">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="#">DRS</a>
-    </div>
-    <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
-      <li><a href="about.html">About Us</a></li>
-      <li><a href="#">Page 1</a>
-      </li>
-    </ul>
-    <ul class="nav navbar-nav navbar-right">
-      <li><a href="signupform.html"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-      <li><a href="login.html"><span class="glyphicon glyphicon-log-in"></span> User Login</a></li>
-    </ul>
-  </div>
-</nav>
+{% include "header.html" %}
 
 
 <!--header-->
@@ -65,11 +19,13 @@
         <h4>Drug type</h4>
         <input id="basics"/>
         <script type="text/javascript">
-          var options = {
-              data: ["blue", "green", "pink", "red", "yellow"]
-          };
-
-          $("#basics").easyAutocomplete(options);
+          $.get("/api/drugs").done((data) => {
+            console.log(data);
+            var options = {
+                data: data.drugs
+            };
+            $("#basics").easyAutocomplete(options);
+          });
         </script>
         <br> <br>
 
@@ -128,13 +84,6 @@
                 </div>
             </div>
           </section>
-
-           
-
-
-
-           
-
 
 </body>
 </html>
