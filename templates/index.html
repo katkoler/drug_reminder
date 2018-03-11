@@ -3,7 +3,7 @@
 
 <!--header-->
 	<!--header image-->
-<div class="header">
+<div class="header" style="padding: 150px;">
   <h1 class="text-center"><strong>Drug Reminder Service</strong>
   </h1>
 </div>
@@ -11,17 +11,29 @@
 
 
 <!--Content-->
-  
-    <h2 class="text-center"> Details </h2>
-    	<br>
+      <div class="container" style="background-color: #fcd89db0;">
+            <div class="inner">
+              <!-- 2 Columns -->
+                  <div class="col col2">
+                    <!-- <h3 class="text-center"> About the site </h3>  -->
+                    <div class=container4 style="text-align:center;">
+                    <h4> The Drug Reminder Service (DRS) provides support to those who need to take medications by providing recurring reminders via text. Users are also able to manage the medication of family members, and will also have the option of setting refill reminders to restock their medication.
+                    </h4>
+                    <br>
+                  </div>
+                </div>
+            </div>
+        </div>
+<br/>
+<div class="container" style="background-color: #fcd89db0;">
+    <h2 class="text-center">Treatment information</h2>
       <center>
  <!--Autocomplete form for drugs-->
- <br> <br>
- 
- <div class="container">
+ <br>
+  
    <form action="/subscribe" method="post">
     <label for="drug-name">Drug type</label>
-    <input id="drug-name" type="text" name="drug-name" />
+    <input id="maxsize" type="text" name="drug-name" />
     <script type="text/javascript">
       var options = {
           data: drugs,
@@ -32,24 +44,24 @@
                   }
                 }
       };
-      $("#drug-name").easyAutocomplete(options);
+      $("#maxsize").easyAutocomplete(options);
     </script>
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Name..">
+    <label for="fname">First Name</label><br/>
+    <input type="text" id="fname" name="firstname" placeholder="Name.."><br/>
 
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Last name..">
+    <label for="lname">Last Name</label><br/>
+    <input type="text" id="lname" name="lastname" placeholder="Last name.."><br/>
 
-    <label for="phone">Contact Number</label>
-    <input type="text" id="phone" name="phone" placeholder="Contact number...">
+    <label for="phone">Contact Number</label><br/>
+    <input type="text" id="phone" name="phone" placeholder="Contact number..."><br/>
 
-    <label for="dosage">Dosage</label>
-    <input type="text" id="dosage" name="dosage" placeholder="Number of tablets taken at one time...">
+    <label for="dosage">Dosage</label><br/>
+    <input type="text" id="dosage" name="dosage" placeholder="Number of tablets taken at one time..."><br/>
 
-    <label for="ration">Total number of tablets</label>
-    <input type="text" id="tablets" name="tablets" placeholder="Number of tablets...">
+    <label for="ration">Total number of tablets</label><br/>
+    <input type="text" id="tablets" name="tablets" placeholder="Number of tablets..."><br/>
 
-    <label for="hour">Hours</label>
+    <label for="hour">Hours</label><br/>
     <select id="hour" name="hour" placeholder="Every ... hours">
       <option value="one">1</option>
       <option value="two">2</option>
@@ -78,7 +90,7 @@
     </select>
 
     <br><br>
-    <input type="submit" value="Submit">
+    <input type="submit" value="Submit" style="background-color: #1c5045;">
   </form>
   </div>
    
@@ -89,13 +101,13 @@
 
 
   <!-- Lower Section -->
-          <section class="container">
+          <section class="container" style="background-color: #fcd89db0; text-align:center;">
             <div class="inner">
               <!-- 2 Columns -->
                   <div class="col col2">
-                    <h3 class="text-center"> About the site </h3> 
+                    <h3 class="text-center">Disclamer</h3> 
                    	<div class=container4>
-                   	<p> The Drug Reminder Service (DRS) provides support to those who need to take medications by providing recurring reminders via text. Users are also able to manage the medication of family members, and will also have the option of setting refill reminders to restock their medication.
+                   	<p> Please call 911 in case of any severe complications with your treatment or contact your physician, if you are experiencing any side effects.
                    	</p>
                     <br>
                   </div>
