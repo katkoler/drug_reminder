@@ -34,6 +34,15 @@ drug_interaction = db.Table("drug_interaction",
     db.Column("description", db.Text)
 )
 
+class TextMessage(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    date = db.Column(db.DateTime)
+    first_name = db.Column(db.String(100), nullable=False)
+    last_name = db.Column(db.String(100), nullable=False)
+    phone_number = db.Column(db.String(15))
+    drug_name = db.Column(db.String(150))
+    message = db.Column(db.Text)
+
 @app.route("/api/drugs")
 def get_all_drugs():
     drugs = Drug.query.all()
@@ -41,8 +50,8 @@ def get_all_drugs():
 
 
 if __name__ == '__main__':
-    # db.create_all()
-    di = drug_interaction.select(whereclause="drug_target_id='DB00063'")
-    result = db.session.execute(di)
-    for row in result:
-        print(row)
+    db.create_all()
+    # di = drug_interaction.select(whereclause="drug_target_id='DB00063'")
+    # result = db.session.execute(di)
+    # for row in result:
+    #     print(row)
