@@ -56,6 +56,10 @@ drug_interaction = db.Table("drug_interaction",
     db.Column("description", db.Text)
 )
 
+def get_all_drugs():
+    drugs = Drug.query.all()
+    return [drug.name for drug in drugs]
+
 
 if __name__ == '__main__':
     # db.create_all()
