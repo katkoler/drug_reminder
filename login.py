@@ -2,7 +2,7 @@ from flask import Flask, render_template, redirect, url_for, request
 from graphiql_request import get_profiles
 
 # importing the already made the application object
-from models import app, get_all_drugs
+from models import app, get_all_drugs, add_text_message
 
 # use decorators to link the function to a url
 @app.route('/')
@@ -31,6 +31,12 @@ def login():
         else:
             return redirect(url_for('home'))
     return render_template('login.html', error=error)
+
+@app.route("/subscribe", methods=["POST"])
+def subscribe():
+    add_text_message(request.values)
+    print("OK!!!")
+    return redirect(url_for("home"))
 
 if __name__ == '__main__':
     app.run(debug=True)
