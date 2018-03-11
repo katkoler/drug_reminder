@@ -1,7 +1,7 @@
 /*Heading style*/
 .h1 {
   color: white;
-  padding: 60px;
+  padding: 150px;
 }
 .header .text-center{
   padding-top: 60px;
@@ -24,16 +24,18 @@
   background-attachment: fixed;
 }
 
-
+.container {
+  background-color: #fcd89db0
+}
 
 /*Content*/
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #fcd89d;
+  background-color: #fcd89d8a;
 }
 
 input[type=text], select, textarea {
-    width: 60%;
+    width: 40%;
     padding: 12px;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -44,7 +46,7 @@ input[type=text], select, textarea {
 }
 
 input[type=password], select, textarea {
-    width: 60%;
+    width: 40%;
     padding: 12px;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -72,7 +74,7 @@ input[type=submit]:hover {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
-    margin: 0px, 0px 0px 0px;
+    margin: 0 0 0 0;
 }
 
 /*About*/
