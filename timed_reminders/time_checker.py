@@ -11,3 +11,8 @@ time2 = datetime.datetime.now()
 print(time2)
 
 print(time1>time2)
+
+date = datetime.datetime(2018, 3, 11, 12, 30, 50)
+print(date)
+
+print(time1>date)

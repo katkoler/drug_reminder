@@ -9,8 +9,7 @@ def home():
     return "Hello, World!"  # return a string
 
 # start the server with the 'run()' method
-if __name__ == '__main__':
-    app.run(debug=True)
+
 
 # Route for handling the login page logic
 @app.route('/login', methods=['GET', 'POST'])
@@ -22,3 +21,6 @@ def login():
         else:
             return redirect(url_for('home'))
     return render_template('login.html', error=error)
+
+if __name__ == '__main__':
+    app.run(debug=True)

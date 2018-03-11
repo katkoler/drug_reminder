@@ -37,6 +37,20 @@ def handler(foo):
 	print(resp)
 	return 'ok'
 
+# @app.schedule(Rate(1, unit=Rate.MINUTES))
+# @app.route('/send')
+# def handler(foo):
+# 	#look through the file, line by line - extract the fields  and prep them for the message
+# 	if datetime.datetime.now() > scheduled_time:
+# 		resp = client.send_message({
+# 		    'from': 'Drug remndr',
+# 		    'to': TO_NUMBER,
+# 		    # 'to': "447805946442",
+# 		    'text': text_content,
+# 		})
+# 		print(resp)
+# 	return 'ok'
+
 
 
 # Cron(minutes, hours, day_of_month, month, day_of_week, year)
