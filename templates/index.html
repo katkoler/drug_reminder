@@ -16,27 +16,24 @@
     	<br>
       <center>
  <!--Autocomplete form for drugs-->
-        <h4>Drug type</h4>
-        <input id="maxsize"/>
-        <script type="text/javascript">
-          $.get("/api/drugs").done((data) => {
-            console.log(data);
-            var options = {
-                data: data.drugs,
-                list: {
-                        maxNumberOfElements: 10,
-                        match: {
-                          enabled: true
-                        }
-                      }
-            };
-            $("#maxsize").easyAutocomplete(options);
-          });
-        </script>
-        <br> <br>
-
-<div class="container">
-  <form action="/action_page.php">
+ <br> <br>
+ 
+ <div class="container">
+   <form action="/subscribe" method="post">
+    <label for="drug-name">Drug type</label>
+    <input id="drug-name" type="text" name="drug-name" />
+    <script type="text/javascript">
+      var options = {
+          data: drugs,
+          list: {
+                  maxNumberOfElements: 10,
+                  match: {
+                    enabled: true
+                  }
+                }
+      };
+      $("#drug-name").easyAutocomplete(options);
+    </script>
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Name..">
 
