@@ -1,11 +1,13 @@
 import json
 import requests
-from dotenv import load_dotenv
 import os
-
 from helpers import fallback_to_file
+from dotenv import load_dotenv
+from pathlib import Path  # python3 only
 
-load_dotenv()
+env_path = Path('.') / '.env'
+load_dotenv(dotenv_path=env_path)
+
 token = os.getenv("github_api_key")
 
 def get_profiles():
