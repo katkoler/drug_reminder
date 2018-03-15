@@ -63,30 +63,9 @@
 
     <label for="hour">Hours</label><br/>
     <select id="hour" name="hour" placeholder="Every ... hours">
-      <option value="one">1</option>
-      <option value="two">2</option>
-      <option value="three">3</option>
-      <option value="four">4</option>
-      <option value="five">5</option>
-      <option value="six">6</option>
-      <option value="seven">7</option>
-      <option value="eight">8</option>
-      <option value="nine">9</option>
-      <option value="ten">10</option>
-      <option value="eleven">11</option>
-      <option value="twelve">12</option>
-      <option value="thirteen">13</option>
-      <option value="fourteen">14</option>
-      <option value="fifteen">15</option>
-      <option value="sixteen">16</option>
-      <option value="seventeen">17</option>
-      <option value="eightteen">18</option>
-      <option value="nineteen">19</option>
-      <option value="twenty">20</option>
-      <option value="twentyone">21</option>
-      <option value="twentytwo">22</option>
-      <option value="twentyone">23</option>
-      <option value="twentytwo">24</option>
+      {% for i in range(1, 25) %}
+        <option value="{{ i }}">{{ i }}</option>
+      {% endfor %}
     </select>
 
     <br><br>
